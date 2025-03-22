@@ -26,16 +26,20 @@ logging_steps: 5
 logging_strategy: steps
 lr_scheduler_type: cosine
 packing: false
-max_seq_length: 32768
+max_seq_length: 8192
 max_steps: -1
 num_train_epochs: 1
-output_dir: data/Qwen2.5-1.5B-Open-R1-Distill-32768length
+output_dir: data/Qwen1.5B-R1-Distill-8192
 overwrite_output_dir: true
 per_device_eval_batch_size: 4
 per_device_train_batch_size: 2
 push_to_hub: false
 report_to:
 - wandb
-save_strategy: "no"
+
+save_strategy: "steps"
+save_steps: 0.25
+save_total_limit: 2
+
 seed: 42
 warmup_ratio: 0.1

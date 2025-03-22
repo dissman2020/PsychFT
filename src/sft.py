@@ -21,6 +21,9 @@ from trl import (
     DataCollatorForCompletionOnlyLM,
 )
 
+from utils.file_ops import get_model_name
+from utils.logs import init_wandb
+
 logger = logging.getLogger(__name__)
 
 def main(script_args, training_args, model_args):
@@ -30,6 +33,8 @@ def main(script_args, training_args, model_args):
     ###############
     # Setup logging
     ###############
+    init_wandb(get_model_name(model_args.model_name_or_path), "SFT")
+
     logging.basicConfig(
         format="%(asctime)s - %(levelname)s - %(name)s - %(message)s",
         datefmt="%Y-%m-%d %H:%M:%S",
