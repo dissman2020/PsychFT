@@ -77,10 +77,11 @@ def main(script_args, training_args, model_args):
         model_args.model_name_or_path, trust_remote_code=model_args.trust_remote_code, use_fast=True
     )
     tokenizer.pad_token_id = 0
-    tokenizer.padding_side = "right"
-    l_id = tokenizer(" <<").input_ids[1:]
-    r_id = tokenizer(">>").input_ids[1:]
-    collator = DataCollatorForCompletionOnlyLM(response_template=l_id, instruction_template=r_id, tokenizer=tokenizer)
+    tokenizer.padding_side = "left"
+    # l_id = tokenizer(" <<").input_ids[1:]
+    # r_id = tokenizer(">>").input_ids[1:]
+    # collator = DataCollatorForCompletionOnlyLM(response_template=l_id, instruction_template=r_id, tokenizer=tokenizer)
+    collator = DataCollatorForCompletionOnlyLM(response_template=" <<", instruction_template=">>", tokenizer=tokenizer)
 
     ###################
     # Model init kwargs
