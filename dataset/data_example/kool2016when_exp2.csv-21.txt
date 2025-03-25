@@ -1,0 +1,135 @@
+You will be taking one of the spaceships B or L to one of the planets S or V.
+The spaceships can fly to either planet, but one will mostly fly to planet S, and the other will mostly fly to planet V.
+The planet a spaceship goes to most won't change during the game.
+Planet S has aliens M and N, and planet V has aliens J and A on it.
+Each alien has its own space treasure mine.
+When you arrive at each planet, you will ask one of the aliens for space treasure from their mines.
+The treasure an alien can give will change slowly during the game.
+You can take a spaceship or ask an alien for space treasure by pressing the corresponding key.
+Your goal is to get as much treasure as possible over the next 125 days.
+
+You are presented with spaceships B and L. You press <<B>>. You end up on planet S. You see alien M and alien N. You press <<M>>. You find 0 pieces of space treasure.
+You are presented with spaceships B and L. You press <<B>>. You end up on planet S. You see alien M and alien N. You press <<N>>. You find 1 pieces of space treasure.
+You are presented with spaceships B and L. You press <<L>>. You end up on planet V. You see alien J and alien A. You press <<J>>. You find 1 pieces of space treasure.
+You are presented with spaceships L and B. You press <<B>>. You end up on planet S. You see alien M and alien N. You press <<N>>. You find 0 pieces of space treasure.
+You are presented with spaceships B and L. You press <<L>>. You end up on planet S. You see alien M and alien N. You press <<M>>. You find 0 pieces of space treasure.
+You are presented with spaceships L and B. You press <<B>>. You end up on planet S. You see alien M and alien N. You press <<M>>. You find 1 pieces of space treasure.
+You are presented with spaceships L and B. You press <<L>>. You end up on planet S. You see alien M and alien N. You press <<M>>. You find 0 pieces of space treasure.
+You are presented with spaceships B and L. You press <<B>>. You end up on planet V. You see alien J and alien A. You press <<A>>. You find 1 pieces of space treasure.
+You are presented with spaceships L and B. You press <<B>>. You end up on planet S. You see alien M and alien N. You press <<N>>. You find 1 pieces of space treasure.
+You are presented with spaceships L and B. You press <<B>>. You end up on planet V. You see alien J and alien A. You press <<J>>. You find 1 pieces of space treasure.
+You are presented with spaceships L and B. You press <<B>>. You end up on planet S. You see alien M and alien N. You press <<N>>. You find 1 pieces of space treasure.
+You are presented with spaceships L and B. You press <<B>>. You end up on planet S. You see alien M and alien N. You press <<M>>. You find 0 pieces of space treasure.
+You are presented with spaceships B and L. You press <<B>>. You end up on planet S. You see alien M and alien N. You press <<N>>. You find 1 pieces of space treasure.
+You are presented with spaceships L and B. You press <<B>>. You end up on planet S. You see alien M and alien N. You press <<M>>. You find 1 pieces of space treasure.
+You are presented with spaceships L and B. You press <<L>>. You end up on planet V. You see alien J and alien A. You press <<A>>. You find 1 pieces of space treasure.
+You are presented with spaceships B and L. You press <<L>>. You end up on planet V. You see alien J and alien A. You press <<J>>. You find 0 pieces of space treasure.
+You are presented with spaceships L and B. You press <<B>>. You end up on planet S. You see alien M and alien N. You press <<N>>. You find 1 pieces of space treasure.
+You are presented with spaceships B and L. You press <<B>>. You end up on planet S. You see alien M and alien N. You press <<N>>. You find 0 pieces of space treasure.
+You are presented with spaceships L and B. You press <<B>>. You end up on planet S. You see alien M and alien N. You press <<N>>. You find 1 pieces of space treasure.
+You are presented with spaceships L and B. You press <<L>>. You end up on planet V. You see alien J and alien A. You press <<A>>. You find 1 pieces of space treasure.
+You are presented with spaceships L and B. You press <<B>>. You end up on planet S. You see alien M and alien N. You press <<N>>. You find 1 pieces of space treasure.
+You are presented with spaceships L and B. You press <<L>>. You end up on planet V. You see alien J and alien A. You press <<A>>. You find 1 pieces of space treasure.
+You are presented with spaceships B and L. You press <<L>>. You end up on planet S. You see alien M and alien N. You press <<N>>. You find 1 pieces of space treasure.
+You are presented with spaceships B and L. You press <<B>>. You end up on planet V. You see alien J and alien A. You press <<A>>. You find 1 pieces of space treasure.
+You are presented with spaceships B and L. You press <<L>>. You end up on planet V. You see alien J and alien A. You press <<A>>. You find 0 pieces of space treasure.
+You are presented with spaceships B and L. You press <<B>>. You end up on planet S. You see alien M and alien N. You press <<N>>. You find 1 pieces of space treasure.
+You are presented with spaceships L and B. You press <<L>>. You end up on planet S. You see alien M and alien N. You press <<N>>. You find 1 pieces of space treasure.
+You are presented with spaceships B and L. You press <<B>>. You end up on planet V. You see alien J and alien A. You press <<A>>. You find 1 pieces of space treasure.
+You are presented with spaceships B and L. You press <<L>>. You end up on planet V. You see alien J and alien A. You press <<A>>. You find 1 pieces of space treasure.
+You are presented with spaceships B and L. You press <<B>>. You end up on planet V. You see alien J and alien A. You press <<A>>. You find 1 pieces of space treasure.
+You are presented with spaceships L and B. You press <<B>>. You end up on planet S. You see alien M and alien N. You press <<N>>. You find 1 pieces of space treasure.
+You are presented with spaceships L and B. You press <<L>>. You end up on planet V. You see alien J and alien A. You press <<A>>. You find 1 pieces of space treasure.
+You are presented with spaceships B and L. You press <<L>>. You end up on planet V. You see alien J and alien A. You press <<A>>. You find 1 pieces of space treasure.
+You are presented with spaceships L and B. You press <<L>>. You end up on planet S. You see alien M and alien N. You press <<N>>. You find 1 pieces of space treasure.
+You are presented with spaceships B and L. You press <<L>>. You end up on planet V. You see alien J and alien A. You press <<A>>. You find 1 pieces of space treasure.
+You are presented with spaceships B and L. You press <<B>>. You end up on planet V. You see alien J and alien A. You press <<A>>. You find 0 pieces of space treasure.
+You are presented with spaceships B and L. You press <<B>>. You end up on planet V. You see alien J and alien A. You press <<A>>. You find 0 pieces of space treasure.
+You are presented with spaceships B and L. You press <<B>>. You end up on planet S. You see alien M and alien N. You press <<N>>. You find 1 pieces of space treasure.
+You are presented with spaceships L and B. You press <<B>>. You end up on planet S. You see alien M and alien N. You press <<N>>. You find 1 pieces of space treasure.
+You are presented with spaceships L and B. You press <<L>>. You end up on planet S. You see alien M and alien N. You press <<N>>. You find 1 pieces of space treasure.
+You are presented with spaceships B and L. You press <<L>>. You end up on planet V. You see alien J and alien A. You press <<A>>. You find 0 pieces of space treasure.
+You are presented with spaceships L and B. You press <<L>>. You end up on planet V. You see alien J and alien A. You press <<A>>. You find 0 pieces of space treasure.
+You are presented with spaceships B and L. You press <<L>>. You end up on planet V. You see alien J and alien A. You press <<J>>. You find 1 pieces of space treasure.
+You are presented with spaceships L and B. You press <<L>>. You end up on planet V. You see alien J and alien A. You press <<A>>. You find 1 pieces of space treasure.
+You are presented with spaceships L and B. You press <<L>>. You end up on planet V. You see alien J and alien A. You press <<J>>. You find 1 pieces of space treasure.
+You are presented with spaceships L and B. You press <<B>>. You end up on planet V. You see alien J and alien A. You press <<J>>. You find 1 pieces of space treasure.
+You are presented with spaceships L and B. You press <<L>>. You end up on planet S. You see alien M and alien N. You press <<M>>. You find 0 pieces of space treasure.
+You are presented with spaceships B and L. You press <<B>>. You end up on planet S. You see alien M and alien N. You press <<M>>. You find 1 pieces of space treasure.
+You are presented with spaceships B and L. You press <<B>>. You end up on planet S. You see alien M and alien N. You press <<M>>. You find 0 pieces of space treasure.
+You are presented with spaceships B and L. You press <<L>>. You end up on planet V. You see alien J and alien A. You press <<J>>. You find 1 pieces of space treasure.
+You are presented with spaceships B and L. You press <<B>>. You end up on planet S. You see alien M and alien N. You press <<M>>. You find 0 pieces of space treasure.
+You are presented with spaceships B and L. You press <<B>>. You end up on planet S. You see alien M and alien N. You press <<N>>. You find 1 pieces of space treasure.
+You are presented with spaceships L and B. You press <<L>>. You end up on planet V. You see alien J and alien A. You press <<J>>. You find 1 pieces of space treasure.
+You are presented with spaceships B and L. You press <<L>>. You end up on planet V. You see alien J and alien A. You press <<J>>. You find 1 pieces of space treasure.
+You are presented with spaceships L and B. You press <<L>>. You end up on planet V. You see alien J and alien A. You press <<J>>. You find 1 pieces of space treasure.
+You are presented with spaceships B and L. You press <<B>>. You end up on planet S. You see alien M and alien N. You press <<N>>. You find 1 pieces of space treasure.
+You are presented with spaceships B and L. You press <<L>>. You end up on planet V. You see alien J and alien A. You press <<J>>. You find 0 pieces of space treasure.
+You are presented with spaceships L and B. You press <<L>>. You end up on planet V. You see alien J and alien A. You press <<J>>. You find 1 pieces of space treasure.
+You are presented with spaceships L and B. You press <<L>>. You end up on planet V. You see alien J and alien A. You press <<J>>. You find 0 pieces of space treasure.
+You are presented with spaceships B and L. You press <<L>>. You end up on planet V. You see alien J and alien A. You press <<J>>. You find 0 pieces of space treasure.
+You are presented with spaceships B and L. You press <<B>>. You end up on planet S. You see alien M and alien N. You press <<N>>. You find 0 pieces of space treasure.
+You are presented with spaceships B and L. You press <<L>>. You end up on planet V. You see alien J and alien A. You press <<A>>. You find 0 pieces of space treasure.
+You are presented with spaceships B and L. You press <<B>>. You end up on planet S. You see alien M and alien N. You press <<M>>. You find 0 pieces of space treasure.
+You are presented with spaceships B and L. You press <<B>>. You end up on planet V. You see alien J and alien A. You press <<A>>. You find 0 pieces of space treasure.
+You are presented with spaceships L and B. You press <<B>>. You end up on planet V. You see alien J and alien A. You press <<J>>. You find 0 pieces of space treasure.
+You are presented with spaceships B and L. You press <<B>>. You end up on planet V. You see alien J and alien A. You do not respond in time for this day. You do not ask any alien for treasure. You do not get any treasure.
+You are presented with spaceships L and B. You press <<L>>. You end up on planet V. You see alien J and alien A. You press <<A>>. You find 0 pieces of space treasure.
+You are presented with spaceships B and L. You press <<L>>. You end up on planet S. You see alien M and alien N. You press <<M>>. You find 0 pieces of space treasure.
+You are presented with spaceships B and L. You press <<B>>. You end up on planet S. You see alien M and alien N. You press <<M>>. You find 0 pieces of space treasure.
+You are presented with spaceships L and B. You press <<B>>. You end up on planet S. You see alien M and alien N. You press <<M>>. You find 0 pieces of space treasure.
+You are presented with spaceships L and B. You press <<L>>. You end up on planet V. You see alien J and alien A. You press <<J>>. You find 1 pieces of space treasure.
+You are presented with spaceships B and L. You press <<L>>. You end up on planet S. You see alien M and alien N. You press <<N>>. You find 0 pieces of space treasure.
+You are presented with spaceships L and B. You press <<L>>. You end up on planet V. You see alien J and alien A. You press <<J>>. You find 0 pieces of space treasure.
+You are presented with spaceships L and B. You press <<L>>. You end up on planet V. You see alien J and alien A. You press <<A>>. You find 0 pieces of space treasure.
+You are presented with spaceships L and B. You press <<L>>. You end up on planet V. You see alien J and alien A. You press <<J>>. You find 0 pieces of space treasure.
+You are presented with spaceships L and B. You press <<L>>. You end up on planet V. You see alien J and alien A. You press <<J>>. You find 0 pieces of space treasure.
+You are presented with spaceships B and L. You press <<L>>. You end up on planet S. You see alien M and alien N. You press <<M>>. You find 0 pieces of space treasure.
+You are presented with spaceships B and L. You press <<L>>. You end up on planet V. You see alien J and alien A. You press <<A>>. You find 0 pieces of space treasure.
+You are presented with spaceships L and B. You press <<L>>. You end up on planet S. You see alien M and alien N. You press <<N>>. You find 1 pieces of space treasure.
+You are presented with spaceships L and B. You press <<L>>. You end up on planet V. You see alien J and alien A. You press <<A>>. You find 0 pieces of space treasure.
+You are presented with spaceships B and L. You press <<L>>. You end up on planet V. You see alien J and alien A. You press <<A>>. You find 1 pieces of space treasure.
+You are presented with spaceships L and B. You press <<L>>. You end up on planet V. You see alien J and alien A. You press <<A>>. You find 1 pieces of space treasure.
+You are presented with spaceships L and B. You press <<B>>. You end up on planet V. You see alien J and alien A. You press <<A>>. You find 1 pieces of space treasure.
+You are presented with spaceships B and L. You press <<B>>. You end up on planet V. You see alien J and alien A. You press <<A>>. You find 1 pieces of space treasure.
+You are presented with spaceships B and L. You press <<L>>. You end up on planet S. You see alien M and alien N. You press <<N>>. You find 1 pieces of space treasure.
+You are presented with spaceships B and L. You press <<B>>. You end up on planet S. You see alien M and alien N. You press <<M>>. You find 0 pieces of space treasure.
+You are presented with spaceships B and L. You press <<L>>. You end up on planet V. You see alien J and alien A. You press <<A>>. You find 1 pieces of space treasure.
+You are presented with spaceships B and L. You press <<B>>. You end up on planet V. You see alien J and alien A. You press <<A>>. You find 0 pieces of space treasure.
+You are presented with spaceships B and L. You press <<L>>. You end up on planet V. You see alien J and alien A. You press <<A>>. You find 0 pieces of space treasure.
+You are presented with spaceships B and L. You press <<B>>. You end up on planet S. You see alien M and alien N. You press <<N>>. You find 1 pieces of space treasure.
+You are presented with spaceships L and B. You press <<B>>. You end up on planet S. You see alien M and alien N. You press <<N>>. You find 0 pieces of space treasure.
+You are presented with spaceships L and B. You press <<L>>. You end up on planet S. You see alien M and alien N. You press <<N>>. You find 1 pieces of space treasure.
+You are presented with spaceships L and B. You press <<B>>. You end up on planet S. You see alien M and alien N. You press <<N>>. You find 0 pieces of space treasure.
+You are presented with spaceships L and B. You press <<B>>. You end up on planet S. You see alien M and alien N. You press <<N>>. You find 0 pieces of space treasure.
+You are presented with spaceships L and B. You press <<L>>. You end up on planet S. You see alien M and alien N. You press <<M>>. You find 1 pieces of space treasure.
+You are presented with spaceships L and B. You press <<L>>. You end up on planet V. You see alien J and alien A. You press <<J>>. You find 1 pieces of space treasure.
+You are presented with spaceships L and B. You press <<L>>. You end up on planet V. You see alien J and alien A. You press <<J>>. You find 1 pieces of space treasure.
+You are presented with spaceships L and B. You press <<L>>. You end up on planet V. You see alien J and alien A. You press <<J>>. You find 0 pieces of space treasure.
+You are presented with spaceships L and B. You press <<L>>. You end up on planet V. You see alien J and alien A. You press <<J>>. You find 1 pieces of space treasure.
+You are presented with spaceships B and L. You press <<L>>. You end up on planet S. You see alien M and alien N. You press <<N>>. You find 1 pieces of space treasure.
+You are presented with spaceships B and L. You press <<B>>. You end up on planet S. You see alien M and alien N. You press <<M>>. You find 1 pieces of space treasure.
+You are presented with spaceships B and L. You press <<B>>. You end up on planet S. You see alien M and alien N. You press <<N>>. You find 0 pieces of space treasure.
+You are presented with spaceships B and L. You press <<L>>. You end up on planet V. You see alien J and alien A. You press <<A>>. You find 0 pieces of space treasure.
+You are presented with spaceships L and B. You press <<B>>. You end up on planet V. You see alien J and alien A. You press <<J>>. You find 1 pieces of space treasure.
+You are presented with spaceships L and B. You press <<L>>. You end up on planet S. You see alien M and alien N. You press <<M>>. You find 0 pieces of space treasure.
+You are presented with spaceships B and L. You press <<L>>. You end up on planet S. You see alien M and alien N. You press <<N>>. You find 1 pieces of space treasure.
+You are presented with spaceships B and L. You press <<B>>. You end up on planet S. You see alien M and alien N. You do not respond in time for this day. You do not ask any alien for treasure. You do not get any treasure.
+You are presented with spaceships L and B. You press <<L>>. You end up on planet V. You see alien J and alien A. You press <<J>>. You find 0 pieces of space treasure.
+You are presented with spaceships L and B. You do not respond in time for this day. You do not go to any planet. You do not get any treasure.
+You are presented with spaceships L and B. You press <<L>>. You end up on planet V. You see alien J and alien A. You press <<J>>. You find 1 pieces of space treasure.
+You are presented with spaceships L and B. You press <<B>>. You end up on planet S. You see alien M and alien N. You press <<M>>. You find 0 pieces of space treasure.
+You are presented with spaceships L and B. You press <<L>>. You end up on planet V. You see alien J and alien A. You press <<J>>. You find 1 pieces of space treasure.
+You are presented with spaceships L and B. You press <<B>>. You end up on planet S. You see alien M and alien N. You press <<M>>. You find 0 pieces of space treasure.
+You are presented with spaceships B and L. You press <<B>>. You end up on planet S. You see alien M and alien N. You press <<N>>. You find 1 pieces of space treasure.
+You are presented with spaceships L and B. You press <<L>>. You end up on planet V. You see alien J and alien A. You press <<J>>. You find 0 pieces of space treasure.
+You are presented with spaceships L and B. You press <<B>>. You end up on planet V. You see alien J and alien A. You press <<J>>. You find 1 pieces of space treasure.
+You are presented with spaceships B and L. You press <<B>>. You end up on planet S. You see alien M and alien N. You press <<N>>. You find 1 pieces of space treasure.
+You are presented with spaceships L and B. You press <<B>>. You end up on planet S. You see alien M and alien N. You press <<N>>. You find 0 pieces of space treasure.
+You are presented with spaceships B and L. You press <<B>>. You end up on planet V. You see alien J and alien A. You press <<J>>. You find 0 pieces of space treasure.
+You are presented with spaceships B and L. You press <<L>>. You end up on planet S. You see alien M and alien N. You press <<M>>. You find 0 pieces of space treasure.
+You are presented with spaceships L and B. You press <<L>>. You end up on planet V. You see alien J and alien A. You press <<A>>. You find 0 pieces of space treasure.
+You are presented with spaceships L and B. You press <<L>>. You end up on planet V. You see alien J and alien A. You press <<J>>. You find 1 pieces of space treasure.
+You are presented with spaceships B and L. You press <<L>>. You end up on planet S. You see alien M and alien N. You press <<M>>. You find 0 pieces of space treasure.
+You are presented with spaceships B and L. You press <<B>>. You end up on planet S. You see alien M and alien N. You press <<M>>. You find 1 pieces of space treasure.
+You are presented with spaceships L and B. You press <<L>>. You end up on planet S. You see alien M and alien N. You press <<N>>. You find 1 pieces of space treasure.

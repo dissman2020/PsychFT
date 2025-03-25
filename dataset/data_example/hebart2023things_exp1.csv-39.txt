@@ -1,0 +1,64 @@
+You will be presented with triplets of objects, which will be assigned to the keys T, Z, and R.
+In each trial, please indicate which object you think is the odd one out by pressing the corresponding key.
+In other words, please choose the object that is the least similar to the other two.
+
+T: bottle opener, Z: ironing board, and R: goalpost. You press <<R>>.
+T: calculator, Z: wrist, and R: laptop. You press <<Z>>.
+T: tool, Z: chain, and R: quad. You press <<R>>.
+T: birdbath, Z: bison, and R: jellyfish. You press <<T>>.
+T: dreidel, Z: record player, and R: swing set. You press <<R>>.
+T: green beans, Z: headlamp, and R: coral. You press <<Z>>.
+T: waterwheel, Z: peppermint, and R: dandelion. You press <<R>>.
+T: snowmobile, Z: brooch, and R: fishing pole. You press <<Z>>.
+T: celery, Z: handcuff, and R: van. You press <<T>>.
+T: pig, Z: steamroller, and R: fuse. You press <<T>>.
+T: flashbulb, Z: dynamite, and R: coffee. You press <<Z>>.
+T: clipboard, Z: rag, and R: turntable. You press <<Z>>.
+T: stomach, Z: mattress, and R: column. You press <<R>>.
+T: squirrel, Z: lens, and R: bow. You press <<T>>.
+T: rug, Z: teddy bear, and R: violin. You press <<Z>>.
+T: needle, Z: sunroof, and R: sloth. You press <<R>>.
+T: jetski, Z: pickax, and R: boar. You press <<R>>.
+T: spur, Z: butterfly, and R: seaplane. You press <<Z>>.
+T: crystal, Z: stamp, and R: tooth. You press <<Z>>.
+T: belt, Z: ankle, and R: paperweight. You press <<Z>>.
+T: goldfish, Z: ski boots, and R: racehorse. You press <<Z>>.
+T: couch, Z: peg, and R: tarantula. You press <<R>>.
+T: spinach, Z: bok choy, and R: breathalyzer. You press <<R>>.
+T: porthole, Z: hanger, and R: revolver. You press <<Z>>.
+T: tent, Z: centerpiece, and R: leash. You press <<Z>>.
+T: lip balm, Z: beetle, and R: cannonball. You press <<T>>.
+T: bathtub, Z: squeegee, and R: leggings. You press <<R>>.
+T: diamond, Z: float, and R: brownie. You press <<R>>.
+T: curb, Z: toilet paper, and R: soldering iron. You press <<T>>.
+T: paper plate, Z: french horn, and R: peg. You press <<R>>.
+T: meatloaf, Z: fire, and R: gas mask. You press <<R>>.
+T: spider web, Z: gong, and R: giraffe. You press <<Z>>.
+T: beer, Z: propeller, and R: wick. You press <<Z>>.
+T: whale, Z: leek, and R: bulletproof vest. You press <<R>>.
+T: octopus, Z: handkerchief, and R: trampoline. You press <<T>>.
+T: walker, Z: water filter, and R: plum. You press <<T>>.
+T: koala, Z: lens, and R: paper towel. You press <<Z>>.
+T: weather vane, Z: rhinoceros, and R: box. You press <<R>>.
+T: stem, Z: kale, and R: hairdryer. You press <<R>>.
+T: wine, Z: blindfold, and R: recliner. You press <<T>>.
+T: crystal, Z: defibrillator, and R: airbag. You press <<T>>.
+T: calf, Z: cookie cutter, and R: detonator. You press <<R>>.
+T: truck, Z: throne, and R: hot chocolate. You press <<R>>.
+T: wasp, Z: blinder, and R: violin. You press <<R>>.
+T: blowfish, Z: mud, and R: raft. You press <<T>>.
+T: steak, Z: curb, and R: needle. You press <<R>>.
+T: cookie cutter, Z: carrot, and R: ski. You press <<T>>.
+T: spark plug, Z: sorbet, and R: sandcastle. You press <<Z>>.
+T: shark, Z: stretcher, and R: snowball. You press <<Z>>.
+T: velcro, Z: brace, and R: chicken wire. You press <<R>>.
+T: whip, Z: basketball hoop, and R: appetizer. You press <<R>>.
+T: footprint, Z: balloon, and R: furnace. You press <<Z>>.
+T: horseshoe, Z: shuffleboard, and R: sword. You press <<Z>>.
+T: slime, Z: ferry, and R: headset. You press <<R>>.
+T: traffic light, Z: headlamp, and R: gumball. You press <<R>>.
+T: barrette, Z: reindeer, and R: valve. You press <<R>>.
+T: cannon, Z: mast, and R: sticker. You press <<R>>.
+T: puck, Z: headphones, and R: bulletproof vest. You press <<T>>.
+T: pantsuit, Z: sheath, and R: jigsaw puzzle. You press <<Z>>.
+T: pepper, Z: sauerkraut, and R: aardvark. You press <<Z>>.

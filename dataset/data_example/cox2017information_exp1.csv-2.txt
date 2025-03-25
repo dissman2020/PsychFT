@@ -1,0 +1,592 @@
+You study the following 20 word pairs:
+APPLE, FAIRLY
+CHALLENGE, GLANCE
+WOODEN, PERFECTLY
+POCKET, SUFFICIENT
+HARM, MAD
+VESSELS, PRIMARILY
+SECURITY, REPORTS
+HEIGHT, JUDGE
+CONTRACT, QUANTITY
+SLIPPED, MINERALS
+CLOTH, UNIFORM
+WEARING, TASTE
+PERMIT, BAG
+REGARDED, INSTITUTIONS
+PLATE, CHARACTERS
+DIRECTED, EVENT
+SHINING, PLANTED
+YOUTH, ELECTION
+STRESS, ARTICLE
+MUD, KNEES
+
+You will now view a single word item.
+Your task is to indicate if the item you view was on the list you just studied (by pressing K) or not on the list (by pressing A).
+
+You view the word BAG. You press <<K>>.
+You view the word GAINED. You press <<A>>.
+You view the word RUNS. You press <<A>>.
+You view the word CLOTH. You press <<K>>.
+You view the word CONTRACT. You press <<K>>.
+You view the word SUIT. You press <<A>>.
+You view the word PRIMARILY. You press <<K>>.
+You view the word WAGES. You press <<A>>.
+You view the word PLATE. You press <<K>>.
+You view the word REPORTS. You press <<K>>.
+You view the word PHONE. You press <<A>>.
+You view the word CHALLENGE. You press <<K>>.
+You view the word STRUCTURES. You press <<A>>.
+You view the word PURPOSES. You press <<A>>.
+You view the word ARTICLE. You press <<K>>.
+You view the word INSTITUTIONS. You press <<K>>.
+You view the word DIOXIDE. You press <<A>>.
+You view the word SHINING. You press <<K>>.
+You view the word TISSUE. You press <<A>>.
+You view the word SHELL. You press <<A>>.
+
+You study the following 20 word pairs:
+INVOLVE, POOL
+PORTION, FINISH
+DISAPPEARED, TRADITIONAL
+CONFLICT, ENGINE
+EXPERIMENT, ACCIDENT
+SPENDING, LUCK
+TIP, CONTAINED
+CUSTOMER, BELL
+SWIM, DULL
+AUTHORITY, PRODUCING
+BEINGS, DAMAGE
+HAT, TUBE
+DISEASES, MOVEMENTS
+STOCK, PURE
+DIFFICULTY, RAILROAD
+NEIGHBORS, SOUGHT
+FUR, COMMONLY
+APPROPRIATE, HABIT
+SMILING, IMMEDIATE
+INDICATE, PARAGRAPH
+
+You will now view a single pair of words.
+Your task is to indicate if the pair of words you see on the screen was studied as a pair on the list you just studied (by pressing K) or was not a pair (by pressing A).
+
+You view the word pair AUTHORITY, PRODUCING. You press <<K>>.
+You view the word pair COMMONLY, HAT. You press <<A>>.
+You view the word pair FUR, DULL. You press <<A>>.
+You view the word pair SWIM, FINISH. You press <<A>>.
+You view the word pair POOL, INVOLVE. You press <<K>>.
+You view the word pair CUSTOMER, LUCK. You press <<A>>.
+You view the word pair SMILING, IMMEDIATE. You press <<K>>.
+You view the word pair SOUGHT, NEIGHBORS. You press <<K>>.
+You view the word pair DAMAGE, BEINGS. You press <<A>>.
+You view the word pair HABIT, DISAPPEARED. You press <<K>>.
+You view the word pair DISEASES, MOVEMENTS. You press <<K>>.
+You view the word pair CONTAINED, APPROPRIATE. You press <<A>>.
+You view the word pair CONFLICT, ENGINE. You press <<K>>.
+You view the word pair PARAGRAPH, INDICATE. You press <<K>>.
+You view the word pair BELL, PORTION. You press <<A>>.
+You view the word pair TIP, ACCIDENT. You press <<A>>.
+You view the word pair TRADITIONAL, EXPERIMENT. You press <<A>>.
+You view the word pair PURE, STOCK. You press <<K>>.
+You view the word pair DIFFICULTY, RAILROAD. You press <<K>>.
+You view the word pair TUBE, SPENDING. You press <<A>>.
+
+You study the following 20 word pairs:
+WIDELY, CROWD
+BACKGROUND, INTERIOR
+ORGANS, ISSUES
+REACTION, BEACH
+INDUSTRIES, POST
+HEADED, BENT
+GATHER, WEAPONS
+CRYING, COTTON
+ESCAPE, SUPREME
+FACING, EMOTIONAL
+EXCITEMENT, TRIAL
+TYPICAL, HAVEN
+HANGING, ROLL
+WATERS, RESPONSIBILITY
+BROTHERS, MEAL
+PASSAGE, COMPUTER
+RELIEF, ACID
+THROAT, OPPOSED
+IMPRESSION, OPERATIONS
+TEARS, EARN
+
+You will now view a single word item.
+Your task is to type the other word in the pair.
+For example if you studied BRICK, BRACK and you now see BRICK, your response should be BRACK.
+The spelling does not matter; focus on providing as many responses as possible.
+If you cannot recall the word, answer DON'T REMEMBER.
+
+You view the word BROTHERS. You answer <<DON'T REMEMBER>>.
+You view the word RELIEF. You answer <<ACID>>.
+You view the word HANGING. You answer <<DON'T REMEMBER>>.
+You view the word IMPRESSION. You answer <<DON'T REMEMBER>>.
+You view the word THROAT. You answer <<DON'T REMEMBER>>.
+You view the word WIDELY. You answer <<CROWD>>.
+You view the word EXCITEMENT. You answer <<DON'T REMEMBER>>.
+You view the word TYPICAL. You answer <<DON'T REMEMBER>>.
+You view the word PASSAGE. You answer <<COMPUTER>>.
+You view the word GATHER. You answer <<DON'T REMEMBER>>.
+You view the word TEARS. You answer <<EARNS>>.
+You view the word ESCAPE. You answer <<DON'T REMEMBER>>.
+You view the word BACKGROUND. You answer <<INTERIOR>>.
+You view the word INDUSTRIES. You answer <<DON'T REMEMBER>>.
+You view the word CRYING. You answer <<DON'T REMEMBER>>.
+You view the word WATERS. You answer <<DON'T REMEMBER>>.
+You view the word ORGANS. You answer <<ISSUES>>.
+You view the word HEADED. You answer <<DON'T REMEMBER>>.
+You view the word FACING. You answer <<DON'T REMEMBER>>.
+You view the word REACTION. You answer <<DON'T REMEMBER>>.
+
+You will be presented with a single word item.
+Your task is to indicate if the item you see is a word (by pressing K) or not a word (by pressing A).
+Respond as quickly as possible.
+
+You view the word EXPERIENCES. You press <<K>>.
+You view the word SHINETE. You press <<A>>.
+You view the word MEEGENABLE. You press <<A>>.
+You view the word ACCOANED. You press <<A>>.
+You view the word DRUG. You press <<K>>.
+You view the word ESPENNISM. You press <<A>>.
+You view the word MENTAL. You press <<K>>.
+You view the word CLASSROOM. You press <<K>>.
+You view the word VISITED. You press <<K>>.
+You view the word DRIG. You press <<A>>.
+You view the word COMMAND. You press <<K>>.
+You view the word ROUGH. You press <<K>>.
+You view the word FLIYL. You press <<A>>.
+You view the word AWFUL. You press <<K>>.
+You view the word SOUS. You press <<A>>.
+You view the word HOINS. You press <<A>>.
+You view the word LEADS. You press <<K>>.
+You view the word SLAVERY. You press <<K>>.
+You view the word ENSCUMATION. You press <<A>>.
+You view the word VUWRIENCE. You press <<A>>.
+
+You study the following 20 word pairs:
+FENCE, SELECTION
+LIKES, PAYMENT
+GRADE, PUBLISHED
+OCCURRED, ROW
+GUIDE, HYDROGEN
+KINGS, COLONY
+EXPLANATION, AUTOMOBILE
+COPY, EXTERNAL
+REQUIREMENTS, SOUNDED
+FRAME, WAGON
+RARELY, TRAINED
+COMPLETED, PEOPLES
+CREAM, ROYAL
+ASSIGNED, LORD
+SURROUNDING, FIRMLY
+ITEM, BURIED
+AFFORD, CREDIT
+FLOWER, CAUSING
+IMPROVED, HARMFUL
+LEG, COLONIAL
+
+Your task is to try to recall as many words from the study list as you possibly can.
+The spelling does not matter; focus on providing as many responses as possible.
+When you cannot recall any more words respond with FINISHED.
+
+You answer <<ROYAL>>.
+You answer <<CREAM>>.
+You answer <<SURROUNDINGS>>.
+You answer <<CREDIT>>.
+You answer <<SPEND>>.
+You answer <<COLONY>>.
+You answer <<FINISHED>>.
+
+You will be presented with a single word item.
+Your task is to indicate if the item you see is a word (by pressing K) or not a word (by pressing A).
+Respond as quickly as possible.
+
+You view the word PRIVE. You press <<A>>.
+You view the word INTERNAL. You press <<K>>.
+You view the word AMILYFOS. You press <<A>>.
+You view the word MIXTURE. You press <<K>>.
+You view the word ELECTRONS. You press <<K>>.
+You view the word AMILYFOS. You press <<A>>.
+You view the word WRIPPED. You press <<K>>.
+You view the word WINDS. You press <<K>>.
+You view the word ENTRY. You press <<K>>.
+You view the word RESIONED. You press <<A>>.
+You view the word PINE. You press <<K>>.
+You view the word PAIRLY. You press <<K>>.
+You view the word COUNCE. You press <<A>>.
+You view the word CONFIDENCE. You press <<K>>.
+You view the word DOLLAR. You press <<K>>.
+You view the word AMBUME. You press <<A>>.
+You view the word ENGATE. You press <<K>>.
+You view the word ELDING. You press <<A>>.
+You view the word OFFICES. You press <<A>>.
+You view the word NOON. You press <<K>>.
+
+You study the following 20 word pairs:
+DEGREES, LEADERSHIP
+ANNUAL, COMFORTABLE
+STAR, SHARPLY
+SEEDS, OCEANS
+COUNTY, ARRANGEMENT
+MESSAGE, CHARGED
+FIRMS, RUSH
+SUPPER, HOUSEHOLD
+COMMERCIAL, SEX
+AGES, SLAVE
+MARRIAGE, CHARACTERISTIC
+BREAKING, BLOCKS
+ORANGE, DRIVER
+FORMING, SENATE
+CULTURAL, SHEET
+LIMIT, BREATHE
+CONDUCT, SEPARATED
+UPSET, HIRED
+NATIVE, SEEK
+BOXES, WORN
+
+You will now view a single word item.
+Your task is to type the other word in the pair.
+For example if you studied BRICK, BRACK and you now see BRICK, your response should be BRACK.
+The spelling does not matter; focus on providing as many responses as possible.
+If you cannot recall the word, answer DON'T REMEMBER.
+
+You view the word LIMIT. You answer <<DON'T REMEMBER>>.
+You view the word FORMING. You answer <<DON'T REMEMBER>>.
+You view the word BOXES. You answer <<DON'T REMEMBER>>.
+You view the word BREAKING. You answer <<BLOCKS>>.
+You view the word COUNTY. You answer <<ARRANGEMENTS>>.
+You view the word SUPPER. You answer <<HOUSEHOLD>>.
+You view the word MESSAGE. You answer <<DON'T REMEMBER>>.
+You view the word DEGREES. You answer <<DON'T REMEMBER>>.
+You view the word CONDUCT. You answer <<DON'T REMEMBER>>.
+You view the word COMMERCIAL. You answer <<SEX>>.
+You view the word FIRMS. You answer <<DON'T REMEMBER>>.
+You view the word STAR. You answer <<SHARPLY>>.
+You view the word NATIVE. You answer <<DON'T REMEMBER>>.
+You view the word ANNUAL. You answer <<DON'T REMEMBER>>.
+You view the word CULTURAL. You answer <<SEEKS>>.
+You view the word UPSET. You answer <<DON'T REMEMBER>>.
+You view the word AGES. You answer <<SLAVERY>>.
+You view the word ORANGE. You answer <<DRIVER>>.
+You view the word SEEDS. You answer <<DON'T REMEMBER>>.
+You view the word MARRIAGE. You answer <<DON'T REMEMBER>>.
+
+You study the following 20 word pairs:
+NERVOUS, UNUSUAL
+BARE, BRICK
+BIGGER, UNABLE
+SIGHED, CREATURE
+STRING, CONVERSATION
+ADMINISTRATION, ITALIAN
+OCCASIONALLY, COLLECTION
+ANALYSIS, SHIRT
+NUMEROUS, RULER
+STATUS, TREMENDOUS
+RELATIVE, APPARENTLY
+PLEASED, DUTY
+ENORMOUS, PROGRESS
+BANKS, COMPOUND
+BEDROOM, SURELY
+BLACKS, METALS
+HOLES, ADULTS
+DISCOVERY, CIRCUMSTANCES
+FILM, PROTECTED
+AFRICAN, PLANE
+
+You will now view a single word item.
+Your task is to indicate if the item you view was on the list you just studied (by pressing K) or not on the list (by pressing A).
+
+You view the word EXERCISE. You press <<A>>.
+You view the word NUMEROUS. You press <<K>>.
+You view the word COMPOUND. You press <<A>>.
+You view the word CREATURE. You press <<K>>.
+You view the word BEDROOM. You press <<A>>.
+You view the word REMOVE. You press <<A>>.
+You view the word HOLES. You press <<K>>.
+You view the word AFFAIRS. You press <<K>>.
+You view the word HONOR. You press <<A>>.
+You view the word OCCASIONALLY. You press <<A>>.
+You view the word INNER. You press <<K>>.
+You view the word CUSTOMS. You press <<A>>.
+You view the word PROTECTED. You press <<K>>.
+You view the word TREMENDOUS. You press <<A>>.
+You view the word SHIRT. You press <<A>>.
+You view the word MAXIMUM. You press <<A>>.
+You view the word PLEASED. You press <<A>>.
+You view the word PRINCIPAL. You press <<A>>.
+You view the word ILLNESS. You press <<A>>.
+You view the word CHEMICALS. You press <<A>>.
+
+You will be presented with a single word item.
+Your task is to indicate if the item you see is a word (by pressing K) or not a word (by pressing A).
+Respond as quickly as possible.
+
+You view the word INSURANCE. You press <<K>>.
+You view the word WORST. You press <<K>>.
+You view the word IBBLARITY. You press <<A>>.
+You view the word NIGHTS. You press <<K>>.
+You view the word WAUNCH. You press <<A>>.
+You view the word ELDED. You press <<A>>.
+You view the word POLLUTION. You press <<K>>.
+You view the word ROLING. You press <<K>>.
+You view the word SPIGHT. You press <<A>>.
+You view the word PRESS. You press <<K>>.
+You view the word STREAM. You press <<K>>.
+You view the word LEGAL. You press <<K>>.
+You view the word REPRESENTATIVES. You press <<K>>.
+You view the word ENSCUMATION. You press <<A>>.
+You view the word SUOCIDE. You press <<A>>.
+You view the word SONG. You press <<K>>.
+You view the word IBBLARITY. You press <<A>>.
+You view the word EXECUTIVE. You press <<K>>.
+You view the word GON. You press <<A>>.
+You view the word ATTALICTRATION. You press <<A>>.
+
+You study the following 20 word pairs:
+CRITICAL, CRIME
+CHART, RECALL
+DEFINED, RELEASE
+EARLIEST, FLEW
+DISCUSS, COMMUNIST
+ILLUSTRATION, ASSOCIATED
+FRUIT, CALM
+SLIGHT, FINGER
+CAST, CUP
+TRANSPORTATION, STORM
+DETAIL, PRINCIPLE
+COUNCIL, AGREEMENT
+CONNECTED, SHOWING
+VEGETABLES, SAVED
+EXTENT, OPINION
+WRITERS, COFFEE
+LOVELY, ORGANISM
+MILE, BENEFIT
+FEELS, CONTROLS
+STATEMENTS, GOLDEN
+
+You will now view a single word item.
+Your task is to type the other word in the pair.
+For example if you studied BRICK, BRACK and you now see BRICK, your response should be BRACK.
+The spelling does not matter; focus on providing as many responses as possible.
+If you cannot recall the word, answer DON'T REMEMBER.
+
+You view the word MILE. You answer <<GOLDEN>>.
+You view the word STATEMENTS. You answer <<DON'T REMEMBER>>.
+You view the word CHART. You answer <<DON'T REMEMBER>>.
+You view the word SLIGHT. You answer <<FINGER>>.
+You view the word CRITICAL. You answer <<CRIME>>.
+You view the word EXTENT. You answer <<OPINION>>.
+You view the word LOVELY. You answer <<DON'T REMEMBER>>.
+You view the word WRITERS. You answer <<DON'T REMEMBER>>.
+You view the word DETAIL. You answer <<DON'T REMEMBER>>.
+You view the word EARLIEST. You answer <<DON'T REMEMBER>>.
+You view the word TRANSPORTATION. You answer <<STORM>>.
+You view the word COUNCIL. You answer <<DON'T REMEMBER>>.
+You view the word VEGETABLES. You answer <<SAVED>>.
+You view the word DISCUSS. You answer <<DON'T REMEMBER>>.
+You view the word DEFINED. You answer <<DON'T REMEMBER>>.
+You view the word FRUIT. You answer <<CALM>>.
+You view the word FEELS. You answer <<DON'T REMEMBER>>.
+You view the word ILLUSTRATION. You answer <<DON'T REMEMBER>>.
+You view the word CAST. You answer <<CUP>>.
+You view the word CONNECTED. You answer <<DON'T REMEMBER>>.
+
+You study the following 20 word pairs:
+CONTINENT, DREAM
+EXTREME, SORRY
+STEAM, TONGUE
+DEVICE, LOTS
+PAPERS, EFFECTIVELY
+GROWS, REPLACE
+BAY, CYCLE
+COVERS, SHAPES
+QUARTER, MEMORY
+ROPE, REFLECT
+BOATS, CENTERS
+SECTIONS, RISK
+PUSHING, CONSUMER
+BONE, BASEBALL
+TOPIC, DIVISION
+ENTRANCE, VISIBLE
+STUFF, DEFINITION
+MUSCLE, EVERYDAY
+BRUSH, FUNNY
+SETTLEMENT, BIRTHDAY
+
+You will now view a single pair of words.
+Your task is to indicate if the pair of words you see on the screen was studied as a pair on the list you just studied (by pressing K) or was not a pair (by pressing A).
+
+You view the word pair REPLACE, GROWS. You press <<A>>.
+You view the word pair MEMORY, BONE. You press <<A>>.
+You view the word pair PAPERS, BIRTHDAY. You press <<A>>.
+You view the word pair BASEBALL, SECTIONS. You press <<A>>.
+You view the word pair EXTREME, EFFECTIVELY. You press <<A>>.
+You view the word pair DIVISION, QUARTER. You press <<A>>.
+You view the word pair BOATS, SORRY. You press <<A>>.
+You view the word pair DREAM, TOPIC. You press <<A>>.
+You view the word pair BAY, CYCLE. You press <<K>>.
+You view the word pair COVERS, SHAPES. You press <<K>>.
+You view the word pair TONGUE, STEAM. You press <<K>>.
+You view the word pair DEVICE, LOTS. You press <<K>>.
+You view the word pair CONSUMER, PUSHING. You press <<A>>.
+You view the word pair MUSCLE, EVERYDAY. You press <<K>>.
+You view the word pair VISIBLE, CONTINENT. You press <<A>>.
+You view the word pair BRUSH, FUNNY. You press <<K>>.
+You view the word pair DEFINITION, STUFF. You press <<A>>.
+You view the word pair REFLECT, ROPE. You press <<K>>.
+You view the word pair RISK, SETTLEMENT. You press <<A>>.
+You view the word pair ENTRANCE, CENTERS. You press <<A>>.
+
+You study the following 20 word pairs:
+REPEATED, RAPID
+SURVIVE, INVENTED
+LISTED, TOOL
+STAFF, REMARKABLE
+DESIGN, MIXED
+BLIND, WORRY
+THINKS, SPOKEN
+EXPENSIVE, ESTABLISH
+COLUMN, RODE
+PERFORMANCE, LOCATION
+SITUATIONS, NUTRIENTS
+VIEWS, WASTES
+PERMANENT, BELIEF
+INTRODUCED, FEARED
+SOCIETIES, COMMUNITIES
+ACHIEVE, SOLVE
+REALITY, CARD
+HAPPENING, INSECTS
+APPOINTED, RID
+EDUCATIONAL, TROOPS
+
+Your task is to try to recall as many words from the study list as you possibly can.
+The spelling does not matter; focus on providing as many responses as possible.
+When you cannot recall any more words respond with FINISHED.
+
+You answer <<BAY>>.
+You answer <<CYCLE>>.
+You answer <<COLUMN>>.
+You answer <<FINISHED>>.
+
+You study the following 20 word pairs:
+FED, PAINT
+STARTS, FEATURE
+HUMANS, NEIGHBORHOOD
+COPPER, FOLLOWS
+CAMPAIGN, PLASTIC
+DARKNESS, MAINLY
+OUGHT, BUS
+FAVORITE, MAIL
+STOMACH, RESPOND
+HIGHEST, SOUL
+SETS, ACTED
+DEVELOPING, SMALLEST
+YOUNGER, CATTLE
+SENTENCES, FURNITURE
+INCREASINGLY, BRANCH
+SUGGEST, CONSIDERABLE
+ROUTE, SEVERE
+JOY, PLANET
+GRABBED, MATCH
+RAYS, DOUBLE
+
+You will now view a single pair of words.
+Your task is to indicate if the pair of words you see on the screen was studied as a pair on the list you just studied (by pressing K) or was not a pair (by pressing A).
+
+You view the word pair FAVORITE, MAIL. You press <<K>>.
+You view the word pair PLANET, JOY. You press <<K>>.
+You view the word pair COPPER, FOLLOWS. You press <<K>>.
+You view the word pair SEVERE, ROUTE. You press <<K>>.
+You view the word pair STOMACH, MAINLY. You press <<A>>.
+You view the word pair FURNITURE, OUGHT. You press <<A>>.
+You view the word pair CATTLE, GRABBED. You press <<A>>.
+You view the word pair CAMPAIGN, PLASTIC. You press <<K>>.
+You view the word pair HUMANS, NEIGHBORHOOD. You press <<K>>.
+You view the word pair DEVELOPING, PAINT. You press <<A>>.
+You view the word pair FEATURE, STARTS. You press <<A>>.
+You view the word pair YOUNGER, MATCH. You press <<A>>.
+You view the word pair HIGHEST, SOUL. You press <<K>>.
+You view the word pair SMALLEST, SENTENCES. You press <<A>>.
+You view the word pair CONSIDERABLE, SUGGEST. You press <<A>>.
+You view the word pair BUS, RAYS. You press <<A>>.
+You view the word pair INCREASINGLY, DOUBLE. You press <<A>>.
+You view the word pair SETS, ACTED. You press <<K>>.
+You view the word pair FED, BRANCH. You press <<A>>.
+You view the word pair DARKNESS, RESPOND. You press <<K>>.
+
+You study the following 20 word pairs:
+PALE, ATTACHED
+ADVICE, BURST
+LOOSE, REPUBLIC
+APPLICATION, FACTORY
+FEWER, FUNCTIONS
+EXCELLENT, CAP
+TRAVELED, CHOSE
+FORMATION, CAMP
+JAPANESE, NOTES
+BILLION, SLEEPING
+POLITICS, GOVERNOR
+SUPPORTED, HUNT
+DIFFER, ATTEMPTS
+MANAGED, SIZES
+TIED, ATTRACTIVE
+MANUFACTURING, POND
+SCIENTIST, WASH
+FRIENDLY, FIGURES
+QUIETLY, PROFIT
+SERIOUSLY, SOFTLY
+
+Your task is to try to recall as many words from the study list as you possibly can.
+The spelling does not matter; focus on providing as many responses as possible.
+When you cannot recall any more words respond with FINISHED.
+
+You answer <<GOVERNOR>>.
+You answer <<POLITICS>>.
+You answer <<FINISHED>>.
+
+You study the following 20 word pairs:
+CONTENT, GRANTED
+ACCURATE, SUFFERED
+HOLDS, PASSING
+CONTRAST, RIDING
+SPECIALIZED, FORMER
+FRIGHTENED, PROVE
+MISTAKE, DISTANT
+ODD, SHADOW
+PURCHASE, ENJOYED
+LIBRARY, LISTENED
+CLUB, POLE
+ADOPTED, FLIGHT
+EXPOSED, PERSONALITY
+FAVOR, DESTROY
+STONES, PRINT
+GUARD, DEPENDENT
+COSTS, GAMES
+LESSON, KID
+EXAMINE, EQUALLY
+OFFICER, LINED
+
+You will now view a single word item.
+Your task is to indicate if the item you view was on the list you just studied (by pressing K) or not on the list (by pressing A).
+
+You view the word POLE. You press <<A>>.
+You view the word VOLUME. You press <<A>>.
+You view the word ENJOYED. You press <<K>>.
+You view the word ADDING. You press <<A>>.
+You view the word ADDRESS. You press <<K>>.
+You view the word DESCRIPTION. You press <<K>>.
+You view the word ENEMY. You press <<A>>.
+You view the word FAVOR. You press <<K>>.
+You view the word SUFFERED. You press <<A>>.
+You view the word EQUALLY. You press <<A>>.
+You view the word NURSE. You press <<A>>.
+You view the word STONES. You press <<K>>.
+You view the word DEPENDENT. You press <<K>>.
+You view the word CONTENT. You press <<K>>.
+You view the word EXPOSED. You press <<A>>.
+You view the word OFFICER. You press <<A>>.
+You view the word LARGELY. You press <<A>>.
+You view the word COLLECT. You press <<A>>.
+You view the word EXPRESS. You press <<K>>.
+You view the word DRIED. You press <<A>>.

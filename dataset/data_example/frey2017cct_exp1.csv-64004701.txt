@@ -1,0 +1,1097 @@
+You will play a games with 84 rounds.
+In each round, you will be presented with 32 face-down cards.
+Every card is either a gain card or a loss card.
+If you turn over a gain card, the gain amount of that card (between 10 and 600 points) will be added to your current game score.
+If you turn over a loss card, the loss amount of that card (between 25 and 750 points) will be subtracted from your game score.
+In different rounds, between 1 and 28 cards are loss cards.
+Loss and gain amounts also differ between rounds.
+You may keep turning over cards as long as you keep encountering gain cards.
+You may also stop the round at any point and claim your current payout. 
+If you encounter a loss card, the round ends immediately.
+Your gains and losses will be summed up to give you your final score for each round.
+Press G to turn a card over, or L to stop the round and claim your current payout.
+
+Round 1:
+You will be awarded 150 points for turning over a gain card.
+You will lose 75 points for turning over a loss card.
+There are 20 loss cards in this round.
+You press <<G>> and turn over a gain card. Your current score is 150.
+You press <<G>> and turn over a loss card. Your current score is 75. The round has now ended because you encountered a loss card.
+Your final score for this round is 75.
+
+Round 2:
+You will be awarded 50 points for turning over a gain card.
+You will lose 100 points for turning over a loss card.
+There are 1 loss cards in this round.
+You press <<G>> and turn over a gain card. Your current score is 50.
+You press <<G>> and turn over a gain card. Your current score is 100.
+You press <<G>> and turn over a gain card. Your current score is 150.
+You press <<G>> and turn over a gain card. Your current score is 200.
+You press <<G>> and turn over a gain card. Your current score is 250.
+You press <<G>> and turn over a gain card. Your current score is 300.
+You press <<G>> and turn over a loss card. Your current score is 200. The round has now ended because you encountered a loss card.
+Your final score for this round is 200.
+
+Round 3:
+You will be awarded 200 points for turning over a gain card.
+You will lose 100 points for turning over a loss card.
+There are 10 loss cards in this round.
+You press <<G>> and turn over a loss card. Your current score is -100. The round has now ended because you encountered a loss card.
+Your final score for this round is -100.
+
+Round 4:
+You will be awarded 200 points for turning over a gain card.
+You will lose 50 points for turning over a loss card.
+There are 28 loss cards in this round.
+You press <<G>> and turn over a loss card. Your current score is -50. The round has now ended because you encountered a loss card.
+Your final score for this round is -50.
+
+Round 5:
+You will be awarded 20 points for turning over a gain card.
+You will lose 750 points for turning over a loss card.
+There are 1 loss cards in this round.
+You press <<G>> and turn over a gain card. Your current score is 20.
+You press <<G>> and turn over a gain card. Your current score is 40.
+You press <<G>> and turn over a gain card. Your current score is 60.
+You press <<G>> and turn over a gain card. Your current score is 80.
+You press <<G>> and turn over a gain card. Your current score is 100.
+You press <<G>> and turn over a loss card. Your current score is -650. The round has now ended because you encountered a loss card.
+Your final score for this round is -650.
+
+Round 6:
+You will be awarded 300 points for turning over a gain card.
+You will lose 100 points for turning over a loss card.
+There are 16 loss cards in this round.
+You press <<G>> and turn over a gain card. Your current score is 300.
+You press <<G>> and turn over a loss card. Your current score is 200. The round has now ended because you encountered a loss card.
+Your final score for this round is 200.
+
+Round 7:
+You will be awarded 10 points for turning over a gain card.
+You will lose 500 points for turning over a loss card.
+There are 3 loss cards in this round.
+You press <<G>> and turn over a gain card. Your current score is 10.
+You press <<G>> and turn over a gain card. Your current score is 20.
+You press <<G>> and turn over a gain card. Your current score is 30.
+You press <<G>> and turn over a gain card. Your current score is 40.
+You press <<G>> and turn over a gain card. Your current score is 50.
+You press <<G>> and turn over a gain card. Your current score is 60.
+You press <<G>> and turn over a gain card. Your current score is 70.
+You press <<G>> and turn over a gain card. Your current score is 80.
+You press <<G>> and turn over a gain card. Your current score is 90.
+You press <<G>> and turn over a loss card. Your current score is -410. The round has now ended because you encountered a loss card.
+Your final score for this round is -410.
+
+Round 8:
+You will be awarded 10 points for turning over a gain card.
+You will lose 250 points for turning over a loss card.
+There are 1 loss cards in this round.
+You press <<G>> and turn over a gain card. Your current score is 10.
+You press <<G>> and turn over a gain card. Your current score is 20.
+You press <<G>> and turn over a gain card. Your current score is 30.
+You press <<G>> and turn over a gain card. Your current score is 40.
+You press <<G>> and turn over a gain card. Your current score is 50.
+You press <<G>> and turn over a gain card. Your current score is 60.
+You press <<G>> and turn over a gain card. Your current score is 70.
+You press <<G>> and turn over a gain card. Your current score is 80.
+You press <<G>> and turn over a gain card. Your current score is 90.
+You press <<G>> and turn over a gain card. Your current score is 100.
+You press <<G>> and turn over a gain card. Your current score is 110.
+You press <<G>> and turn over a gain card. Your current score is 120.
+You press <<G>> and turn over a gain card. Your current score is 130.
+You press <<G>> and turn over a gain card. Your current score is 140.
+You press <<G>> and turn over a gain card. Your current score is 150.
+You press <<G>> and turn over a gain card. Your current score is 160.
+You press <<G>> and turn over a gain card. Your current score is 170.
+You press <<G>> and turn over a gain card. Your current score is 180.
+You press <<G>> and turn over a gain card. Your current score is 190.
+You press <<G>> and turn over a gain card. Your current score is 200.
+You press <<G>> and turn over a gain card. Your current score is 210.
+You press <<G>> and turn over a gain card. Your current score is 220.
+You press <<G>> and turn over a gain card. Your current score is 230.
+You press <<G>> and turn over a gain card. Your current score is 240.
+You press <<G>> and turn over a loss card. Your current score is -10. The round has now ended because you encountered a loss card.
+Your final score for this round is -10.
+
+Round 9:
+You will be awarded 50 points for turning over a gain card.
+You will lose 750 points for turning over a loss card.
+There are 3 loss cards in this round.
+You press <<G>> and turn over a gain card. Your current score is 50.
+You press <<G>> and turn over a gain card. Your current score is 100.
+You press <<G>> and turn over a gain card. Your current score is 150.
+You press <<G>> and turn over a gain card. Your current score is 200.
+You press <<G>> and turn over a gain card. Your current score is 250.
+You press <<G>> and turn over a gain card. Your current score is 300.
+You press <<G>> and turn over a gain card. Your current score is 350.
+You press <<G>> and turn over a gain card. Your current score is 400.
+You press <<G>> and turn over a loss card. Your current score is -350. The round has now ended because you encountered a loss card.
+Your final score for this round is -350.
+
+Round 10:
+You will be awarded 50 points for turning over a gain card.
+You will lose 250 points for turning over a loss card.
+There are 1 loss cards in this round.
+You press <<G>> and turn over a gain card. Your current score is 50.
+You press <<G>> and turn over a gain card. Your current score is 100.
+You press <<G>> and turn over a gain card. Your current score is 150.
+You press <<G>> and turn over a gain card. Your current score is 200.
+You press <<G>> and turn over a gain card. Your current score is 250.
+You press <<G>> and turn over a gain card. Your current score is 300.
+You press <<G>> and turn over a gain card. Your current score is 350.
+You press <<G>> and turn over a gain card. Your current score is 400.
+You press <<G>> and turn over a loss card. Your current score is 150. The round has now ended because you encountered a loss card.
+Your final score for this round is 150.
+
+Round 11:
+You will be awarded 300 points for turning over a gain card.
+You will lose 100 points for turning over a loss card.
+There are 16 loss cards in this round.
+You press <<G>> and turn over a gain card. Your current score is 300.
+You press <<G>> and turn over a loss card. Your current score is 200. The round has now ended because you encountered a loss card.
+Your final score for this round is 200.
+
+Round 12:
+You will be awarded 600 points for turning over a gain card.
+You will lose 300 points for turning over a loss card.
+There are 28 loss cards in this round.
+You press <<G>> and turn over a loss card. Your current score is -300. The round has now ended because you encountered a loss card.
+Your final score for this round is -300.
+
+Round 13:
+You will be awarded 10 points for turning over a gain card.
+You will lose 250 points for turning over a loss card.
+There are 3 loss cards in this round.
+You press <<G>> and turn over a gain card. Your current score is 10.
+You press <<G>> and turn over a gain card. Your current score is 20.
+You press <<G>> and turn over a gain card. Your current score is 30.
+You press <<G>> and turn over a gain card. Your current score is 40.
+You press <<G>> and turn over a gain card. Your current score is 50.
+You press <<G>> and turn over a loss card. Your current score is -200. The round has now ended because you encountered a loss card.
+Your final score for this round is -200.
+
+Round 14:
+You will be awarded 50 points for turning over a gain card.
+You will lose 500 points for turning over a loss card.
+There are 3 loss cards in this round.
+You press <<G>> and turn over a gain card. Your current score is 50.
+You press <<G>> and turn over a loss card. Your current score is -450. The round has now ended because you encountered a loss card.
+Your final score for this round is -450.
+
+Round 15:
+You will be awarded 10 points for turning over a gain card.
+You will lose 250 points for turning over a loss card.
+There are 3 loss cards in this round.
+You press <<G>> and turn over a gain card. Your current score is 10.
+You press <<G>> and turn over a gain card. Your current score is 20.
+You press <<G>> and turn over a loss card. Your current score is -230. The round has now ended because you encountered a loss card.
+Your final score for this round is -230.
+
+Round 16:
+You will be awarded 10 points for turning over a gain card.
+You will lose 750 points for turning over a loss card.
+There are 1 loss cards in this round.
+You press <<G>> and turn over a gain card. Your current score is 10.
+You press <<G>> and turn over a gain card. Your current score is 20.
+You press <<G>> and turn over a gain card. Your current score is 30.
+You press <<G>> and turn over a gain card. Your current score is 40.
+You press <<G>> and turn over a gain card. Your current score is 50.
+You press <<G>> and turn over a gain card. Your current score is 60.
+You press <<G>> and turn over a gain card. Your current score is 70.
+You press <<G>> and turn over a gain card. Your current score is 80.
+You press <<G>> and turn over a gain card. Your current score is 90.
+You press <<G>> and turn over a gain card. Your current score is 100.
+You press <<G>> and turn over a gain card. Your current score is 110.
+You press <<G>> and turn over a gain card. Your current score is 120.
+You press <<G>> and turn over a gain card. Your current score is 130.
+You press <<G>> and turn over a gain card. Your current score is 140.
+You press <<G>> and turn over a gain card. Your current score is 150.
+You press <<G>> and turn over a gain card. Your current score is 160.
+You press <<G>> and turn over a gain card. Your current score is 170.
+You press <<G>> and turn over a gain card. Your current score is 180.
+You press <<G>> and turn over a gain card. Your current score is 190.
+You press <<G>> and turn over a loss card. Your current score is -560. The round has now ended because you encountered a loss card.
+Your final score for this round is -560.
+
+Round 17:
+You will be awarded 20 points for turning over a gain card.
+You will lose 750 points for turning over a loss card.
+There are 3 loss cards in this round.
+You press <<G>> and turn over a gain card. Your current score is 20.
+You press <<G>> and turn over a gain card. Your current score is 40.
+You press <<G>> and turn over a loss card. Your current score is -710. The round has now ended because you encountered a loss card.
+Your final score for this round is -710.
+
+Round 18:
+You will be awarded 10 points for turning over a gain card.
+You will lose 750 points for turning over a loss card.
+There are 3 loss cards in this round.
+You press <<G>> and turn over a gain card. Your current score is 10.
+You press <<G>> and turn over a gain card. Your current score is 20.
+You press <<G>> and turn over a gain card. Your current score is 30.
+You press <<G>> and turn over a gain card. Your current score is 40.
+You press <<G>> and turn over a gain card. Your current score is 50.
+You press <<G>> and turn over a gain card. Your current score is 60.
+You press <<G>> and turn over a gain card. Your current score is 70.
+You press <<G>> and turn over a gain card. Your current score is 80.
+You press <<G>> and turn over a gain card. Your current score is 90.
+You press <<G>> and turn over a gain card. Your current score is 100.
+You press <<G>> and turn over a gain card. Your current score is 110.
+You press <<G>> and turn over a gain card. Your current score is 120.
+You press <<G>> and turn over a gain card. Your current score is 130.
+You press <<G>> and turn over a gain card. Your current score is 140.
+You press <<G>> and turn over a gain card. Your current score is 150.
+You press <<L>> and claim your payout.
+Your final score for this round is 150.
+
+Round 19:
+You will be awarded 75 points for turning over a gain card.
+You will lose 50 points for turning over a loss card.
+There are 10 loss cards in this round.
+You press <<G>> and turn over a gain card. Your current score is 75.
+You press <<G>> and turn over a gain card. Your current score is 150.
+You press <<G>> and turn over a loss card. Your current score is 100. The round has now ended because you encountered a loss card.
+Your final score for this round is 100.
+
+Round 20:
+You will be awarded 150 points for turning over a gain card.
+You will lose 25 points for turning over a loss card.
+There are 20 loss cards in this round.
+You press <<G>> and turn over a loss card. Your current score is -25. The round has now ended because you encountered a loss card.
+Your final score for this round is -25.
+
+Round 21:
+You will be awarded 10 points for turning over a gain card.
+You will lose 100 points for turning over a loss card.
+There are 3 loss cards in this round.
+You press <<G>> and turn over a gain card. Your current score is 10.
+You press <<G>> and turn over a gain card. Your current score is 20.
+You press <<G>> and turn over a gain card. Your current score is 30.
+You press <<G>> and turn over a gain card. Your current score is 40.
+You press <<G>> and turn over a gain card. Your current score is 50.
+You press <<G>> and turn over a gain card. Your current score is 60.
+You press <<G>> and turn over a gain card. Your current score is 70.
+You press <<G>> and turn over a gain card. Your current score is 80.
+You press <<G>> and turn over a gain card. Your current score is 90.
+You press <<G>> and turn over a gain card. Your current score is 100.
+You press <<G>> and turn over a gain card. Your current score is 110.
+You press <<G>> and turn over a gain card. Your current score is 120.
+You press <<G>> and turn over a gain card. Your current score is 130.
+You press <<G>> and turn over a loss card. Your current score is 30. The round has now ended because you encountered a loss card.
+Your final score for this round is 30.
+
+
+Round 22:
+You will be awarded 10 points for turning over a gain card.
+You will lose 500 points for turning over a loss card.
+There are 1 loss cards in this round.
+You press <<G>> and turn over a gain card. Your current score is 10.
+You press <<G>> and turn over a gain card. Your current score is 20.
+You press <<G>> and turn over a gain card. Your current score is 30.
+You press <<G>> and turn over a gain card. Your current score is 40.
+You press <<G>> and turn over a loss card. Your current score is -460. The round has now ended because you encountered a loss card.
+Your final score for this round is -460.
+
+Round 23:
+You will be awarded 300 points for turning over a gain card.
+You will lose 150 points for turning over a loss card.
+There are 20 loss cards in this round.
+You press <<G>> and turn over a gain card. Your current score is 300.
+You press <<G>> and turn over a loss card. Your current score is 150. The round has now ended because you encountered a loss card.
+Your final score for this round is 150.
+
+Round 24:
+You will be awarded 20 points for turning over a gain card.
+You will lose 100 points for turning over a loss card.
+There are 1 loss cards in this round.
+You press <<G>> and turn over a gain card. Your current score is 20.
+You press <<G>> and turn over a gain card. Your current score is 40.
+You press <<G>> and turn over a gain card. Your current score is 60.
+You press <<G>> and turn over a gain card. Your current score is 80.
+You press <<G>> and turn over a gain card. Your current score is 100.
+You press <<G>> and turn over a gain card. Your current score is 120.
+You press <<G>> and turn over a gain card. Your current score is 140.
+You press <<G>> and turn over a gain card. Your current score is 160.
+You press <<G>> and turn over a gain card. Your current score is 180.
+You press <<G>> and turn over a gain card. Your current score is 200.
+You press <<G>> and turn over a gain card. Your current score is 220.
+You press <<G>> and turn over a gain card. Your current score is 240.
+You press <<G>> and turn over a gain card. Your current score is 260.
+You press <<G>> and turn over a gain card. Your current score is 280.
+You press <<G>> and turn over a gain card. Your current score is 300.
+You press <<G>> and turn over a gain card. Your current score is 320.
+You press <<G>> and turn over a gain card. Your current score is 340.
+You press <<G>> and turn over a gain card. Your current score is 360.
+You press <<G>> and turn over a gain card. Your current score is 380.
+You press <<G>> and turn over a gain card. Your current score is 400.
+You press <<L>> and claim your payout.
+Your final score for this round is 400.
+
+Round 25:
+You will be awarded 150 points for turning over a gain card.
+You will lose 50 points for turning over a loss card.
+There are 16 loss cards in this round.
+You press <<G>> and turn over a gain card. Your current score is 150.
+You press <<G>> and turn over a gain card. Your current score is 300.
+You press <<G>> and turn over a gain card. Your current score is 450.
+You press <<G>> and turn over a gain card. Your current score is 600.
+You press <<G>> and turn over a gain card. Your current score is 750.
+You press <<L>> and claim your payout.
+Your final score for this round is 750.
+
+Round 26:
+You will be awarded 200 points for turning over a gain card.
+You will lose 50 points for turning over a loss card.
+There are 20 loss cards in this round.
+You press <<G>> and turn over a gain card. Your current score is 200.
+You press <<G>> and turn over a loss card. Your current score is 150. The round has now ended because you encountered a loss card.
+Your final score for this round is 150.
+
+Round 27:
+You will be awarded 50 points for turning over a gain card.
+You will lose 100 points for turning over a loss card.
+There are 3 loss cards in this round.
+You press <<G>> and turn over a gain card. Your current score is 50.
+You press <<G>> and turn over a gain card. Your current score is 100.
+You press <<G>> and turn over a gain card. Your current score is 150.
+You press <<G>> and turn over a gain card. Your current score is 200.
+You press <<G>> and turn over a gain card. Your current score is 250.
+You press <<G>> and turn over a gain card. Your current score is 300.
+You press <<G>> and turn over a gain card. Your current score is 350.
+You press <<G>> and turn over a gain card. Your current score is 400.
+You press <<G>> and turn over a gain card. Your current score is 450.
+You press <<G>> and turn over a gain card. Your current score is 500.
+You press <<G>> and turn over a gain card. Your current score is 550.
+You press <<G>> and turn over a gain card. Your current score is 600.
+You press <<G>> and turn over a gain card. Your current score is 650.
+You press <<G>> and turn over a gain card. Your current score is 700.
+You press <<G>> and turn over a gain card. Your current score is 750.
+You press <<G>> and turn over a gain card. Your current score is 800.
+You press <<G>> and turn over a gain card. Your current score is 850.
+You press <<G>> and turn over a gain card. Your current score is 900.
+You press <<G>> and turn over a loss card. Your current score is 800. The round has now ended because you encountered a loss card.
+Your final score for this round is 800.
+
+Round 28:
+You will be awarded 300 points for turning over a gain card.
+You will lose 100 points for turning over a loss card.
+There are 20 loss cards in this round.
+You press <<G>> and turn over a gain card. Your current score is 300.
+You press <<G>> and turn over a gain card. Your current score is 600.
+You press <<G>> and turn over a gain card. Your current score is 900.
+You press <<L>> and claim your payout.
+Your final score for this round is 900.
+
+Round 29:
+You will be awarded 20 points for turning over a gain card.
+You will lose 500 points for turning over a loss card.
+There are 1 loss cards in this round.
+You press <<G>> and turn over a loss card. Your current score is -500. The round has now ended because you encountered a loss card.
+Your final score for this round is -500.
+
+Round 30:
+You will be awarded 10 points for turning over a gain card.
+You will lose 250 points for turning over a loss card.
+There are 1 loss cards in this round.
+You press <<G>> and turn over a gain card. Your current score is 10.
+You press <<G>> and turn over a gain card. Your current score is 20.
+You press <<G>> and turn over a loss card. Your current score is -230. The round has now ended because you encountered a loss card.
+Your final score for this round is -230.
+
+Round 31:
+You will be awarded 100 points for turning over a gain card.
+You will lose 50 points for turning over a loss card.
+There are 10 loss cards in this round.
+You press <<G>> and turn over a gain card. Your current score is 100.
+You press <<G>> and turn over a gain card. Your current score is 200.
+You press <<G>> and turn over a gain card. Your current score is 300.
+You press <<G>> and turn over a gain card. Your current score is 400.
+You press <<G>> and turn over a gain card. Your current score is 500.
+You press <<G>> and turn over a gain card. Your current score is 600.
+You press <<G>> and turn over a loss card. Your current score is 550. The round has now ended because you encountered a loss card.
+Your final score for this round is 550.
+
+Round 32:
+You will be awarded 10 points for turning over a gain card.
+You will lose 500 points for turning over a loss card.
+There are 3 loss cards in this round.
+You press <<G>> and turn over a gain card. Your current score is 10.
+You press <<G>> and turn over a gain card. Your current score is 20.
+You press <<G>> and turn over a gain card. Your current score is 30.
+You press <<G>> and turn over a gain card. Your current score is 40.
+You press <<G>> and turn over a gain card. Your current score is 50.
+You press <<G>> and turn over a gain card. Your current score is 60.
+You press <<G>> and turn over a gain card. Your current score is 70.
+You press <<G>> and turn over a gain card. Your current score is 80.
+You press <<G>> and turn over a gain card. Your current score is 90.
+You press <<G>> and turn over a gain card. Your current score is 100.
+You press <<G>> and turn over a loss card. Your current score is -400. The round has now ended because you encountered a loss card.
+Your final score for this round is -400.
+
+Round 33:
+You will be awarded 100 points for turning over a gain card.
+You will lose 50 points for turning over a loss card.
+There are 20 loss cards in this round.
+You press <<G>> and turn over a loss card. Your current score is -50. The round has now ended because you encountered a loss card.
+Your final score for this round is -50.
+
+Round 34:
+You will be awarded 20 points for turning over a gain card.
+You will lose 250 points for turning over a loss card.
+There are 1 loss cards in this round.
+You press <<G>> and turn over a gain card. Your current score is 20.
+You press <<G>> and turn over a gain card. Your current score is 40.
+You press <<G>> and turn over a gain card. Your current score is 60.
+You press <<G>> and turn over a gain card. Your current score is 80.
+You press <<G>> and turn over a loss card. Your current score is -170. The round has now ended because you encountered a loss card.
+Your final score for this round is -170.
+
+Round 35:
+You will be awarded 20 points for turning over a gain card.
+You will lose 250 points for turning over a loss card.
+There are 1 loss cards in this round.
+You press <<G>> and turn over a gain card. Your current score is 20.
+You press <<G>> and turn over a gain card. Your current score is 40.
+You press <<G>> and turn over a loss card. Your current score is -210. The round has now ended because you encountered a loss card.
+Your final score for this round is -210.
+
+Round 36:
+You will be awarded 150 points for turning over a gain card.
+You will lose 50 points for turning over a loss card.
+There are 16 loss cards in this round.
+You press <<G>> and turn over a gain card. Your current score is 150.
+You press <<G>> and turn over a loss card. Your current score is 100. The round has now ended because you encountered a loss card.
+Your final score for this round is 100.
+
+Round 37:
+You will be awarded 20 points for turning over a gain card.
+You will lose 100 points for turning over a loss card.
+There are 3 loss cards in this round.
+You press <<G>> and turn over a gain card. Your current score is 20.
+You press <<G>> and turn over a loss card. Your current score is -80. The round has now ended because you encountered a loss card.
+Your final score for this round is -80.
+
+Round 38:
+You will be awarded 10 points for turning over a gain card.
+You will lose 750 points for turning over a loss card.
+There are 1 loss cards in this round.
+You press <<G>> and turn over a gain card. Your current score is 10.
+You press <<G>> and turn over a gain card. Your current score is 20.
+You press <<G>> and turn over a gain card. Your current score is 30.
+You press <<G>> and turn over a gain card. Your current score is 40.
+You press <<G>> and turn over a gain card. Your current score is 50.
+You press <<G>> and turn over a gain card. Your current score is 60.
+You press <<G>> and turn over a gain card. Your current score is 70.
+You press <<G>> and turn over a gain card. Your current score is 80.
+You press <<G>> and turn over a gain card. Your current score is 90.
+You press <<G>> and turn over a gain card. Your current score is 100.
+You press <<G>> and turn over a gain card. Your current score is 110.
+You press <<G>> and turn over a gain card. Your current score is 120.
+You press <<G>> and turn over a gain card. Your current score is 130.
+You press <<G>> and turn over a gain card. Your current score is 140.
+You press <<G>> and turn over a gain card. Your current score is 150.
+You press <<G>> and turn over a gain card. Your current score is 160.
+You press <<G>> and turn over a gain card. Your current score is 170.
+You press <<G>> and turn over a loss card. Your current score is -580. The round has now ended because you encountered a loss card.
+Your final score for this round is -580.
+
+Round 39:
+You will be awarded 100 points for turning over a gain card.
+You will lose 50 points for turning over a loss card.
+There are 10 loss cards in this round.
+You press <<G>> and turn over a gain card. Your current score is 100.
+You press <<G>> and turn over a gain card. Your current score is 200.
+You press <<G>> and turn over a gain card. Your current score is 300.
+You press <<G>> and turn over a gain card. Your current score is 400.
+You press <<G>> and turn over a gain card. Your current score is 500.
+You press <<G>> and turn over a loss card. Your current score is 450. The round has now ended because you encountered a loss card.
+Your final score for this round is 450.
+
+Round 40:
+You will be awarded 50 points for turning over a gain card.
+You will lose 750 points for turning over a loss card.
+There are 3 loss cards in this round.
+You press <<G>> and turn over a gain card. Your current score is 50.
+You press <<G>> and turn over a gain card. Your current score is 100.
+You press <<G>> and turn over a loss card. Your current score is -650. The round has now ended because you encountered a loss card.
+Your final score for this round is -650.
+
+Round 41:
+You will be awarded 50 points for turning over a gain card.
+You will lose 500 points for turning over a loss card.
+There are 3 loss cards in this round.
+You press <<G>> and turn over a gain card. Your current score is 50.
+You press <<G>> and turn over a gain card. Your current score is 100.
+You press <<G>> and turn over a gain card. Your current score is 150.
+You press <<G>> and turn over a gain card. Your current score is 200.
+You press <<G>> and turn over a gain card. Your current score is 250.
+You press <<G>> and turn over a gain card. Your current score is 300.
+You press <<G>> and turn over a loss card. Your current score is -200. The round has now ended because you encountered a loss card.
+Your final score for this round is -200.
+
+Round 42:
+You will be awarded 50 points for turning over a gain card.
+You will lose 100 points for turning over a loss card.
+There are 3 loss cards in this round.
+You press <<G>> and turn over a gain card. Your current score is 50.
+You press <<G>> and turn over a loss card. Your current score is -50. The round has now ended because you encountered a loss card.
+Your final score for this round is -50.
+
+
+Round 43:
+You will be awarded 20 points for turning over a gain card.
+You will lose 750 points for turning over a loss card.
+There are 1 loss cards in this round.
+You press <<G>> and turn over a gain card. Your current score is 20.
+You press <<G>> and turn over a gain card. Your current score is 40.
+You press <<G>> and turn over a gain card. Your current score is 60.
+You press <<G>> and turn over a gain card. Your current score is 80.
+You press <<G>> and turn over a gain card. Your current score is 100.
+You press <<G>> and turn over a gain card. Your current score is 120.
+You press <<G>> and turn over a gain card. Your current score is 140.
+You press <<G>> and turn over a loss card. Your current score is -610. The round has now ended because you encountered a loss card.
+Your final score for this round is -610.
+
+Round 44:
+You will be awarded 300 points for turning over a gain card.
+You will lose 50 points for turning over a loss card.
+There are 20 loss cards in this round.
+You press <<G>> and turn over a gain card. Your current score is 300.
+You press <<G>> and turn over a loss card. Your current score is 250. The round has now ended because you encountered a loss card.
+Your final score for this round is 250.
+
+Round 45:
+You will be awarded 150 points for turning over a gain card.
+You will lose 100 points for turning over a loss card.
+There are 10 loss cards in this round.
+You press <<G>> and turn over a gain card. Your current score is 150.
+You press <<G>> and turn over a gain card. Your current score is 300.
+You press <<G>> and turn over a gain card. Your current score is 450.
+You press <<G>> and turn over a gain card. Your current score is 600.
+You press <<G>> and turn over a gain card. Your current score is 750.
+You press <<G>> and turn over a loss card. Your current score is 650. The round has now ended because you encountered a loss card.
+Your final score for this round is 650.
+
+Round 46:
+You will be awarded 150 points for turning over a gain card.
+You will lose 100 points for turning over a loss card.
+There are 10 loss cards in this round.
+You press <<G>> and turn over a gain card. Your current score is 150.
+You press <<G>> and turn over a loss card. Your current score is 50. The round has now ended because you encountered a loss card.
+Your final score for this round is 50.
+
+Round 47:
+You will be awarded 300 points for turning over a gain card.
+You will lose 100 points for turning over a loss card.
+There are 20 loss cards in this round.
+You press <<G>> and turn over a loss card. Your current score is -100. The round has now ended because you encountered a loss card.
+Your final score for this round is -100.
+
+Round 48:
+You will be awarded 10 points for turning over a gain card.
+You will lose 750 points for turning over a loss card.
+There are 3 loss cards in this round.
+You press <<G>> and turn over a gain card. Your current score is 10.
+You press <<G>> and turn over a gain card. Your current score is 20.
+You press <<G>> and turn over a gain card. Your current score is 30.
+You press <<G>> and turn over a gain card. Your current score is 40.
+You press <<G>> and turn over a gain card. Your current score is 50.
+You press <<G>> and turn over a gain card. Your current score is 60.
+You press <<G>> and turn over a gain card. Your current score is 70.
+You press <<G>> and turn over a gain card. Your current score is 80.
+You press <<G>> and turn over a gain card. Your current score is 90.
+You press <<G>> and turn over a loss card. Your current score is -660. The round has now ended because you encountered a loss card.
+Your final score for this round is -660.
+
+Round 49:
+You will be awarded 50 points for turning over a gain card.
+You will lose 750 points for turning over a loss card.
+There are 1 loss cards in this round.
+You press <<G>> and turn over a gain card. Your current score is 50.
+You press <<G>> and turn over a gain card. Your current score is 100.
+You press <<G>> and turn over a gain card. Your current score is 150.
+You press <<G>> and turn over a gain card. Your current score is 200.
+You press <<G>> and turn over a gain card. Your current score is 250.
+You press <<G>> and turn over a gain card. Your current score is 300.
+You press <<G>> and turn over a gain card. Your current score is 350.
+You press <<G>> and turn over a gain card. Your current score is 400.
+You press <<G>> and turn over a gain card. Your current score is 450.
+You press <<G>> and turn over a gain card. Your current score is 500.
+You press <<G>> and turn over a gain card. Your current score is 550.
+You press <<G>> and turn over a gain card. Your current score is 600.
+You press <<G>> and turn over a gain card. Your current score is 650.
+You press <<G>> and turn over a gain card. Your current score is 700.
+You press <<G>> and turn over a gain card. Your current score is 750.
+You press <<G>> and turn over a gain card. Your current score is 800.
+You press <<G>> and turn over a gain card. Your current score is 850.
+You press <<G>> and turn over a gain card. Your current score is 900.
+You press <<G>> and turn over a gain card. Your current score is 950.
+You press <<G>> and turn over a gain card. Your current score is 1000.
+You press <<L>> and claim your payout.
+Your final score for this round is 1000.
+
+Round 50:
+You will be awarded 20 points for turning over a gain card.
+You will lose 750 points for turning over a loss card.
+There are 3 loss cards in this round.
+You press <<G>> and turn over a gain card. Your current score is 20.
+You press <<G>> and turn over a gain card. Your current score is 40.
+You press <<G>> and turn over a gain card. Your current score is 60.
+You press <<G>> and turn over a gain card. Your current score is 80.
+You press <<G>> and turn over a gain card. Your current score is 100.
+You press <<G>> and turn over a loss card. Your current score is -650. The round has now ended because you encountered a loss card.
+Your final score for this round is -650.
+
+Round 51:
+You will be awarded 600 points for turning over a gain card.
+You will lose 150 points for turning over a loss card.
+There are 28 loss cards in this round.
+You press <<G>> and turn over a loss card. Your current score is -150. The round has now ended because you encountered a loss card.
+Your final score for this round is -150.
+
+Round 52:
+You will be awarded 50 points for turning over a gain card.
+You will lose 100 points for turning over a loss card.
+There are 1 loss cards in this round.
+You press <<G>> and turn over a gain card. Your current score is 50.
+You press <<G>> and turn over a gain card. Your current score is 100.
+You press <<G>> and turn over a gain card. Your current score is 150.
+You press <<G>> and turn over a gain card. Your current score is 200.
+You press <<G>> and turn over a gain card. Your current score is 250.
+You press <<G>> and turn over a gain card. Your current score is 300.
+You press <<G>> and turn over a gain card. Your current score is 350.
+You press <<G>> and turn over a gain card. Your current score is 400.
+You press <<G>> and turn over a gain card. Your current score is 450.
+You press <<G>> and turn over a gain card. Your current score is 500.
+You press <<G>> and turn over a gain card. Your current score is 550.
+You press <<G>> and turn over a gain card. Your current score is 600.
+You press <<G>> and turn over a gain card. Your current score is 650.
+You press <<G>> and turn over a gain card. Your current score is 700.
+You press <<G>> and turn over a gain card. Your current score is 750.
+You press <<G>> and turn over a gain card. Your current score is 800.
+You press <<G>> and turn over a gain card. Your current score is 850.
+You press <<G>> and turn over a gain card. Your current score is 900.
+You press <<G>> and turn over a gain card. Your current score is 950.
+You press <<G>> and turn over a gain card. Your current score is 1000.
+You press <<L>> and claim your payout.
+Your final score for this round is 1000.
+
+Round 53:
+You will be awarded 20 points for turning over a gain card.
+You will lose 250 points for turning over a loss card.
+There are 3 loss cards in this round.
+You press <<G>> and turn over a gain card. Your current score is 20.
+You press <<G>> and turn over a gain card. Your current score is 40.
+You press <<G>> and turn over a gain card. Your current score is 60.
+You press <<G>> and turn over a gain card. Your current score is 80.
+You press <<G>> and turn over a gain card. Your current score is 100.
+You press <<G>> and turn over a gain card. Your current score is 120.
+You press <<G>> and turn over a gain card. Your current score is 140.
+You press <<G>> and turn over a gain card. Your current score is 160.
+You press <<G>> and turn over a gain card. Your current score is 180.
+You press <<G>> and turn over a gain card. Your current score is 200.
+You press <<G>> and turn over a gain card. Your current score is 220.
+You press <<G>> and turn over a gain card. Your current score is 240.
+You press <<G>> and turn over a gain card. Your current score is 260.
+You press <<G>> and turn over a gain card. Your current score is 280.
+You press <<G>> and turn over a gain card. Your current score is 300.
+You press <<G>> and turn over a gain card. Your current score is 320.
+You press <<L>> and claim your payout.
+Your final score for this round is 320.
+
+Round 54:
+You will be awarded 50 points for turning over a gain card.
+You will lose 750 points for turning over a loss card.
+There are 1 loss cards in this round.
+You press <<G>> and turn over a gain card. Your current score is 50.
+You press <<G>> and turn over a gain card. Your current score is 100.
+You press <<G>> and turn over a gain card. Your current score is 150.
+You press <<G>> and turn over a gain card. Your current score is 200.
+You press <<G>> and turn over a gain card. Your current score is 250.
+You press <<G>> and turn over a gain card. Your current score is 300.
+You press <<G>> and turn over a gain card. Your current score is 350.
+You press <<G>> and turn over a gain card. Your current score is 400.
+You press <<G>> and turn over a gain card. Your current score is 450.
+You press <<G>> and turn over a gain card. Your current score is 500.
+You press <<G>> and turn over a gain card. Your current score is 550.
+You press <<G>> and turn over a gain card. Your current score is 600.
+You press <<G>> and turn over a gain card. Your current score is 650.
+You press <<G>> and turn over a gain card. Your current score is 700.
+You press <<G>> and turn over a gain card. Your current score is 750.
+You press <<G>> and turn over a gain card. Your current score is 800.
+You press <<G>> and turn over a gain card. Your current score is 850.
+You press <<G>> and turn over a gain card. Your current score is 900.
+You press <<G>> and turn over a gain card. Your current score is 950.
+You press <<G>> and turn over a gain card. Your current score is 1000.
+You press <<L>> and claim your payout.
+Your final score for this round is 1000.
+
+Round 55:
+You will be awarded 20 points for turning over a gain card.
+You will lose 100 points for turning over a loss card.
+There are 1 loss cards in this round.
+You press <<G>> and turn over a gain card. Your current score is 20.
+You press <<G>> and turn over a gain card. Your current score is 40.
+You press <<G>> and turn over a gain card. Your current score is 60.
+You press <<G>> and turn over a gain card. Your current score is 80.
+You press <<G>> and turn over a gain card. Your current score is 100.
+You press <<G>> and turn over a gain card. Your current score is 120.
+You press <<G>> and turn over a gain card. Your current score is 140.
+You press <<G>> and turn over a gain card. Your current score is 160.
+You press <<G>> and turn over a gain card. Your current score is 180.
+You press <<G>> and turn over a gain card. Your current score is 200.
+You press <<G>> and turn over a gain card. Your current score is 220.
+You press <<G>> and turn over a gain card. Your current score is 240.
+You press <<G>> and turn over a gain card. Your current score is 260.
+You press <<G>> and turn over a gain card. Your current score is 280.
+You press <<G>> and turn over a gain card. Your current score is 300.
+You press <<G>> and turn over a gain card. Your current score is 320.
+You press <<G>> and turn over a gain card. Your current score is 340.
+You press <<G>> and turn over a gain card. Your current score is 360.
+You press <<G>> and turn over a gain card. Your current score is 380.
+You press <<G>> and turn over a gain card. Your current score is 400.
+You press <<G>> and turn over a gain card. Your current score is 420.
+You press <<G>> and turn over a gain card. Your current score is 440.
+You press <<G>> and turn over a gain card. Your current score is 460.
+You press <<G>> and turn over a gain card. Your current score is 480.
+You press <<G>> and turn over a gain card. Your current score is 500.
+You press <<G>> and turn over a gain card. Your current score is 520.
+You press <<G>> and turn over a gain card. Your current score is 540.
+You press <<G>> and turn over a gain card. Your current score is 560.
+You press <<G>> and turn over a loss card. Your current score is 460. The round has now ended because you encountered a loss card.
+Your final score for this round is 460.
+
+Round 56:
+You will be awarded 10 points for turning over a gain card.
+You will lose 500 points for turning over a loss card.
+There are 1 loss cards in this round.
+You press <<G>> and turn over a gain card. Your current score is 10.
+You press <<G>> and turn over a gain card. Your current score is 20.
+You press <<G>> and turn over a gain card. Your current score is 30.
+You press <<G>> and turn over a gain card. Your current score is 40.
+You press <<G>> and turn over a gain card. Your current score is 50.
+You press <<G>> and turn over a gain card. Your current score is 60.
+You press <<G>> and turn over a loss card. Your current score is -440. The round has now ended because you encountered a loss card.
+Your final score for this round is -440.
+
+Round 57:
+You will be awarded 10 points for turning over a gain card.
+You will lose 100 points for turning over a loss card.
+There are 3 loss cards in this round.
+You press <<G>> and turn over a gain card. Your current score is 10.
+You press <<G>> and turn over a gain card. Your current score is 20.
+You press <<G>> and turn over a gain card. Your current score is 30.
+You press <<G>> and turn over a gain card. Your current score is 40.
+You press <<G>> and turn over a gain card. Your current score is 50.
+You press <<G>> and turn over a gain card. Your current score is 60.
+You press <<G>> and turn over a gain card. Your current score is 70.
+You press <<G>> and turn over a loss card. Your current score is -30. The round has now ended because you encountered a loss card.
+Your final score for this round is -30.
+
+Round 58:
+You will be awarded 300 points for turning over a gain card.
+You will lose 50 points for turning over a loss card.
+There are 28 loss cards in this round.
+You press <<G>> and turn over a loss card. Your current score is -50. The round has now ended because you encountered a loss card.
+Your final score for this round is -50.
+
+Round 59:
+You will be awarded 150 points for turning over a gain card.
+You will lose 100 points for turning over a loss card.
+There are 16 loss cards in this round.
+You press <<G>> and turn over a gain card. Your current score is 150.
+You press <<G>> and turn over a loss card. Your current score is 50. The round has now ended because you encountered a loss card.
+Your final score for this round is 50.
+
+Round 60:
+You will be awarded 75 points for turning over a gain card.
+You will lose 50 points for turning over a loss card.
+There are 16 loss cards in this round.
+You press <<G>> and turn over a loss card. Your current score is -50. The round has now ended because you encountered a loss card.
+Your final score for this round is -50.
+
+Round 61:
+You will be awarded 200 points for turning over a gain card.
+You will lose 100 points for turning over a loss card.
+There are 10 loss cards in this round.
+You press <<G>> and turn over a gain card. Your current score is 200.
+You press <<G>> and turn over a loss card. Your current score is 100. The round has now ended because you encountered a loss card.
+Your final score for this round is 100.
+
+Round 62:
+You will be awarded 600 points for turning over a gain card.
+You will lose 100 points for turning over a loss card.
+There are 28 loss cards in this round.
+You press <<G>> and turn over a loss card. Your current score is -100. The round has now ended because you encountered a loss card.
+Your final score for this round is -100.
+
+Round 63:
+You will be awarded 20 points for turning over a gain card.
+You will lose 500 points for turning over a loss card.
+There are 1 loss cards in this round.
+You press <<G>> and turn over a gain card. Your current score is 20.
+You press <<G>> and turn over a gain card. Your current score is 40.
+You press <<G>> and turn over a gain card. Your current score is 60.
+You press <<G>> and turn over a gain card. Your current score is 80.
+You press <<G>> and turn over a gain card. Your current score is 100.
+You press <<G>> and turn over a gain card. Your current score is 120.
+You press <<G>> and turn over a gain card. Your current score is 140.
+You press <<G>> and turn over a gain card. Your current score is 160.
+You press <<G>> and turn over a gain card. Your current score is 180.
+You press <<G>> and turn over a gain card. Your current score is 200.
+You press <<G>> and turn over a gain card. Your current score is 220.
+You press <<G>> and turn over a gain card. Your current score is 240.
+You press <<G>> and turn over a gain card. Your current score is 260.
+You press <<G>> and turn over a gain card. Your current score is 280.
+You press <<G>> and turn over a gain card. Your current score is 300.
+You press <<G>> and turn over a loss card. Your current score is -200. The round has now ended because you encountered a loss card.
+Your final score for this round is -200.
+
+
+Round 64:
+You will be awarded 400 points for turning over a gain card.
+You will lose 100 points for turning over a loss card.
+There are 20 loss cards in this round.
+You press <<G>> and turn over a loss card. Your current score is -100. The round has now ended because you encountered a loss card.
+Your final score for this round is -100.
+
+Round 65:
+You will be awarded 50 points for turning over a gain card.
+You will lose 250 points for turning over a loss card.
+There are 1 loss cards in this round.
+You press <<G>> and turn over a loss card. Your current score is -250. The round has now ended because you encountered a loss card.
+Your final score for this round is -250.
+
+Round 66:
+You will be awarded 20 points for turning over a gain card.
+You will lose 500 points for turning over a loss card.
+There are 3 loss cards in this round.
+You press <<G>> and turn over a gain card. Your current score is 20.
+You press <<G>> and turn over a gain card. Your current score is 40.
+You press <<G>> and turn over a gain card. Your current score is 60.
+You press <<G>> and turn over a gain card. Your current score is 80.
+You press <<G>> and turn over a gain card. Your current score is 100.
+You press <<G>> and turn over a loss card. Your current score is -400. The round has now ended because you encountered a loss card.
+Your final score for this round is -400.
+
+Round 67:
+You will be awarded 600 points for turning over a gain card.
+You will lose 50 points for turning over a loss card.
+There are 28 loss cards in this round.
+You press <<G>> and turn over a loss card. Your current score is -50. The round has now ended because you encountered a loss card.
+Your final score for this round is -50.
+
+Round 68:
+You will be awarded 20 points for turning over a gain card.
+You will lose 100 points for turning over a loss card.
+There are 3 loss cards in this round.
+You press <<G>> and turn over a gain card. Your current score is 20.
+You press <<G>> and turn over a gain card. Your current score is 40.
+You press <<G>> and turn over a gain card. Your current score is 60.
+You press <<G>> and turn over a gain card. Your current score is 80.
+You press <<G>> and turn over a gain card. Your current score is 100.
+You press <<G>> and turn over a gain card. Your current score is 120.
+You press <<G>> and turn over a gain card. Your current score is 140.
+You press <<G>> and turn over a gain card. Your current score is 160.
+You press <<G>> and turn over a gain card. Your current score is 180.
+You press <<G>> and turn over a loss card. Your current score is 80. The round has now ended because you encountered a loss card.
+Your final score for this round is 80.
+
+Round 69:
+You will be awarded 20 points for turning over a gain card.
+You will lose 500 points for turning over a loss card.
+There are 3 loss cards in this round.
+You press <<G>> and turn over a gain card. Your current score is 20.
+You press <<G>> and turn over a gain card. Your current score is 40.
+You press <<G>> and turn over a gain card. Your current score is 60.
+You press <<G>> and turn over a gain card. Your current score is 80.
+You press <<G>> and turn over a gain card. Your current score is 100.
+You press <<G>> and turn over a gain card. Your current score is 120.
+You press <<G>> and turn over a gain card. Your current score is 140.
+You press <<G>> and turn over a gain card. Your current score is 160.
+You press <<G>> and turn over a gain card. Your current score is 180.
+You press <<G>> and turn over a gain card. Your current score is 200.
+You press <<G>> and turn over a gain card. Your current score is 220.
+You press <<G>> and turn over a gain card. Your current score is 240.
+You press <<G>> and turn over a loss card. Your current score is -260. The round has now ended because you encountered a loss card.
+Your final score for this round is -260.
+
+Round 70:
+You will be awarded 150 points for turning over a gain card.
+You will lose 50 points for turning over a loss card.
+There are 20 loss cards in this round.
+You press <<G>> and turn over a gain card. Your current score is 150.
+You press <<G>> and turn over a loss card. Your current score is 100. The round has now ended because you encountered a loss card.
+Your final score for this round is 100.
+
+Round 71:
+You will be awarded 75 points for turning over a gain card.
+You will lose 50 points for turning over a loss card.
+There are 10 loss cards in this round.
+You press <<G>> and turn over a loss card. Your current score is -50. The round has now ended because you encountered a loss card.
+Your final score for this round is -50.
+
+Round 72:
+You will be awarded 200 points for turning over a gain card.
+You will lose 100 points for turning over a loss card.
+There are 20 loss cards in this round.
+You press <<G>> and turn over a gain card. Your current score is 200.
+You press <<G>> and turn over a loss card. Your current score is 100. The round has now ended because you encountered a loss card.
+Your final score for this round is 100.
+
+Round 73:
+You will be awarded 150 points for turning over a gain card.
+You will lose 50 points for turning over a loss card.
+There are 20 loss cards in this round.
+You press <<G>> and turn over a loss card. Your current score is -50. The round has now ended because you encountered a loss card.
+Your final score for this round is -50.
+
+Round 74:
+You will be awarded 20 points for turning over a gain card.
+You will lose 250 points for turning over a loss card.
+There are 3 loss cards in this round.
+You press <<G>> and turn over a loss card. Your current score is -250. The round has now ended because you encountered a loss card.
+Your final score for this round is -250.
+
+Round 75:
+You will be awarded 600 points for turning over a gain card.
+You will lose 50 points for turning over a loss card.
+There are 28 loss cards in this round.
+You press <<G>> and turn over a loss card. Your current score is -50. The round has now ended because you encountered a loss card.
+Your final score for this round is -50.
+
+Round 76:
+You will be awarded 75 points for turning over a gain card.
+You will lose 50 points for turning over a loss card.
+There are 16 loss cards in this round.
+You press <<G>> and turn over a loss card. Your current score is -50. The round has now ended because you encountered a loss card.
+Your final score for this round is -50.
+
+Round 77:
+You will be awarded 10 points for turning over a gain card.
+You will lose 100 points for turning over a loss card.
+There are 1 loss cards in this round.
+You press <<G>> and turn over a gain card. Your current score is 10.
+You press <<G>> and turn over a gain card. Your current score is 20.
+You press <<G>> and turn over a gain card. Your current score is 30.
+You press <<G>> and turn over a gain card. Your current score is 40.
+You press <<G>> and turn over a gain card. Your current score is 50.
+You press <<G>> and turn over a gain card. Your current score is 60.
+You press <<G>> and turn over a gain card. Your current score is 70.
+You press <<G>> and turn over a gain card. Your current score is 80.
+You press <<G>> and turn over a gain card. Your current score is 90.
+You press <<G>> and turn over a gain card. Your current score is 100.
+You press <<G>> and turn over a gain card. Your current score is 110.
+You press <<G>> and turn over a gain card. Your current score is 120.
+You press <<G>> and turn over a gain card. Your current score is 130.
+You press <<G>> and turn over a gain card. Your current score is 140.
+You press <<G>> and turn over a gain card. Your current score is 150.
+You press <<G>> and turn over a gain card. Your current score is 160.
+You press <<G>> and turn over a gain card. Your current score is 170.
+You press <<G>> and turn over a gain card. Your current score is 180.
+You press <<G>> and turn over a gain card. Your current score is 190.
+You press <<L>> and claim your payout.
+Your final score for this round is 190.
+
+Round 78:
+You will be awarded 50 points for turning over a gain card.
+You will lose 250 points for turning over a loss card.
+There are 3 loss cards in this round.
+You press <<G>> and turn over a gain card. Your current score is 50.
+You press <<G>> and turn over a loss card. Your current score is -200. The round has now ended because you encountered a loss card.
+Your final score for this round is -200.
+
+Round 79:
+You will be awarded 50 points for turning over a gain card.
+You will lose 500 points for turning over a loss card.
+There are 1 loss cards in this round.
+You press <<G>> and turn over a gain card. Your current score is 50.
+You press <<G>> and turn over a gain card. Your current score is 100.
+You press <<G>> and turn over a gain card. Your current score is 150.
+You press <<G>> and turn over a gain card. Your current score is 200.
+You press <<G>> and turn over a gain card. Your current score is 250.
+You press <<G>> and turn over a gain card. Your current score is 300.
+You press <<G>> and turn over a gain card. Your current score is 350.
+You press <<G>> and turn over a gain card. Your current score is 400.
+You press <<G>> and turn over a gain card. Your current score is 450.
+You press <<G>> and turn over a gain card. Your current score is 500.
+You press <<G>> and turn over a gain card. Your current score is 550.
+You press <<G>> and turn over a gain card. Your current score is 600.
+You press <<G>> and turn over a gain card. Your current score is 650.
+You press <<G>> and turn over a gain card. Your current score is 700.
+You press <<G>> and turn over a gain card. Your current score is 750.
+You press <<G>> and turn over a gain card. Your current score is 800.
+You press <<G>> and turn over a gain card. Your current score is 850.
+You press <<G>> and turn over a loss card. Your current score is 350. The round has now ended because you encountered a loss card.
+Your final score for this round is 350.
+
+Round 80:
+You will be awarded 10 points for turning over a gain card.
+You will lose 100 points for turning over a loss card.
+There are 1 loss cards in this round.
+You press <<G>> and turn over a gain card. Your current score is 10.
+You press <<G>> and turn over a gain card. Your current score is 20.
+You press <<G>> and turn over a gain card. Your current score is 30.
+You press <<G>> and turn over a gain card. Your current score is 40.
+You press <<G>> and turn over a gain card. Your current score is 50.
+You press <<G>> and turn over a gain card. Your current score is 60.
+You press <<G>> and turn over a gain card. Your current score is 70.
+You press <<G>> and turn over a gain card. Your current score is 80.
+You press <<G>> and turn over a gain card. Your current score is 90.
+You press <<G>> and turn over a gain card. Your current score is 100.
+You press <<G>> and turn over a gain card. Your current score is 110.
+You press <<G>> and turn over a gain card. Your current score is 120.
+You press <<G>> and turn over a gain card. Your current score is 130.
+You press <<G>> and turn over a gain card. Your current score is 140.
+You press <<G>> and turn over a gain card. Your current score is 150.
+You press <<G>> and turn over a gain card. Your current score is 160.
+You press <<G>> and turn over a gain card. Your current score is 170.
+You press <<G>> and turn over a gain card. Your current score is 180.
+You press <<G>> and turn over a gain card. Your current score is 190.
+You press <<G>> and turn over a gain card. Your current score is 200.
+You press <<G>> and turn over a gain card. Your current score is 210.
+You press <<G>> and turn over a gain card. Your current score is 220.
+You press <<G>> and turn over a loss card. Your current score is 120. The round has now ended because you encountered a loss card.
+Your final score for this round is 120.
+
+Round 81:
+You will be awarded 150 points for turning over a gain card.
+You will lose 100 points for turning over a loss card.
+There are 16 loss cards in this round.
+You press <<G>> and turn over a gain card. Your current score is 150.
+You press <<G>> and turn over a loss card. Your current score is 50. The round has now ended because you encountered a loss card.
+Your final score for this round is 50.
+
+Round 82:
+You will be awarded 50 points for turning over a gain card.
+You will lose 500 points for turning over a loss card.
+There are 1 loss cards in this round.
+You press <<G>> and turn over a gain card. Your current score is 50.
+You press <<G>> and turn over a gain card. Your current score is 100.
+You press <<G>> and turn over a gain card. Your current score is 150.
+You press <<G>> and turn over a gain card. Your current score is 200.
+You press <<G>> and turn over a gain card. Your current score is 250.
+You press <<G>> and turn over a gain card. Your current score is 300.
+You press <<G>> and turn over a gain card. Your current score is 350.
+You press <<G>> and turn over a gain card. Your current score is 400.
+You press <<G>> and turn over a gain card. Your current score is 450.
+You press <<G>> and turn over a gain card. Your current score is 500.
+You press <<G>> and turn over a gain card. Your current score is 550.
+You press <<G>> and turn over a gain card. Your current score is 600.
+You press <<G>> and turn over a loss card. Your current score is 100. The round has now ended because you encountered a loss card.
+Your final score for this round is 100.
+
+Round 83:
+You will be awarded 100 points for turning over a gain card.
+You will lose 50 points for turning over a loss card.
+There are 28 loss cards in this round.
+You press <<G>> and turn over a loss card. Your current score is -50. The round has now ended because you encountered a loss card.
+Your final score for this round is -50.
+
+Round 84:
+You will be awarded 50 points for turning over a gain card.
+You will lose 250 points for turning over a loss card.
+There are 3 loss cards in this round.
+You press <<G>> and turn over a loss card. Your current score is -250. The round has now ended because you encountered a loss card.
+Your final score for this round is -250.
+

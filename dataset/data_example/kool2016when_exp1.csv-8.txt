@@ -1,0 +1,136 @@
+Each day you will either be presented with spaceships V and X or with spaceships M and D.
+These spaceships will take you to two different planets Z and P.
+You can take a spaceship by pressing the corresponding key.
+Each planet has one alien on it and each alien has its own space treasure mine.
+When you arrive at a planet, you will ask the alien for space treasure from its mine.
+When you ask the alien, you will find out whether you got space treasure.
+However, sometimes the alien's mine will dig up antimatter.
+Antimatter is bad because each piece will destroy a piece of space treasure, reducing the total amount of treasure that you have.
+The quality of each alien's mine will change during the game.
+Your goal is to get as much treasure and as little antimatter as possible over the next 125 days.
+
+You are presented with spaceships D and M. You press <<M>>. You end up on planet Z. You find 2 pieces of antimatter.
+You are presented with spaceships X and V. You press <<X>>. You end up on planet P. You find 3 pieces of space treasure.
+You are presented with spaceships V and X. You press <<X>>. You end up on planet P. You find 3 pieces of space treasure.
+You are presented with spaceships D and M. You press <<D>>. You end up on planet P. You find 3 pieces of space treasure.
+You are presented with spaceships X and V. You press <<X>>. You end up on planet P. You find 2 pieces of space treasure.
+You are presented with spaceships V and X. You press <<X>>. You end up on planet P. You find 2 pieces of space treasure.
+You are presented with spaceships X and V. You press <<X>>. You end up on planet P. You find 3 pieces of space treasure.
+You are presented with spaceships V and X. You press <<X>>. You end up on planet P. You find 2 pieces of space treasure.
+You are presented with spaceships X and V. You press <<X>>. You end up on planet P. You find 4 pieces of space treasure.
+You are presented with spaceships M and D. You do not respond in time on this day. You do not go to any planet. You find nothing.
+You are presented with spaceships M and D. You press <<D>>. You end up on planet P. You find 5 pieces of space treasure.
+You are presented with spaceships V and X. You press <<X>>. You end up on planet P. You find 5 pieces of space treasure.
+You are presented with spaceships X and V. You press <<X>>. You end up on planet P. You find 2 pieces of space treasure.
+You are presented with spaceships D and M. You press <<D>>. You end up on planet P. You find 3 pieces of space treasure.
+You are presented with spaceships X and V. You press <<X>>. You end up on planet P. You find 3 pieces of space treasure.
+You are presented with spaceships D and M. You press <<D>>. You end up on planet P. You find nothing.
+You are presented with spaceships V and X. You press <<V>>. You end up on planet Z. You find 2 pieces of antimatter.
+You are presented with spaceships V and X. You press <<V>>. You end up on planet Z. You find 3 pieces of antimatter.
+You are presented with spaceships X and V. You press <<V>>. You end up on planet Z. You find 4 pieces of antimatter.
+You are presented with spaceships X and V. You press <<X>>. You end up on planet P. You find 4 pieces of antimatter.
+You are presented with spaceships D and M. You press <<M>>. You end up on planet Z. You find 3 pieces of antimatter.
+You are presented with spaceships V and X. You press <<V>>. You end up on planet Z. You find 1 pieces of antimatter.
+You are presented with spaceships X and V. You press <<V>>. You end up on planet Z. You find 1 pieces of space treasure.
+You are presented with spaceships V and X. You press <<V>>. You end up on planet Z. You find 1 pieces of space treasure.
+You are presented with spaceships M and D. You press <<M>>. You end up on planet Z. You find nothing.
+You are presented with spaceships M and D. You press <<M>>. You end up on planet Z. You find 3 pieces of space treasure.
+You are presented with spaceships M and D. You press <<M>>. You end up on planet Z. You find 2 pieces of space treasure.
+You are presented with spaceships X and V. You press <<V>>. You end up on planet Z. You find 2 pieces of space treasure.
+You are presented with spaceships V and X. You press <<V>>. You end up on planet Z. You find 1 pieces of space treasure.
+You are presented with spaceships V and X. You press <<V>>. You end up on planet Z. You find 1 pieces of space treasure.
+You are presented with spaceships M and D. You press <<M>>. You end up on planet Z. You find 2 pieces of space treasure.
+You are presented with spaceships X and V. You press <<V>>. You end up on planet Z. You find 4 pieces of space treasure.
+You are presented with spaceships V and X. You press <<V>>. You end up on planet Z. You find nothing.
+You are presented with spaceships V and X. You press <<X>>. You end up on planet P. You find 3 pieces of space treasure.
+You are presented with spaceships M and D. You press <<M>>. You end up on planet Z. You find 3 pieces of antimatter.
+You are presented with spaceships M and D. You press <<D>>. You end up on planet P. You find 2 pieces of antimatter.
+You are presented with spaceships D and M. You press <<M>>. You end up on planet Z. You find 1 pieces of space treasure.
+You are presented with spaceships V and X. You press <<X>>. You end up on planet P. You find 1 pieces of space treasure.
+You are presented with spaceships V and X. You press <<X>>. You end up on planet P. You find nothing.
+You are presented with spaceships M and D. You press <<M>>. You end up on planet Z. You find 3 pieces of space treasure.
+You are presented with spaceships V and X. You press <<X>>. You end up on planet P. You find 1 pieces of space treasure.
+You are presented with spaceships M and D. You press <<M>>. You end up on planet Z. You find 4 pieces of space treasure.
+You are presented with spaceships X and V. You press <<V>>. You end up on planet Z. You find 1 pieces of space treasure.
+You are presented with spaceships M and D. You press <<M>>. You end up on planet Z. You find 1 pieces of space treasure.
+You are presented with spaceships X and V. You press <<V>>. You end up on planet Z. You find 2 pieces of space treasure.
+You are presented with spaceships V and X. You press <<V>>. You end up on planet Z. You find 3 pieces of space treasure.
+You are presented with spaceships D and M. You press <<M>>. You end up on planet Z. You find 2 pieces of space treasure.
+You are presented with spaceships X and V. You press <<V>>. You end up on planet Z. You find 1 pieces of space treasure.
+You are presented with spaceships V and X. You press <<V>>. You end up on planet Z. You find 2 pieces of space treasure.
+You are presented with spaceships V and X. You press <<V>>. You end up on planet Z. You find 2 pieces of space treasure.
+You are presented with spaceships V and X. You press <<V>>. You end up on planet Z. You find 5 pieces of space treasure.
+You are presented with spaceships X and V. You press <<V>>. You end up on planet Z. You find 4 pieces of space treasure.
+You are presented with spaceships D and M. You press <<M>>. You end up on planet Z. You find 1 pieces of space treasure.
+You are presented with spaceships V and X. You press <<V>>. You end up on planet Z. You find 1 pieces of space treasure.
+You are presented with spaceships X and V. You press <<V>>. You end up on planet Z. You find 2 pieces of space treasure.
+You are presented with spaceships M and D. You press <<M>>. You end up on planet Z. You find 3 pieces of space treasure.
+You are presented with spaceships D and M. You press <<M>>. You end up on planet Z. You find 3 pieces of space treasure.
+You are presented with spaceships D and M. You press <<M>>. You end up on planet Z. You find 2 pieces of space treasure.
+You are presented with spaceships M and D. You press <<M>>. You end up on planet Z. You find 5 pieces of space treasure.
+You are presented with spaceships M and D. You press <<M>>. You end up on planet Z. You find nothing.
+You are presented with spaceships D and M. You press <<D>>. You end up on planet P. You find nothing.
+You are presented with spaceships M and D. You press <<D>>. You end up on planet P. You find 1 pieces of antimatter.
+You are presented with spaceships X and V. You press <<V>>. You end up on planet Z. You find 1 pieces of antimatter.
+You are presented with spaceships D and M. You press <<D>>. You end up on planet P. You find 2 pieces of antimatter.
+You are presented with spaceships X and V. You press <<V>>. You end up on planet Z. You find 1 pieces of antimatter.
+You are presented with spaceships X and V. You press <<V>>. You end up on planet Z. You find 3 pieces of antimatter.
+You are presented with spaceships D and M. You press <<D>>. You end up on planet P. You find 5 pieces of space treasure.
+You are presented with spaceships M and D. You press <<D>>. You end up on planet P. You find 2 pieces of space treasure.
+You are presented with spaceships X and V. You press <<X>>. You end up on planet P. You find nothing.
+You are presented with spaceships X and V. You press <<X>>. You end up on planet P. You find nothing.
+You are presented with spaceships D and M. You press <<D>>. You end up on planet P. You find 2 pieces of antimatter.
+You are presented with spaceships M and D. You press <<M>>. You end up on planet Z. You find 1 pieces of antimatter.
+You are presented with spaceships M and D. You press <<M>>. You end up on planet Z. You find 1 pieces of space treasure.
+You are presented with spaceships V and X. You press <<V>>. You end up on planet Z. You find 2 pieces of space treasure.
+You are presented with spaceships X and V. You press <<V>>. You end up on planet Z. You find 3 pieces of space treasure.
+You are presented with spaceships V and X. You press <<V>>. You end up on planet Z. You find 5 pieces of space treasure.
+You are presented with spaceships V and X. You press <<V>>. You end up on planet Z. You find 5 pieces of space treasure.
+You are presented with spaceships X and V. You press <<V>>. You end up on planet Z. You find 5 pieces of space treasure.
+You are presented with spaceships M and D. You press <<D>>. You end up on planet P. You find 1 pieces of antimatter.
+You are presented with spaceships X and V. You press <<V>>. You end up on planet Z. You find 3 pieces of space treasure.
+You are presented with spaceships V and X. You press <<V>>. You end up on planet Z. You find 2 pieces of space treasure.
+You are presented with spaceships V and X. You press <<V>>. You end up on planet Z. You find 3 pieces of antimatter.
+You are presented with spaceships X and V. You press <<X>>. You end up on planet P. You find 3 pieces of antimatter.
+You are presented with spaceships D and M. You press <<D>>. You end up on planet P. You find 1 pieces of antimatter.
+You are presented with spaceships M and D. You press <<D>>. You end up on planet P. You find 2 pieces of antimatter.
+You are presented with spaceships D and M. You press <<D>>. You end up on planet P. You find 1 pieces of antimatter.
+You are presented with spaceships V and X. You press <<X>>. You end up on planet P. You find 2 pieces of antimatter.
+You are presented with spaceships X and V. You press <<V>>. You end up on planet Z. You find 4 pieces of space treasure.
+You are presented with spaceships V and X. You press <<V>>. You end up on planet Z. You find 4 pieces of space treasure.
+You are presented with spaceships X and V. You press <<V>>. You end up on planet Z. You find 1 pieces of space treasure.
+You are presented with spaceships M and D. You press <<M>>. You end up on planet Z. You find 1 pieces of antimatter.
+You are presented with spaceships M and D. You press <<D>>. You end up on planet P. You find 1 pieces of space treasure.
+You are presented with spaceships M and D. You press <<D>>. You end up on planet P. You find 4 pieces of space treasure.
+You are presented with spaceships X and V. You press <<X>>. You end up on planet P. You find 4 pieces of space treasure.
+You are presented with spaceships X and V. You press <<X>>. You end up on planet P. You find 3 pieces of space treasure.
+You are presented with spaceships X and V. You press <<X>>. You end up on planet P. You find 5 pieces of space treasure.
+You are presented with spaceships X and V. You press <<X>>. You end up on planet P. You find 3 pieces of space treasure.
+You are presented with spaceships M and D. You press <<D>>. You end up on planet P. You find nothing.
+You are presented with spaceships V and X. You press <<V>>. You end up on planet Z. You find 1 pieces of antimatter.
+You are presented with spaceships D and M. You press <<M>>. You end up on planet Z. You find 1 pieces of space treasure.
+You are presented with spaceships V and X. You press <<V>>. You end up on planet Z. You find 1 pieces of space treasure.
+You are presented with spaceships V and X. You press <<V>>. You end up on planet Z. You find 2 pieces of space treasure.
+You are presented with spaceships X and V. You press <<V>>. You end up on planet Z. You find 1 pieces of space treasure.
+You are presented with spaceships X and V. You press <<V>>. You end up on planet Z. You find 1 pieces of space treasure.
+You are presented with spaceships V and X. You press <<V>>. You end up on planet Z. You find 2 pieces of antimatter.
+You are presented with spaceships V and X. You press <<X>>. You end up on planet P. You find 3 pieces of antimatter.
+You are presented with spaceships D and M. You press <<M>>. You end up on planet Z. You find 1 pieces of space treasure.
+You are presented with spaceships M and D. You press <<M>>. You end up on planet Z. You find 2 pieces of space treasure.
+You are presented with spaceships X and V. You press <<V>>. You end up on planet Z. You find 2 pieces of space treasure.
+You are presented with spaceships D and M. You press <<M>>. You end up on planet Z. You find 4 pieces of space treasure.
+You are presented with spaceships D and M. You press <<M>>. You end up on planet Z. You find 4 pieces of space treasure.
+You are presented with spaceships V and X. You press <<V>>. You end up on planet Z. You find 5 pieces of space treasure.
+You are presented with spaceships V and X. You press <<V>>. You end up on planet Z. You find 4 pieces of space treasure.
+You are presented with spaceships V and X. You press <<V>>. You end up on planet Z. You find 5 pieces of space treasure.
+You are presented with spaceships D and M. You press <<M>>. You end up on planet Z. You find 4 pieces of space treasure.
+You are presented with spaceships X and V. You press <<V>>. You end up on planet Z. You find 3 pieces of space treasure.
+You are presented with spaceships X and V. You press <<V>>. You end up on planet Z. You find 3 pieces of space treasure.
+You are presented with spaceships M and D. You press <<M>>. You end up on planet Z. You find 4 pieces of space treasure.
+You are presented with spaceships X and V. You press <<V>>. You end up on planet Z. You find 5 pieces of space treasure.
+You are presented with spaceships X and V. You press <<V>>. You end up on planet Z. You find 5 pieces of space treasure.
+You are presented with spaceships D and M. You press <<M>>. You end up on planet Z. You find 1 pieces of space treasure.
+You are presented with spaceships V and X. You press <<V>>. You end up on planet Z. You find 1 pieces of space treasure.
+You are presented with spaceships V and X. You press <<V>>. You end up on planet Z. You find 5 pieces of space treasure.
+You are presented with spaceships X and V. You press <<V>>. You end up on planet Z. You find 4 pieces of space treasure.
+You are presented with spaceships X and V. You press <<V>>. You end up on planet Z. You find 3 pieces of space treasure.

@@ -1,0 +1,81 @@
+You will repeatedly observe sequences of six letters.
+You have to remember these letters before they disappear.
+Afterward, you will be prompted with one letter. You have to answer whether the letter was part of the six previous letters.
+If you think it was, you have to press N. If you think it was not, press L.
+
+You are shown the letters ['F', 'P', 'V', 'Q', 'G', 'L']. You see the letter T. You press <<L>>.
+You are shown the letters ['U', 'V', 'F', 'R', 'P', 'H']. You see the letter P. You press <<N>>.
+You are shown the letters ['F', 'B', 'V', 'Y', 'S', 'U']. You see the letter P. You press <<L>>.
+You are shown the letters ['B', 'K', 'V', 'Q', 'O', 'F']. You see the letter O. You press <<N>>.
+You are shown the letters ['L', 'J', 'G', 'U', 'E', 'D']. You see the letter D. You press <<N>>.
+You are shown the letters ['J', 'L', 'O', 'X', 'G', 'Y']. You see the letter V. You press <<L>>.
+You are shown the letters ['I', 'N', 'P', 'L', 'O', 'J']. You see the letter X. You press <<L>>.
+You are shown the letters ['H', 'Z', 'I', 'N', 'P', 'W']. You see the letter W. You press <<L>>.
+You are shown the letters ['Z', 'I', 'T', 'V', 'H', 'D']. You see the letter R. You press <<L>>.
+You are shown the letters ['T', 'Z', 'I', 'A', 'J', 'X']. You see the letter T. You press <<N>>.
+You are shown the letters ['F', 'Z', 'T', 'O', 'U', 'I']. You see the letter A. You press <<L>>.
+You are shown the letters ['S', 'Z', 'F', 'K', 'T', 'N']. You see the letter N. You press <<N>>.
+You are shown the letters ['S', 'Z', 'F', 'R', 'E', 'B']. You see the letter F. You press <<L>>.
+You are shown the letters ['Z', 'P', 'S', 'F', 'A', 'D']. You see the letter Z. You press <<N>>.
+You are shown the letters ['W', 'O', 'T', 'S', 'Z', 'P']. You see the letter Z. You press <<N>>.
+You are shown the letters ['W', 'H', 'T', 'O', 'B', 'M']. You see the letter O. You press <<N>>.
+You are shown the letters ['D', 'T', 'X', 'W', 'Q', 'H']. You see the letter M. You press <<L>>.
+You are shown the letters ['S', 'X', 'I', 'D', 'N', 'T']. You see the letter T. You press <<N>>.
+You are shown the letters ['M', 'I', 'S', 'Y', 'X', 'P']. You see the letter P. You press <<N>>.
+You are shown the letters ['S', 'B', 'J', 'E', 'I', 'M']. You see the letter R. You press <<L>>.
+You are shown the letters ['Z', 'S', 'V', 'O', 'J', 'B']. You see the letter E. You press <<L>>.
+You are shown the letters ['S', 'V', 'C', 'Z', 'H', 'L']. You see the letter V. You press <<N>>.
+You are shown the letters ['C', 'V', 'U', 'M', 'S', 'Y']. You see the letter W. You press <<L>>.
+You are shown the letters ['T', 'K', 'V', 'D', 'C', 'U']. You see the letter D. You press <<N>>.
+You are shown the letters ['V', 'L', 'J', 'T', 'G', 'K']. You see the letter W. You press <<N>>.
+You are shown the letters ['J', 'H', 'L', 'S', 'V', 'M']. You see the letter V. You press <<N>>.
+You are shown the letters ['L', 'U', 'J', 'H', 'O', 'X']. You see the letter M. You press <<L>>.
+You are shown the letters ['J', 'A', 'R', 'F', 'L', 'U']. You see the letter J. You press <<N>>.
+You are shown the letters ['I', 'U', 'L', 'X', 'A', 'N']. You see the letter L. You press <<N>>.
+You are shown the letters ['U', 'Z', 'C', 'I', 'D', 'L']. You see the letter N. You press <<L>>.
+You are shown the letters ['F', 'U', 'G', 'C', 'P', 'Z']. You see the letter J. You press <<L>>.
+You are shown the letters ['O', 'F', 'U', 'W', 'G', 'M']. You see the letter Q. You press <<L>>.
+You are shown the letters ['F', 'A', 'X', 'U', 'S', 'O']. You see the letter S. You press <<N>>.
+You are shown the letters ['F', 'A', 'X', 'B', 'D', 'T']. You see the letter Y. You press <<N>>.
+You are shown the letters ['A', 'V', 'F', 'X', 'W', 'E']. You see the letter D. You press <<L>>.
+You are shown the letters ['V', 'P', 'N', 'A', 'F', 'G']. You see the letter D. You press <<L>>.
+You are shown the letters ['N', 'Y', 'L', 'V', 'D', 'P']. You see the letter V. You press <<N>>.
+You are shown the letters ['Y', 'O', 'L', 'R', 'N', 'W']. You see the letter N. You press <<L>>.
+You are shown the letters ['G', 'L', 'O', 'Y', 'C', 'K']. You see the letter E. You press <<L>>.
+You are shown the letters ['O', 'S', 'L', 'Q', 'D', 'G']. You see the letter D. You press <<N>>.
+You are shown the letters ['S', 'O', 'E', 'Z', 'L', 'V']. You see the letter D. You press <<L>>.
+You are shown the letters ['W', 'C', 'S', 'O', 'E', 'N']. You see the letter C. You press <<N>>.
+You are shown the letters ['S', 'J', 'H', 'X', 'C', 'W']. You see the letter H. You press <<L>>.
+You are shown the letters ['P', 'H', 'R', 'B', 'J', 'S']. You see the letter V. You press <<L>>.
+You are shown the letters ['A', 'H', 'P', 'F', 'V', 'R']. You see the letter V. You press <<N>>.
+You are shown the letters ['A', 'P', 'T', 'K', 'H', 'E']. You see the letter X. You press <<L>>.
+You are shown the letters ['A', 'O', 'P', 'T', 'Y', 'D']. You see the letter K. You press <<L>>.
+You are shown the letters ['V', 'P', 'C', 'W', 'A', 'O']. You see the letter A. You press <<L>>.
+You are shown the letters ['S', 'U', 'P', 'C', 'N', 'V']. You see the letter C. You press <<N>>.
+You are shown the letters ['D', 'P', 'S', 'L', 'R', 'U']. You see the letter N. You press <<L>>.
+You are shown the letters ['J', 'D', 'I', 'G', 'S', 'P']. You see the letter P. You press <<N>>.
+You are shown the letters ['H', 'I', 'B', 'W', 'J', 'D']. You see the letter H. You press <<N>>.
+You are shown the letters ['H', 'A', 'W', 'R', 'Q', 'O']. You see the letter V. You press <<L>>.
+You are shown the letters ['J', 'W', 'A', 'K', 'H', 'F']. You see the letter W. You press <<N>>.
+You are shown the letters ['A', 'V', 'L', 'I', 'J', 'W']. You see the letter Y. You press <<L>>.
+You are shown the letters ['N', 'S', 'V', 'B', 'A', 'L']. You see the letter S.
+You are shown the letters ['T', 'K', 'G', 'V', 'N', 'S']. You see the letter A. You press <<L>>.
+You are shown the letters ['K', 'T', 'G', 'R', 'I', 'W']. You see the letter R. You press <<N>>.
+You are shown the letters ['T', 'C', 'H', 'G', 'O', 'K']. You see the letter U. You press <<L>>.
+You are shown the letters ['Z', 'X', 'C', 'H', 'M', 'T']. You see the letter W. You press <<L>>.
+You are shown the letters ['P', 'X', 'B', 'C', 'Z', 'S']. You see the letter C. You press <<N>>.
+You are shown the letters ['B', 'L', 'J', 'P', 'F', 'X']. You see the letter J. You press <<N>>.
+You are shown the letters ['Q', 'B', 'L', 'J', 'E', 'W']. You see the letter Q.
+You are shown the letters ['T', 'Q', 'B', 'R', 'C', 'L']. You see the letter P. You press <<N>>.
+You are shown the letters ['B', 'X', 'Q', 'K', 'T', 'U']. You see the letter C. You press <<L>>.
+You are shown the letters ['X', 'B', 'Q', 'G', 'O', 'N']. You see the letter N. You press <<L>>.
+You are shown the letters ['B', 'J', 'E', 'Q', 'X', 'V']. You see the letter G. You press <<N>>.
+You are shown the letters ['Y', 'A', 'E', 'J', 'B', 'U']. You see the letter X. You press <<N>>.
+You are shown the letters ['O', 'E', 'A', 'Y', 'G', 'H']. You see the letter B. You press <<L>>.
+You are shown the letters ['Z', 'A', 'K', 'E', 'N', 'O']. You see the letter E. You press <<N>>.
+You are shown the letters ['K', 'U', 'Z', 'L', 'I', 'A']. You see the letter N. You press <<L>>.
+You are shown the letters ['U', 'Y', 'M', 'J', 'K', 'Z']. You see the letter M. You press <<N>>.
+You are shown the letters ['U', 'Y', 'N', 'E', 'M', 'H']. You see the letter M. You press <<N>>.
+You are shown the letters ['V', 'X', 'N', 'O', 'U', 'Y']. You see the letter E. You press <<L>>.
+You are shown the letters ['N', 'P', 'W', 'X', 'K', 'V']. You see the letter U. You press <<L>>.
+You are shown the letters ['Z', 'C', 'N', 'W', 'E', 'P']. You see the letter U.

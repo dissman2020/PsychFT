@@ -1,0 +1,315 @@
+You will explore a castle, walking from room to room.
+In each room, you will find different amounts of resources: wood, stone, and iron.
+In each room, there are three doors that lead to different rooms.
+The doors are labeled U, C, and E.
+You have to choose the right doors to find the most valuable resources.
+You choose a door by pressing the corresponding key.
+At the beginning of each round, you will be shown how valuable the resources are.
+These values are given as market prices for wood, stone, and iron.
+Multiplying the prices with the amounts of resources and adding them up yields a reward.
+You want to maximize the cumulative reward.
+After every round, you will start in room 0 again and see the new market prices.
+
+The current market prices are 1 for wood, -1 for stone, and 0 for iron.
+You are in room 0. You press <<U>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 1. You press <<U>> and you find 0 wood, 10 stone, and 0 iron. You get -10 points.
+The current market prices are -1 for wood, 1 for stone, and 0 for iron.
+You are in room 0. You press <<C>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 2. You press <<E>> and you find 0 wood, 90 stone, and 0 iron. You get 90 points.
+The current market prices are 1 for wood, -2 for stone, and 0 for iron.
+You are in room 0. You press <<E>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 3. You press <<U>> and you find 0 wood, 0 stone, and 10 iron. You get 0 points.
+The current market prices are 1 for wood, -1 for stone, and 0 for iron.
+You are in room 0. You press <<U>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 1. You press <<U>> and you find 0 wood, 10 stone, and 0 iron. You get -10 points.
+The current market prices are 1 for wood, -2 for stone, and 0 for iron.
+You are in room 0. You press <<E>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 3. You press <<U>> and you find 0 wood, 0 stone, and 10 iron. You get 0 points.
+The current market prices are -1 for wood, 1 for stone, and 0 for iron.
+You are in room 0. You press <<C>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 2. You press <<E>> and you find 0 wood, 90 stone, and 0 iron. You get 90 points.
+The current market prices are 1 for wood, -2 for stone, and 0 for iron.
+You are in room 0. You press <<E>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 3. You press <<U>> and you find 0 wood, 0 stone, and 10 iron. You get 0 points.
+The current market prices are -2 for wood, 1 for stone, and 0 for iron.
+You are in room 0. You press <<C>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 2. You press <<E>> and you find 0 wood, 90 stone, and 0 iron. You get 90 points.
+The current market prices are 1 for wood, -2 for stone, and 0 for iron.
+You are in room 0. You press <<U>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 1. You press <<U>> and you find 0 wood, 10 stone, and 0 iron. You get -20 points.
+The current market prices are -2 for wood, 1 for stone, and 0 for iron.
+You are in room 0. You press <<E>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 3. You press <<U>> and you find 0 wood, 0 stone, and 10 iron. You get 0 points.
+The current market prices are 1 for wood, -1 for stone, and 0 for iron.
+You are in room 0. You press <<C>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 2. You press <<E>> and you find 0 wood, 90 stone, and 0 iron. You get -90 points.
+The current market prices are 1 for wood, -1 for stone, and 0 for iron.
+You are in room 0. You press <<E>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 3. You press <<E>> and you find 10 wood, 0 stone, and 0 iron. You get 10 points.
+The current market prices are -1 for wood, 1 for stone, and 0 for iron.
+You are in room 0. You press <<U>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 1. You press <<C>> and you find 100 wood, 0 stone, and 0 iron. You get -100 points.
+The current market prices are 1 for wood, -2 for stone, and 0 for iron.
+You are in room 0. You press <<C>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 2. You press <<E>> and you find 0 wood, 90 stone, and 0 iron. You get -180 points.
+The current market prices are 1 for wood, -1 for stone, and 0 for iron.
+You are in room 0. You press <<E>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 3. You press <<C>> and you find 0 wood, 100 stone, and 60 iron. You get -100 points.
+The current market prices are -2 for wood, 1 for stone, and 0 for iron.
+You are in room 0. You press <<E>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 3. You press <<E>> and you find 10 wood, 0 stone, and 0 iron. You get -20 points.
+The current market prices are 1 for wood, -1 for stone, and 0 for iron.
+You are in room 0. You press <<U>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 1. You press <<E>> and you find 40 wood, 40 stone, and 130 iron. You get 0 points.
+The current market prices are 1 for wood, -1 for stone, and 0 for iron.
+You are in room 0. You press <<E>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 3. You press <<E>> and you find 10 wood, 0 stone, and 0 iron. You get 10 points.
+The current market prices are -2 for wood, 1 for stone, and 0 for iron.
+You are in room 0. You press <<U>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 1. You press <<C>> and you find 100 wood, 0 stone, and 0 iron. You get -200 points.
+The current market prices are -2 for wood, 1 for stone, and 0 for iron.
+You are in room 0. You press <<E>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 3. You press <<C>> and you find 0 wood, 100 stone, and 60 iron. You get 100 points.
+The current market prices are 1 for wood, -2 for stone, and 0 for iron.
+You are in room 0. You press <<C>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 2. You press <<U>> and you find 90 wood, 0 stone, and 0 iron. You get 90 points.
+The current market prices are 1 for wood, -1 for stone, and 0 for iron.
+You are in room 0. You press <<E>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 3. You press <<E>> and you find 10 wood, 0 stone, and 0 iron. You get 10 points.
+The current market prices are 1 for wood, -1 for stone, and 0 for iron.
+You are in room 0. You press <<U>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 1. You press <<E>> and you find 40 wood, 40 stone, and 130 iron. You get 0 points.
+The current market prices are -1 for wood, 1 for stone, and 0 for iron.
+You are in room 0. You press <<U>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 1. You press <<C>> and you find 100 wood, 0 stone, and 0 iron. You get -100 points.
+The current market prices are 1 for wood, -2 for stone, and 0 for iron.
+You are in room 0. You press <<C>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 2. You press <<E>> and you find 0 wood, 90 stone, and 0 iron. You get -180 points.
+The current market prices are -1 for wood, 1 for stone, and 0 for iron.
+You are in room 0. You press <<U>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 1. You press <<E>> and you find 40 wood, 40 stone, and 130 iron. You get 0 points.
+The current market prices are -1 for wood, 1 for stone, and 0 for iron.
+You are in room 0. You press <<U>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 1. You press <<U>> and you find 0 wood, 10 stone, and 0 iron. You get 10 points.
+The current market prices are -2 for wood, 1 for stone, and 0 for iron.
+You are in room 0. You press <<C>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 2. You press <<C>> and you find 100 wood, 100 stone, and 0 iron. You get -100 points.
+The current market prices are 1 for wood, -1 for stone, and 0 for iron.
+You are in room 0. You press <<C>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 2. You press <<E>> and you find 0 wood, 90 stone, and 0 iron. You get -90 points.
+The current market prices are -2 for wood, 1 for stone, and 0 for iron.
+You are in room 0. You press <<U>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 1. You press <<E>> and you find 40 wood, 40 stone, and 130 iron. You get -40 points.
+The current market prices are -1 for wood, 1 for stone, and 0 for iron.
+You are in room 0. You press <<C>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 2. You press <<E>> and you find 0 wood, 90 stone, and 0 iron. You get 90 points.
+The current market prices are -2 for wood, 1 for stone, and 0 for iron.
+You are in room 0. You press <<E>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 3. You press <<C>> and you find 0 wood, 100 stone, and 60 iron. You get 100 points.
+The current market prices are -2 for wood, 1 for stone, and 0 for iron.
+You are in room 0. You press <<E>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 3. You press <<U>> and you find 0 wood, 0 stone, and 10 iron. You get 0 points.
+The current market prices are -1 for wood, 1 for stone, and 0 for iron.
+You are in room 0. You press <<C>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 2. You press <<E>> and you find 0 wood, 90 stone, and 0 iron. You get 90 points.
+The current market prices are -1 for wood, 1 for stone, and 0 for iron.
+You are in room 0. You press <<E>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 3. You press <<C>> and you find 0 wood, 100 stone, and 60 iron. You get 100 points.
+The current market prices are -1 for wood, 1 for stone, and 0 for iron.
+You are in room 0. You press <<U>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 1. You press <<U>> and you find 0 wood, 10 stone, and 0 iron. You get 10 points.
+The current market prices are -2 for wood, 1 for stone, and 0 for iron.
+You are in room 0. You press <<E>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 3. You press <<E>> and you find 10 wood, 0 stone, and 0 iron. You get -20 points.
+The current market prices are -1 for wood, 1 for stone, and 0 for iron.
+You are in room 0. You press <<U>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 1. You press <<E>> and you find 40 wood, 40 stone, and 130 iron. You get 0 points.
+The current market prices are -2 for wood, 1 for stone, and 0 for iron.
+You are in room 0. You press <<C>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 2. You press <<U>> and you find 90 wood, 0 stone, and 0 iron. You get -180 points.
+The current market prices are 1 for wood, -1 for stone, and 0 for iron.
+You are in room 0. You press <<C>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 2. You press <<E>> and you find 0 wood, 90 stone, and 0 iron. You get -90 points.
+The current market prices are 1 for wood, -1 for stone, and 0 for iron.
+You are in room 0. You press <<E>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 3. You press <<C>> and you find 0 wood, 100 stone, and 60 iron. You get -100 points.
+The current market prices are -1 for wood, 1 for stone, and 0 for iron.
+You are in room 0. You press <<E>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 3. You press <<U>> and you find 0 wood, 0 stone, and 10 iron. You get 0 points.
+The current market prices are 1 for wood, -1 for stone, and 0 for iron.
+You are in room 0. You press <<C>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 2. You press <<E>> and you find 0 wood, 90 stone, and 0 iron. You get -90 points.
+The current market prices are -2 for wood, 1 for stone, and 0 for iron.
+You are in room 0. You press <<U>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 1. You press <<C>> and you find 100 wood, 0 stone, and 0 iron. You get -200 points.
+The current market prices are 1 for wood, -2 for stone, and 0 for iron.
+You are in room 0. You press <<C>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 2. You press <<C>> and you find 100 wood, 100 stone, and 0 iron. You get -100 points.
+The current market prices are -1 for wood, 1 for stone, and 0 for iron.
+You are in room 0. You press <<U>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 1. You press <<C>> and you find 100 wood, 0 stone, and 0 iron. You get -100 points.
+The current market prices are 1 for wood, -2 for stone, and 0 for iron.
+You are in room 0. You press <<U>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 1. You press <<C>> and you find 100 wood, 0 stone, and 0 iron. You get 100 points.
+The current market prices are -2 for wood, 1 for stone, and 0 for iron.
+You are in room 0. You press <<C>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 2. You press <<U>> and you find 90 wood, 0 stone, and 0 iron. You get -180 points.
+The current market prices are 1 for wood, -2 for stone, and 0 for iron.
+You are in room 0. You press <<U>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 1. You press <<E>> and you find 40 wood, 40 stone, and 130 iron. You get -40 points.
+The current market prices are -1 for wood, 1 for stone, and 0 for iron.
+You are in room 0. You press <<U>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 1. You press <<C>> and you find 100 wood, 0 stone, and 0 iron. You get -100 points.
+The current market prices are -2 for wood, 1 for stone, and 0 for iron.
+You are in room 0. You press <<U>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 1. You press <<U>> and you find 0 wood, 10 stone, and 0 iron. You get 10 points.
+The current market prices are 1 for wood, -1 for stone, and 0 for iron.
+You are in room 0. You press <<E>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 3. You press <<E>> and you find 10 wood, 0 stone, and 0 iron. You get 10 points.
+The current market prices are 1 for wood, -1 for stone, and 0 for iron.
+You are in room 0. You press <<E>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 3. You press <<C>> and you find 0 wood, 100 stone, and 60 iron. You get -100 points.
+The current market prices are 1 for wood, -2 for stone, and 0 for iron.
+You are in room 0. You press <<E>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 3. You press <<E>> and you find 10 wood, 0 stone, and 0 iron. You get 10 points.
+The current market prices are 1 for wood, -1 for stone, and 0 for iron.
+You are in room 0. You press <<C>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 2. You press <<E>> and you find 0 wood, 90 stone, and 0 iron. You get -90 points.
+The current market prices are 1 for wood, -1 for stone, and 0 for iron.
+You are in room 0. You press <<U>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 1. You press <<E>> and you find 40 wood, 40 stone, and 130 iron. You get 0 points.
+The current market prices are 1 for wood, -1 for stone, and 0 for iron.
+You are in room 0. You press <<U>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 1. You press <<U>> and you find 0 wood, 10 stone, and 0 iron. You get -10 points.
+The current market prices are -1 for wood, 1 for stone, and 0 for iron.
+You are in room 0. You press <<C>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 2. You press <<U>> and you find 90 wood, 0 stone, and 0 iron. You get -90 points.
+The current market prices are -1 for wood, 1 for stone, and 0 for iron.
+You are in room 0. You press <<E>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 3. You press <<E>> and you find 10 wood, 0 stone, and 0 iron. You get -10 points.
+The current market prices are 1 for wood, -1 for stone, and 0 for iron.
+You are in room 0. You press <<C>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 2. You press <<U>> and you find 90 wood, 0 stone, and 0 iron. You get 90 points.
+The current market prices are 1 for wood, -2 for stone, and 0 for iron.
+You are in room 0. You press <<E>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 3. You press <<E>> and you find 10 wood, 0 stone, and 0 iron. You get 10 points.
+The current market prices are -2 for wood, 1 for stone, and 0 for iron.
+You are in room 0. You press <<E>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 3. You press <<C>> and you find 0 wood, 100 stone, and 60 iron. You get 100 points.
+The current market prices are -2 for wood, 1 for stone, and 0 for iron.
+You are in room 0. You press <<C>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 2. You press <<U>> and you find 90 wood, 0 stone, and 0 iron. You get -180 points.
+The current market prices are -1 for wood, 1 for stone, and 0 for iron.
+You are in room 0. You press <<E>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 3. You press <<E>> and you find 10 wood, 0 stone, and 0 iron. You get -10 points.
+The current market prices are -2 for wood, 1 for stone, and 0 for iron.
+You are in room 0. You press <<U>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 1. You press <<U>> and you find 0 wood, 10 stone, and 0 iron. You get 10 points.
+The current market prices are -1 for wood, 1 for stone, and 0 for iron.
+You are in room 0. You press <<C>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 2. You press <<E>> and you find 0 wood, 90 stone, and 0 iron. You get 90 points.
+The current market prices are 1 for wood, -2 for stone, and 0 for iron.
+You are in room 0. You press <<E>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 3. You press <<C>> and you find 0 wood, 100 stone, and 60 iron. You get -200 points.
+The current market prices are -2 for wood, 1 for stone, and 0 for iron.
+You are in room 0. You press <<E>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 3. You press <<E>> and you find 10 wood, 0 stone, and 0 iron. You get -20 points.
+The current market prices are 1 for wood, -2 for stone, and 0 for iron.
+You are in room 0. You press <<C>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 2. You press <<U>> and you find 90 wood, 0 stone, and 0 iron. You get 90 points.
+The current market prices are 1 for wood, -2 for stone, and 0 for iron.
+You are in room 0. You press <<E>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 3. You press <<U>> and you find 0 wood, 0 stone, and 10 iron. You get 0 points.
+The current market prices are 1 for wood, -2 for stone, and 0 for iron.
+You are in room 0. You press <<E>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 3. You press <<E>> and you find 10 wood, 0 stone, and 0 iron. You get 10 points.
+The current market prices are -2 for wood, 1 for stone, and 0 for iron.
+You are in room 0. You press <<U>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 1. You press <<C>> and you find 100 wood, 0 stone, and 0 iron. You get -200 points.
+The current market prices are 1 for wood, -2 for stone, and 0 for iron.
+You are in room 0. You press <<E>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 3. You press <<C>> and you find 0 wood, 100 stone, and 60 iron. You get -200 points.
+The current market prices are -1 for wood, 1 for stone, and 0 for iron.
+You are in room 0. You press <<C>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 2. You press <<E>> and you find 0 wood, 90 stone, and 0 iron. You get 90 points.
+The current market prices are -1 for wood, 1 for stone, and 0 for iron.
+You are in room 0. You press <<U>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 1. You press <<C>> and you find 100 wood, 0 stone, and 0 iron. You get -100 points.
+The current market prices are -2 for wood, 1 for stone, and 0 for iron.
+You are in room 0. You press <<E>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 3. You press <<C>> and you find 0 wood, 100 stone, and 60 iron. You get 100 points.
+The current market prices are -2 for wood, 1 for stone, and 0 for iron.
+You are in room 0. You press <<E>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 3. You press <<E>> and you find 10 wood, 0 stone, and 0 iron. You get -20 points.
+The current market prices are -2 for wood, 1 for stone, and 0 for iron.
+You are in room 0. You press <<E>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 3. You press <<C>> and you find 0 wood, 100 stone, and 60 iron. You get 100 points.
+The current market prices are 1 for wood, -2 for stone, and 0 for iron.
+You are in room 0. You press <<E>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 3. You press <<U>> and you find 0 wood, 0 stone, and 10 iron. You get 0 points.
+The current market prices are 1 for wood, -2 for stone, and 0 for iron.
+You are in room 0. You press <<C>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 2. You press <<E>> and you find 0 wood, 90 stone, and 0 iron. You get -180 points.
+The current market prices are -1 for wood, 1 for stone, and 0 for iron.
+You are in room 0. You press <<E>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 3. You press <<C>> and you find 0 wood, 100 stone, and 60 iron. You get 100 points.
+The current market prices are 1 for wood, -1 for stone, and 0 for iron.
+You are in room 0. You press <<C>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 2. You press <<U>> and you find 90 wood, 0 stone, and 0 iron. You get 90 points.
+The current market prices are -1 for wood, 1 for stone, and 0 for iron.
+You are in room 0. You press <<E>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 3. You press <<C>> and you find 0 wood, 100 stone, and 60 iron. You get 100 points.
+The current market prices are -2 for wood, 1 for stone, and 0 for iron.
+You are in room 0. You press <<C>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 2. You press <<C>> and you find 100 wood, 100 stone, and 0 iron. You get -100 points.
+The current market prices are 1 for wood, -1 for stone, and 0 for iron.
+You are in room 0. You press <<C>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 2. You press <<U>> and you find 90 wood, 0 stone, and 0 iron. You get 90 points.
+The current market prices are 1 for wood, -2 for stone, and 0 for iron.
+You are in room 0. You press <<U>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 1. You press <<C>> and you find 100 wood, 0 stone, and 0 iron. You get 100 points.
+The current market prices are 1 for wood, -2 for stone, and 0 for iron.
+You are in room 0. You press <<C>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 2. You press <<U>> and you find 90 wood, 0 stone, and 0 iron. You get 90 points.
+The current market prices are 1 for wood, -2 for stone, and 0 for iron.
+You are in room 0. You press <<E>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 3. You press <<C>> and you find 0 wood, 100 stone, and 60 iron. You get -200 points.
+The current market prices are 1 for wood, -2 for stone, and 0 for iron.
+You are in room 0. You press <<C>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 2. You press <<U>> and you find 90 wood, 0 stone, and 0 iron. You get 90 points.
+The current market prices are 1 for wood, -1 for stone, and 0 for iron.
+You are in room 0. You press <<U>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 1. You press <<C>> and you find 100 wood, 0 stone, and 0 iron. You get 100 points.
+The current market prices are -1 for wood, 1 for stone, and 0 for iron.
+You are in room 0. You press <<E>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 3. You press <<E>> and you find 10 wood, 0 stone, and 0 iron. You get -10 points.
+The current market prices are 1 for wood, -1 for stone, and 0 for iron.
+You are in room 0. You press <<C>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 2. You press <<U>> and you find 90 wood, 0 stone, and 0 iron. You get 90 points.
+The current market prices are -1 for wood, 1 for stone, and 0 for iron.
+You are in room 0. You press <<U>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 1. You press <<C>> and you find 100 wood, 0 stone, and 0 iron. You get -100 points.
+The current market prices are 1 for wood, -1 for stone, and 0 for iron.
+You are in room 0. You press <<C>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 2. You press <<U>> and you find 90 wood, 0 stone, and 0 iron. You get 90 points.
+The current market prices are -2 for wood, 1 for stone, and 0 for iron.
+You are in room 0. You press <<C>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 2. You press <<U>> and you find 90 wood, 0 stone, and 0 iron. You get -180 points.
+The current market prices are -1 for wood, 1 for stone, and 0 for iron.
+You are in room 0. You press <<E>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 3. You press <<C>> and you find 0 wood, 100 stone, and 60 iron. You get 100 points.
+The current market prices are -2 for wood, 1 for stone, and 0 for iron.
+You are in room 0. You press <<E>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 3. You press <<C>> and you find 0 wood, 100 stone, and 60 iron. You get 100 points.
+The current market prices are 1 for wood, -2 for stone, and 0 for iron.
+You are in room 0. You press <<C>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 2. You press <<U>> and you find 90 wood, 0 stone, and 0 iron. You get 90 points.
+The current market prices are 1 for wood, -1 for stone, and 0 for iron.
+You are in room 0. You press <<E>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 3. You press <<E>> and you find 10 wood, 0 stone, and 0 iron. You get 10 points.
+The current market prices are 1 for wood, -2 for stone, and 0 for iron.
+You are in room 0. You press <<U>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 1. You press <<C>> and you find 100 wood, 0 stone, and 0 iron. You get 100 points.
+The current market prices are 1 for wood, 1 for stone, and 1 for iron.
+You are in room 0. You press <<C>> and you find 0 wood, 0 stone, and 0 iron. You get 0 points.
+You are in room 2. You press <<U>> and you find 90 wood, 0 stone, and 0 iron. You get 90 points.

@@ -1,0 +1,248 @@
+In this task, you have to repeatedly choose between two slot machines labeled T and Y.
+You can choose a slot machine by pressing its corresponding key.
+When you select one of the machines, you will win or lose points.
+Machine T will not always give you the same points when you select it again, but machine Y will always give 0 points when you select it.
+Your goal is to choose the slot machines that will give you the most points.
+You will receive feedback about the outcome after making a choice.
+You will play 20 games in total, each with a different pair of slot machines.
+Each game will consist of 10 trials.
+
+Game 1:
+You press <<T>> and get 1 points.
+You press <<Y>> and get 0 points.
+You press <<T>> and get 1 points.
+You press <<T>> and get 1 points.
+You press <<Y>> and get 0 points.
+You press <<T>> and get 1 points.
+You press <<T>> and get 3 points.
+You press <<T>> and get 3 points.
+You press <<T>> and get 2 points.
+You press <<T>> and get 4 points.
+
+Game 2:
+You press <<Y>> and get 0 points.
+You press <<T>> and get 0 points.
+You press <<Y>> and get 0 points.
+You press <<T>> and get -2 points.
+You press <<T>> and get 0 points.
+You press <<Y>> and get 0 points.
+You press <<T>> and get -2 points.
+You press <<Y>> and get 0 points.
+You press <<Y>> and get 0 points.
+You press <<Y>> and get 0 points.
+
+Game 3:
+You press <<T>> and get -2 points.
+You press <<Y>> and get 0 points.
+You press <<Y>> and get 0 points.
+You press <<Y>> and get 0 points.
+You press <<Y>> and get 0 points.
+You press <<Y>> and get 0 points.
+You press <<T>> and get 0 points.
+You press <<T>> and get 2 points.
+You press <<T>> and get 0 points.
+You press <<T>> and get 0 points.
+
+Game 4:
+You press <<T>> and get 0 points.
+You press <<Y>> and get 0 points.
+You press <<T>> and get -1 points.
+You press <<Y>> and get 0 points.
+You press <<T>> and get 0 points.
+You press <<T>> and get -1 points.
+You press <<Y>> and get 0 points.
+You press <<T>> and get 0 points.
+You press <<T>> and get -1 points.
+You press <<Y>> and get 0 points.
+
+Game 5:
+You press <<T>> and get -2 points.
+You press <<Y>> and get 0 points.
+You press <<T>> and get -3 points.
+You press <<Y>> and get 0 points.
+You press <<T>> and get -1 points.
+You press <<Y>> and get 0 points.
+You press <<T>> and get -1 points.
+You press <<Y>> and get 0 points.
+You press <<T>> and get -4 points.
+You press <<Y>> and get 0 points.
+
+Game 6:
+You press <<T>> and get 0 points.
+You press <<Y>> and get 0 points.
+You press <<T>> and get 0 points.
+You press <<Y>> and get 0 points.
+You press <<T>> and get 1 points.
+You press <<T>> and get 0 points.
+You press <<Y>> and get 0 points.
+You press <<T>> and get -1 points.
+You press <<Y>> and get 0 points.
+You press <<T>> and get 0 points.
+
+Game 7:
+You press <<Y>> and get 0 points.
+You press <<T>> and get -2 points.
+You press <<Y>> and get 0 points.
+You press <<T>> and get -2 points.
+You press <<Y>> and get 0 points.
+You press <<T>> and get -1 points.
+You press <<Y>> and get 0 points.
+You press <<T>> and get -2 points.
+You press <<Y>> and get 0 points.
+You press <<T>> and get -3 points.
+
+Game 8:
+You press <<Y>> and get 0 points.
+You press <<T>> and get -2 points.
+You press <<Y>> and get 0 points.
+You press <<Y>> and get 0 points.
+You press <<T>> and get 0 points.
+You press <<T>> and get 0 points.
+You press <<Y>> and get 0 points.
+You press <<T>> and get -1 points.
+You press <<Y>> and get 0 points.
+You press <<T>> and get 1 points.
+
+Game 9:
+You press <<Y>> and get 0 points.
+You press <<T>> and get -1 points.
+You press <<Y>> and get 0 points.
+You press <<T>> and get -3 points.
+You press <<Y>> and get 0 points.
+You press <<Y>> and get 0 points.
+You press <<T>> and get -2 points.
+You press <<Y>> and get 0 points.
+You press <<Y>> and get 0 points.
+You press <<Y>> and get 0 points.
+
+Game 10:
+You press <<Y>> and get 0 points.
+You press <<T>> and get 0 points.
+You press <<T>> and get -1 points.
+You press <<Y>> and get 0 points.
+You press <<T>> and get -1 points.
+You press <<Y>> and get 0 points.
+You press <<Y>> and get 0 points.
+You press <<Y>> and get 0 points.
+You press <<Y>> and get 0 points.
+You press <<Y>> and get 0 points.
+
+Game 11:
+You press <<Y>> and get 0 points.
+You press <<T>> and get 0 points.
+You press <<T>> and get 0 points.
+You press <<Y>> and get 0 points.
+You press <<T>> and get 0 points.
+You press <<Y>> and get 0 points.
+You press <<T>> and get 2 points.
+You press <<T>> and get 0 points.
+You press <<Y>> and get 0 points.
+You press <<T>> and get 0 points.
+
+Game 12:
+You press <<T>> and get 2 points.
+You press <<Y>> and get 0 points.
+You press <<T>> and get 1 points.
+You press <<Y>> and get 0 points.
+You press <<T>> and get 1 points.
+You press <<Y>> and get 0 points.
+You press <<T>> and get 1 points.
+You press <<T>> and get -1 points.
+You press <<Y>> and get 0 points.
+You press <<T>> and get 1 points.
+
+Game 13:
+You press <<T>> and get -2 points.
+You press <<Y>> and get 0 points.
+You press <<T>> and get 2 points.
+You press <<T>> and get 1 points.
+You press <<Y>> and get 0 points.
+You press <<T>> and get 2 points.
+You press <<T>> and get 1 points.
+You press <<Y>> and get 0 points.
+You press <<T>> and get 1 points.
+You press <<T>> and get -1 points.
+
+Game 14:
+You press <<T>> and get 0 points.
+You press <<Y>> and get 0 points.
+You press <<T>> and get 0 points.
+You press <<Y>> and get 0 points.
+You press <<T>> and get 1 points.
+You press <<T>> and get 0 points.
+You press <<T>> and get -1 points.
+You press <<Y>> and get 0 points.
+You press <<T>> and get 1 points.
+You press <<T>> and get -1 points.
+
+Game 15:
+You press <<T>> and get -1 points.
+You press <<Y>> and get 0 points.
+You press <<T>> and get -1 points.
+You press <<Y>> and get 0 points.
+You press <<Y>> and get 0 points.
+You press <<Y>> and get 0 points.
+You press <<Y>> and get 0 points.
+You press <<Y>> and get 0 points.
+You press <<Y>> and get 0 points.
+You press <<Y>> and get 0 points.
+
+Game 16:
+You press <<T>> and get -3 points.
+You press <<Y>> and get 0 points.
+You press <<T>> and get -5 points.
+You press <<Y>> and get 0 points.
+You press <<Y>> and get 0 points.
+You press <<Y>> and get 0 points.
+You press <<Y>> and get 0 points.
+You press <<Y>> and get 0 points.
+You press <<T>> and get -5 points.
+You press <<Y>> and get 0 points.
+
+Game 17:
+You press <<Y>> and get 0 points.
+You press <<T>> and get 1 points.
+You press <<T>> and get 1 points.
+You press <<T>> and get 0 points.
+You press <<Y>> and get 0 points.
+You press <<T>> and get 0 points.
+You press <<Y>> and get 0 points.
+You press <<T>> and get 0 points.
+You press <<T>> and get -1 points.
+You press <<T>> and get 1 points.
+
+Game 18:
+You press <<Y>> and get 0 points.
+You press <<T>> and get -1 points.
+You press <<T>> and get 2 points.
+You press <<Y>> and get 0 points.
+You press <<T>> and get 0 points.
+You press <<T>> and get 0 points.
+You press <<Y>> and get 0 points.
+You press <<T>> and get 0 points.
+You press <<Y>> and get 0 points.
+You press <<T>> and get 0 points.
+
+Game 19:
+You press <<Y>> and get 0 points.
+You press <<T>> and get 0 points.
+You press <<T>> and get 0 points.
+You press <<Y>> and get 0 points.
+You press <<T>> and get 0 points.
+You press <<Y>> and get 0 points.
+You press <<T>> and get -1 points.
+You press <<Y>> and get 0 points.
+You press <<Y>> and get 0 points.
+You press <<Y>> and get 0 points.
+
+Game 20:
+You press <<T>> and get 0 points.
+You press <<Y>> and get 0 points.
+You press <<T>> and get 1 points.
+You press <<T>> and get 1 points.
+You press <<Y>> and get 0 points.
+You press <<T>> and get 0 points.
+You press <<T>> and get 1 points.
+You press <<Y>> and get 0 points.
+You press <<T>> and get 2 points.
+You press <<T>> and get 2 points.

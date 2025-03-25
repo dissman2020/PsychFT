@@ -1,0 +1,180 @@
+In this experiment, you will go through three cycles of three tasks.
+Each cycle concerns itself with a list of 30 word pairs for you to study.
+In the first task of each cycle, you will go through the list.
+You need to remember the word pairs indicated by a blue border.
+For each word pair, please make a judgement on whether the object on the left is larger or smaller than the object on the right, and press the key "T" if the object on the left is larger, and the key "O" if it is smaller instead.
+In the second task of each cycle, you will try to solve as many arithmetic equations as you can in one minute.
+In the third task of each cycle, you will recall the words that you memorized in the first task of that cycle.
+
+List 1, task 1: 
+You see the word pair "frog" (on the left) and "spider" (on the right), surrounded by a black border. You press <<O>>. The word pair disappears but the black border turns blue, which stays for another 3 seconds before disappearing.
+You see the word pair "lemon" (on the left) and "pole" (on the right), surrounded by a black border. You press <<T>>. The word pair disappears but the black border turns red, which stays for another 3 seconds before disappearing.
+You see the word pair "burger" (on the left) and "island" (on the right), surrounded by a black border. You press <<O>>. The word pair disappears but the black border turns red, which stays for another 3 seconds before disappearing.
+You see the word pair "tooth" (on the left) and "pipe" (on the right), surrounded by a black border. You press <<T>>. The word pair disappears but the black border turns blue, which stays for another 3 seconds before disappearing.
+You see the word pair "chair" (on the left) and "pillow" (on the right), surrounded by a black border. You press <<O>>. The word pair disappears but the black border turns blue, which stays for another 3 seconds before disappearing.
+You see the word pair "ranch" (on the left) and "peanut" (on the right), surrounded by a black border. You press <<O>>. The word pair disappears but the black border turns red, which stays for another 3 seconds before disappearing.
+You see the word pair "clinic" (on the left) and "beach" (on the right), surrounded by a black border. You press <<O>>. The word pair disappears but the black border turns blue, which stays for another 3 seconds before disappearing.
+You see the word pair "market" (on the left) and "dragon" (on the right), surrounded by a black border. You press <<O>>. The word pair disappears but the black border turns red, which stays for another 3 seconds before disappearing.
+You see the word pair "lawyer" (on the left) and "penny" (on the right), surrounded by a black border. You press <<T>>. The word pair disappears but the black border turns blue, which stays for another 3 seconds before disappearing.
+You see the word pair "cave" (on the left) and "wolf" (on the right), surrounded by a black border. You press <<T>>. The word pair disappears but the black border turns red, which stays for another 3 seconds before disappearing.
+You see the word pair "garden" (on the left) and "brick" (on the right), surrounded by a black border. You press <<O>>. The word pair disappears but the black border turns blue, which stays for another 3 seconds before disappearing.
+You see the word pair "bush" (on the left) and "priest" (on the right), surrounded by a black border. You press <<T>>. The word pair disappears but the black border turns blue, which stays for another 3 seconds before disappearing.
+You see the word pair "bible" (on the left) and "cigar" (on the right), surrounded by a black border. You press <<T>>. The word pair disappears but the black border turns blue, which stays for another 3 seconds before disappearing.
+You see the word pair "shotgun" (on the left) and "earth" (on the right), surrounded by a black border. You press <<T>>. The word pair disappears but the black border turns red, which stays for another 3 seconds before disappearing.
+You see the word pair "medal" (on the left) and "doctor" (on the right), surrounded by a black border. You press <<O>>. The word pair disappears but the black border turns red, which stays for another 3 seconds before disappearing.
+You see the word pair "curtain" (on the left) and "nest" (on the right), surrounded by a black border. You press <<T>>. The word pair disappears but the black border turns red, which stays for another 3 seconds before disappearing.
+You see the word pair "jeep" (on the left) and "corn" (on the right), surrounded by a black border. You press <<O>>. The word pair disappears but the black border turns blue, which stays for another 3 seconds before disappearing.
+You see the word pair "banana" (on the left) and "devil" (on the right), surrounded by a black border. You press <<T>>. The word pair disappears but the black border turns blue, which stays for another 3 seconds before disappearing.
+You see the word pair "underwear" (on the left) and "mouse" (on the right), surrounded by a black border. You press <<T>>. The word pair disappears but the black border turns red, which stays for another 3 seconds before disappearing.
+You see the word pair "finger" (on the left) and "towel" (on the right), surrounded by a black border. You press <<T>>. The word pair disappears but the black border turns red, which stays for another 3 seconds before disappearing.
+You see the word pair "needle" (on the left) and "nanny" (on the right), surrounded by a black border. You press <<O>>. The word pair disappears but the black border turns blue, which stays for another 3 seconds before disappearing.
+You see the word pair "monkey" (on the left) and "surgeon" (on the right), surrounded by a black border. You press <<T>>. The word pair disappears but the black border turns red, which stays for another 3 seconds before disappearing.
+You see the word pair "couch" (on the left) and "belt" (on the right), surrounded by a black border. You press <<O>>. The word pair disappears but the black border turns red, which stays for another 3 seconds before disappearing.
+You see the word pair "tent" (on the left) and "camera" (on the right), surrounded by a black border. You press <<T>>. The word pair disappears but the black border turns red, which stays for another 3 seconds before disappearing.
+You see the word pair "horse" (on the left) and "valley" (on the right), surrounded by a black border. You press <<T>>. The word pair disappears but the black border turns red, which stays for another 3 seconds before disappearing.
+You see the word pair "clown" (on the left) and "robin" (on the right), surrounded by a black border. You press <<O>>. The word pair disappears but the black border turns blue, which stays for another 3 seconds before disappearing.
+You see the word pair "tank" (on the left) and "cage" (on the right), surrounded by a black border. You press <<O>>. The word pair disappears but the black border turns blue, which stays for another 3 seconds before disappearing.
+You see the word pair "casino" (on the left) and "elephant" (on the right), surrounded by a black border. You press <<O>>. The word pair disappears but the black border turns blue, which stays for another 3 seconds before disappearing.
+You see the word pair "forest" (on the left) and "knife" (on the right), surrounded by a black border. You press <<O>>. The word pair disappears but the black border turns red, which stays for another 3 seconds before disappearing.
+You see the word pair "pearl" (on the left) and "pumpkin" (on the right), surrounded by a black border. You press <<T>>. The word pair disappears but the black border turns blue, which stays for another 3 seconds before disappearing.
+
+List 1, task 2:
+You see the equation (6 + 6) * 6. You answer <<72.0>>.
+You see the equation (2 + 6) * 5. You answer <<40.0>>.
+You see the equation (4 - 3) * 8. You answer <<8.0>>.
+You see the equation (23 - 17) / 6. You answer <<1.0>>.
+You see the equation (8 + 3) * 4. You answer <<44.0>>.
+You see the equation (6 + 6) / 3. You answer <<4.0>>.
+You see the equation (7 + 13) / 4. You answer <<5.0>>.
+You see the equation (13 + 23) * 2. You answer <<72.0>>.
+You see the equation (17 + 23) / 8. You answer <<5.0>>.
+You see the equation (21 - 9) / 4. You answer <<3.0>>.
+You see the equation (7 + 2) * 8. You answer <<80.0>>.
+You see the equation (50 - 23) / 9. You answer <<4.0>>.
+You see the equation (9 + 3) * 2.
+
+List 1, task 3:
+Please recall and type out, as many as you can, the words you were told to remember (marked by a blue border) in task 1.
+You type the word <<spider>>.
+You type the word <<frog>>.
+You type the word <<tooth>>.
+You type the word <<pipe>>.
+You type the word <<pillow>>.
+You type the word <<chair>>.
+You type the word <<garden>>.
+You type the word <<brick>>.
+You type the word <<lawyer>>.
+
+List 2, task 1: 
+You see the word pair "chicken" (on the left) and "chin" (on the right), surrounded by a black border. You press <<T>>. The word pair disappears but the black border turns red, which stays for another 3 seconds before disappearing.
+You see the word pair "skull" (on the left) and "nail" (on the right), surrounded by a black border. You press <<T>>. The word pair disappears but the black border turns blue, which stays for another 3 seconds before disappearing.
+You see the word pair "concert" (on the left) and "elevator" (on the right), surrounded by a black border. You press <<O>>. The word pair disappears but the black border turns red, which stays for another 3 seconds before disappearing.
+You see the word pair "hammer" (on the left) and "toast" (on the right), surrounded by a black border. You press <<T>>. The word pair disappears but the black border turns blue, which stays for another 3 seconds before disappearing.
+You see the word pair "railroad" (on the left) and "bone" (on the right), surrounded by a black border. You press <<O>>. The word pair disappears but the black border turns blue, which stays for another 3 seconds before disappearing.
+You see the word pair "goat" (on the left) and "house" (on the right), surrounded by a black border. You press <<T>>. The word pair disappears but the black border turns red, which stays for another 3 seconds before disappearing.
+You see the word pair "bride" (on the left) and "circus" (on the right), surrounded by a black border. You press <<O>>. The word pair disappears but the black border turns blue, which stays for another 3 seconds before disappearing.
+You see the word pair "barn" (on the left) and "ocean" (on the right), surrounded by a black border. You press <<T>>. The word pair disappears but the black border turns red, which stays for another 3 seconds before disappearing.
+You see the word pair "taxi" (on the left) and "tunnel" (on the right), surrounded by a black border. You press <<O>>. The word pair disappears but the black border turns red, which stays for another 3 seconds before disappearing.
+You see the word pair "jewelry" (on the left) and "badge" (on the right), surrounded by a black border. You press <<T>>. The word pair disappears but the black border turns red, which stays for another 3 seconds before disappearing.
+You see the word pair "barrel" (on the left) and "lawn" (on the right), surrounded by a black border. You press <<O>>. The word pair disappears but the black border turns blue, which stays for another 3 seconds before disappearing.
+You see the word pair "castle" (on the left) and "highway" (on the right), surrounded by a black border. You press <<T>>. The word pair disappears but the black border turns blue, which stays for another 3 seconds before disappearing.
+You see the word pair "wrist" (on the left) and "fruit" (on the right), surrounded by a black border. You press <<T>>. The word pair disappears but the black border turns blue, which stays for another 3 seconds before disappearing.
+You see the word pair "pilot" (on the left) and "bedroom" (on the right), surrounded by a black border. You press <<O>>. The word pair disappears but the black border turns blue, which stays for another 3 seconds before disappearing.
+You see the word pair "lion" (on the left) and "orange" (on the right), surrounded by a black border. You press <<T>>. The word pair disappears but the black border turns red, which stays for another 3 seconds before disappearing.
+You see the word pair "eagle" (on the left) and "tire" (on the right), surrounded by a black border. You press <<T>>. The word pair disappears but the black border turns red, which stays for another 3 seconds before disappearing.
+You see the word pair "heart" (on the left) and "soda" (on the right), surrounded by a black border. You press <<O>>. The word pair disappears but the black border turns blue, which stays for another 3 seconds before disappearing.
+You see the word pair "satellite" (on the left) and "window" (on the right), surrounded by a black border. You press <<T>>. The word pair disappears but the black border turns blue, which stays for another 3 seconds before disappearing.
+You see the word pair "phone" (on the left) and "bucket" (on the right), surrounded by a black border. You press <<O>>. The word pair disappears but the black border turns blue, which stays for another 3 seconds before disappearing.
+You see the word pair "whale" (on the left) and "butler" (on the right), surrounded by a black border. You press <<O>>. The word pair disappears but the black border turns blue, which stays for another 3 seconds before disappearing.
+You see the word pair "pistol" (on the left) and "dog" (on the right), surrounded by a black border. You press <<T>>. The word pair disappears but the black border turns blue, which stays for another 3 seconds before disappearing.
+You see the word pair "tower" (on the left) and "dice" (on the right), surrounded by a black border. You press <<T>>. The word pair disappears but the black border turns red, which stays for another 3 seconds before disappearing.
+You see the word pair "harbor" (on the left) and "library" (on the right), surrounded by a black border. You press <<O>>. The word pair disappears but the black border turns red, which stays for another 3 seconds before disappearing.
+You see the word pair "dessert" (on the left) and "bacon" (on the right), surrounded by a black border. You press <<T>>. The word pair disappears but the black border turns blue, which stays for another 3 seconds before disappearing.
+You see the word pair "sweater" (on the left) and "shark" (on the right), surrounded by a black border. You press <<T>>. The word pair disappears but the black border turns red, which stays for another 3 seconds before disappearing.
+You see the word pair "school" (on the left) and "sheep" (on the right), surrounded by a black border. You press <<O>>. The word pair disappears but the black border turns red, which stays for another 3 seconds before disappearing.
+You see the word pair "sink" (on the left) and "costume" (on the right), surrounded by a black border. You press <<O>>. The word pair disappears but the black border turns red, which stays for another 3 seconds before disappearing.
+You see the word pair "bike" (on the left) and "opera" (on the right), surrounded by a black border. You press <<O>>. The word pair disappears but the black border turns red, which stays for another 3 seconds before disappearing.
+You see the word pair "worm" (on the left) and "statue" (on the right), surrounded by a black border. You press <<T>>. The word pair disappears but the black border turns red, which stays for another 3 seconds before disappearing.
+You see the word pair "cocktail" (on the left) and "turtle" (on the right), surrounded by a black border. You press <<O>>. The word pair disappears but the black border turns blue, which stays for another 3 seconds before disappearing.
+
+List 2, task 2:
+You see the equation (2 + 2) * 2. You answer <<8.0>>.
+You see the equation (3 + 3) * 8. You answer <<48.0>>.
+You see the equation (3 + 9) * 2. You answer <<24.0>>.
+You see the equation (21 + 12) / 11. You answer <<3.0>>.
+You see the equation (12 - 3) / 3. You answer <<3.0>>.
+You see the equation (6 + 6) / 3. You answer <<4.0>>.
+You see the equation (23 - 17) / 6. You answer <<1.0>>.
+You see the equation (1 + 7) * 6. You answer <<48.0>>.
+You see the equation (8 + 8) / 4. You answer <<4.0>>.
+You see the equation (21 - 9) / 4. You answer <<3.0>>.
+You see the equation (9 - 3) * 3. You answer <<9.0>>.
+You see the equation (7 + 8) * 3. You answer <<5.0>>.
+You see the equation (4 + 4) * 4. You answer <<24.0>>.
+You see the equation (9 - 5) * 4. You answer <<16.0>>.
+
+List 2, task 3:
+Please recall and type out, as many as you can, the words you were told to remember (marked by a blue border) in task 1.
+You type the word <<skull>>.
+You type the word <<hammer>>.
+You type the word <<bone>>.
+You type the word <<circus>>.
+You type the word <<bride>>.
+You type the word <<pistol>>.
+
+List 3, task 1: 
+You see the word pair "factory" (on the left) and "stairs" (on the right), surrounded by a black border. You press <<O>>. The word pair disappears but the black border turns red, which stays for another 3 seconds before disappearing.
+You see the word pair "wallet" (on the left) and "airplane" (on the right), surrounded by a black border. You press <<T>>. The word pair disappears but the black border turns blue, which stays for another 3 seconds before disappearing.
+You see the word pair "rabbit" (on the left) and "child" (on the right), surrounded by a black border. You press <<T>>. The word pair disappears but the black border turns blue, which stays for another 3 seconds before disappearing.
+You see the word pair "flower" (on the left) and "dentist" (on the right), surrounded by a black border. You press <<O>>. The word pair disappears but the black border turns blue, which stays for another 3 seconds before disappearing.
+You see the word pair "branch" (on the left) and "cherry" (on the right), surrounded by a black border. You press <<T>>. The word pair disappears but the black border turns red, which stays for another 3 seconds before disappearing.
+You see the word pair "whistle" (on the left) and "tiger" (on the right), surrounded by a black border. You press <<O>>. The word pair disappears but the black border turns red, which stays for another 3 seconds before disappearing.
+You see the word pair "steak" (on the left) and "diamond" (on the right), surrounded by a black border. You press <<T>>. The word pair disappears but the black border turns blue, which stays for another 3 seconds before disappearing.
+You see the word pair "lamp" (on the left) and "planet" (on the right), surrounded by a black border. You press <<O>>. The word pair disappears but the black border turns red, which stays for another 3 seconds before disappearing.
+You see the word pair "sandwich" (on the left) and "basket" (on the right), surrounded by a black border. You press <<T>>. The word pair disappears but the black border turns red, which stays for another 3 seconds before disappearing.
+You see the word pair "waiter" (on the left) and "coast" (on the right), surrounded by a black border. You press <<O>>. The word pair disappears but the black border turns blue, which stays for another 3 seconds before disappearing.
+You see the word pair "church" (on the left) and "passport" (on the right), surrounded by a black border. You press <<O>>. The word pair disappears but the black border turns red, which stays for another 3 seconds before disappearing.
+You see the word pair "robot" (on the left) and "horn" (on the right), surrounded by a black border. You press <<T>>. The word pair disappears but the black border turns blue, which stays for another 3 seconds before disappearing.
+You see the word pair "piano" (on the left) and "glove" (on the right), surrounded by a black border. You press <<O>>. The word pair disappears but the black border turns red, which stays for another 3 seconds before disappearing.
+You see the word pair "train" (on the left) and "table" (on the right), surrounded by a black border. You press <<T>>. The word pair disappears but the black border turns blue, which stays for another 3 seconds before disappearing.
+You see the word pair "carpet" (on the left) and "jungle" (on the right), surrounded by a black border. You press <<T>>. The word pair disappears but the black border turns red, which stays for another 3 seconds before disappearing.
+You see the word pair "cookie" (on the left) and "bread" (on the right), surrounded by a black border. You press <<O>>. The word pair disappears but the black border turns blue, which stays for another 3 seconds before disappearing.
+You see the word pair "basement" (on the left) and "knee" (on the right), surrounded by a black border. You press <<O>>. The word pair disappears but the black border turns blue, which stays for another 3 seconds before disappearing.
+You see the word pair "blanket" (on the left) and "soldier" (on the right), surrounded by a black border. You press <<O>>. The word pair disappears but the black border turns blue, which stays for another 3 seconds before disappearing.
+You see the word pair "brain" (on the left) and "virus" (on the right), surrounded by a black border. You press <<T>>. The word pair disappears but the black border turns red, which stays for another 3 seconds before disappearing.
+You see the word pair "pill" (on the left) and "apple" (on the right), surrounded by a black border. You press <<O>>. The word pair disappears but the black border turns red, which stays for another 3 seconds before disappearing.
+You see the word pair "crown" (on the left) and "nurse" (on the right), surrounded by a black border. You press <<T>>. The word pair disappears but the black border turns blue, which stays for another 3 seconds before disappearing.
+You see the word pair "potato" (on the left) and "bridge" (on the right), surrounded by a black border. You press <<T>>. The word pair disappears but the black border turns red, which stays for another 3 seconds before disappearing.
+You see the word pair "liver" (on the left) and "cabin" (on the right), surrounded by a black border. You press <<O>>. The word pair disappears but the black border turns red, which stays for another 3 seconds before disappearing.
+You see the word pair "palace" (on the left) and "newspaper" (on the right), surrounded by a black border. You press <<O>>. The word pair disappears but the black border turns blue, which stays for another 3 seconds before disappearing.
+You see the word pair "guitar" (on the left) and "goose" (on the right), surrounded by a black border. You press <<O>>. The word pair disappears but the black border turns red, which stays for another 3 seconds before disappearing.
+You see the word pair "empire" (on the left) and "buffalo" (on the right), surrounded by a black border. You press <<O>>. The word pair disappears but the black border turns red, which stays for another 3 seconds before disappearing.
+You see the word pair "bowl" (on the left) and "universe" (on the right), surrounded by a black border. You press <<O>>. The word pair disappears but the black border turns blue, which stays for another 3 seconds before disappearing.
+You see the word pair "purse" (on the left) and "pizza" (on the right), surrounded by a black border. You press <<T>>. The word pair disappears but the black border turns red, which stays for another 3 seconds before disappearing.
+You see the word pair "string" (on the left) and "cloud" (on the right), surrounded by a black border. You press <<O>>. The word pair disappears but the black border turns blue, which stays for another 3 seconds before disappearing.
+You see the word pair "fort" (on the left) and "boot" (on the right), surrounded by a black border. You press <<O>>. The word pair disappears but the black border turns blue, which stays for another 3 seconds before disappearing.
+
+List 3, task 2:
+You see the equation (2 + 6) * 5. You answer <<40.0>>.
+You see the equation (23 - 17) / 6. You answer <<2.0>>.
+You see the equation (3 + 3) * 8. You answer <<48.0>>.
+You see the equation (4 - 3) * 8. You answer <<8.0>>.
+You see the equation (2 + 2) * 2. You answer <<8.0>>.
+You see the equation (1 + 7) * 6. You answer <<36.0>>.
+You see the equation (7 + 8) * 3. You answer <<36.0>>.
+You see the equation (2 + 3) * 4. You answer <<36.0>>.
+You see the equation (3 + 6) / 3. You answer <<3.0>>.
+You see the equation (17 + 23) / 8. You answer <<5.0>>.
+You see the equation (6 + 6) * 6. You answer <<66.0>>.
+You see the equation (12 - 3) / 3. You answer <<3.0>>.
+You see the equation (3 + 3) / 2. You answer <<2.0>>.
+You see the equation (8 + 8) / 4. You answer <<4.0>>.
+You see the equation (2 + 2) * 16.
+
+List 3, task 3:
+Please recall and type out, as many as you can, the words from task 1 regardless of whether you were asked to remember them or not.
+You type the word <<rabbit>>.
+You type the word <<wallet>>.
+You type the word <<dentist>>.
+You type the word <<steak>>.
+You type the word <<turkey>>.

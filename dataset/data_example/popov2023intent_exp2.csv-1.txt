@@ -1,0 +1,175 @@
+In this experiment, you will go through three cycles of three tasks.
+Each cycle concerns itself with a list of 30 words for you to study.
+In the first task of each cycle, you will go through the list.
+You need to remember the words indicated by a blue border.
+For each word, please make a judgement on whether the object is larger or smaller than a football, and press the key "C" if the object is larger than a football, and the key "H" if it is smaller instead.
+In the second task of each cycle, you will try to solve as many arithmetic equations as you can in one minute.
+In the third task of each cycle, you will recall the words that you memorized in the first task of that cycle.
+
+List 1, task 1: 
+You see the word "spider", surrounded by a red border. You press <<H>>. The word and the border both disappear.
+You see the word "cocktail", surrounded by a blue border. You press <<H>>. The word and the border both disappear.
+You see the word "library", surrounded by a blue border. You press <<C>>. The word and the border both disappear.
+You see the word "horse", surrounded by a red border. You press <<C>>. The word and the border both disappear.
+You see the word "chicken", surrounded by a blue border. You press <<C>>. The word and the border both disappear.
+You see the word "banana", surrounded by a red border. You press <<H>>. The word and the border both disappear.
+You see the word "empire", surrounded by a red border. You press <<C>>. The word and the border both disappear.
+You see the word "coast", surrounded by a blue border. You press <<C>>. The word and the border both disappear.
+You see the word "dessert", surrounded by a blue border. You press <<H>>. The word and the border both disappear.
+You see the word "garden", surrounded by a red border. You press <<C>>. The word and the border both disappear.
+You see the word "diamond", surrounded by a red border. You press <<H>>. The word and the border both disappear.
+You see the word "steak", surrounded by a red border. You press <<H>>. The word and the border both disappear.
+You see the word "finger", surrounded by a red border. You press <<H>>. The word and the border both disappear.
+You see the word "glove", surrounded by a red border. You press <<H>>. The word and the border both disappear.
+You see the word "nest", surrounded by a blue border. You press <<H>>. The word and the border both disappear.
+You see the word "ranch", surrounded by a blue border. You press <<C>>. The word and the border both disappear.
+You see the word "nurse", surrounded by a blue border. You press <<C>>. The word and the border both disappear.
+You see the word "pilot", surrounded by a blue border. You press <<C>>. The word and the border both disappear.
+You see the word "lawn", surrounded by a blue border. You press <<C>>. The word and the border both disappear.
+You see the word "costume", surrounded by a blue border. You press <<C>>. The word and the border both disappear.
+You see the word "butler", surrounded by a blue border. You press <<C>>. The word and the border both disappear.
+You see the word "needle", surrounded by a red border. You press <<H>>. The word and the border both disappear.
+You see the word "pistol", surrounded by a red border. You press <<H>>. The word and the border both disappear.
+You see the word "mouse", surrounded by a red border. You press <<H>>. The word and the border both disappear.
+You see the word "dog", surrounded by a blue border. You press <<C>>. The word and the border both disappear.
+You see the word "potato", surrounded by a red border. You press <<H>>. The word and the border both disappear.
+You see the word "tank", surrounded by a blue border. You press <<C>>. The word and the border both disappear.
+You see the word "airplane", surrounded by a red border. You press <<C>>. The word and the border both disappear.
+You see the word "church", surrounded by a red border. You press <<C>>. The word and the border both disappear.
+You see the word "passport", surrounded by a blue border. You press <<H>>. The word and the border both disappear.
+
+List 1, task 2:
+You see the equation (3 + 3) * 8. You answer <<48.0>>.
+You see the equation (12 - 3) / 3. You answer <<3.0>>.
+You see the equation (6 + 6) * 6. You answer <<72.0>>.
+You see the equation (23 - 17) / 6. You answer <<1.0>>.
+You see the equation (50 - 23) / 9. You answer <<3.0>>.
+You see the equation (4 + 4) * 4. You answer <<32.0>>.
+You see the equation (2 + 6) * 5. You answer <<40.0>>.
+You see the equation (7 + 8) * 3. You answer <<45.0>>.
+You see the equation (4 + 2) * 9. You answer <<54.0>>.
+You see the equation (13 + 23) * 2. You answer <<102.0>>.
+You see the equation (17 + 23) / 8. You answer <<5.0>>.
+You see the equation (11 + 23) * 3. You answer <<102.0>>.
+You see the equation (4 + 3) * 4.
+
+List 1, task 3:
+Please recall and type out, as many as you can, the words you were told to remember (marked by a blue border) in task 1.
+You type the word <<lawn>>.
+You type the word <<coast>>.
+You type the word <<nurse>>.
+You type the word <<dessert>>.
+
+List 2, task 1: 
+You see the word "robin", surrounded by a blue border. You press <<H>>. The word and the border both disappear.
+You see the word "eagle", surrounded by a blue border. You press <<H>>. The word and the border both disappear.
+You see the word "cage", surrounded by a red border. You press <<C>>. The word and the border both disappear.
+You see the word "soda", surrounded by a red border. You press <<H>>. The word and the border both disappear.
+You see the word "underwear", surrounded by a blue border. You press <<H>>. The word and the border both disappear.
+You see the word "brain", surrounded by a red border. You press <<H>>. The word and the border both disappear.
+You see the word "medal", surrounded by a red border. You press <<H>>. The word and the border both disappear.
+You see the word "doctor", surrounded by a blue border. You press <<C>>. The word and the border both disappear.
+You see the word "newspaper", surrounded by a red border. You press <<H>>. The word and the border both disappear.
+You see the word "carpet", surrounded by a red border. You press <<C>>. The word and the border both disappear.
+You see the word "clinic", surrounded by a blue border. You press <<C>>. The word and the border both disappear.
+You see the word "priest", surrounded by a blue border. You press <<C>>. The word and the border both disappear.
+You see the word "goat", surrounded by a blue border. You press <<C>>. The word and the border both disappear.
+You see the word "jewelry", surrounded by a red border. You press <<H>>. The word and the border both disappear.
+You see the word "pole", surrounded by a blue border. You press <<C>>. The word and the border both disappear.
+You see the word "bride", surrounded by a red border. You press <<H>>. The word and the border both disappear.
+You see the word "sheep", surrounded by a blue border. You press <<C>>. The word and the border both disappear.
+You see the word "brick", surrounded by a red border. You press <<H>>. The word and the border both disappear.
+You see the word "phone", surrounded by a red border. You press <<H>>. The word and the border both disappear.
+You see the word "piano", surrounded by a red border. You press <<C>>. The word and the border both disappear.
+You see the word "cigar", surrounded by a blue border. You press <<H>>. The word and the border both disappear.
+You see the word "heart", surrounded by a blue border. You press <<H>>. The word and the border both disappear.
+You see the word "factory", surrounded by a red border. You press <<C>>. The word and the border both disappear.
+You see the word "pillow", surrounded by a blue border. You press <<C>>. The word and the border both disappear.
+You see the word "shotgun", surrounded by a red border. You press <<C>>. The word and the border both disappear.
+You see the word "whistle", surrounded by a red border. You press <<H>>. The word and the border both disappear.
+You see the word "circus", surrounded by a red border. You press <<C>>. The word and the border both disappear.
+You see the word "taxi", surrounded by a blue border. You press <<C>>. The word and the border both disappear.
+You see the word "pearl", surrounded by a blue border. You press <<H>>. The word and the border both disappear.
+You see the word "tent", surrounded by a blue border. You press <<C>>. The word and the border both disappear.
+
+List 2, task 2:
+You see the equation (2 + 3) * 4. You answer <<20.0>>.
+You see the equation (21 - 9) / 4. You answer <<3.0>>.
+You see the equation (3 + 3) * 8. You answer <<48.0>>.
+You see the equation (2 + 6) * 5. You answer <<40.0>>.
+You see the equation (5 + 3) / 4. You answer <<2.0>>.
+You see the equation (50 - 23) / 9. You answer <<3.0>>.
+You see the equation (4 + 3) * 9. You answer <<63.0>>.
+You see the equation (45 - 23) / 11. You answer <<2.0>>.
+You see the equation (8 + 8) / 4. You answer <<4.0>>.
+You see the equation (2 + 2) / 2. You answer <<2.0>>.
+You see the equation (4 + 4) * 4. You answer <<2.0>>.
+You see the equation (7 - 4) * 8. You answer <<24.0>>.
+You see the equation (7 + 8) * 3. You answer <<45.0>>.
+You see the equation (19 + 11) / 5. You answer <<4.0>>.
+You see the equation (12 - 3) / 3. You answer <<3.0>>.
+You see the equation (9 - 3) * 3. You answer <<12.0>>.
+You see the equation (13 + 23) * 2. You answer <<102.0>>.
+You see the equation (21 + 12) / 11.
+
+List 2, task 3:
+Please recall and type out, as many as you can, the words you were told to remember (marked by a blue border) in task 1.
+You type the word <<nurse>>.
+You type the word <<priest>>.
+You type the word <<tent>>.
+
+List 3, task 1: 
+You see the word "lamp", surrounded by a red border. You press <<H>>. The word and the border both disappear.
+You see the word "toast", surrounded by a blue border. You press <<H>>. The word and the border both disappear.
+You see the word "belt", surrounded by a blue border. You press <<H>>. The word and the border both disappear.
+You see the word "sandwich", surrounded by a blue border. You press <<H>>. The word and the border both disappear.
+You see the word "bowl", surrounded by a blue border. You press <<H>>. The word and the border both disappear.
+You see the word "nanny", surrounded by a red border. You press <<C>>. The word and the border both disappear.
+You see the word "train", surrounded by a blue border. You press <<C>>. The word and the border both disappear.
+You see the word "soldier", surrounded by a blue border. You press <<C>>. The word and the border both disappear.
+You see the word "cloud", surrounded by a red border. You press <<C>>. The word and the border both disappear.
+You see the word "ocean", surrounded by a red border. You press <<C>>. The word and the border both disappear.
+You see the word "camera", surrounded by a red border. You press <<H>>. The word and the border both disappear.
+You see the word "burger", surrounded by a red border. You press <<H>>. The word and the border both disappear.
+You see the word "sink", surrounded by a blue border. You press <<C>>. The word and the border both disappear.
+You see the word "market", surrounded by a blue border. You press <<C>>. The word and the border both disappear.
+You see the word "dice", surrounded by a red border. You press <<H>>. The word and the border both disappear.
+You see the word "chin", surrounded by a red border. You press <<H>>. The word and the border both disappear.
+You see the word "harbor", surrounded by a blue border. You press <<C>>. The word and the border both disappear.
+You see the word "crown", surrounded by a red border. You press <<H>>. The word and the border both disappear.
+You see the word "bush", surrounded by a blue border. You press <<C>>. The word and the border both disappear.
+You see the word "blanket", surrounded by a red border. You press <<C>>. The word and the border both disappear.
+You see the word "virus", surrounded by a red border. You press <<H>>. The word and the border both disappear.
+You see the word "tunnel", surrounded by a blue border. You press <<C>>. The word and the border both disappear.
+You see the word "bone", surrounded by a blue border. You press <<H>>. The word and the border both disappear.
+You see the word "tire", surrounded by a blue border. You press <<C>>. The word and the border both disappear.
+You see the word "casino", surrounded by a blue border. You press <<C>>. The word and the border both disappear.
+You see the word "concert", surrounded by a red border. You press <<C>>. The word and the border both disappear.
+You see the word "lemon", surrounded by a blue border. You press <<H>>. The word and the border both disappear.
+You see the word "corn", surrounded by a red border. You press <<H>>. The word and the border both disappear.
+You see the word "waiter", surrounded by a red border. You press <<H>>. The word and the border both disappear.
+You see the word "knife", surrounded by a red border. You press <<H>>. The word and the border both disappear.
+
+List 3, task 2:
+You see the equation (2 + 3) * 4. You answer <<20.0>>.
+You see the equation (3 + 6) / 3. You answer <<3.0>>.
+You see the equation (2 + 2) / 2. You answer <<2.0>>.
+You see the equation (17 + 23) / 8. You answer <<5.0>>.
+You see the equation (12 - 3) / 3. You answer <<3.0>>.
+You see the equation (19 + 11) / 5. You answer <<4.0>>.
+You see the equation (8 + 8) / 4. You answer <<4.0>>.
+You see the equation (2 + 2) * 2. You answer <<8.0>>.
+You see the equation (6 + 6) / 3. You answer <<4.0>>.
+You see the equation (19 - 4) * 5. You answer <<75.0>>.
+You see the equation (9 - 3) * 3. You answer <<18.0>>.
+You see the equation (6 + 6) * 6. You answer <<72.0>>.
+You see the equation (9 + 3) * 2. You answer <<24.0>>.
+You see the equation (45 - 23) / 11. You answer <<2.0>>.
+You see the equation (7 + 8) * 3. You answer <<45.0>>.
+You see the equation (50 - 23) / 9. You answer <<3.0>>.
+You see the equation (8 + 3) * 4.
+
+List 3, task 3:
+Please recall and type out, as many as you can, the words from task 1 regardless of whether you were asked to remember them or not.
+You type the word <<waiter>>.
+You type the word <<ocean>>.

@@ -1,0 +1,123 @@
+You have to estimate the probability of a series of weather-related queries.
+Please respond by typing your estimated probabilities.
+
+What is the probability that the weather will be not icy or not frosty on a random day in England? You estimate <<75>>%.
+If the weather in England is not frosty on a random day, what is the probability that the weather will also be icy on the same day? You estimate <<30>>%.
+If the weather in England is not icy on a random day, what is the probability that the weather will also be frosty on the same day? You estimate <<30>>%.
+What is the probability that the weather will be frosty or not icy on a random day in England? You estimate <<60>>%.
+What is the probability that the weather will be not icy and not frosty on a random day in England? You estimate <<60>>%.
+If the weather in England is not normal on a random day, what is the probability that the weather will also be not typical on the same day? You estimate <<50>>%.
+If the weather in England is frosty on a random day, what is the probability that the weather will also be not icy on the same day? You estimate <<60>>%.
+If the weather in England is typical on a random day, what is the probability that the weather will also be normal on the same day? You estimate <<50>>%.
+If the weather in England is frosty on a random day, what is the probability that the weather will also be icy on the same day? You estimate <<60>>%.
+If the weather in England is typical on a random day, what is the probability that the weather will also be not normal on the same day? You estimate <<50>>%.
+If the weather in England is not typical on a random day, what is the probability that the weather will also be not normal on the same day? You estimate <<100>>%.
+What is the probability that the weather will be icy or not frosty on a random day in England? You estimate <<40>>%.
+What is the probability that the weather will be icy on a random day in England? You estimate <<25>>%.
+What is the probability that the weather will be normal or typical on a random day in England? You estimate <<75>>%.
+What is the probability that the weather will be not frosty on a random day in England? You estimate <<75>>%.
+What is the probability that the weather will be normal on a random day in England? You estimate <<80>>%.
+What is the probability that the weather will be icy and frosty on a random day in England? You estimate <<75>>%.
+If the weather in England is normal on a random day, what is the probability that the weather will also be not typical on the same day? You estimate <<10>>%.
+What is the probability that the weather will be icy or frosty on a random day in England? You estimate <<75>>%.
+What is the probability that the weather will be not icy on a random day in England? You estimate <<60>>%.
+If the weather in England is not frosty on a random day, what is the probability that the weather will also be not icy on the same day? You estimate <<40>>%.
+If the weather in England is not icy on a random day, what is the probability that the weather will also be not frosty on the same day? You estimate <<40>>%.
+What is the probability that the weather will be icy and not frosty on a random day in England? You estimate <<40>>%.
+What is the probability that the weather will be normal and typical on a random day in England? You estimate <<80>>%.
+What is the probability that the weather will be normal and not typical on a random day in England? You estimate <<60>>%.
+What is the probability that the weather will be typical on a random day in England? You estimate <<60>>%.
+What is the probability that the weather will be typical and not normal on a random day in England? You estimate <<60>>%.
+What is the probability that the weather will be not normal and not typical on a random day in England? You estimate <<40>>%.
+What is the probability that the weather will be typical or not normal on a random day in England? You estimate <<40>>%.
+What is the probability that the weather will be not normal or not typical on a random day in England? You estimate <<40>>%.
+If the weather in England is normal on a random day, what is the probability that the weather will also be typical on the same day? You estimate <<80>>%.
+If the weather in England is not typical on a random day, what is the probability that the weather will also be normal on the same day? You estimate <<6>>%.
+What is the probability that the weather will be not normal on a random day in England? You estimate <<40>>%.
+If the weather in England is icy on a random day, what is the probability that the weather will also be not frosty on the same day? You estimate <<40>>%.
+What is the probability that the weather will be not typical on a random day in England? You estimate <<40>>%.
+If the weather in England is icy on a random day, what is the probability that the weather will also be frosty on the same day? You estimate <<50>>%.
+If the weather in England is not normal on a random day, what is the probability that the weather will also be typical on the same day? You estimate <<45>>%.
+What is the probability that the weather will be frosty and not icy on a random day in England? You estimate <<40>>%.
+What is the probability that the weather will be normal or not typical on a random day in England? You estimate <<40>>%.
+What is the probability that the weather will be frosty on a random day in England? You estimate <<25>>%.
+What is the probability that the weather will be frosty or not icy on a random day in England? You estimate <<20>>%.
+What is the probability that the weather will be normal on a random day in England? You estimate <<90>>%.
+If the weather in England is typical on a random day, what is the probability that the weather will also be normal on the same day? You estimate <<90>>%.
+If the weather in England is not icy on a random day, what is the probability that the weather will also be not frosty on the same day? You estimate <<50>>%.
+What is the probability that the weather will be icy or frosty on a random day in England? You estimate <<25>>%.
+If the weather in England is not typical on a random day, what is the probability that the weather will also be normal on the same day? You estimate <<70>>%.
+If the weather in England is frosty on a random day, what is the probability that the weather will also be not icy on the same day? You estimate <<40>>%.
+What is the probability that the weather will be icy or not frosty on a random day in England? You estimate <<20>>%.
+What is the probability that the weather will be normal or not typical on a random day in England? You estimate <<60>>%.
+What is the probability that the weather will be frosty and not icy on a random day in England? You estimate <<20>>%.
+What is the probability that the weather will be icy and not frosty on a random day in England? You estimate <<20>>%.
+What is the probability that the weather will be typical and not normal on a random day in England? You estimate <<60>>%.
+If the weather in England is frosty on a random day, what is the probability that the weather will also be icy on the same day? You estimate <<20>>%.
+What is the probability that the weather will be not normal or not typical on a random day in England? You estimate <<60>>%.
+If the weather in England is typical on a random day, what is the probability that the weather will also be not normal on the same day? You estimate <<60>>%.
+What is the probability that the weather will be not frosty on a random day in England? You estimate <<75>>%.
+What is the probability that the weather will be not normal on a random day in England? You estimate <<40>>%.
+If the weather in England is normal on a random day, what is the probability that the weather will also be typical on the same day? You estimate <<60>>%.
+If the weather in England is normal on a random day, what is the probability that the weather will also be not typical on the same day? You estimate <<40>>%.
+If the weather in England is not frosty on a random day, what is the probability that the weather will also be not icy on the same day? You estimate <<30>>%.
+What is the probability that the weather will be icy on a random day in England? You estimate <<20>>%.
+What is the probability that the weather will be normal and not typical on a random day in England? You estimate <<60>>%.
+What is the probability that the weather will be normal and typical on a random day in England? You estimate <<80>>%.
+What is the probability that the weather will be icy and frosty on a random day in England? You estimate <<25>>%.
+What is the probability that the weather will be not normal and not typical on a random day in England? You estimate <<40>>%.
+If the weather in England is not normal on a random day, what is the probability that the weather will also be typical on the same day? You estimate <<30>>%.
+What is the probability that the weather will be not typical on a random day in England? You estimate <<40>>%.
+If the weather in England is not normal on a random day, what is the probability that the weather will also be not typical on the same day? You estimate <<40>>%.
+If the weather in England is not frosty on a random day, what is the probability that the weather will also be icy on the same day? You estimate <<40>>%.
+What is the probability that the weather will be normal or typical on a random day in England? You estimate <<80>>%.
+What is the probability that the weather will be frosty on a random day in England? You estimate <<25>>%.
+What is the probability that the weather will be typical or not normal on a random day in England? You estimate <<50>>%.
+If the weather in England is icy on a random day, what is the probability that the weather will also be not frosty on the same day? You estimate <<70>>%.
+If the weather in England is not typical on a random day, what is the probability that the weather will also be not normal on the same day? You estimate <<90>>%.
+If the weather in England is icy on a random day, what is the probability that the weather will also be frosty on the same day? You estimate <<80>>%.
+What is the probability that the weather will be not icy and not frosty on a random day in England? You estimate <<75>>%.
+What is the probability that the weather will be not icy on a random day in England? You estimate <<75>>%.
+If the weather in England is not icy on a random day, what is the probability that the weather will also be frosty on the same day? You estimate <<40>>%.
+What is the probability that the weather will be typical on a random day in England? You estimate <<80>>%.
+What is the probability that the weather will be not icy or not frosty on a random day in England? You estimate <<75>>%.
+What is the probability that the weather will be not icy on a random day in England? You estimate <<70>>%.
+What is the probability that the weather will be not normal or not typical on a random day in England? You estimate <<30>>%.
+What is the probability that the weather will be icy and frosty on a random day in England? You estimate <<25>>%.
+What is the probability that the weather will be frosty or not icy on a random day in England? You estimate <<20>>%.
+What is the probability that the weather will be normal and typical on a random day in England? You estimate <<80>>%.
+What is the probability that the weather will be not normal on a random day in England? You estimate <<30>>%.
+What is the probability that the weather will be normal and not typical on a random day in England? You estimate <<60>>%.
+If the weather in England is not typical on a random day, what is the probability that the weather will also be not normal on the same day? You estimate <<70>>%.
+If the weather in England is not frosty on a random day, what is the probability that the weather will also be icy on the same day? You estimate <<20>>%.
+What is the probability that the weather will be not icy and not frosty on a random day in England? You estimate <<75>>%.
+What is the probability that the weather will be normal on a random day in England? You estimate <<80>>%.
+If the weather in England is frosty on a random day, what is the probability that the weather will also be not icy on the same day? You estimate <<30>>%.
+If the weather in England is icy on a random day, what is the probability that the weather will also be frosty on the same day? You estimate <<80>>%.
+If the weather in England is icy on a random day, what is the probability that the weather will also be not frosty on the same day? You estimate <<30>>%.
+If the weather in England is normal on a random day, what is the probability that the weather will also be typical on the same day? You estimate <<90>>%.
+What is the probability that the weather will be not normal and not typical on a random day in England? You estimate <<30>>%.
+What is the probability that the weather will be typical or not normal on a random day in England? You estimate <<40>>%.
+If the weather in England is not icy on a random day, what is the probability that the weather will also be not frosty on the same day? You estimate <<70>>%.
+What is the probability that the weather will be frosty on a random day in England? You estimate <<25>>%.
+If the weather in England is not normal on a random day, what is the probability that the weather will also be not typical on the same day? You estimate <<90>>%.
+What is the probability that the weather will be icy and not frosty on a random day in England? You estimate <<60>>%.
+What is the probability that the weather will be not typical on a random day in England? You estimate <<30>>%.
+What is the probability that the weather will be not frosty on a random day in England? You estimate <<75>>%.
+What is the probability that the weather will be icy on a random day in England? You estimate <<20>>%.
+If the weather in England is not typical on a random day, what is the probability that the weather will also be normal on the same day? You estimate <<90>>%.
+What is the probability that the weather will be typical on a random day in England? You estimate <<90>>%.
+What is the probability that the weather will be not icy or not frosty on a random day in England? You estimate <<75>>%.
+If the weather in England is typical on a random day, what is the probability that the weather will also be normal on the same day? You estimate <<90>>%.
+What is the probability that the weather will be normal or typical on a random day in England? You estimate <<90>>%.
+If the weather in England is typical on a random day, what is the probability that the weather will also be not normal on the same day? You estimate <<60>>%.
+If the weather in England is frosty on a random day, what is the probability that the weather will also be icy on the same day? You estimate <<80>>%.
+What is the probability that the weather will be typical and not normal on a random day in England? You estimate <<50>>%.
+If the weather in England is not normal on a random day, what is the probability that the weather will also be typical on the same day? You estimate <<60>>%.
+What is the probability that the weather will be frosty and not icy on a random day in England? You estimate <<30>>%.
+If the weather in England is normal on a random day, what is the probability that the weather will also be not typical on the same day? You estimate <<40>>%.
+If the weather in England is not icy on a random day, what is the probability that the weather will also be frosty on the same day? You estimate <<30>>%.
+What is the probability that the weather will be icy or frosty on a random day in England? You estimate <<25>>%.
+What is the probability that the weather will be normal or not typical on a random day in England? You estimate <<40>>%.
+If the weather in England is not frosty on a random day, what is the probability that the weather will also be not icy on the same day? You estimate <<80>>%.
+What is the probability that the weather will be icy or not frosty on a random day in England? You estimate <<25>>%.

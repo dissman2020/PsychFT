@@ -1,0 +1,14 @@
+In the following you will be presented with multiple choices between two options Q and L.
+Please name which option you would prefer by pressing the corresponding key.
+
+You have the choice between receiving 500$ immediately (press Q) or receiving 550$ in one year (press L). You press <<Q>>.
+You have the choice between receiving 500$ immediately (press Q) or receiving 600$ in one year (press L). You press <<L>>.
+You have the choice between paying 500$ immediately (press Q) or paying 550$ in one year (press L). You press <<L>>.
+You have the choice between paying 500$ immediately (press Q) or paying 600$ in one year (press L). You press <<L>>.
+You have the choice between paying 500$ immediately (press Q) or paying 750$ in one year (press L). You press <<Q>>.
+You have the choice between receiving 5000$ immediately (press Q) or receiving 5500$ in one year (press L). You press <<Q>>.
+You have the choice between receiving 5000$ immediately (press Q) or receiving 6000$ in one year (press L). You press <<L>>.
+You have the choice between receiving 500$ in one year (press Q) or receiving 600$ in two years (press L). You press <<Q>>.
+You have the choice between receiving 500$ immediately (press Q) or receiving 700$ in two years (press L). You press <<Q>>.
+You have the choice between receiving 500$ immediately (press Q) or receiving 600$ in one year (press L). You press <<Q>>.
+You have the choice between reduce 500$ immediately (press Q) or reduce 600$ in one year (press L). You press <<Q>>.

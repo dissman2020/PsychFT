@@ -1,0 +1,17 @@
+You will choose from two monetary lotteries by pressing I or B.
+The lotteries offer different points with different probabilities.
+Your choice will trigger a random draw from the chosen lottery that will be added to your bonus.
+Your goal is to maximize your bonus.
+You will be presented with multiple choice problems consisting of different lotteries varying in outcomes and probabilities.
+
+Lottery I offers 4.0 points with 80.0% probability or 0.0 points with 20.0% probability.
+Lottery B offers 3.0 points with 100.0% probability.
+You press <<B>>.
+
+Lottery I offers 4.0 points with 20.0% probability or 0.0 points with 80.0% probability.
+Lottery B offers 3.0 points with 25.0% probability, or 0.0 points with 75.0% probability.
+You press <<I>>.
+
+Lottery I offers -3.0 points with 100.0% probability.
+Lottery B offers -32.0 points with 10.0% probability, or 0.0 points with 90.0% probability.
+You press <<I>>.

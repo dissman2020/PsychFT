@@ -1,0 +1,476 @@
+You will view a stream of letters on the screen, one letter at a time.
+At the beginning of a block, you are told a number N.
+You have to remember the last N letters you saw since the beginning of the block.
+If the letter you see matches the letter N trials ago, press K, otherwise press T.
+The case of the letter is irrelevant, so "t" matches "T" for example.
+If you make more than 5 mistakes in a block, N is decreased by 1.
+If you make fewer than 3 mistakes in a block, N is increased by 1.
+You will go through 20 blocks with 20+N trials each.
+    
+Block 0, N = 2:
+You see the letter v.
+You see the letter d and press <<T>>.
+You see the letter g and press <<T>>.
+You see the letter d and press <<T>>.
+You see the letter D and press <<T>>.
+You see the letter b and press <<T>>.
+You see the letter D and press <<K>>.
+You see the letter g and press <<T>>.
+You see the letter t.
+You see the letter t.
+You see the letter G and press <<T>>.
+You see the letter T and press <<T>>.
+You see the letter G and press <<T>>.
+You see the letter b and press <<T>>.
+You see the letter t and press <<T>>.
+You see the letter B and press <<T>>.
+You see the letter t and press <<T>>.
+You see the letter v and press <<T>>.
+You see the letter t and press <<T>>.
+You see the letter g and press <<T>>.
+You see the letter b and press <<T>>.
+You see the letter V and press <<T>>.
+
+Block 1, N = 1:
+You see the letter T and press <<T>>.
+You see the letter b and press <<T>>.
+You see the letter V and press <<T>>.
+You see the letter d and press <<T>>.
+You see the letter B and press <<T>>.
+You see the letter B and press <<K>>.
+You see the letter b and press <<T>>.
+You see the letter b and press <<K>>.
+You see the letter V and press <<T>>.
+You see the letter t and press <<T>>.
+You see the letter b and press <<T>>.
+You see the letter G and press <<T>>.
+You see the letter b and press <<T>>.
+You see the letter v and press <<T>>.
+You see the letter t and press <<T>>.
+You see the letter T and press <<T>>.
+You see the letter g and press <<T>>.
+You see the letter v and press <<T>>.
+You see the letter v and press <<K>>.
+You see the letter v and press <<K>>.
+You see the letter v and press <<K>>.
+
+Block 2, N = 2:
+You see the letter g.
+You see the letter V and press <<T>>.
+You see the letter b and press <<T>>.
+You see the letter V and press <<K>>.
+You see the letter d and press <<T>>.
+You see the letter G and press <<T>>.
+You see the letter g and press <<T>>.
+You see the letter b.
+You see the letter T.
+You see the letter g.
+You see the letter T and press <<T>>.
+You see the letter G.
+You see the letter b and press <<T>>.
+You see the letter t.
+You see the letter V.
+You see the letter d and press <<T>>.
+You see the letter v.
+You see the letter d.
+You see the letter d and press <<T>>.
+You see the letter D.
+You see the letter d.
+You see the letter V and press <<T>>.
+
+Block 3, N = 1:
+You see the letter b.
+You see the letter t and press <<T>>.
+You see the letter d and press <<T>>.
+You see the letter B and press <<T>>.
+You see the letter v and press <<T>>.
+You see the letter b and press <<T>>.
+You see the letter T and press <<T>>.
+You see the letter t and press <<T>>.
+You see the letter b and press <<T>>.
+You see the letter B and press <<T>>.
+You see the letter b and press <<K>>.
+You see the letter G and press <<T>>.
+You see the letter G and press <<K>>.
+You see the letter g and press <<K>>.
+You see the letter t and press <<T>>.
+You see the letter v and press <<T>>.
+You see the letter d and press <<T>>.
+You see the letter d and press <<K>>.
+You see the letter d and press <<K>>.
+You see the letter T and press <<T>>.
+You see the letter B and press <<K>>.
+
+Block 4, N = 1:
+You see the letter B and press <<T>>.
+You see the letter T and press <<T>>.
+You see the letter t and press <<T>>.
+You see the letter T and press <<K>>.
+You see the letter b and press <<T>>.
+You see the letter D and press <<T>>.
+You see the letter B and press <<T>>.
+You see the letter B and press <<K>>.
+You see the letter D and press <<T>>.
+You see the letter d and press <<T>>.
+You see the letter T and press <<T>>.
+You see the letter t and press <<T>>.
+You see the letter b and press <<T>>.
+You see the letter B and press <<T>>.
+You see the letter t and press <<T>>.
+You see the letter G and press <<T>>.
+You see the letter D and press <<T>>.
+You see the letter d and press <<K>>.
+You see the letter v and press <<T>>.
+You see the letter b and press <<T>>.
+You see the letter D and press <<T>>.
+
+Block 5, N = 1:
+You see the letter B and press <<T>>.
+You see the letter B and press <<T>>.
+You see the letter B and press <<K>>.
+You see the letter b and press <<K>>.
+You see the letter G and press <<T>>.
+You see the letter v and press <<T>>.
+You see the letter G and press <<T>>.
+You see the letter g and press <<K>>.
+You see the letter T and press <<T>>.
+You see the letter b and press <<T>>.
+You see the letter D and press <<T>>.
+You see the letter d and press <<K>>.
+You see the letter D and press <<K>>.
+You see the letter g and press <<T>>.
+You see the letter v and press <<T>>.
+You see the letter g and press <<T>>.
+You see the letter B and press <<T>>.
+You see the letter G and press <<T>>.
+You see the letter V and press <<T>>.
+You see the letter v and press <<T>>.
+You see the letter b and press <<T>>.
+
+Block 6, N = 2:
+You see the letter B.
+You see the letter g.
+You see the letter b.
+You see the letter b and press <<T>>.
+You see the letter V and press <<T>>.
+You see the letter b and press <<T>>.
+You see the letter V and press <<T>>.
+You see the letter v and press <<K>>.
+You see the letter T and press <<T>>.
+You see the letter G and press <<T>>.
+You see the letter D and press <<T>>.
+You see the letter T and press <<T>>.
+You see the letter T and press <<K>>.
+You see the letter t and press <<K>>.
+You see the letter T and press <<K>>.
+You see the letter D and press <<T>>.
+You see the letter D and press <<K>>.
+You see the letter d and press <<K>>.
+You see the letter B and press <<T>>.
+You see the letter t and press <<T>>.
+You see the letter b and press <<T>>.
+You see the letter d and press <<T>>.
+
+Block 7, N = 1:
+You see the letter b and press <<T>>.
+You see the letter B and press <<K>>.
+You see the letter G and press <<T>>.
+You see the letter B and press <<K>>.
+You see the letter B and press <<K>>.
+You see the letter d and press <<T>>.
+You see the letter b and press <<T>>.
+You see the letter B and press <<K>>.
+You see the letter t and press <<T>>.
+You see the letter B and press <<T>>.
+You see the letter b and press <<K>>.
+You see the letter t and press <<T>>.
+You see the letter b and press <<K>>.
+You see the letter v and press <<T>>.
+You see the letter V and press <<K>>.
+You see the letter v and press <<K>>.
+You see the letter v and press <<K>>.
+You see the letter G and press <<T>>.
+You see the letter t and press <<T>>.
+You see the letter d and press <<T>>.
+You see the letter B and press <<T>>.
+
+Block 8, N = 2:
+You see the letter v and press <<T>>.
+You see the letter V and press <<T>>.
+You see the letter G and press <<T>>.
+You see the letter t and press <<T>>.
+You see the letter G and press <<K>>.
+You see the letter t and press <<T>>.
+You see the letter v and press <<T>>.
+You see the letter V and press <<K>>.
+You see the letter G and press <<T>>.
+You see the letter V and press <<T>>.
+You see the letter G and press <<T>>.
+You see the letter g and press <<K>>.
+You see the letter G and press <<K>>.
+You see the letter b and press <<T>>.
+You see the letter g and press <<T>>.
+You see the letter t and press <<T>>.
+You see the letter G and press <<K>>.
+You see the letter b and press <<T>>.
+You see the letter D and press <<T>>.
+You see the letter T and press <<T>>.
+You see the letter t and press <<T>>.
+You see the letter G and press <<T>>.
+
+Block 9, N = 1:
+You see the letter b and press <<T>>.
+You see the letter G and press <<T>>.
+You see the letter B and press <<T>>.
+You see the letter b and press <<K>>.
+You see the letter V and press <<T>>.
+You see the letter t and press <<T>>.
+You see the letter B and press <<T>>.
+You see the letter v and press <<T>>.
+You see the letter V and press <<K>>.
+You see the letter T and press <<T>>.
+You see the letter b and press <<T>>.
+You see the letter v and press <<T>>.
+You see the letter d and press <<T>>.
+You see the letter D and press <<T>>.
+You see the letter d and press <<K>>.
+You see the letter d and press <<K>>.
+You see the letter D and press <<K>>.
+You see the letter v and press <<T>>.
+You see the letter t and press <<T>>.
+You see the letter T and press <<T>>.
+You see the letter G and press <<T>>.
+
+Block 10, N = 2:
+You see the letter v and press <<T>>.
+You see the letter t and press <<T>>.
+You see the letter g and press <<T>>.
+You see the letter t and press <<T>>.
+You see the letter B and press <<T>>.
+You see the letter D and press <<T>>.
+You see the letter B and press <<T>>.
+You see the letter D and press <<T>>.
+You see the letter b and press <<T>>.
+You see the letter d and press <<T>>.
+You see the letter g and press <<T>>.
+You see the letter t and press <<T>>.
+You see the letter d and press <<T>>.
+You see the letter d and press <<K>>.
+You see the letter v and press <<T>>.
+You see the letter t and press <<T>>.
+You see the letter t and press <<T>>.
+You see the letter t and press <<T>>.
+You see the letter B and press <<K>>.
+You see the letter g and press <<T>>.
+You see the letter g and press <<K>>.
+You see the letter G and press <<K>>.
+
+Block 11, N = 1:
+You see the letter v and press <<T>>.
+You see the letter V and press <<K>>.
+You see the letter V and press <<K>>.
+You see the letter B and press <<T>>.
+You see the letter V and press <<T>>.
+You see the letter D and press <<T>>.
+You see the letter v and press <<T>>.
+You see the letter v and press <<T>>.
+You see the letter b and press <<T>>.
+You see the letter D and press <<T>>.
+You see the letter t and press <<T>>.
+You see the letter b and press <<T>>.
+You see the letter T and press <<T>>.
+You see the letter T and press <<T>>.
+You see the letter t and press <<K>>.
+You see the letter D and press <<T>>.
+You see the letter T and press <<T>>.
+You see the letter t and press <<K>>.
+You see the letter B and press <<T>>.
+You see the letter b and press <<K>>.
+You see the letter g and press <<T>>.
+
+Block 12, N = 2:
+You see the letter d and press <<T>>.
+You see the letter G and press <<T>>.
+You see the letter G and press <<T>>.
+You see the letter G and press <<K>>.
+You see the letter d and press <<T>>.
+You see the letter T and press <<T>>.
+You see the letter d and press <<T>>.
+You see the letter T and press <<T>>.
+You see the letter B and press <<T>>.
+You see the letter B and press <<K>>.
+You see the letter v and press <<T>>.
+You see the letter D and press <<T>>.
+You see the letter G and press <<K>>.
+You see the letter b and press <<T>>.
+You see the letter B and press <<K>>.
+You see the letter V and press <<T>>.
+You see the letter B and press <<T>>.
+You see the letter g and press <<T>>.
+You see the letter b and press <<T>>.
+You see the letter b and press <<K>>.
+You see the letter B and press <<K>>.
+You see the letter b and press <<K>>.
+
+Block 13, N = 1:
+You see the letter V and press <<T>>.
+You see the letter T and press <<T>>.
+You see the letter g and press <<T>>.
+You see the letter d and press <<T>>.
+You see the letter G and press <<K>>.
+You see the letter g and press <<K>>.
+You see the letter g and press <<K>>.
+You see the letter v and press <<T>>.
+You see the letter t and press <<T>>.
+You see the letter D and press <<T>>.
+You see the letter d and press <<T>>.
+You see the letter G and press <<T>>.
+You see the letter D and press <<T>>.
+You see the letter v and press <<T>>.
+You see the letter v and press <<T>>.
+You see the letter g and press <<T>>.
+You see the letter t and press <<T>>.
+You see the letter T and press <<T>>.
+You see the letter g and press <<T>>.
+You see the letter g and press <<K>>.
+You see the letter g and press <<K>>.
+
+Block 14, N = 1:
+You see the letter B and press <<T>>.
+You see the letter B and press <<K>>.
+You see the letter b and press <<K>>.
+You see the letter d and press <<T>>.
+You see the letter B and press <<K>>.
+You see the letter G and press <<T>>.
+You see the letter D and press <<T>>.
+You see the letter T and press <<T>>.
+You see the letter G and press <<T>>.
+You see the letter g and press <<T>>.
+You see the letter g and press <<K>>.
+You see the letter v and press <<K>>.
+You see the letter D and press <<T>>.
+You see the letter D and press <<K>>.
+You see the letter g and press <<T>>.
+You see the letter b and press <<T>>.
+You see the letter B and press <<T>>.
+You see the letter b and press <<K>>.
+You see the letter T and press <<T>>.
+You see the letter d and press <<K>>.
+You see the letter V and press <<T>>.
+
+Block 15, N = 1:
+You see the letter v and press <<T>>.
+You see the letter T and press <<T>>.
+You see the letter V and press <<T>>.
+You see the letter b and press <<T>>.
+You see the letter B and press <<K>>.
+You see the letter B and press <<K>>.
+You see the letter B and press <<K>>.
+You see the letter t and press <<T>>.
+You see the letter V and press <<T>>.
+You see the letter V and press <<K>>.
+You see the letter T and press <<T>>.
+You see the letter v and press <<T>>.
+You see the letter b and press <<T>>.
+You see the letter g and press <<T>>.
+You see the letter b and press <<T>>.
+You see the letter g and press <<T>>.
+You see the letter G and press <<K>>.
+You see the letter T and press <<T>>.
+You see the letter G and press <<T>>.
+You see the letter G and press <<T>>.
+You see the letter G and press <<K>>.
+
+Block 16, N = 2:
+You see the letter G and press <<T>>.
+You see the letter d and press <<T>>.
+You see the letter G and press <<K>>.
+You see the letter B and press <<T>>.
+You see the letter G and press <<T>>.
+You see the letter B and press <<K>>.
+You see the letter V and press <<T>>.
+You see the letter B.
+You see the letter D and press <<K>>.
+You see the letter g.
+You see the letter G.
+You see the letter t.
+You see the letter V and press <<T>>.
+You see the letter t and press <<T>>.
+You see the letter V and press <<T>>.
+You see the letter g and press <<T>>.
+You see the letter D and press <<T>>.
+You see the letter b and press <<T>>.
+You see the letter T and press <<T>>.
+You see the letter G and press <<T>>.
+You see the letter D and press <<T>>.
+You see the letter G and press <<T>>.
+
+Block 17, N = 1:
+You see the letter B and press <<T>>.
+You see the letter g and press <<T>>.
+You see the letter G and press <<K>>.
+You see the letter v and press <<T>>.
+You see the letter d and press <<T>>.
+You see the letter V and press <<T>>.
+You see the letter b and press <<T>>.
+You see the letter b and press <<K>>.
+You see the letter g and press <<T>>.
+You see the letter V and press <<T>>.
+You see the letter g and press <<T>>.
+You see the letter b and press <<T>>.
+You see the letter b and press <<K>>.
+You see the letter b and press <<K>>.
+You see the letter d and press <<T>>.
+You see the letter D and press <<T>>.
+You see the letter d and press <<K>>.
+You see the letter G and press <<T>>.
+You see the letter B and press <<T>>.
+You see the letter B and press <<T>>.
+You see the letter V and press <<T>>.
+
+Block 18, N = 2:
+You see the letter V and press <<T>>.
+You see the letter V and press <<K>>.
+You see the letter b and press <<T>>.
+You see the letter G and press <<T>>.
+You see the letter b and press <<T>>.
+You see the letter g and press <<T>>.
+You see the letter t and press <<T>>.
+You see the letter d and press <<T>>.
+You see the letter t and press <<T>>.
+You see the letter G and press <<K>>.
+You see the letter T and press <<T>>.
+You see the letter b and press <<T>>.
+You see the letter V and press <<T>>.
+You see the letter v and press <<T>>.
+You see the letter G and press <<T>>.
+You see the letter b and press <<T>>.
+You see the letter g and press <<T>>.
+You see the letter t and press <<T>>.
+You see the letter D and press <<T>>.
+You see the letter t and press <<T>>.
+You see the letter D and press <<T>>.
+You see the letter B and press <<T>>.
+
+Block 19, N = 1:
+You see the letter T and press <<T>>.
+You see the letter T and press <<K>>.
+You see the letter t and press <<K>>.
+You see the letter G and press <<T>>.
+You see the letter V and press <<T>>.
+You see the letter D and press <<T>>.
+You see the letter T and press <<T>>.
+You see the letter T and press <<K>>.
+You see the letter T and press <<K>>.
+You see the letter b and press <<T>>.
+You see the letter D and press <<T>>.
+You see the letter b and press <<T>>.
+You see the letter g and press <<T>>.
+You see the letter B and press <<T>>.
+You see the letter G and press <<T>>.
+You see the letter G and press <<T>>.
+You see the letter v and press <<T>>.
+You see the letter v and press <<K>>.
+You see the letter T and press <<T>>.
+You see the letter b and press <<T>>.
+You see the letter B and press <<T>>.

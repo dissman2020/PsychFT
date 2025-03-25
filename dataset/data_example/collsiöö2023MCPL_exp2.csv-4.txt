@@ -1,0 +1,287 @@
+Your task is to estimate the blood concentration of the hormone Caldionine based on information about the amount of two other hormones, Progladine and Amalydine, in multiple individuals' urine.
+Both Progladine and Amalydine can take five values (1, 2, 3, 4, 5).
+Caldionine can take nine values (extremely low, very low, low, somewhat low, normal, somewhat high, high, very high, extremely high).
+Your goal is to estimate the concentration of Caldionine correctly.
+You will receive feedback about the actual concentration after making your estimate.
+This feedback will stop at some point.
+
+Progladine: 2. Amalydine: 3. You say that the Caldionine concentration is <<normal>>. That is incorrect. The correct concentration of Caldionine is somewhat low.
+Progladine: 4. Amalydine: 5. You say that the Caldionine concentration is <<normal>>. That is incorrect. The correct concentration of Caldionine is somewhat low.
+Progladine: 1. Amalydine: 3. You say that the Caldionine concentration is <<somewhat high>>. That is incorrect. The correct concentration of Caldionine is low.
+Progladine: 2. Amalydine: 4. You say that the Caldionine concentration is <<somewhat high>>. That is incorrect. The correct concentration of Caldionine is low.
+Progladine: 2. Amalydine: 1. You say that the Caldionine concentration is <<somewhat low>>. That is incorrect. The correct concentration of Caldionine is somewhat high.
+Progladine: 2. Amalydine: 2. You say that the Caldionine concentration is <<somewhat high>>. That is incorrect. The correct concentration of Caldionine is normal.
+Progladine: 3. Amalydine: 4. You say that the Caldionine concentration is <<somewhat low>>. That is correct. The correct concentration of Caldionine is indeed somewhat low.
+Progladine: 5. Amalydine: 3. You say that the Caldionine concentration is <<high>>. That is correct. The correct concentration of Caldionine is indeed high.
+Progladine: 5. Amalydine: 4. You say that the Caldionine concentration is <<somewhat low>>. That is incorrect. The correct concentration of Caldionine is somewhat high.
+Progladine: 4. Amalydine: 2. You say that the Caldionine concentration is <<somewhat high>>. That is incorrect. The correct concentration of Caldionine is high.
+Progladine: 3. Amalydine: 3. You say that the Caldionine concentration is <<low>>. That is incorrect. The correct concentration of Caldionine is normal.
+Progladine: 5. Amalydine: 5. You say that the Caldionine concentration is <<normal>>. That is correct. The correct concentration of Caldionine is indeed normal.
+Progladine: 5. Amalydine: 2. You say that the Caldionine concentration is <<somewhat high>>. That is incorrect. The correct concentration of Caldionine is very high.
+Progladine: 3. Amalydine: 5. You say that the Caldionine concentration is <<low>>. That is correct. The correct concentration of Caldionine is indeed low.
+Progladine: 1. Amalydine: 2. You say that the Caldionine concentration is <<high>>. That is incorrect. The correct concentration of Caldionine is somewhat low.
+Progladine: 4. Amalydine: 3. You say that the Caldionine concentration is <<very low>>. That is incorrect. The correct concentration of Caldionine is somewhat high.
+Progladine: 2. Amalydine: 5. You say that the Caldionine concentration is <<normal>>. That is incorrect. The correct concentration of Caldionine is very low.
+Progladine: 1. Amalydine: 1. You say that the Caldionine concentration is <<normal>>. That is correct. The correct concentration of Caldionine is indeed normal.
+Progladine: 4. Amalydine: 1. You say that the Caldionine concentration is <<somewhat high>>. That is incorrect. The correct concentration of Caldionine is very high.
+Progladine: 3. Amalydine: 1. You say that the Caldionine concentration is <<very high>>. That is incorrect. The correct concentration of Caldionine is high.
+Progladine: 3. Amalydine: 2. You say that the Caldionine concentration is <<somewhat low>>. That is incorrect. The correct concentration of Caldionine is somewhat high.
+Progladine: 4. Amalydine: 4. You say that the Caldionine concentration is <<normal>>. That is correct. The correct concentration of Caldionine is indeed normal.
+Progladine: 1. Amalydine: 4. You say that the Caldionine concentration is <<very low>>. That is correct. The correct concentration of Caldionine is indeed very low.
+Progladine: 3. Amalydine: 5. You say that the Caldionine concentration is <<somewhat high>>. That is incorrect. The correct concentration of Caldionine is low.
+Progladine: 2. Amalydine: 5. You say that the Caldionine concentration is <<somewhat low>>. That is incorrect. The correct concentration of Caldionine is very low.
+Progladine: 1. Amalydine: 2. You say that the Caldionine concentration is <<low>>. That is incorrect. The correct concentration of Caldionine is somewhat low.
+Progladine: 2. Amalydine: 1. You say that the Caldionine concentration is <<somewhat high>>. That is correct. The correct concentration of Caldionine is indeed somewhat high.
+Progladine: 3. Amalydine: 4. You say that the Caldionine concentration is <<somewhat low>>. That is correct. The correct concentration of Caldionine is indeed somewhat low.
+Progladine: 2. Amalydine: 3. You say that the Caldionine concentration is <<somewhat low>>. That is correct. The correct concentration of Caldionine is indeed somewhat low.
+Progladine: 1. Amalydine: 3. You say that the Caldionine concentration is <<somewhat low>>. That is incorrect. The correct concentration of Caldionine is low.
+Progladine: 5. Amalydine: 5. You say that the Caldionine concentration is <<normal>>. That is correct. The correct concentration of Caldionine is indeed normal.
+Progladine: 5. Amalydine: 4. You say that the Caldionine concentration is <<somewhat high>>. That is correct. The correct concentration of Caldionine is indeed somewhat high.
+Progladine: 2. Amalydine: 2. You say that the Caldionine concentration is <<normal>>. That is correct. The correct concentration of Caldionine is indeed normal.
+Progladine: 2. Amalydine: 4. You say that the Caldionine concentration is <<low>>. That is correct. The correct concentration of Caldionine is indeed low.
+Progladine: 3. Amalydine: 2. You say that the Caldionine concentration is <<somewhat high>>. That is correct. The correct concentration of Caldionine is indeed somewhat high.
+Progladine: 3. Amalydine: 1. You say that the Caldionine concentration is <<somewhat high>>. That is incorrect. The correct concentration of Caldionine is high.
+Progladine: 1. Amalydine: 4. You say that the Caldionine concentration is <<very low>>. That is correct. The correct concentration of Caldionine is indeed very low.
+Progladine: 5. Amalydine: 2. You say that the Caldionine concentration is <<very low>>. That is incorrect. The correct concentration of Caldionine is very high.
+Progladine: 5. Amalydine: 3. You say that the Caldionine concentration is <<high>>. That is correct. The correct concentration of Caldionine is indeed high.
+Progladine: 4. Amalydine: 2. You say that the Caldionine concentration is <<low>>. That is incorrect. The correct concentration of Caldionine is high.
+Progladine: 4. Amalydine: 1. You say that the Caldionine concentration is <<high>>. That is incorrect. The correct concentration of Caldionine is very high.
+Progladine: 1. Amalydine: 1. You say that the Caldionine concentration is <<normal>>. That is correct. The correct concentration of Caldionine is indeed normal.
+Progladine: 4. Amalydine: 4. You say that the Caldionine concentration is <<normal>>. That is correct. The correct concentration of Caldionine is indeed normal.
+Progladine: 4. Amalydine: 3. You say that the Caldionine concentration is <<somewhat high>>. That is correct. The correct concentration of Caldionine is indeed somewhat high.
+Progladine: 3. Amalydine: 3. You say that the Caldionine concentration is <<normal>>. That is correct. The correct concentration of Caldionine is indeed normal.
+Progladine: 4. Amalydine: 5. You say that the Caldionine concentration is <<somewhat high>>. That is incorrect. The correct concentration of Caldionine is somewhat low.
+Progladine: 1. Amalydine: 3. You say that the Caldionine concentration is <<very low>>. That is incorrect. The correct concentration of Caldionine is low.
+Progladine: 5. Amalydine: 2. You say that the Caldionine concentration is <<very low>>. That is incorrect. The correct concentration of Caldionine is very high.
+Progladine: 4. Amalydine: 1. You say that the Caldionine concentration is <<very high>>. That is correct. The correct concentration of Caldionine is indeed very high.
+Progladine: 1. Amalydine: 4. You say that the Caldionine concentration is <<very low>>. That is correct. The correct concentration of Caldionine is indeed very low.
+Progladine: 2. Amalydine: 3. You say that the Caldionine concentration is <<somewhat low>>. That is correct. The correct concentration of Caldionine is indeed somewhat low.
+Progladine: 2. Amalydine: 2. You say that the Caldionine concentration is <<normal>>. That is correct. The correct concentration of Caldionine is indeed normal.
+Progladine: 1. Amalydine: 1. You say that the Caldionine concentration is <<normal>>. That is correct. The correct concentration of Caldionine is indeed normal.
+Progladine: 3. Amalydine: 3. You say that the Caldionine concentration is <<normal>>. That is correct. The correct concentration of Caldionine is indeed normal.
+Progladine: 4. Amalydine: 4. You say that the Caldionine concentration is <<normal>>. That is correct. The correct concentration of Caldionine is indeed normal.
+Progladine: 1. Amalydine: 2. You say that the Caldionine concentration is <<somewhat low>>. That is correct. The correct concentration of Caldionine is indeed somewhat low.
+Progladine: 4. Amalydine: 2. You say that the Caldionine concentration is <<somewhat high>>. That is incorrect. The correct concentration of Caldionine is high.
+Progladine: 3. Amalydine: 1. You say that the Caldionine concentration is <<very high>>. That is incorrect. The correct concentration of Caldionine is high.
+Progladine: 5. Amalydine: 3. You say that the Caldionine concentration is <<very low>>. That is incorrect. The correct concentration of Caldionine is high.
+Progladine: 3. Amalydine: 2. You say that the Caldionine concentration is <<very high>>. That is incorrect. The correct concentration of Caldionine is somewhat high.
+Progladine: 3. Amalydine: 4. You say that the Caldionine concentration is <<somewhat low>>. That is correct. The correct concentration of Caldionine is indeed somewhat low.
+Progladine: 3. Amalydine: 5. You say that the Caldionine concentration is <<somewhat low>>. That is incorrect. The correct concentration of Caldionine is low.
+Progladine: 5. Amalydine: 5. You say that the Caldionine concentration is <<normal>>. That is correct. The correct concentration of Caldionine is indeed normal.
+Progladine: 5. Amalydine: 4. You say that the Caldionine concentration is <<somewhat low>>. That is incorrect. The correct concentration of Caldionine is somewhat high.
+Progladine: 2. Amalydine: 4. You say that the Caldionine concentration is <<very high>>. That is incorrect. The correct concentration of Caldionine is low.
+Progladine: 2. Amalydine: 1. You say that the Caldionine concentration is <<very low>>. That is incorrect. The correct concentration of Caldionine is somewhat high.
+Progladine: 4. Amalydine: 5. You say that the Caldionine concentration is <<high>>. That is incorrect. The correct concentration of Caldionine is somewhat low.
+Progladine: 4. Amalydine: 3. You say that the Caldionine concentration is <<somewhat low>>. That is incorrect. The correct concentration of Caldionine is somewhat high.
+Progladine: 2. Amalydine: 5. You say that the Caldionine concentration is <<high>>. That is incorrect. The correct concentration of Caldionine is very low.
+Progladine: 1. Amalydine: 1. You say that the Caldionine concentration is <<normal>>. That is correct. The correct concentration of Caldionine is indeed normal.
+Progladine: 3. Amalydine: 5. You say that the Caldionine concentration is <<very low>>. That is incorrect. The correct concentration of Caldionine is low.
+Progladine: 4. Amalydine: 2. You say that the Caldionine concentration is <<very low>>. That is incorrect. The correct concentration of Caldionine is high.
+Progladine: 4. Amalydine: 1. You say that the Caldionine concentration is <<very high>>. That is correct. The correct concentration of Caldionine is indeed very high.
+Progladine: 4. Amalydine: 5. You say that the Caldionine concentration is <<very low>>. That is incorrect. The correct concentration of Caldionine is somewhat low.
+Progladine: 1. Amalydine: 2. You say that the Caldionine concentration is <<very high>>. That is incorrect. The correct concentration of Caldionine is somewhat low.
+Progladine: 5. Amalydine: 5. You say that the Caldionine concentration is <<normal>>. That is correct. The correct concentration of Caldionine is indeed normal.
+Progladine: 2. Amalydine: 1. You say that the Caldionine concentration is <<somewhat low>>. That is incorrect. The correct concentration of Caldionine is somewhat high.
+Progladine: 1. Amalydine: 3. You say that the Caldionine concentration is <<very high>>. That is incorrect. The correct concentration of Caldionine is low.
+Progladine: 3. Amalydine: 3. You say that the Caldionine concentration is <<normal>>. That is correct. The correct concentration of Caldionine is indeed normal.
+Progladine: 4. Amalydine: 3. You say that the Caldionine concentration is <<somewhat low>>. That is incorrect. The correct concentration of Caldionine is somewhat high.
+Progladine: 3. Amalydine: 1. You say that the Caldionine concentration is <<somewhat high>>. That is incorrect. The correct concentration of Caldionine is high.
+Progladine: 2. Amalydine: 4. You say that the Caldionine concentration is <<somewhat low>>. That is incorrect. The correct concentration of Caldionine is low.
+Progladine: 5. Amalydine: 2. You say that the Caldionine concentration is <<somewhat low>>. That is incorrect. The correct concentration of Caldionine is very high.
+Progladine: 2. Amalydine: 2. You say that the Caldionine concentration is <<normal>>. That is correct. The correct concentration of Caldionine is indeed normal.
+Progladine: 4. Amalydine: 4. You say that the Caldionine concentration is <<normal>>. That is correct. The correct concentration of Caldionine is indeed normal.
+Progladine: 2. Amalydine: 3. You say that the Caldionine concentration is <<somewhat high>>. That is incorrect. The correct concentration of Caldionine is somewhat low.
+Progladine: 2. Amalydine: 5. You say that the Caldionine concentration is <<very low>>. That is correct. The correct concentration of Caldionine is indeed very low.
+Progladine: 3. Amalydine: 4. You say that the Caldionine concentration is <<somewhat high>>. That is incorrect. The correct concentration of Caldionine is somewhat low.
+Progladine: 5. Amalydine: 4. You say that the Caldionine concentration is <<somewhat low>>. That is incorrect. The correct concentration of Caldionine is somewhat high.
+Progladine: 1. Amalydine: 4. You say that the Caldionine concentration is <<very high>>. That is incorrect. The correct concentration of Caldionine is very low.
+Progladine: 3. Amalydine: 2. You say that the Caldionine concentration is <<somewhat low>>. That is incorrect. The correct concentration of Caldionine is somewhat high.
+Progladine: 5. Amalydine: 3. You say that the Caldionine concentration is <<somewhat high>>. That is incorrect. The correct concentration of Caldionine is high.
+Progladine: 3. Amalydine: 3. You say that the Caldionine concentration is <<normal>>. That is correct. The correct concentration of Caldionine is indeed normal.
+Progladine: 1. Amalydine: 2. You say that the Caldionine concentration is <<somewhat low>>. That is correct. The correct concentration of Caldionine is indeed somewhat low.
+Progladine: 4. Amalydine: 5. You say that the Caldionine concentration is <<somewhat low>>. That is correct. The correct concentration of Caldionine is indeed somewhat low.
+Progladine: 2. Amalydine: 5. You say that the Caldionine concentration is <<very high>>. That is incorrect. The correct concentration of Caldionine is very low.
+Progladine: 4. Amalydine: 1. You say that the Caldionine concentration is <<very low>>. That is incorrect. The correct concentration of Caldionine is very high.
+Progladine: 2. Amalydine: 3. You say that the Caldionine concentration is <<somewhat high>>. That is incorrect. The correct concentration of Caldionine is somewhat low.
+Progladine: 4. Amalydine: 3. You say that the Caldionine concentration is <<somewhat low>>. That is incorrect. The correct concentration of Caldionine is somewhat high.
+Progladine: 5. Amalydine: 4. You say that the Caldionine concentration is <<somewhat high>>. That is correct. The correct concentration of Caldionine is indeed somewhat high.
+Progladine: 2. Amalydine: 2. You say that the Caldionine concentration is <<normal>>. That is correct. The correct concentration of Caldionine is indeed normal.
+Progladine: 3. Amalydine: 1. You say that the Caldionine concentration is <<somewhat low>>. That is incorrect. The correct concentration of Caldionine is high.
+Progladine: 1. Amalydine: 3. You say that the Caldionine concentration is <<somewhat high>>. That is incorrect. The correct concentration of Caldionine is low.
+Progladine: 5. Amalydine: 5. You say that the Caldionine concentration is <<normal>>. That is correct. The correct concentration of Caldionine is indeed normal.
+Progladine: 1. Amalydine: 4. You say that the Caldionine concentration is <<somewhat low>>. That is incorrect. The correct concentration of Caldionine is very low.
+Progladine: 2. Amalydine: 4. You say that the Caldionine concentration is <<somewhat high>>. That is incorrect. The correct concentration of Caldionine is low.
+Progladine: 4. Amalydine: 2. You say that the Caldionine concentration is <<low>>. That is incorrect. The correct concentration of Caldionine is high.
+Progladine: 1. Amalydine: 1. You say that the Caldionine concentration is <<normal>>. That is correct. The correct concentration of Caldionine is indeed normal.
+Progladine: 3. Amalydine: 2. You say that the Caldionine concentration is <<somewhat high>>. That is correct. The correct concentration of Caldionine is indeed somewhat high.
+Progladine: 3. Amalydine: 4. You say that the Caldionine concentration is <<somewhat high>>. That is incorrect. The correct concentration of Caldionine is somewhat low.
+Progladine: 5. Amalydine: 2. You say that the Caldionine concentration is <<very low>>. That is incorrect. The correct concentration of Caldionine is very high.
+Progladine: 4. Amalydine: 4. You say that the Caldionine concentration is <<normal>>. That is correct. The correct concentration of Caldionine is indeed normal.
+Progladine: 2. Amalydine: 1. You say that the Caldionine concentration is <<somewhat high>>. That is correct. The correct concentration of Caldionine is indeed somewhat high.
+Progladine: 3. Amalydine: 5. You say that the Caldionine concentration is <<high>>. That is incorrect. The correct concentration of Caldionine is low.
+Progladine: 5. Amalydine: 3. You say that the Caldionine concentration is <<high>>. That is correct. The correct concentration of Caldionine is indeed high.
+Progladine: 3. Amalydine: 2. You say that the Caldionine concentration is <<high>>. That is incorrect. The correct concentration of Caldionine is somewhat high.
+Progladine: 1. Amalydine: 3. You say that the Caldionine concentration is <<very low>>. That is incorrect. The correct concentration of Caldionine is low.
+Progladine: 1. Amalydine: 1. You say that the Caldionine concentration is <<normal>>. That is correct. The correct concentration of Caldionine is indeed normal.
+Progladine: 4. Amalydine: 1. You say that the Caldionine concentration is <<very high>>. That is correct. The correct concentration of Caldionine is indeed very high.
+Progladine: 4. Amalydine: 3. You say that the Caldionine concentration is <<somewhat high>>. That is correct. The correct concentration of Caldionine is indeed somewhat high.
+Progladine: 2. Amalydine: 3. You say that the Caldionine concentration is <<somewhat high>>. That is incorrect. The correct concentration of Caldionine is somewhat low.
+Progladine: 1. Amalydine: 2. You say that the Caldionine concentration is <<somewhat high>>. That is incorrect. The correct concentration of Caldionine is somewhat low.
+Progladine: 2. Amalydine: 2. You say that the Caldionine concentration is <<normal>>. That is correct. The correct concentration of Caldionine is indeed normal.
+Progladine: 1. Amalydine: 4. You say that the Caldionine concentration is <<low>>. That is incorrect. The correct concentration of Caldionine is very low.
+Progladine: 2. Amalydine: 5. You say that the Caldionine concentration is <<very high>>. That is incorrect. The correct concentration of Caldionine is very low.
+Progladine: 3. Amalydine: 1. You say that the Caldionine concentration is <<very low>>. That is incorrect. The correct concentration of Caldionine is high.
+Progladine: 2. Amalydine: 1. You say that the Caldionine concentration is <<low>>. That is incorrect. The correct concentration of Caldionine is somewhat high.
+Progladine: 5. Amalydine: 3. You say that the Caldionine concentration is <<high>>. That is correct. The correct concentration of Caldionine is indeed high.
+Progladine: 3. Amalydine: 4. You say that the Caldionine concentration is <<somewhat low>>. That is correct. The correct concentration of Caldionine is indeed somewhat low.
+Progladine: 4. Amalydine: 4. You say that the Caldionine concentration is <<normal>>. That is correct. The correct concentration of Caldionine is indeed normal.
+Progladine: 3. Amalydine: 5. You say that the Caldionine concentration is <<low>>. That is correct. The correct concentration of Caldionine is indeed low.
+Progladine: 4. Amalydine: 5. You say that the Caldionine concentration is <<low>>. That is incorrect. The correct concentration of Caldionine is somewhat low.
+Progladine: 5. Amalydine: 5. You say that the Caldionine concentration is <<normal>>. That is correct. The correct concentration of Caldionine is indeed normal.
+Progladine: 5. Amalydine: 2. You say that the Caldionine concentration is <<very high>>. That is correct. The correct concentration of Caldionine is indeed very high.
+Progladine: 5. Amalydine: 4. You say that the Caldionine concentration is <<somewhat low>>. That is incorrect. The correct concentration of Caldionine is somewhat high.
+Progladine: 4. Amalydine: 2. You say that the Caldionine concentration is <<very high>>. That is incorrect. The correct concentration of Caldionine is high.
+Progladine: 3. Amalydine: 3. You say that the Caldionine concentration is <<normal>>. That is correct. The correct concentration of Caldionine is indeed normal.
+Progladine: 2. Amalydine: 4. You say that the Caldionine concentration is <<very low>>. That is incorrect. The correct concentration of Caldionine is low.
+Progladine: 1. Amalydine: 2. You say that the Caldionine concentration is <<somewhat low>>. That is correct. The correct concentration of Caldionine is indeed somewhat low.
+Progladine: 1. Amalydine: 4. You say that the Caldionine concentration is <<very low>>. That is correct. The correct concentration of Caldionine is indeed very low.
+Progladine: 5. Amalydine: 3. You say that the Caldionine concentration is <<very low>>. That is incorrect. The correct concentration of Caldionine is high.
+Progladine: 4. Amalydine: 1. You say that the Caldionine concentration is <<very high>>. That is correct. The correct concentration of Caldionine is indeed very high.
+Progladine: 3. Amalydine: 3. You say that the Caldionine concentration is <<normal>>. That is correct. The correct concentration of Caldionine is indeed normal.
+Progladine: 5. Amalydine: 5. You say that the Caldionine concentration is <<normal>>. That is correct. The correct concentration of Caldionine is indeed normal.
+Progladine: 5. Amalydine: 2. You say that the Caldionine concentration is <<very low>>. That is incorrect. The correct concentration of Caldionine is very high.
+Progladine: 5. Amalydine: 4. You say that the Caldionine concentration is <<low>>. That is incorrect. The correct concentration of Caldionine is somewhat high.
+Progladine: 4. Amalydine: 2. You say that the Caldionine concentration is <<very high>>. That is incorrect. The correct concentration of Caldionine is high.
+Progladine: 1. Amalydine: 3. You say that the Caldionine concentration is <<high>>. That is incorrect. The correct concentration of Caldionine is low.
+Progladine: 2. Amalydine: 3. You say that the Caldionine concentration is <<very low>>. That is incorrect. The correct concentration of Caldionine is somewhat low.
+Progladine: 3. Amalydine: 1. You say that the Caldionine concentration is <<somewhat low>>. That is incorrect. The correct concentration of Caldionine is high.
+Progladine: 2. Amalydine: 2. You say that the Caldionine concentration is <<normal>>. That is correct. The correct concentration of Caldionine is indeed normal.
+Progladine: 2. Amalydine: 1. You say that the Caldionine concentration is <<high>>. That is incorrect. The correct concentration of Caldionine is somewhat high.
+Progladine: 2. Amalydine: 5. You say that the Caldionine concentration is <<very low>>. That is correct. The correct concentration of Caldionine is indeed very low.
+Progladine: 2. Amalydine: 4. You say that the Caldionine concentration is <<somewhat high>>. That is incorrect. The correct concentration of Caldionine is low.
+Progladine: 3. Amalydine: 2. You say that the Caldionine concentration is <<somewhat low>>. That is incorrect. The correct concentration of Caldionine is somewhat high.
+Progladine: 4. Amalydine: 3. You say that the Caldionine concentration is <<somewhat high>>. That is correct. The correct concentration of Caldionine is indeed somewhat high.
+Progladine: 3. Amalydine: 5. You say that the Caldionine concentration is <<low>>. That is correct. The correct concentration of Caldionine is indeed low.
+Progladine: 4. Amalydine: 4. You say that the Caldionine concentration is <<normal>>. That is correct. The correct concentration of Caldionine is indeed normal.
+Progladine: 3. Amalydine: 4. You say that the Caldionine concentration is <<low>>. That is incorrect. The correct concentration of Caldionine is somewhat low.
+Progladine: 4. Amalydine: 5. You say that the Caldionine concentration is <<somewhat low>>. That is correct. The correct concentration of Caldionine is indeed somewhat low.
+Progladine: 1. Amalydine: 1. You say that the Caldionine concentration is <<normal>>. That is correct. The correct concentration of Caldionine is indeed normal.
+Progladine: 1. Amalydine: 3. You say that the Caldionine concentration is <<high>>. That is incorrect. The correct concentration of Caldionine is low.
+Progladine: 2. Amalydine: 1. You say that the Caldionine concentration is <<somewhat low>>. That is incorrect. The correct concentration of Caldionine is somewhat high.
+Progladine: 5. Amalydine: 2. You say that the Caldionine concentration is <<high>>. That is incorrect. The correct concentration of Caldionine is very high.
+Progladine: 5. Amalydine: 3. You say that the Caldionine concentration is <<low>>. That is incorrect. The correct concentration of Caldionine is high.
+Progladine: 4. Amalydine: 4. You say that the Caldionine concentration is <<normal>>. That is correct. The correct concentration of Caldionine is indeed normal.
+Progladine: 4. Amalydine: 3. You say that the Caldionine concentration is <<somewhat high>>. That is correct. The correct concentration of Caldionine is indeed somewhat high.
+Progladine: 4. Amalydine: 5. You say that the Caldionine concentration is <<somewhat high>>. That is incorrect. The correct concentration of Caldionine is somewhat low.
+Progladine: 4. Amalydine: 1. You say that the Caldionine concentration is <<somewhat low>>. That is incorrect. The correct concentration of Caldionine is very high.
+Progladine: 4. Amalydine: 2. You say that the Caldionine concentration is <<low>>. That is incorrect. The correct concentration of Caldionine is high.
+Progladine: 3. Amalydine: 2. You say that the Caldionine concentration is <<somewhat high>>. That is correct. The correct concentration of Caldionine is indeed somewhat high.
+Progladine: 3. Amalydine: 3. You say that the Caldionine concentration is <<normal>>. That is correct. The correct concentration of Caldionine is indeed normal.
+Progladine: 3. Amalydine: 1. You say that the Caldionine concentration is <<high>>. That is correct. The correct concentration of Caldionine is indeed high.
+Progladine: 3. Amalydine: 4. You say that the Caldionine concentration is <<somewhat low>>. That is correct. The correct concentration of Caldionine is indeed somewhat low.
+Progladine: 5. Amalydine: 4. You say that the Caldionine concentration is <<somewhat low>>. That is incorrect. The correct concentration of Caldionine is somewhat high.
+Progladine: 2. Amalydine: 3. You say that the Caldionine concentration is <<somewhat low>>. That is correct. The correct concentration of Caldionine is indeed somewhat low.
+Progladine: 2. Amalydine: 5. You say that the Caldionine concentration is <<somewhat low>>. That is incorrect. The correct concentration of Caldionine is very low.
+Progladine: 2. Amalydine: 2. You say that the Caldionine concentration is <<high>>. That is incorrect. The correct concentration of Caldionine is normal.
+Progladine: 5. Amalydine: 5. You say that the Caldionine concentration is <<normal>>. That is correct. The correct concentration of Caldionine is indeed normal.
+Progladine: 1. Amalydine: 4. You say that the Caldionine concentration is <<very low>>. That is correct. The correct concentration of Caldionine is indeed very low.
+Progladine: 1. Amalydine: 2. You say that the Caldionine concentration is <<low>>. That is incorrect. The correct concentration of Caldionine is somewhat low.
+Progladine: 3. Amalydine: 5. You say that the Caldionine concentration is <<somewhat high>>. That is incorrect. The correct concentration of Caldionine is low.
+Progladine: 2. Amalydine: 4. You say that the Caldionine concentration is <<low>>. That is correct. The correct concentration of Caldionine is indeed low.
+Progladine: 1. Amalydine: 1. You say that the Caldionine concentration is <<normal>>. That is correct. The correct concentration of Caldionine is indeed normal.
+Progladine: 2. Amalydine: 1. You say that the Caldionine concentration is <<somewhat low>>. That is incorrect. The correct concentration of Caldionine is somewhat high.
+Progladine: 3. Amalydine: 4. You say that the Caldionine concentration is <<somewhat high>>. That is incorrect. The correct concentration of Caldionine is somewhat low.
+Progladine: 5. Amalydine: 4. You say that the Caldionine concentration is <<low>>. That is incorrect. The correct concentration of Caldionine is somewhat high.
+Progladine: 3. Amalydine: 5. You say that the Caldionine concentration is <<very high>>. That is incorrect. The correct concentration of Caldionine is low.
+Progladine: 4. Amalydine: 4. You say that the Caldionine concentration is <<normal>>. That is correct. The correct concentration of Caldionine is indeed normal.
+Progladine: 5. Amalydine: 2. You say that the Caldionine concentration is <<very low>>. That is incorrect. The correct concentration of Caldionine is very high.
+Progladine: 1. Amalydine: 2. You say that the Caldionine concentration is <<somewhat high>>. That is incorrect. The correct concentration of Caldionine is somewhat low.
+Progladine: 2. Amalydine: 2. You say that the Caldionine concentration is <<normal>>. That is correct. The correct concentration of Caldionine is indeed normal.
+Progladine: 4. Amalydine: 3. You say that the Caldionine concentration is <<low>>. That is incorrect. The correct concentration of Caldionine is somewhat high.
+Progladine: 1. Amalydine: 1. You say that the Caldionine concentration is <<normal>>. That is correct. The correct concentration of Caldionine is indeed normal.
+Progladine: 5. Amalydine: 3. You say that the Caldionine concentration is <<high>>. That is correct. The correct concentration of Caldionine is indeed high.
+Progladine: 4. Amalydine: 5. You say that the Caldionine concentration is <<somewhat high>>. That is incorrect. The correct concentration of Caldionine is somewhat low.
+Progladine: 2. Amalydine: 4. You say that the Caldionine concentration is <<low>>. That is correct. The correct concentration of Caldionine is indeed low.
+Progladine: 1. Amalydine: 3. You say that the Caldionine concentration is <<somewhat high>>. That is incorrect. The correct concentration of Caldionine is low.
+Progladine: 2. Amalydine: 3. You say that the Caldionine concentration is <<somewhat low>>. That is correct. The correct concentration of Caldionine is indeed somewhat low.
+Progladine: 4. Amalydine: 2. You say that the Caldionine concentration is <<low>>. That is incorrect. The correct concentration of Caldionine is high.
+Progladine: 1. Amalydine: 4. You say that the Caldionine concentration is <<very high>>. That is incorrect. The correct concentration of Caldionine is very low.
+Progladine: 3. Amalydine: 2. You say that the Caldionine concentration is <<low>>. That is incorrect. The correct concentration of Caldionine is somewhat high.
+Progladine: 2. Amalydine: 5. You say that the Caldionine concentration is <<high>>. That is incorrect. The correct concentration of Caldionine is very low.
+Progladine: 3. Amalydine: 3. You say that the Caldionine concentration is <<normal>>. That is correct. The correct concentration of Caldionine is indeed normal.
+Progladine: 3. Amalydine: 1. You say that the Caldionine concentration is <<high>>. That is correct. The correct concentration of Caldionine is indeed high.
+Progladine: 5. Amalydine: 5. You say that the Caldionine concentration is <<normal>>. That is correct. The correct concentration of Caldionine is indeed normal.
+Progladine: 4. Amalydine: 1. You say that the Caldionine concentration is <<very low>>. That is incorrect. The correct concentration of Caldionine is very high.
+Progladine: 1. Amalydine: 2. You say that the Caldionine concentration is <<somewhat high>>. That is incorrect. The correct concentration of Caldionine is somewhat low.
+Progladine: 5. Amalydine: 2. You say that the Caldionine concentration is <<low>>. That is incorrect. The correct concentration of Caldionine is very high.
+Progladine: 5. Amalydine: 4. You say that the Caldionine concentration is <<somewhat high>>. That is correct. The correct concentration of Caldionine is indeed somewhat high.
+Progladine: 3. Amalydine: 1. You say that the Caldionine concentration is <<low>>. That is incorrect. The correct concentration of Caldionine is high.
+Progladine: 5. Amalydine: 5. You say that the Caldionine concentration is <<normal>>. That is correct. The correct concentration of Caldionine is indeed normal.
+Progladine: 3. Amalydine: 5. You say that the Caldionine concentration is <<high>>. That is incorrect. The correct concentration of Caldionine is low.
+Progladine: 3. Amalydine: 4. You say that the Caldionine concentration is <<somewhat low>>. That is correct. The correct concentration of Caldionine is indeed somewhat low.
+Progladine: 4. Amalydine: 3. You say that the Caldionine concentration is <<somewhat low>>. That is incorrect. The correct concentration of Caldionine is somewhat high.
+Progladine: 2. Amalydine: 4. You say that the Caldionine concentration is <<high>>. That is incorrect. The correct concentration of Caldionine is low.
+Progladine: 3. Amalydine: 3. You say that the Caldionine concentration is <<normal>>. That is correct. The correct concentration of Caldionine is indeed normal.
+Progladine: 1. Amalydine: 3. You say that the Caldionine concentration is <<very low>>. That is incorrect. The correct concentration of Caldionine is low.
+Progladine: 1. Amalydine: 4. You say that the Caldionine concentration is <<low>>. That is incorrect. The correct concentration of Caldionine is very low.
+Progladine: 2. Amalydine: 3. You say that the Caldionine concentration is <<somewhat high>>. That is incorrect. The correct concentration of Caldionine is somewhat low.
+Progladine: 3. Amalydine: 2. You say that the Caldionine concentration is <<somewhat low>>. That is incorrect. The correct concentration of Caldionine is somewhat high.
+Progladine: 2. Amalydine: 2. You say that the Caldionine concentration is <<normal>>. That is correct. The correct concentration of Caldionine is indeed normal.
+Progladine: 1. Amalydine: 1. You say that the Caldionine concentration is <<normal>>. That is correct. The correct concentration of Caldionine is indeed normal.
+Progladine: 4. Amalydine: 4. You say that the Caldionine concentration is <<normal>>. That is correct. The correct concentration of Caldionine is indeed normal.
+Progladine: 2. Amalydine: 5. You say that the Caldionine concentration is <<high>>. That is incorrect. The correct concentration of Caldionine is very low.
+Progladine: 4. Amalydine: 1. You say that the Caldionine concentration is <<low>>. That is incorrect. The correct concentration of Caldionine is very high.
+Progladine: 4. Amalydine: 5. You say that the Caldionine concentration is <<high>>. That is incorrect. The correct concentration of Caldionine is somewhat low.
+Progladine: 5. Amalydine: 3. You say that the Caldionine concentration is <<very low>>. That is incorrect. The correct concentration of Caldionine is high.
+Progladine: 4. Amalydine: 2. You say that the Caldionine concentration is <<low>>. That is incorrect. The correct concentration of Caldionine is high.
+Progladine: 2. Amalydine: 1. You say that the Caldionine concentration is <<somewhat high>>. That is correct. The correct concentration of Caldionine is indeed somewhat high.
+Progladine: 1. Amalydine: 3. You say that the Caldionine concentration is <<somewhat high>>. 
+Progladine: 4. Amalydine: 3. You say that the Caldionine concentration is <<somewhat high>>. 
+Progladine: 5. Amalydine: 5. You say that the Caldionine concentration is <<normal>>. 
+Progladine: 2. Amalydine: 4. You say that the Caldionine concentration is <<somewhat low>>. 
+Progladine: 3. Amalydine: 1. You say that the Caldionine concentration is <<somewhat high>>. 
+Progladine: 3. Amalydine: 4. You say that the Caldionine concentration is <<normal>>. 
+Progladine: 2. Amalydine: 5. You say that the Caldionine concentration is <<very low>>. 
+Progladine: 4. Amalydine: 2. You say that the Caldionine concentration is <<high>>. 
+Progladine: 2. Amalydine: 1. You say that the Caldionine concentration is <<somewhat low>>. 
+Progladine: 1. Amalydine: 2. You say that the Caldionine concentration is <<somewhat high>>. 
+Progladine: 4. Amalydine: 5. You say that the Caldionine concentration is <<somewhat low>>. 
+Progladine: 2. Amalydine: 2. You say that the Caldionine concentration is <<normal>>. 
+Progladine: 2. Amalydine: 3. You say that the Caldionine concentration is <<somewhat low>>. 
+Progladine: 1. Amalydine: 4. You say that the Caldionine concentration is <<very low>>. 
+Progladine: 3. Amalydine: 3. You say that the Caldionine concentration is <<normal>>. 
+Progladine: 3. Amalydine: 2. You say that the Caldionine concentration is <<very high>>. 
+Progladine: 4. Amalydine: 1. You say that the Caldionine concentration is <<very low>>. 
+Progladine: 1. Amalydine: 1. You say that the Caldionine concentration is <<normal>>. 
+Progladine: 1. Amalydine: 5. You say that the Caldionine concentration is <<very high>>. 
+Progladine: 5. Amalydine: 2. You say that the Caldionine concentration is <<very low>>. 
+Progladine: 5. Amalydine: 3. You say that the Caldionine concentration is <<very low>>. 
+Progladine: 5. Amalydine: 1. You say that the Caldionine concentration is <<high>>. 
+Progladine: 3. Amalydine: 5. You say that the Caldionine concentration is <<very low>>. 
+Progladine: 5. Amalydine: 4. You say that the Caldionine concentration is <<somewhat high>>. 
+Progladine: 4. Amalydine: 4. You say that the Caldionine concentration is <<normal>>. 
+Progladine: 3. Amalydine: 2. You say that the Caldionine concentration is <<low>>. 
+Progladine: 5. Amalydine: 5. You say that the Caldionine concentration is <<normal>>. 
+Progladine: 1. Amalydine: 5. You say that the Caldionine concentration is <<very high>>. 
+Progladine: 2. Amalydine: 3. You say that the Caldionine concentration is <<somewhat low>>. 
+Progladine: 1. Amalydine: 3. You say that the Caldionine concentration is <<somewhat low>>. 
+Progladine: 4. Amalydine: 2. You say that the Caldionine concentration is <<high>>. 
+Progladine: 3. Amalydine: 5. You say that the Caldionine concentration is <<low>>. 
+Progladine: 5. Amalydine: 1. You say that the Caldionine concentration is <<very low>>. 
+Progladine: 3. Amalydine: 1. You say that the Caldionine concentration is <<very low>>. 
+Progladine: 2. Amalydine: 2. You say that the Caldionine concentration is <<normal>>. 
+Progladine: 5. Amalydine: 4. You say that the Caldionine concentration is <<low>>. 
+Progladine: 4. Amalydine: 3. You say that the Caldionine concentration is <<low>>. 
+Progladine: 4. Amalydine: 4. You say that the Caldionine concentration is <<normal>>. 
+Progladine: 2. Amalydine: 1. You say that the Caldionine concentration is <<somewhat high>>. 
+Progladine: 1. Amalydine: 2. You say that the Caldionine concentration is <<somewhat high>>. 
+Progladine: 3. Amalydine: 4. You say that the Caldionine concentration is <<somewhat low>>. 
+Progladine: 5. Amalydine: 3. You say that the Caldionine concentration is <<low>>. 
+Progladine: 2. Amalydine: 4. You say that the Caldionine concentration is <<high>>. 
+Progladine: 1. Amalydine: 4. You say that the Caldionine concentration is <<somewhat low>>. 
+Progladine: 2. Amalydine: 5. You say that the Caldionine concentration is <<low>>. 
+Progladine: 4. Amalydine: 5. You say that the Caldionine concentration is <<high>>. 
+Progladine: 3. Amalydine: 3. You say that the Caldionine concentration is <<normal>>. 
+Progladine: 5. Amalydine: 2. You say that the Caldionine concentration is <<very low>>. 
+Progladine: 1. Amalydine: 1. You say that the Caldionine concentration is <<normal>>. 
+Progladine: 4. Amalydine: 1. You say that the Caldionine concentration is <<very low>>. 

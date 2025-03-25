@@ -1,0 +1,3048 @@
+You are participating in multiple games involving two slot machines, labeled J and K.
+The two slot machines are different across different games.
+Each time you choose a slot machine, you get some points.
+You choose a slot machine by pressing the corresponding key.
+Each slot machine tends to pay out about the same amount of points on average.
+Your goal is to choose the slot machines that will give you the most points across the experiment.
+The first 4 trials in each game are instructed trials where you will be told which slot machine to choose.
+After these instructed trials, you will have the freedom to choose for either 1 or 6 trials.
+
+Game 1. There are 5 trials in this game.
+You are instructed to press J and get 61 points.
+You are instructed to press K and get 41 points.
+You are instructed to press J and get 60 points.
+You are instructed to press J and get 65 points.
+You press <<K>> and get 61 points.
+
+Game 2. There are 10 trials in this game.
+You are instructed to press J and get 99 points.
+You are instructed to press J and get 83 points.
+You are instructed to press K and get 65 points.
+You are instructed to press K and get 56 points.
+You press <<J>> and get 99 points.
+You press <<J>> and get 85 points.
+You press <<J>> and get 81 points.
+You press <<J>> and get 96 points.
+You press <<J>> and get 86 points.
+You press <<J>> and get 99 points.
+
+Game 3. There are 5 trials in this game.
+You are instructed to press J and get 30 points.
+You are instructed to press K and get 49 points.
+You are instructed to press J and get 38 points.
+You are instructed to press K and get 51 points.
+You press <<K>> and get 47 points.
+
+Game 4. There are 5 trials in this game.
+You are instructed to press K and get 49 points.
+You are instructed to press J and get 33 points.
+You are instructed to press K and get 38 points.
+You are instructed to press K and get 36 points.
+You press <<J>> and get 26 points.
+
+Game 5. There are 5 trials in this game.
+You are instructed to press J and get 27 points.
+You are instructed to press K and get 34 points.
+You are instructed to press K and get 35 points.
+You are instructed to press K and get 34 points.
+You press <<J>> and get 52 points.
+
+Game 6. There are 5 trials in this game.
+You are instructed to press J and get 69 points.
+You are instructed to press K and get 66 points.
+You are instructed to press K and get 50 points.
+You are instructed to press J and get 63 points.
+You press <<K>> and get 73 points.
+
+Game 7. There are 5 trials in this game.
+You are instructed to press J and get 54 points.
+You are instructed to press J and get 61 points.
+You are instructed to press J and get 51 points.
+You are instructed to press K and get 40 points.
+You press <<J>> and get 54 points.
+
+Game 8. There are 10 trials in this game.
+You are instructed to press J and get 16 points.
+You are instructed to press K and get 47 points.
+You are instructed to press J and get 1 points.
+You are instructed to press J and get 15 points.
+You press <<K>> and get 36 points.
+You press <<J>> and get 2 points.
+You press <<K>> and get 37 points.
+You press <<J>> and get 4 points.
+You press <<K>> and get 39 points.
+You press <<K>> and get 41 points.
+
+Game 9. There are 10 trials in this game.
+You are instructed to press K and get 54 points.
+You are instructed to press K and get 40 points.
+You are instructed to press J and get 32 points.
+You are instructed to press K and get 45 points.
+You press <<K>> and get 37 points.
+You press <<K>> and get 49 points.
+You press <<K>> and get 55 points.
+You press <<K>> and get 59 points.
+You press <<K>> and get 49 points.
+You press <<K>> and get 60 points.
+
+Game 10. There are 10 trials in this game.
+You are instructed to press K and get 67 points.
+You are instructed to press K and get 61 points.
+You are instructed to press J and get 56 points.
+You are instructed to press J and get 47 points.
+You press <<K>> and get 59 points.
+You press <<K>> and get 64 points.
+You press <<K>> and get 65 points.
+You press <<K>> and get 51 points.
+You press <<K>> and get 59 points.
+You press <<K>> and get 59 points.
+
+Game 11. There are 10 trials in this game.
+You are instructed to press J and get 38 points.
+You are instructed to press J and get 21 points.
+You are instructed to press J and get 44 points.
+You are instructed to press K and get 36 points.
+You press <<J>> and get 24 points.
+You press <<K>> and get 38 points.
+You press <<K>> and get 40 points.
+You press <<K>> and get 38 points.
+You press <<K>> and get 26 points.
+You press <<J>> and get 46 points.
+
+Game 12. There are 5 trials in this game.
+You are instructed to press J and get 48 points.
+You are instructed to press K and get 69 points.
+You are instructed to press K and get 68 points.
+You are instructed to press K and get 64 points.
+You press <<J>> and get 57 points.
+
+Game 13. There are 5 trials in this game.
+You are instructed to press J and get 50 points.
+You are instructed to press J and get 35 points.
+You are instructed to press K and get 48 points.
+You are instructed to press K and get 54 points.
+You press <<K>> and get 54 points.
+
+Game 14. There are 5 trials in this game.
+You are instructed to press J and get 55 points.
+You are instructed to press K and get 49 points.
+You are instructed to press J and get 62 points.
+You are instructed to press J and get 73 points.
+You press <<K>> and get 43 points.
+
+Game 15. There are 10 trials in this game.
+You are instructed to press J and get 44 points.
+You are instructed to press J and get 34 points.
+You are instructed to press J and get 57 points.
+You are instructed to press K and get 65 points.
+You press <<K>> and get 63 points.
+You press <<K>> and get 74 points.
+You press <<K>> and get 44 points.
+You press <<K>> and get 66 points.
+You press <<K>> and get 68 points.
+You press <<K>> and get 75 points.
+
+Game 16. There are 10 trials in this game.
+You are instructed to press J and get 70 points.
+You are instructed to press J and get 52 points.
+You are instructed to press K and get 86 points.
+You are instructed to press J and get 53 points.
+You press <<K>> and get 75 points.
+You press <<K>> and get 87 points.
+You press <<K>> and get 81 points.
+You press <<K>> and get 78 points.
+You press <<K>> and get 84 points.
+You press <<K>> and get 73 points.
+
+Game 17. There are 5 trials in this game.
+You are instructed to press J and get 67 points.
+You are instructed to press K and get 50 points.
+You are instructed to press K and get 64 points.
+You are instructed to press K and get 54 points.
+You press <<J>> and get 57 points.
+
+Game 18. There are 5 trials in this game.
+You are instructed to press K and get 60 points.
+You are instructed to press K and get 67 points.
+You are instructed to press J and get 28 points.
+You are instructed to press J and get 26 points.
+You press <<K>> and get 54 points.
+
+Game 19. There are 10 trials in this game.
+You are instructed to press K and get 34 points.
+You are instructed to press J and get 64 points.
+You are instructed to press K and get 30 points.
+You are instructed to press K and get 24 points.
+You press <<K>> and get 37 points.
+You press <<J>> and get 55 points.
+You press <<J>> and get 52 points.
+You press <<J>> and get 66 points.
+You press <<J>> and get 62 points.
+You press <<J>> and get 59 points.
+
+Game 20. There are 5 trials in this game.
+You are instructed to press J and get 45 points.
+You are instructed to press J and get 59 points.
+You are instructed to press K and get 77 points.
+You are instructed to press K and get 80 points.
+You press <<K>> and get 76 points.
+
+Game 21. There are 10 trials in this game.
+You are instructed to press J and get 45 points.
+You are instructed to press K and get 40 points.
+You are instructed to press K and get 28 points.
+You are instructed to press K and get 38 points.
+You press <<K>> and get 44 points.
+You press <<K>> and get 32 points.
+You press <<K>> and get 34 points.
+You press <<J>> and get 25 points.
+You press <<J>> and get 45 points.
+You press <<J>> and get 42 points.
+
+Game 22. There are 10 trials in this game.
+You are instructed to press J and get 68 points.
+You are instructed to press J and get 41 points.
+You are instructed to press K and get 38 points.
+You are instructed to press J and get 62 points.
+You press <<J>> and get 55 points.
+You press <<J>> and get 44 points.
+You press <<J>> and get 56 points.
+You press <<J>> and get 40 points.
+You press <<J>> and get 52 points.
+You press <<K>> and get 48 points.
+
+Game 23. There are 5 trials in this game.
+You are instructed to press J and get 50 points.
+You are instructed to press J and get 55 points.
+You are instructed to press K and get 62 points.
+You are instructed to press K and get 47 points.
+You press <<K>> and get 57 points.
+
+Game 24. There are 10 trials in this game.
+You are instructed to press K and get 71 points.
+You are instructed to press J and get 80 points.
+You are instructed to press K and get 98 points.
+You are instructed to press K and get 94 points.
+You press <<K>> and get 95 points.
+You press <<K>> and get 97 points.
+You press <<K>> and get 99 points.
+You press <<J>> and get 61 points.
+You press <<K>> and get 93 points.
+You press <<K>> and get 97 points.
+
+Game 25. There are 5 trials in this game.
+You are instructed to press K and get 38 points.
+You are instructed to press J and get 59 points.
+You are instructed to press J and get 75 points.
+You are instructed to press J and get 75 points.
+You press <<K>> and get 37 points.
+
+Game 26. There are 10 trials in this game.
+You are instructed to press K and get 92 points.
+You are instructed to press J and get 79 points.
+You are instructed to press K and get 81 points.
+You are instructed to press K and get 93 points.
+You press <<K>> and get 67 points.
+You press <<J>> and get 70 points.
+You press <<K>> and get 79 points.
+You press <<K>> and get 83 points.
+You press <<K>> and get 89 points.
+You press <<K>> and get 78 points.
+
+Game 27. There are 10 trials in this game.
+You are instructed to press K and get 31 points.
+You are instructed to press K and get 38 points.
+You are instructed to press J and get 38 points.
+You are instructed to press J and get 45 points.
+You press <<J>> and get 44 points.
+You press <<J>> and get 43 points.
+You press <<J>> and get 41 points.
+You press <<J>> and get 39 points.
+You press <<J>> and get 40 points.
+You press <<J>> and get 34 points.
+
+Game 28. There are 10 trials in this game.
+You are instructed to press J and get 62 points.
+You are instructed to press J and get 54 points.
+You are instructed to press K and get 44 points.
+You are instructed to press J and get 52 points.
+You press <<K>> and get 54 points.
+You press <<J>> and get 41 points.
+You press <<J>> and get 60 points.
+You press <<J>> and get 45 points.
+You press <<K>> and get 23 points.
+You press <<J>> and get 51 points.
+
+Game 29. There are 5 trials in this game.
+You are instructed to press J and get 36 points.
+You are instructed to press K and get 43 points.
+You are instructed to press K and get 36 points.
+You are instructed to press K and get 49 points.
+You press <<K>> and get 61 points.
+
+Game 30. There are 10 trials in this game.
+You are instructed to press K and get 27 points.
+You are instructed to press J and get 48 points.
+You are instructed to press J and get 54 points.
+You are instructed to press K and get 36 points.
+You press <<J>> and get 38 points.
+You press <<J>> and get 50 points.
+You press <<J>> and get 47 points.
+You press <<J>> and get 47 points.
+You press <<K>> and get 50 points.
+You press <<J>> and get 51 points.
+
+Game 31. There are 10 trials in this game.
+You are instructed to press J and get 57 points.
+You are instructed to press K and get 67 points.
+You are instructed to press J and get 49 points.
+You are instructed to press J and get 78 points.
+You press <<J>> and get 66 points.
+You press <<K>> and get 62 points.
+You press <<K>> and get 68 points.
+You press <<J>> and get 58 points.
+You press <<K>> and get 53 points.
+You press <<J>> and get 68 points.
+
+Game 32. There are 5 trials in this game.
+You are instructed to press J and get 43 points.
+You are instructed to press J and get 33 points.
+You are instructed to press J and get 47 points.
+You are instructed to press K and get 26 points.
+You press <<J>> and get 32 points.
+
+Game 33. There are 5 trials in this game.
+You are instructed to press K and get 15 points.
+You are instructed to press J and get 45 points.
+You are instructed to press K and get 20 points.
+You are instructed to press K and get 26 points.
+You press <<J>> and get 44 points.
+
+Game 34. There are 10 trials in this game.
+You are instructed to press J and get 56 points.
+You are instructed to press K and get 50 points.
+You are instructed to press K and get 68 points.
+You are instructed to press K and get 60 points.
+You press <<K>> and get 52 points.
+You press <<J>> and get 59 points.
+You press <<J>> and get 60 points.
+You press <<J>> and get 42 points.
+You press <<K>> and get 69 points.
+You press <<K>> and get 64 points.
+
+Game 35. There are 10 trials in this game.
+You are instructed to press J and get 59 points.
+You are instructed to press J and get 58 points.
+You are instructed to press K and get 64 points.
+You are instructed to press K and get 55 points.
+You press <<J>> and get 55 points.
+You press <<K>> and get 55 points.
+You press <<K>> and get 71 points.
+You press <<K>> and get 58 points.
+You press <<K>> and get 46 points.
+You press <<J>> and get 61 points.
+
+Game 36. There are 10 trials in this game.
+You are instructed to press K and get 39 points.
+You are instructed to press K and get 48 points.
+You are instructed to press J and get 40 points.
+You are instructed to press K and get 50 points.
+You press <<J>> and get 44 points.
+You press <<K>> and get 46 points.
+You press <<K>> and get 45 points.
+You press <<J>> and get 49 points.
+You press <<K>> and get 51 points.
+You press <<K>> and get 40 points.
+
+Game 37. There are 10 trials in this game.
+You are instructed to press J and get 67 points.
+You are instructed to press K and get 78 points.
+You are instructed to press K and get 75 points.
+You are instructed to press J and get 70 points.
+You press <<K>> and get 70 points.
+You press <<J>> and get 59 points.
+You press <<K>> and get 78 points.
+You press <<K>> and get 79 points.
+You press <<K>> and get 92 points.
+You press <<K>> and get 86 points.
+
+Game 38. There are 5 trials in this game.
+You are instructed to press J and get 90 points.
+You are instructed to press J and get 75 points.
+You are instructed to press J and get 76 points.
+You are instructed to press K and get 58 points.
+You press <<J>> and get 78 points.
+
+Game 39. There are 10 trials in this game.
+You are instructed to press J and get 57 points.
+You are instructed to press K and get 60 points.
+You are instructed to press J and get 47 points.
+You are instructed to press K and get 49 points.
+You press <<J>> and get 47 points.
+You press <<K>> and get 58 points.
+You press <<K>> and get 64 points.
+You press <<K>> and get 59 points.
+You press <<K>> and get 59 points.
+You press <<K>> and get 69 points.
+
+Game 40. There are 5 trials in this game.
+You are instructed to press J and get 18 points.
+You are instructed to press J and get 26 points.
+You are instructed to press J and get 11 points.
+You are instructed to press K and get 21 points.
+You press <<K>> and get 51 points.
+
+Game 41. There are 10 trials in this game.
+You are instructed to press K and get 62 points.
+You are instructed to press K and get 57 points.
+You are instructed to press K and get 69 points.
+You are instructed to press J and get 99 points.
+You press <<J>> and get 82 points.
+You press <<K>> and get 57 points.
+You press <<J>> and get 89 points.
+You press <<J>> and get 89 points.
+You press <<J>> and get 81 points.
+You press <<J>> and get 99 points.
+
+Game 42. There are 5 trials in this game.
+You are instructed to press K and get 41 points.
+You are instructed to press J and get 48 points.
+You are instructed to press J and get 38 points.
+You are instructed to press J and get 35 points.
+You press <<K>> and get 26 points.
+
+Game 43. There are 5 trials in this game.
+You are instructed to press K and get 75 points.
+You are instructed to press J and get 21 points.
+You are instructed to press K and get 57 points.
+You are instructed to press K and get 86 points.
+You press <<K>> and get 61 points.
+
+Game 44. There are 5 trials in this game.
+You are instructed to press J and get 35 points.
+You are instructed to press J and get 32 points.
+You are instructed to press J and get 35 points.
+You are instructed to press K and get 58 points.
+You press <<K>> and get 52 points.
+
+Game 45. There are 5 trials in this game.
+You are instructed to press J and get 44 points.
+You are instructed to press K and get 61 points.
+You are instructed to press K and get 50 points.
+You are instructed to press K and get 56 points.
+You press <<K>> and get 47 points.
+
+Game 46. There are 5 trials in this game.
+You are instructed to press J and get 53 points.
+You are instructed to press K and get 82 points.
+You are instructed to press K and get 76 points.
+You are instructed to press K and get 89 points.
+You press <<K>> and get 84 points.
+
+Game 47. There are 5 trials in this game.
+You are instructed to press J and get 66 points.
+You are instructed to press K and get 41 points.
+You are instructed to press K and get 54 points.
+You are instructed to press J and get 60 points.
+You press <<K>> and get 55 points.
+
+Game 48. There are 5 trials in this game.
+You are instructed to press J and get 54 points.
+You are instructed to press K and get 2 points.
+You are instructed to press J and get 54 points.
+You are instructed to press K and get 11 points.
+You press <<J>> and get 45 points.
+
+Game 49. There are 5 trials in this game.
+You are instructed to press J and get 30 points.
+You are instructed to press K and get 42 points.
+You are instructed to press J and get 25 points.
+You are instructed to press K and get 39 points.
+You press <<J>> and get 28 points.
+
+Game 50. There are 5 trials in this game.
+You are instructed to press K and get 48 points.
+You are instructed to press J and get 46 points.
+You are instructed to press J and get 39 points.
+You are instructed to press J and get 42 points.
+You press <<K>> and get 60 points.
+
+Game 51. There are 10 trials in this game.
+You are instructed to press J and get 42 points.
+You are instructed to press K and get 70 points.
+You are instructed to press K and get 73 points.
+You are instructed to press J and get 43 points.
+You press <<K>> and get 65 points.
+You press <<K>> and get 54 points.
+You press <<K>> and get 61 points.
+You press <<K>> and get 81 points.
+You press <<K>> and get 45 points.
+You press <<K>> and get 65 points.
+
+Game 52. There are 5 trials in this game.
+You are instructed to press J and get 92 points.
+You are instructed to press K and get 58 points.
+You are instructed to press K and get 72 points.
+You are instructed to press K and get 62 points.
+You press <<J>> and get 90 points.
+
+Game 53. There are 5 trials in this game.
+You are instructed to press K and get 75 points.
+You are instructed to press J and get 68 points.
+You are instructed to press J and get 57 points.
+You are instructed to press K and get 73 points.
+You press <<K>> and get 80 points.
+
+Game 54. There are 5 trials in this game.
+You are instructed to press K and get 58 points.
+You are instructed to press K and get 70 points.
+You are instructed to press J and get 26 points.
+You are instructed to press K and get 60 points.
+You press <<K>> and get 62 points.
+
+Game 55. There are 5 trials in this game.
+You are instructed to press J and get 55 points.
+You are instructed to press J and get 65 points.
+You are instructed to press J and get 66 points.
+You are instructed to press K and get 99 points.
+You press <<K>> and get 92 points.
+
+Game 56. There are 5 trials in this game.
+You are instructed to press J and get 51 points.
+You are instructed to press J and get 46 points.
+You are instructed to press K and get 36 points.
+You are instructed to press K and get 34 points.
+You press <<J>> and get 37 points.
+
+Game 57. There are 5 trials in this game.
+You are instructed to press K and get 8 points.
+You are instructed to press J and get 48 points.
+You are instructed to press K and get 38 points.
+You are instructed to press J and get 24 points.
+You press <<K>> and get 18 points.
+
+Game 58. There are 10 trials in this game.
+You are instructed to press J and get 29 points.
+You are instructed to press K and get 47 points.
+You are instructed to press J and get 24 points.
+You are instructed to press K and get 45 points.
+You press <<K>> and get 50 points.
+You press <<K>> and get 40 points.
+You press <<K>> and get 42 points.
+You press <<K>> and get 39 points.
+You press <<K>> and get 35 points.
+You press <<K>> and get 46 points.
+
+Game 59. There are 5 trials in this game.
+You are instructed to press K and get 46 points.
+You are instructed to press J and get 29 points.
+You are instructed to press J and get 31 points.
+You are instructed to press K and get 32 points.
+You press <<K>> and get 65 points.
+
+Game 60. There are 10 trials in this game.
+You are instructed to press K and get 62 points.
+You are instructed to press K and get 75 points.
+You are instructed to press J and get 64 points.
+You are instructed to press K and get 67 points.
+You press <<J>> and get 65 points.
+You press <<K>> and get 57 points.
+You press <<K>> and get 52 points.
+You press <<J>> and get 57 points.
+You press <<K>> and get 65 points.
+You press <<J>> and get 72 points.
+
+Game 61. There are 5 trials in this game.
+You are instructed to press J and get 12 points.
+You are instructed to press K and get 38 points.
+You are instructed to press K and get 44 points.
+You are instructed to press J and get 5 points.
+You press <<K>> and get 41 points.
+
+Game 62. There are 10 trials in this game.
+You are instructed to press J and get 79 points.
+You are instructed to press K and get 54 points.
+You are instructed to press J and get 91 points.
+You are instructed to press J and get 88 points.
+You press <<J>> and get 83 points.
+You press <<J>> and get 76 points.
+You press <<J>> and get 94 points.
+You press <<J>> and get 85 points.
+You press <<J>> and get 74 points.
+You press <<J>> and get 78 points.
+
+Game 63. There are 5 trials in this game.
+You are instructed to press J and get 50 points.
+You are instructed to press K and get 46 points.
+You are instructed to press K and get 33 points.
+You are instructed to press K and get 59 points.
+You press <<J>> and get 58 points.
+
+Game 64. There are 10 trials in this game.
+You are instructed to press K and get 34 points.
+You are instructed to press J and get 61 points.
+You are instructed to press J and get 61 points.
+You are instructed to press K and get 27 points.
+You press <<K>> and get 46 points.
+You press <<K>> and get 48 points.
+You press <<J>> and get 69 points.
+You press <<J>> and get 61 points.
+You press <<J>> and get 56 points.
+You press <<J>> and get 69 points.
+
+Game 65. There are 10 trials in this game.
+You are instructed to press J and get 42 points.
+You are instructed to press K and get 50 points.
+You are instructed to press J and get 48 points.
+You are instructed to press J and get 38 points.
+You press <<K>> and get 24 points.
+You press <<J>> and get 42 points.
+You press <<J>> and get 28 points.
+You press <<J>> and get 42 points.
+You press <<J>> and get 44 points.
+You press <<J>> and get 44 points.
+
+Game 66. There are 10 trials in this game.
+You are instructed to press J and get 61 points.
+You are instructed to press J and get 61 points.
+You are instructed to press J and get 65 points.
+You are instructed to press K and get 50 points.
+You press <<K>> and get 42 points.
+You press <<J>> and get 67 points.
+You press <<J>> and get 58 points.
+You press <<J>> and get 54 points.
+You press <<J>> and get 61 points.
+You press <<J>> and get 59 points.
+
+Game 67. There are 5 trials in this game.
+You are instructed to press K and get 60 points.
+You are instructed to press K and get 47 points.
+You are instructed to press J and get 56 points.
+You are instructed to press K and get 50 points.
+You press <<K>> and get 30 points.
+
+Game 68. There are 5 trials in this game.
+You are instructed to press J and get 73 points.
+You are instructed to press K and get 41 points.
+You are instructed to press J and get 55 points.
+You are instructed to press K and get 52 points.
+You press <<J>> and get 59 points.
+
+Game 69. There are 10 trials in this game.
+You are instructed to press J and get 46 points.
+You are instructed to press J and get 44 points.
+You are instructed to press K and get 30 points.
+You are instructed to press J and get 61 points.
+You press <<J>> and get 43 points.
+You press <<J>> and get 36 points.
+You press <<J>> and get 47 points.
+You press <<J>> and get 44 points.
+You press <<J>> and get 46 points.
+You press <<J>> and get 48 points.
+
+Game 70. There are 5 trials in this game.
+You are instructed to press J and get 45 points.
+You are instructed to press K and get 50 points.
+You are instructed to press K and get 34 points.
+You are instructed to press J and get 52 points.
+You press <<J>> and get 56 points.
+
+Game 71. There are 10 trials in this game.
+You are instructed to press J and get 43 points.
+You are instructed to press K and get 56 points.
+You are instructed to press J and get 50 points.
+You are instructed to press K and get 42 points.
+You press <<J>> and get 49 points.
+You press <<K>> and get 50 points.
+You press <<K>> and get 46 points.
+You press <<K>> and get 38 points.
+You press <<J>> and get 42 points.
+You press <<K>> and get 46 points.
+
+Game 72. There are 5 trials in this game.
+You are instructed to press K and get 41 points.
+You are instructed to press J and get 32 points.
+You are instructed to press K and get 48 points.
+You are instructed to press J and get 52 points.
+You press <<K>> and get 25 points.
+
+Game 73. There are 5 trials in this game.
+You are instructed to press J and get 33 points.
+You are instructed to press J and get 22 points.
+You are instructed to press K and get 17 points.
+You are instructed to press K and get 8 points.
+You press <<K>> and get 26 points.
+
+Game 74. There are 5 trials in this game.
+You are instructed to press K and get 47 points.
+You are instructed to press J and get 39 points.
+You are instructed to press J and get 45 points.
+You are instructed to press K and get 71 points.
+You press <<K>> and get 41 points.
+
+Game 75. There are 5 trials in this game.
+You are instructed to press J and get 48 points.
+You are instructed to press K and get 47 points.
+You are instructed to press K and get 53 points.
+You are instructed to press K and get 27 points.
+You press <<J>> and get 27 points.
+
+Game 76. There are 5 trials in this game.
+You are instructed to press J and get 44 points.
+You are instructed to press K and get 37 points.
+You are instructed to press K and get 50 points.
+You are instructed to press J and get 40 points.
+You press <<K>> and get 38 points.
+
+Game 77. There are 10 trials in this game.
+You are instructed to press J and get 53 points.
+You are instructed to press J and get 48 points.
+You are instructed to press J and get 65 points.
+You are instructed to press K and get 62 points.
+You press <<K>> and get 49 points.
+You press <<K>> and get 50 points.
+You press <<J>> and get 55 points.
+You press <<J>> and get 70 points.
+You press <<J>> and get 62 points.
+You press <<J>> and get 62 points.
+
+Game 78. There are 5 trials in this game.
+You are instructed to press J and get 32 points.
+You are instructed to press J and get 28 points.
+You are instructed to press J and get 32 points.
+You are instructed to press K and get 39 points.
+You press <<K>> and get 49 points.
+
+Game 79. There are 10 trials in this game.
+You are instructed to press K and get 99 points.
+You are instructed to press J and get 51 points.
+You are instructed to press J and get 45 points.
+You are instructed to press K and get 81 points.
+You press <<K>> and get 90 points.
+You press <<K>> and get 79 points.
+You press <<K>> and get 99 points.
+You press <<K>> and get 87 points.
+You press <<K>> and get 89 points.
+You press <<K>> and get 82 points.
+
+Game 80. There are 10 trials in this game.
+You are instructed to press J and get 81 points.
+You are instructed to press K and get 55 points.
+You are instructed to press K and get 70 points.
+You are instructed to press J and get 82 points.
+You press <<J>> and get 92 points.
+You press <<J>> and get 87 points.
+You press <<J>> and get 99 points.
+You press <<J>> and get 90 points.
+You press <<J>> and get 99 points.
+You press <<J>> and get 88 points.
+
+Game 81. There are 10 trials in this game.
+You are instructed to press K and get 43 points.
+You are instructed to press K and get 60 points.
+You are instructed to press J and get 57 points.
+You are instructed to press J and get 78 points.
+You press <<K>> and get 58 points.
+You press <<K>> and get 39 points.
+You press <<J>> and get 62 points.
+You press <<J>> and get 60 points.
+You press <<J>> and get 64 points.
+You press <<J>> and get 73 points.
+
+Game 82. There are 5 trials in this game.
+You are instructed to press K and get 65 points.
+You are instructed to press J and get 52 points.
+You are instructed to press J and get 46 points.
+You are instructed to press J and get 47 points.
+You press <<K>> and get 56 points.
+
+Game 83. There are 5 trials in this game.
+You are instructed to press J and get 79 points.
+You are instructed to press K and get 74 points.
+You are instructed to press J and get 92 points.
+You are instructed to press J and get 98 points.
+You press <<J>> and get 97 points.
+
+Game 84. There are 5 trials in this game.
+You are instructed to press K and get 65 points.
+You are instructed to press K and get 48 points.
+You are instructed to press J and get 72 points.
+You are instructed to press J and get 70 points.
+You press <<K>> and get 71 points.
+
+Game 85. There are 10 trials in this game.
+You are instructed to press J and get 23 points.
+You are instructed to press J and get 30 points.
+You are instructed to press K and get 60 points.
+You are instructed to press K and get 61 points.
+You press <<K>> and get 71 points.
+You press <<K>> and get 58 points.
+You press <<K>> and get 65 points.
+You press <<K>> and get 52 points.
+You press <<K>> and get 61 points.
+You press <<K>> and get 58 points.
+
+Game 86. There are 10 trials in this game.
+You are instructed to press J and get 35 points.
+You are instructed to press J and get 36 points.
+You are instructed to press J and get 39 points.
+You are instructed to press K and get 38 points.
+You press <<K>> and get 55 points.
+You press <<K>> and get 50 points.
+You press <<K>> and get 49 points.
+You press <<K>> and get 47 points.
+You press <<K>> and get 31 points.
+You press <<K>> and get 44 points.
+
+Game 87. There are 10 trials in this game.
+You are instructed to press K and get 78 points.
+You are instructed to press J and get 45 points.
+You are instructed to press J and get 44 points.
+You are instructed to press K and get 58 points.
+You press <<K>> and get 64 points.
+You press <<K>> and get 71 points.
+You press <<K>> and get 71 points.
+You press <<K>> and get 67 points.
+You press <<K>> and get 75 points.
+You press <<K>> and get 71 points.
+
+Game 88. There are 5 trials in this game.
+You are instructed to press K and get 48 points.
+You are instructed to press K and get 40 points.
+You are instructed to press J and get 44 points.
+You are instructed to press J and get 52 points.
+You press <<J>> and get 31 points.
+
+Game 89. There are 10 trials in this game.
+You are instructed to press J and get 63 points.
+You are instructed to press K and get 59 points.
+You are instructed to press J and get 79 points.
+You are instructed to press K and get 62 points.
+You press <<J>> and get 59 points.
+You press <<J>> and get 53 points.
+You press <<J>> and get 42 points.
+You press <<J>> and get 55 points.
+You press <<J>> and get 57 points.
+You press <<J>> and get 58 points.
+
+Game 90. There are 5 trials in this game.
+You are instructed to press J and get 60 points.
+You are instructed to press J and get 66 points.
+You are instructed to press K and get 50 points.
+You are instructed to press K and get 45 points.
+You press <<K>> and get 51 points.
+
+Game 91. There are 5 trials in this game.
+You are instructed to press K and get 56 points.
+You are instructed to press K and get 62 points.
+You are instructed to press J and get 81 points.
+You are instructed to press J and get 64 points.
+You press <<J>> and get 80 points.
+
+Game 92. There are 10 trials in this game.
+You are instructed to press J and get 46 points.
+You are instructed to press K and get 49 points.
+You are instructed to press J and get 51 points.
+You are instructed to press J and get 44 points.
+You press <<K>> and get 72 points.
+You press <<K>> and get 65 points.
+You press <<K>> and get 86 points.
+You press <<K>> and get 65 points.
+You press <<K>> and get 74 points.
+You press <<K>> and get 64 points.
+
+Game 93. There are 5 trials in this game.
+You are instructed to press J and get 52 points.
+You are instructed to press K and get 16 points.
+You are instructed to press K and get 26 points.
+You are instructed to press J and get 51 points.
+You press <<J>> and get 47 points.
+
+Game 94. There are 10 trials in this game.
+You are instructed to press J and get 76 points.
+You are instructed to press J and get 73 points.
+You are instructed to press J and get 75 points.
+You are instructed to press K and get 39 points.
+You press <<J>> and get 79 points.
+You press <<J>> and get 71 points.
+You press <<J>> and get 67 points.
+You press <<J>> and get 79 points.
+You press <<J>> and get 68 points.
+You press <<J>> and get 66 points.
+
+Game 95. There are 5 trials in this game.
+You are instructed to press K and get 71 points.
+You are instructed to press K and get 59 points.
+You are instructed to press J and get 81 points.
+You are instructed to press J and get 63 points.
+You press <<J>> and get 76 points.
+
+Game 96. There are 10 trials in this game.
+You are instructed to press J and get 39 points.
+You are instructed to press J and get 41 points.
+You are instructed to press K and get 49 points.
+You are instructed to press K and get 62 points.
+You press <<K>> and get 43 points.
+You press <<K>> and get 53 points.
+You press <<K>> and get 47 points.
+You press <<K>> and get 42 points.
+You press <<K>> and get 41 points.
+You press <<K>> and get 59 points.
+
+Game 97. There are 5 trials in this game.
+You are instructed to press J and get 47 points.
+You are instructed to press K and get 29 points.
+You are instructed to press J and get 39 points.
+You are instructed to press J and get 31 points.
+You press <<J>> and get 44 points.
+
+Game 98. There are 5 trials in this game.
+You are instructed to press J and get 80 points.
+You are instructed to press K and get 84 points.
+You are instructed to press J and get 77 points.
+You are instructed to press J and get 62 points.
+You press <<K>> and get 72 points.
+
+Game 99. There are 10 trials in this game.
+You are instructed to press J and get 25 points.
+You are instructed to press K and get 33 points.
+You are instructed to press K and get 42 points.
+You are instructed to press K and get 39 points.
+You press <<K>> and get 48 points.
+You press <<K>> and get 37 points.
+You press <<K>> and get 37 points.
+You press <<K>> and get 47 points.
+You press <<K>> and get 34 points.
+You press <<K>> and get 39 points.
+
+Game 100. There are 5 trials in this game.
+You are instructed to press J and get 52 points.
+You are instructed to press J and get 36 points.
+You are instructed to press K and get 40 points.
+You are instructed to press J and get 40 points.
+You press <<K>> and get 52 points.
+
+Game 101. There are 5 trials in this game.
+You are instructed to press J and get 60 points.
+You are instructed to press K and get 71 points.
+You are instructed to press K and get 67 points.
+You are instructed to press K and get 68 points.
+You press <<K>> and get 81 points.
+
+Game 102. There are 10 trials in this game.
+You are instructed to press J and get 53 points.
+You are instructed to press J and get 58 points.
+You are instructed to press J and get 63 points.
+You are instructed to press K and get 53 points.
+You press <<K>> and get 72 points.
+You press <<K>> and get 53 points.
+You press <<K>> and get 60 points.
+You press <<K>> and get 60 points.
+You press <<J>> and get 62 points.
+You press <<K>> and get 50 points.
+
+Game 103. There are 10 trials in this game.
+You are instructed to press J and get 59 points.
+You are instructed to press K and get 44 points.
+You are instructed to press J and get 71 points.
+You are instructed to press K and get 40 points.
+You press <<J>> and get 69 points.
+You press <<K>> and get 45 points.
+You press <<J>> and get 37 points.
+You press <<J>> and get 74 points.
+You press <<J>> and get 51 points.
+You press <<J>> and get 62 points.
+
+Game 104. There are 5 trials in this game.
+You are instructed to press J and get 66 points.
+You are instructed to press K and get 38 points.
+You are instructed to press K and get 57 points.
+You are instructed to press K and get 26 points.
+You press <<J>> and get 67 points.
+
+Game 105. There are 10 trials in this game.
+You are instructed to press K and get 71 points.
+You are instructed to press J and get 74 points.
+You are instructed to press K and get 62 points.
+You are instructed to press J and get 79 points.
+You press <<K>> and get 66 points.
+You press <<J>> and get 85 points.
+You press <<J>> and get 85 points.
+You press <<J>> and get 76 points.
+You press <<J>> and get 99 points.
+You press <<J>> and get 81 points.
+
+Game 106. There are 10 trials in this game.
+You are instructed to press K and get 48 points.
+You are instructed to press J and get 17 points.
+You are instructed to press K and get 35 points.
+You are instructed to press K and get 46 points.
+You press <<K>> and get 48 points.
+You press <<K>> and get 34 points.
+You press <<J>> and get 26 points.
+You press <<K>> and get 27 points.
+You press <<K>> and get 27 points.
+You press <<K>> and get 33 points.
+
+Game 107. There are 10 trials in this game.
+You are instructed to press J and get 83 points.
+You are instructed to press J and get 67 points.
+You are instructed to press K and get 50 points.
+You are instructed to press J and get 74 points.
+You press <<J>> and get 85 points.
+You press <<J>> and get 57 points.
+You press <<J>> and get 55 points.
+You press <<J>> and get 66 points.
+You press <<J>> and get 69 points.
+You press <<J>> and get 81 points.
+
+Game 108. There are 10 trials in this game.
+You are instructed to press K and get 37 points.
+You are instructed to press K and get 36 points.
+You are instructed to press K and get 39 points.
+You are instructed to press J and get 38 points.
+You press <<K>> and get 39 points.
+You press <<K>> and get 45 points.
+You press <<K>> and get 28 points.
+You press <<J>> and get 40 points.
+You press <<K>> and get 29 points.
+You press <<J>> and get 54 points.
+
+Game 109. There are 5 trials in this game.
+You are instructed to press K and get 51 points.
+You are instructed to press K and get 33 points.
+You are instructed to press J and get 47 points.
+You are instructed to press K and get 34 points.
+You press <<J>> and get 63 points.
+
+Game 110. There are 5 trials in this game.
+You are instructed to press K and get 57 points.
+You are instructed to press K and get 57 points.
+You are instructed to press J and get 41 points.
+You are instructed to press K and get 53 points.
+You press <<J>> and get 50 points.
+
+Game 111. There are 10 trials in this game.
+You are instructed to press K and get 46 points.
+You are instructed to press J and get 31 points.
+You are instructed to press K and get 35 points.
+You are instructed to press J and get 37 points.
+You press <<K>> and get 36 points.
+You press <<J>> and get 22 points.
+You press <<K>> and get 43 points.
+You press <<J>> and get 34 points.
+You press <<K>> and get 56 points.
+You press <<J>> and get 27 points.
+
+Game 112. There are 10 trials in this game.
+You are instructed to press K and get 46 points.
+You are instructed to press J and get 72 points.
+You are instructed to press K and get 36 points.
+You are instructed to press J and get 76 points.
+You press <<K>> and get 37 points.
+You press <<J>> and get 76 points.
+You press <<J>> and get 50 points.
+You press <<J>> and get 70 points.
+You press <<J>> and get 76 points.
+You press <<J>> and get 68 points.
+
+Game 113. There are 10 trials in this game.
+You are instructed to press K and get 37 points.
+You are instructed to press J and get 41 points.
+You are instructed to press K and get 45 points.
+You are instructed to press J and get 52 points.
+You press <<K>> and get 31 points.
+You press <<J>> and get 34 points.
+You press <<J>> and get 56 points.
+You press <<J>> and get 43 points.
+You press <<J>> and get 29 points.
+You press <<J>> and get 50 points.
+
+Game 114. There are 10 trials in this game.
+You are instructed to press J and get 57 points.
+You are instructed to press K and get 77 points.
+You are instructed to press K and get 96 points.
+You are instructed to press K and get 68 points.
+You press <<K>> and get 64 points.
+You press <<K>> and get 75 points.
+You press <<K>> and get 73 points.
+You press <<K>> and get 81 points.
+You press <<K>> and get 68 points.
+You press <<K>> and get 65 points.
+
+Game 115. There are 5 trials in this game.
+You are instructed to press K and get 43 points.
+You are instructed to press J and get 36 points.
+You are instructed to press K and get 39 points.
+You are instructed to press K and get 40 points.
+You press <<J>> and get 26 points.
+
+Game 116. There are 10 trials in this game.
+You are instructed to press J and get 21 points.
+You are instructed to press K and get 29 points.
+You are instructed to press K and get 29 points.
+You are instructed to press J and get 35 points.
+You press <<K>> and get 42 points.
+You press <<J>> and get 16 points.
+You press <<K>> and get 53 points.
+You press <<K>> and get 43 points.
+You press <<K>> and get 31 points.
+You press <<K>> and get 36 points.
+
+Game 117. There are 5 trials in this game.
+You are instructed to press J and get 16 points.
+You are instructed to press J and get 35 points.
+You are instructed to press J and get 32 points.
+You are instructed to press K and get 41 points.
+You press <<K>> and get 44 points.
+
+Game 118. There are 10 trials in this game.
+You are instructed to press K and get 50 points.
+You are instructed to press J and get 73 points.
+You are instructed to press K and get 48 points.
+You are instructed to press J and get 42 points.
+You press <<K>> and get 54 points.
+You press <<J>> and get 39 points.
+You press <<K>> and get 61 points.
+You press <<K>> and get 48 points.
+You press <<K>> and get 59 points.
+You press <<K>> and get 40 points.
+
+Game 119. There are 5 trials in this game.
+You are instructed to press J and get 48 points.
+You are instructed to press J and get 36 points.
+You are instructed to press K and get 26 points.
+You are instructed to press J and get 33 points.
+You press <<J>> and get 40 points.
+
+Game 120. There are 5 trials in this game.
+You are instructed to press K and get 51 points.
+You are instructed to press J and get 39 points.
+You are instructed to press K and get 65 points.
+You are instructed to press J and get 49 points.
+You press <<K>> and get 57 points.
+
+Game 121. There are 10 trials in this game.
+You are instructed to press J and get 39 points.
+You are instructed to press J and get 41 points.
+You are instructed to press J and get 36 points.
+You are instructed to press K and get 1 points.
+You press <<J>> and get 28 points.
+You press <<J>> and get 33 points.
+You press <<K>> and get 11 points.
+You press <<J>> and get 40 points.
+You press <<J>> and get 32 points.
+You press <<J>> and get 50 points.
+
+Game 122. There are 10 trials in this game.
+You are instructed to press K and get 32 points.
+You are instructed to press J and get 28 points.
+You are instructed to press J and get 47 points.
+You are instructed to press J and get 46 points.
+You press <<K>> and get 34 points.
+You press <<J>> and get 46 points.
+You press <<J>> and get 38 points.
+You press <<J>> and get 38 points.
+You press <<J>> and get 40 points.
+You press <<J>> and get 43 points.
+
+Game 123. There are 10 trials in this game.
+You are instructed to press J and get 42 points.
+You are instructed to press K and get 29 points.
+You are instructed to press J and get 43 points.
+You are instructed to press J and get 51 points.
+You press <<K>> and get 25 points.
+You press <<J>> and get 34 points.
+You press <<J>> and get 32 points.
+You press <<K>> and get 29 points.
+You press <<J>> and get 39 points.
+You press <<J>> and get 52 points.
+
+Game 124. There are 5 trials in this game.
+You are instructed to press J and get 62 points.
+You are instructed to press J and get 71 points.
+You are instructed to press K and get 54 points.
+You are instructed to press J and get 62 points.
+You press <<J>> and get 51 points.
+
+Game 125. There are 5 trials in this game.
+You are instructed to press J and get 46 points.
+You are instructed to press J and get 44 points.
+You are instructed to press K and get 11 points.
+You are instructed to press J and get 36 points.
+You press <<J>> and get 38 points.
+
+Game 126. There are 10 trials in this game.
+You are instructed to press K and get 26 points.
+You are instructed to press J and get 64 points.
+You are instructed to press K and get 38 points.
+You are instructed to press K and get 39 points.
+You press <<J>> and get 57 points.
+You press <<J>> and get 62 points.
+You press <<J>> and get 56 points.
+You press <<J>> and get 58 points.
+You press <<J>> and get 45 points.
+You press <<J>> and get 70 points.
+
+Game 127. There are 10 trials in this game.
+You are instructed to press J and get 55 points.
+You are instructed to press J and get 63 points.
+You are instructed to press K and get 89 points.
+You are instructed to press K and get 79 points.
+You press <<K>> and get 80 points.
+You press <<K>> and get 82 points.
+You press <<K>> and get 84 points.
+You press <<K>> and get 77 points.
+You press <<K>> and get 78 points.
+You press <<K>> and get 85 points.
+
+Game 128. There are 10 trials in this game.
+You are instructed to press K and get 69 points.
+You are instructed to press K and get 51 points.
+You are instructed to press J and get 63 points.
+You are instructed to press K and get 50 points.
+You press <<J>> and get 58 points.
+You press <<K>> and get 50 points.
+You press <<J>> and get 68 points.
+You press <<K>> and get 52 points.
+You press <<J>> and get 54 points.
+You press <<K>> and get 48 points.
+
+Game 129. There are 10 trials in this game.
+You are instructed to press K and get 29 points.
+You are instructed to press K and get 24 points.
+You are instructed to press K and get 31 points.
+You are instructed to press J and get 37 points.
+You press <<J>> and get 37 points.
+You press <<J>> and get 23 points.
+You press <<K>> and get 19 points.
+You press <<J>> and get 58 points.
+You press <<J>> and get 38 points.
+You press <<J>> and get 46 points.
+
+Game 130. There are 10 trials in this game.
+You are instructed to press K and get 67 points.
+You are instructed to press K and get 61 points.
+You are instructed to press J and get 69 points.
+You are instructed to press K and get 71 points.
+You press <<J>> and get 69 points.
+You press <<K>> and get 50 points.
+You press <<J>> and get 63 points.
+You press <<K>> and get 55 points.
+You press <<J>> and get 68 points.
+You press <<J>> and get 64 points.
+
+Game 131. There are 10 trials in this game.
+You are instructed to press J and get 44 points.
+You are instructed to press K and get 54 points.
+You are instructed to press K and get 61 points.
+You are instructed to press K and get 63 points.
+You press <<K>> and get 65 points.
+You press <<K>> and get 58 points.
+You press <<K>> and get 57 points.
+You press <<J>> and get 39 points.
+You press <<K>> and get 45 points.
+You press <<K>> and get 48 points.
+
+Game 132. There are 10 trials in this game.
+You are instructed to press J and get 57 points.
+You are instructed to press J and get 59 points.
+You are instructed to press K and get 31 points.
+You are instructed to press J and get 74 points.
+You press <<J>> and get 61 points.
+You press <<J>> and get 50 points.
+You press <<J>> and get 42 points.
+You press <<J>> and get 56 points.
+You press <<J>> and get 70 points.
+You press <<J>> and get 56 points.
+
+Game 133. There are 10 trials in this game.
+You are instructed to press K and get 35 points.
+You are instructed to press J and get 67 points.
+You are instructed to press J and get 50 points.
+You are instructed to press J and get 65 points.
+You press <<K>> and get 40 points.
+You press <<J>> and get 59 points.
+You press <<J>> and get 55 points.
+You press <<J>> and get 57 points.
+You press <<J>> and get 62 points.
+You press <<J>> and get 59 points.
+
+Game 134. There are 10 trials in this game.
+You are instructed to press K and get 46 points.
+You are instructed to press J and get 57 points.
+You are instructed to press J and get 62 points.
+You are instructed to press J and get 56 points.
+You press <<K>> and get 46 points.
+You press <<J>> and get 72 points.
+You press <<K>> and get 61 points.
+You press <<J>> and get 62 points.
+You press <<J>> and get 59 points.
+You press <<J>> and get 58 points.
+
+Game 135. There are 5 trials in this game.
+You are instructed to press J and get 41 points.
+You are instructed to press K and get 63 points.
+You are instructed to press J and get 53 points.
+You are instructed to press K and get 53 points.
+You press <<K>> and get 58 points.
+
+Game 136. There are 10 trials in this game.
+You are instructed to press J and get 60 points.
+You are instructed to press K and get 33 points.
+You are instructed to press K and get 34 points.
+You are instructed to press K and get 43 points.
+You press <<K>> and get 37 points.
+You press <<J>> and get 43 points.
+You press <<J>> and get 48 points.
+You press <<J>> and get 60 points.
+You press <<J>> and get 40 points.
+You press <<J>> and get 52 points.
+
+Game 137. There are 5 trials in this game.
+You are instructed to press K and get 41 points.
+You are instructed to press K and get 43 points.
+You are instructed to press J and get 40 points.
+You are instructed to press J and get 54 points.
+You press <<J>> and get 53 points.
+
+Game 138. There are 5 trials in this game.
+You are instructed to press J and get 40 points.
+You are instructed to press K and get 13 points.
+You are instructed to press K and get 28 points.
+You are instructed to press J and get 43 points.
+You press <<J>> and get 38 points.
+
+Game 139. There are 5 trials in this game.
+You are instructed to press J and get 65 points.
+You are instructed to press K and get 31 points.
+You are instructed to press K and get 37 points.
+You are instructed to press K and get 33 points.
+You press <<J>> and get 53 points.
+
+Game 140. There are 10 trials in this game.
+You are instructed to press K and get 30 points.
+You are instructed to press J and get 89 points.
+You are instructed to press K and get 33 points.
+You are instructed to press K and get 46 points.
+You press <<K>> and get 43 points.
+You press <<K>> and get 36 points.
+You press <<J>> and get 65 points.
+You press <<J>> and get 64 points.
+You press <<J>> and get 72 points.
+You press <<J>> and get 80 points.
+
+Game 141. There are 5 trials in this game.
+You are instructed to press J and get 69 points.
+You are instructed to press K and get 24 points.
+You are instructed to press K and get 27 points.
+You are instructed to press J and get 64 points.
+You press <<J>> and get 62 points.
+
+Game 142. There are 10 trials in this game.
+You are instructed to press J and get 32 points.
+You are instructed to press K and get 50 points.
+You are instructed to press K and get 37 points.
+You are instructed to press K and get 41 points.
+You press <<K>> and get 50 points.
+You press <<J>> and get 55 points.
+You press <<J>> and get 47 points.
+You press <<J>> and get 56 points.
+You press <<K>> and get 30 points.
+You press <<J>> and get 56 points.
+
+Game 143. There are 10 trials in this game.
+You are instructed to press J and get 35 points.
+You are instructed to press K and get 47 points.
+You are instructed to press J and get 49 points.
+You are instructed to press K and get 47 points.
+You press <<K>> and get 40 points.
+You press <<J>> and get 46 points.
+You press <<J>> and get 44 points.
+You press <<J>> and get 49 points.
+You press <<J>> and get 39 points.
+You press <<K>> and get 45 points.
+
+Game 144. There are 10 trials in this game.
+You are instructed to press J and get 77 points.
+You are instructed to press K and get 62 points.
+You are instructed to press K and get 58 points.
+You are instructed to press J and get 75 points.
+You press <<K>> and get 66 points.
+You press <<J>> and get 86 points.
+You press <<J>> and get 87 points.
+You press <<J>> and get 77 points.
+You press <<J>> and get 76 points.
+You press <<J>> and get 62 points.
+
+Game 145. There are 10 trials in this game.
+You are instructed to press J and get 58 points.
+You are instructed to press J and get 75 points.
+You are instructed to press J and get 54 points.
+You are instructed to press K and get 99 points.
+You press <<K>> and get 90 points.
+You press <<K>> and get 97 points.
+You press <<K>> and get 93 points.
+You press <<K>> and get 89 points.
+You press <<K>> and get 99 points.
+You press <<K>> and get 99 points.
+
+Game 146. There are 5 trials in this game.
+You are instructed to press K and get 46 points.
+You are instructed to press J and get 45 points.
+You are instructed to press K and get 63 points.
+You are instructed to press K and get 57 points.
+You press <<K>> and get 67 points.
+
+Game 147. There are 10 trials in this game.
+You are instructed to press K and get 61 points.
+You are instructed to press K and get 50 points.
+You are instructed to press K and get 70 points.
+You are instructed to press J and get 87 points.
+You press <<J>> and get 73 points.
+You press <<J>> and get 72 points.
+You press <<J>> and get 76 points.
+You press <<J>> and get 77 points.
+You press <<J>> and get 77 points.
+You press <<J>> and get 72 points.
+
+Game 148. There are 5 trials in this game.
+You are instructed to press K and get 47 points.
+You are instructed to press J and get 8 points.
+You are instructed to press J and get 10 points.
+You are instructed to press K and get 34 points.
+You press <<K>> and get 38 points.
+
+Game 149. There are 5 trials in this game.
+You are instructed to press K and get 53 points.
+You are instructed to press J and get 39 points.
+You are instructed to press J and get 29 points.
+You are instructed to press K and get 48 points.
+You press <<K>> and get 50 points.
+
+Game 150. There are 10 trials in this game.
+You are instructed to press K and get 15 points.
+You are instructed to press J and get 31 points.
+You are instructed to press K and get 7 points.
+You are instructed to press J and get 50 points.
+You press <<J>> and get 38 points.
+You press <<J>> and get 32 points.
+You press <<J>> and get 49 points.
+You press <<J>> and get 45 points.
+You press <<J>> and get 56 points.
+You press <<J>> and get 25 points.
+
+Game 151. There are 5 trials in this game.
+You are instructed to press K and get 64 points.
+You are instructed to press J and get 67 points.
+You are instructed to press K and get 67 points.
+You are instructed to press J and get 76 points.
+You press <<J>> and get 82 points.
+
+Game 152. There are 5 trials in this game.
+You are instructed to press K and get 53 points.
+You are instructed to press K and get 25 points.
+You are instructed to press J and get 31 points.
+You are instructed to press J and get 35 points.
+You press <<K>> and get 42 points.
+
+Game 153. There are 5 trials in this game.
+You are instructed to press J and get 22 points.
+You are instructed to press J and get 30 points.
+You are instructed to press K and get 61 points.
+You are instructed to press J and get 30 points.
+You press <<K>> and get 60 points.
+
+Game 154. There are 5 trials in this game.
+You are instructed to press J and get 40 points.
+You are instructed to press K and get 57 points.
+You are instructed to press J and get 33 points.
+You are instructed to press K and get 50 points.
+You press <<J>> and get 48 points.
+
+Game 155. There are 10 trials in this game.
+You are instructed to press J and get 15 points.
+You are instructed to press K and get 64 points.
+You are instructed to press K and get 58 points.
+You are instructed to press J and get 32 points.
+You press <<K>> and get 60 points.
+You press <<K>> and get 57 points.
+You press <<K>> and get 56 points.
+You press <<K>> and get 48 points.
+You press <<K>> and get 54 points.
+You press <<K>> and get 62 points.
+
+Game 156. There are 5 trials in this game.
+You are instructed to press K and get 45 points.
+You are instructed to press J and get 31 points.
+You are instructed to press K and get 28 points.
+You are instructed to press K and get 52 points.
+You press <<K>> and get 33 points.
+
+Game 157. There are 10 trials in this game.
+You are instructed to press J and get 39 points.
+You are instructed to press J and get 37 points.
+You are instructed to press K and get 62 points.
+You are instructed to press J and get 40 points.
+You press <<K>> and get 51 points.
+You press <<K>> and get 60 points.
+You press <<K>> and get 55 points.
+You press <<K>> and get 55 points.
+You press <<K>> and get 61 points.
+You press <<K>> and get 73 points.
+
+Game 158. There are 10 trials in this game.
+You are instructed to press J and get 57 points.
+You are instructed to press J and get 55 points.
+You are instructed to press K and get 31 points.
+You are instructed to press K and get 36 points.
+You press <<K>> and get 36 points.
+You press <<J>> and get 68 points.
+You press <<J>> and get 35 points.
+You press <<J>> and get 66 points.
+You press <<J>> and get 62 points.
+You press <<J>> and get 73 points.
+
+Game 159. There are 10 trials in this game.
+You are instructed to press K and get 50 points.
+You are instructed to press K and get 50 points.
+You are instructed to press J and get 73 points.
+You are instructed to press J and get 51 points.
+You press <<J>> and get 52 points.
+You press <<K>> and get 40 points.
+You press <<J>> and get 57 points.
+You press <<J>> and get 59 points.
+You press <<J>> and get 51 points.
+You press <<J>> and get 56 points.
+
+Game 160. There are 5 trials in this game.
+You are instructed to press J and get 55 points.
+You are instructed to press J and get 70 points.
+You are instructed to press K and get 81 points.
+You are instructed to press K and get 76 points.
+You press <<K>> and get 69 points.
+
+Game 161. There are 10 trials in this game.
+You are instructed to press J and get 87 points.
+You are instructed to press K and get 65 points.
+You are instructed to press K and get 55 points.
+You are instructed to press J and get 69 points.
+You press <<K>> and get 65 points.
+You press <<J>> and get 63 points.
+You press <<J>> and get 65 points.
+You press <<J>> and get 80 points.
+You press <<J>> and get 67 points.
+You press <<J>> and get 85 points.
+
+Game 162. There are 10 trials in this game.
+You are instructed to press K and get 40 points.
+You are instructed to press J and get 24 points.
+You are instructed to press J and get 27 points.
+You are instructed to press J and get 34 points.
+You press <<K>> and get 37 points.
+You press <<K>> and get 44 points.
+You press <<K>> and get 53 points.
+You press <<K>> and get 36 points.
+You press <<K>> and get 44 points.
+You press <<K>> and get 45 points.
+
+Game 163. There are 5 trials in this game.
+You are instructed to press K and get 78 points.
+You are instructed to press K and get 62 points.
+You are instructed to press J and get 31 points.
+You are instructed to press K and get 56 points.
+You press <<K>> and get 62 points.
+
+Game 164. There are 10 trials in this game.
+You are instructed to press K and get 40 points.
+You are instructed to press K and get 38 points.
+You are instructed to press J and get 36 points.
+You are instructed to press J and get 44 points.
+You press <<J>> and get 40 points.
+You press <<J>> and get 42 points.
+You press <<J>> and get 37 points.
+You press <<J>> and get 38 points.
+You press <<J>> and get 40 points.
+You press <<K>> and get 30 points.
+
+Game 165. There are 5 trials in this game.
+You are instructed to press K and get 58 points.
+You are instructed to press J and get 47 points.
+You are instructed to press J and get 26 points.
+You are instructed to press K and get 58 points.
+You press <<K>> and get 55 points.
+
+Game 166. There are 10 trials in this game.
+You are instructed to press K and get 55 points.
+You are instructed to press J and get 54 points.
+You are instructed to press J and get 52 points.
+You are instructed to press K and get 48 points.
+You press <<K>> and get 49 points.
+You press <<K>> and get 43 points.
+You press <<J>> and get 51 points.
+You press <<J>> and get 67 points.
+You press <<J>> and get 61 points.
+You press <<J>> and get 64 points.
+
+Game 167. There are 10 trials in this game.
+You are instructed to press J and get 70 points.
+You are instructed to press J and get 67 points.
+You are instructed to press J and get 64 points.
+You are instructed to press K and get 73 points.
+You press <<K>> and get 62 points.
+You press <<J>> and get 57 points.
+You press <<K>> and get 80 points.
+You press <<K>> and get 70 points.
+You press <<K>> and get 62 points.
+You press <<J>> and get 70 points.
+
+Game 168. There are 10 trials in this game.
+You are instructed to press K and get 30 points.
+You are instructed to press K and get 32 points.
+You are instructed to press J and get 40 points.
+You are instructed to press K and get 46 points.
+You press <<J>> and get 35 points.
+You press <<K>> and get 30 points.
+You press <<K>> and get 25 points.
+You press <<J>> and get 37 points.
+You press <<J>> and get 48 points.
+You press <<J>> and get 40 points.
+
+Game 169. There are 10 trials in this game.
+You are instructed to press K and get 57 points.
+You are instructed to press K and get 55 points.
+You are instructed to press J and get 62 points.
+You are instructed to press K and get 65 points.
+You press <<J>> and get 56 points.
+You press <<J>> and get 72 points.
+You press <<J>> and get 65 points.
+You press <<J>> and get 60 points.
+You press <<J>> and get 60 points.
+You press <<J>> and get 59 points.
+
+Game 170. There are 5 trials in this game.
+You are instructed to press J and get 51 points.
+You are instructed to press J and get 62 points.
+You are instructed to press K and get 66 points.
+You are instructed to press K and get 75 points.
+You press <<K>> and get 66 points.
+
+Game 171. There are 5 trials in this game.
+You are instructed to press J and get 65 points.
+You are instructed to press J and get 63 points.
+You are instructed to press K and get 53 points.
+You are instructed to press J and get 68 points.
+You press <<J>> and get 55 points.
+
+Game 172. There are 5 trials in this game.
+You are instructed to press J and get 27 points.
+You are instructed to press J and get 41 points.
+You are instructed to press K and get 54 points.
+You are instructed to press J and get 54 points.
+You press <<K>> and get 48 points.
+
+Game 173. There are 5 trials in this game.
+You are instructed to press K and get 32 points.
+You are instructed to press K and get 36 points.
+You are instructed to press K and get 41 points.
+You are instructed to press J and get 23 points.
+You press <<K>> and get 35 points.
+
+Game 174. There are 5 trials in this game.
+You are instructed to press J and get 38 points.
+You are instructed to press J and get 30 points.
+You are instructed to press K and get 25 points.
+You are instructed to press K and get 21 points.
+You press <<J>> and get 52 points.
+
+Game 175. There are 5 trials in this game.
+You are instructed to press K and get 46 points.
+You are instructed to press K and get 49 points.
+You are instructed to press J and get 7 points.
+You are instructed to press K and get 35 points.
+You press <<K>> and get 27 points.
+
+Game 176. There are 10 trials in this game.
+You are instructed to press K and get 53 points.
+You are instructed to press K and get 63 points.
+You are instructed to press J and get 44 points.
+You are instructed to press K and get 61 points.
+You press <<K>> and get 45 points.
+You press <<J>> and get 39 points.
+You press <<K>> and get 64 points.
+You press <<K>> and get 69 points.
+You press <<K>> and get 64 points.
+You press <<K>> and get 63 points.
+
+Game 177. There are 5 trials in this game.
+You are instructed to press J and get 65 points.
+You are instructed to press K and get 38 points.
+You are instructed to press K and get 43 points.
+You are instructed to press J and get 66 points.
+You press <<J>> and get 61 points.
+
+Game 178. There are 10 trials in this game.
+You are instructed to press J and get 30 points.
+You are instructed to press K and get 8 points.
+You are instructed to press J and get 44 points.
+You are instructed to press K and get 24 points.
+You press <<J>> and get 40 points.
+You press <<K>> and get 9 points.
+You press <<J>> and get 16 points.
+You press <<J>> and get 34 points.
+You press <<J>> and get 53 points.
+You press <<J>> and get 45 points.
+
+Game 179. There are 5 trials in this game.
+You are instructed to press K and get 52 points.
+You are instructed to press K and get 46 points.
+You are instructed to press J and get 59 points.
+You are instructed to press K and get 53 points.
+You press <<J>> and get 43 points.
+
+Game 180. There are 5 trials in this game.
+You are instructed to press K and get 67 points.
+You are instructed to press J and get 58 points.
+You are instructed to press J and get 66 points.
+You are instructed to press J and get 61 points.
+You press <<K>> and get 62 points.
+
+Game 181. There are 10 trials in this game.
+You are instructed to press K and get 31 points.
+You are instructed to press J and get 48 points.
+You are instructed to press K and get 36 points.
+You are instructed to press J and get 56 points.
+You press <<J>> and get 54 points.
+You press <<J>> and get 68 points.
+You press <<J>> and get 42 points.
+You press <<J>> and get 55 points.
+You press <<J>> and get 41 points.
+You press <<J>> and get 67 points.
+
+Game 182. There are 10 trials in this game.
+You are instructed to press K and get 27 points.
+You are instructed to press J and get 37 points.
+You are instructed to press J and get 44 points.
+You are instructed to press K and get 27 points.
+You press <<J>> and get 47 points.
+You press <<J>> and get 27 points.
+You press <<J>> and get 36 points.
+You press <<J>> and get 39 points.
+You press <<J>> and get 35 points.
+You press <<J>> and get 31 points.
+
+Game 183. There are 5 trials in this game.
+You are instructed to press J and get 59 points.
+You are instructed to press K and get 47 points.
+You are instructed to press J and get 59 points.
+You are instructed to press J and get 50 points.
+You press <<J>> and get 70 points.
+
+Game 184. There are 10 trials in this game.
+You are instructed to press K and get 44 points.
+You are instructed to press J and get 24 points.
+You are instructed to press J and get 14 points.
+You are instructed to press K and get 38 points.
+You press <<K>> and get 44 points.
+You press <<K>> and get 39 points.
+You press <<K>> and get 25 points.
+You press <<K>> and get 47 points.
+You press <<K>> and get 29 points.
+You press <<K>> and get 30 points.
+
+Game 185. There are 5 trials in this game.
+You are instructed to press K and get 17 points.
+You are instructed to press K and get 12 points.
+You are instructed to press J and get 36 points.
+You are instructed to press J and get 41 points.
+You press <<K>> and get 5 points.
+
+Game 186. There are 10 trials in this game.
+You are instructed to press K and get 60 points.
+You are instructed to press K and get 66 points.
+You are instructed to press J and get 65 points.
+You are instructed to press J and get 49 points.
+You press <<K>> and get 53 points.
+You press <<J>> and get 60 points.
+You press <<K>> and get 49 points.
+You press <<J>> and get 66 points.
+You press <<K>> and get 59 points.
+You press <<J>> and get 49 points.
+
+Game 187. There are 5 trials in this game.
+You are instructed to press J and get 43 points.
+You are instructed to press K and get 56 points.
+You are instructed to press J and get 78 points.
+You are instructed to press K and get 47 points.
+You press <<J>> and get 54 points.
+
+Game 188. There are 10 trials in this game.
+You are instructed to press J and get 36 points.
+You are instructed to press K and get 50 points.
+You are instructed to press J and get 45 points.
+You are instructed to press K and get 43 points.
+You press <<K>> and get 53 points.
+You press <<K>> and get 48 points.
+You press <<K>> and get 56 points.
+You press <<K>> and get 42 points.
+You press <<K>> and get 49 points.
+You press <<K>> and get 48 points.
+
+Game 189. There are 10 trials in this game.
+You are instructed to press J and get 59 points.
+You are instructed to press K and get 59 points.
+You are instructed to press J and get 52 points.
+You are instructed to press J and get 53 points.
+You press <<K>> and get 72 points.
+You press <<K>> and get 61 points.
+You press <<K>> and get 65 points.
+You press <<K>> and get 68 points.
+You press <<K>> and get 61 points.
+You press <<K>> and get 54 points.
+
+Game 190. There are 5 trials in this game.
+You are instructed to press K and get 56 points.
+You are instructed to press J and get 49 points.
+You are instructed to press K and get 59 points.
+You are instructed to press J and get 71 points.
+You press <<J>> and get 63 points.
+
+Game 191. There are 5 trials in this game.
+You are instructed to press J and get 44 points.
+You are instructed to press K and get 41 points.
+You are instructed to press J and get 45 points.
+You are instructed to press K and get 59 points.
+You press <<K>> and get 44 points.
+
+Game 192. There are 5 trials in this game.
+You are instructed to press J and get 48 points.
+You are instructed to press J and get 48 points.
+You are instructed to press K and get 64 points.
+You are instructed to press J and get 45 points.
+You press <<K>> and get 56 points.
+
+Game 193. There are 5 trials in this game.
+You are instructed to press J and get 41 points.
+You are instructed to press K and get 67 points.
+You are instructed to press J and get 36 points.
+You are instructed to press K and get 73 points.
+You press <<K>> and get 75 points.
+
+Game 194. There are 5 trials in this game.
+You are instructed to press J and get 71 points.
+You are instructed to press J and get 64 points.
+You are instructed to press K and get 39 points.
+You are instructed to press J and get 63 points.
+You press <<J>> and get 68 points.
+
+Game 195. There are 10 trials in this game.
+You are instructed to press K and get 71 points.
+You are instructed to press J and get 46 points.
+You are instructed to press J and get 50 points.
+You are instructed to press K and get 48 points.
+You press <<J>> and get 30 points.
+You press <<K>> and get 44 points.
+You press <<K>> and get 45 points.
+You press <<K>> and get 51 points.
+You press <<K>> and get 40 points.
+You press <<K>> and get 50 points.
+
+Game 196. There are 5 trials in this game.
+You are instructed to press J and get 68 points.
+You are instructed to press K and get 39 points.
+You are instructed to press J and get 71 points.
+You are instructed to press K and get 49 points.
+You press <<J>> and get 70 points.
+
+Game 197. There are 10 trials in this game.
+You are instructed to press J and get 46 points.
+You are instructed to press K and get 68 points.
+You are instructed to press J and get 30 points.
+You are instructed to press K and get 55 points.
+You press <<K>> and get 51 points.
+You press <<K>> and get 63 points.
+You press <<K>> and get 54 points.
+You press <<K>> and get 69 points.
+You press <<K>> and get 53 points.
+You press <<K>> and get 54 points.
+
+Game 198. There are 10 trials in this game.
+You are instructed to press J and get 16 points.
+You are instructed to press K and get 37 points.
+You are instructed to press K and get 36 points.
+You are instructed to press J and get 2 points.
+You press <<K>> and get 42 points.
+You press <<K>> and get 43 points.
+You press <<K>> and get 50 points.
+You press <<K>> and get 39 points.
+You press <<K>> and get 30 points.
+You press <<K>> and get 43 points.
+
+Game 199. There are 5 trials in this game.
+You are instructed to press J and get 58 points.
+You are instructed to press K and get 76 points.
+You are instructed to press J and get 63 points.
+You are instructed to press K and get 59 points.
+You press <<K>> and get 56 points.
+
+Game 200. There are 10 trials in this game.
+You are instructed to press K and get 43 points.
+You are instructed to press K and get 57 points.
+You are instructed to press J and get 58 points.
+You are instructed to press J and get 43 points.
+You press <<J>> and get 45 points.
+You press <<K>> and get 36 points.
+You press <<J>> and get 59 points.
+You press <<K>> and get 39 points.
+You press <<J>> and get 58 points.
+You press <<J>> and get 56 points.
+
+Game 201. There are 5 trials in this game.
+You are instructed to press J and get 41 points.
+You are instructed to press J and get 48 points.
+You are instructed to press J and get 53 points.
+You are instructed to press K and get 58 points.
+You press <<K>> and get 64 points.
+
+Game 202. There are 5 trials in this game.
+You are instructed to press K and get 70 points.
+You are instructed to press J and get 47 points.
+You are instructed to press K and get 39 points.
+You are instructed to press J and get 55 points.
+You press <<K>> and get 81 points.
+
+Game 203. There are 10 trials in this game.
+You are instructed to press J and get 54 points.
+You are instructed to press K and get 38 points.
+You are instructed to press K and get 52 points.
+You are instructed to press J and get 42 points.
+You press <<J>> and get 37 points.
+You press <<K>> and get 50 points.
+You press <<K>> and get 51 points.
+You press <<K>> and get 52 points.
+You press <<K>> and get 36 points.
+You press <<J>> and get 50 points.
+
+Game 204. There are 10 trials in this game.
+You are instructed to press J and get 35 points.
+You are instructed to press J and get 50 points.
+You are instructed to press K and get 85 points.
+You are instructed to press K and get 62 points.
+You press <<K>> and get 56 points.
+You press <<K>> and get 61 points.
+You press <<K>> and get 56 points.
+You press <<K>> and get 56 points.
+You press <<K>> and get 63 points.
+You press <<K>> and get 48 points.
+
+Game 205. There are 10 trials in this game.
+You are instructed to press K and get 40 points.
+You are instructed to press K and get 66 points.
+You are instructed to press K and get 52 points.
+You are instructed to press J and get 65 points.
+You press <<J>> and get 57 points.
+You press <<J>> and get 58 points.
+You press <<K>> and get 50 points.
+You press <<J>> and get 60 points.
+You press <<J>> and get 57 points.
+You press <<J>> and get 63 points.
+
+Game 206. There are 5 trials in this game.
+You are instructed to press J and get 22 points.
+You are instructed to press J and get 51 points.
+You are instructed to press K and get 30 points.
+You are instructed to press K and get 48 points.
+You press <<K>> and get 38 points.
+
+Game 207. There are 5 trials in this game.
+You are instructed to press J and get 63 points.
+You are instructed to press K and get 14 points.
+You are instructed to press K and get 8 points.
+You are instructed to press K and get 19 points.
+You press <<K>> and get 10 points.
+
+Game 208. There are 10 trials in this game.
+You are instructed to press K and get 28 points.
+You are instructed to press J and get 35 points.
+You are instructed to press K and get 47 points.
+You are instructed to press J and get 48 points.
+You press <<K>> and get 57 points.
+You press <<K>> and get 38 points.
+You press <<K>> and get 42 points.
+You press <<K>> and get 48 points.
+You press <<K>> and get 42 points.
+You press <<K>> and get 30 points.
+
+Game 209. There are 5 trials in this game.
+You are instructed to press J and get 83 points.
+You are instructed to press K and get 42 points.
+You are instructed to press J and get 67 points.
+You are instructed to press K and get 53 points.
+You press <<J>> and get 76 points.
+
+Game 210. There are 5 trials in this game.
+You are instructed to press J and get 91 points.
+You are instructed to press K and get 70 points.
+You are instructed to press K and get 63 points.
+You are instructed to press J and get 84 points.
+You press <<J>> and get 88 points.
+
+Game 211. There are 10 trials in this game.
+You are instructed to press K and get 57 points.
+You are instructed to press K and get 64 points.
+You are instructed to press K and get 55 points.
+You are instructed to press J and get 54 points.
+You press <<K>> and get 64 points.
+You press <<J>> and get 67 points.
+You press <<J>> and get 62 points.
+You press <<J>> and get 62 points.
+You press <<K>> and get 71 points.
+You press <<K>> and get 61 points.
+
+Game 212. There are 5 trials in this game.
+You are instructed to press J and get 30 points.
+You are instructed to press K and get 35 points.
+You are instructed to press K and get 42 points.
+You are instructed to press J and get 48 points.
+You press <<J>> and get 42 points.
+
+Game 213. There are 5 trials in this game.
+You are instructed to press J and get 62 points.
+You are instructed to press K and get 64 points.
+You are instructed to press K and get 66 points.
+You are instructed to press J and get 63 points.
+You press <<K>> and get 64 points.
+
+Game 214. There are 10 trials in this game.
+You are instructed to press K and get 31 points.
+You are instructed to press K and get 55 points.
+You are instructed to press J and get 17 points.
+You are instructed to press J and get 10 points.
+You press <<K>> and get 50 points.
+You press <<K>> and get 44 points.
+You press <<K>> and get 44 points.
+You press <<K>> and get 38 points.
+You press <<K>> and get 39 points.
+You press <<K>> and get 44 points.
+
+Game 215. There are 10 trials in this game.
+You are instructed to press K and get 15 points.
+You are instructed to press K and get 13 points.
+You are instructed to press J and get 48 points.
+You are instructed to press J and get 32 points.
+You press <<J>> and get 39 points.
+You press <<J>> and get 38 points.
+You press <<J>> and get 32 points.
+You press <<J>> and get 34 points.
+You press <<J>> and get 33 points.
+You press <<J>> and get 44 points.
+
+Game 216. There are 10 trials in this game.
+You are instructed to press K and get 50 points.
+You are instructed to press K and get 42 points.
+You are instructed to press J and get 33 points.
+You are instructed to press K and get 40 points.
+You press <<J>> and get 44 points.
+You press <<J>> and get 33 points.
+You press <<K>> and get 44 points.
+You press <<K>> and get 36 points.
+You press <<K>> and get 44 points.
+You press <<K>> and get 38 points.
+
+Game 217. There are 10 trials in this game.
+You are instructed to press J and get 55 points.
+You are instructed to press K and get 37 points.
+You are instructed to press J and get 60 points.
+You are instructed to press J and get 70 points.
+You press <<J>> and get 67 points.
+You press <<J>> and get 64 points.
+You press <<K>> and get 54 points.
+You press <<J>> and get 66 points.
+You press <<J>> and get 56 points.
+You press <<J>> and get 57 points.
+
+Game 218. There are 10 trials in this game.
+You are instructed to press J and get 37 points.
+You are instructed to press J and get 33 points.
+You are instructed to press K and get 19 points.
+You are instructed to press K and get 26 points.
+You press <<K>> and get 25 points.
+You press <<K>> and get 10 points.
+You press <<J>> and get 52 points.
+You press <<J>> and get 42 points.
+You press <<J>> and get 37 points.
+You press <<J>> and get 38 points.
+
+Game 219. There are 10 trials in this game.
+You are instructed to press K and get 69 points.
+You are instructed to press J and get 30 points.
+You are instructed to press J and get 45 points.
+You are instructed to press K and get 86 points.
+You press <<K>> and get 65 points.
+You press <<K>> and get 84 points.
+You press <<K>> and get 76 points.
+You press <<K>> and get 89 points.
+You press <<K>> and get 77 points.
+You press <<K>> and get 74 points.
+
+Game 220. There are 5 trials in this game.
+You are instructed to press J and get 8 points.
+You are instructed to press K and get 27 points.
+You are instructed to press J and get 21 points.
+You are instructed to press J and get 13 points.
+You press <<K>> and get 32 points.
+
+Game 221. There are 5 trials in this game.
+You are instructed to press J and get 35 points.
+You are instructed to press K and get 67 points.
+You are instructed to press K and get 58 points.
+You are instructed to press J and get 35 points.
+You press <<K>> and get 56 points.
+
+Game 222. There are 10 trials in this game.
+You are instructed to press K and get 47 points.
+You are instructed to press J and get 12 points.
+You are instructed to press K and get 63 points.
+You are instructed to press K and get 51 points.
+You press <<K>> and get 40 points.
+You press <<J>> and get 30 points.
+You press <<K>> and get 61 points.
+You press <<K>> and get 50 points.
+You press <<K>> and get 60 points.
+You press <<K>> and get 74 points.
+
+Game 223. There are 10 trials in this game.
+You are instructed to press J and get 61 points.
+You are instructed to press K and get 69 points.
+You are instructed to press K and get 51 points.
+You are instructed to press J and get 71 points.
+You press <<K>> and get 55 points.
+You press <<J>> and get 60 points.
+You press <<K>> and get 62 points.
+You press <<J>> and get 60 points.
+You press <<K>> and get 54 points.
+You press <<J>> and get 67 points.
+
+Game 224. There are 5 trials in this game.
+You are instructed to press J and get 76 points.
+You are instructed to press K and get 70 points.
+You are instructed to press J and get 73 points.
+You are instructed to press J and get 69 points.
+You press <<K>> and get 48 points.
+
+Game 225. There are 10 trials in this game.
+You are instructed to press K and get 4 points.
+You are instructed to press J and get 31 points.
+You are instructed to press J and get 34 points.
+You are instructed to press K and get 16 points.
+You press <<K>> and get 24 points.
+You press <<J>> and get 26 points.
+You press <<J>> and get 39 points.
+You press <<J>> and get 39 points.
+You press <<J>> and get 46 points.
+You press <<J>> and get 33 points.
+
+Game 226. There are 5 trials in this game.
+You are instructed to press J and get 45 points.
+You are instructed to press K and get 56 points.
+You are instructed to press K and get 63 points.
+You are instructed to press K and get 41 points.
+You press <<J>> and get 38 points.
+
+Game 227. There are 10 trials in this game.
+You are instructed to press K and get 43 points.
+You are instructed to press K and get 54 points.
+You are instructed to press J and get 45 points.
+You are instructed to press K and get 35 points.
+You press <<J>> and get 28 points.
+You press <<K>> and get 40 points.
+You press <<K>> and get 27 points.
+You press <<K>> and get 46 points.
+You press <<K>> and get 38 points.
+You press <<K>> and get 39 points.
+
+Game 228. There are 5 trials in this game.
+You are instructed to press J and get 26 points.
+You are instructed to press K and get 33 points.
+You are instructed to press K and get 32 points.
+You are instructed to press J and get 35 points.
+You press <<J>> and get 54 points.
+
+Game 229. There are 5 trials in this game.
+You are instructed to press K and get 56 points.
+You are instructed to press K and get 57 points.
+You are instructed to press K and get 58 points.
+You are instructed to press J and get 82 points.
+You press <<J>> and get 64 points.
+
+Game 230. There are 5 trials in this game.
+You are instructed to press K and get 38 points.
+You are instructed to press J and get 50 points.
+You are instructed to press J and get 56 points.
+You are instructed to press K and get 46 points.
+You press <<J>> and get 61 points.
+
+Game 231. There are 10 trials in this game.
+You are instructed to press J and get 49 points.
+You are instructed to press K and get 20 points.
+You are instructed to press K and get 24 points.
+You are instructed to press J and get 66 points.
+You press <<K>> and get 37 points.
+You press <<J>> and get 70 points.
+You press <<J>> and get 76 points.
+You press <<J>> and get 65 points.
+You press <<J>> and get 59 points.
+You press <<J>> and get 46 points.
+
+Game 232. There are 10 trials in this game.
+You are instructed to press K and get 35 points.
+You are instructed to press J and get 36 points.
+You are instructed to press J and get 41 points.
+You are instructed to press K and get 37 points.
+You press <<J>> and get 29 points.
+You press <<K>> and get 36 points.
+You press <<K>> and get 52 points.
+You press <<K>> and get 55 points.
+You press <<K>> and get 44 points.
+You press <<K>> and get 32 points.
+
+Game 233. There are 10 trials in this game.
+You are instructed to press K and get 56 points.
+You are instructed to press J and get 52 points.
+You are instructed to press K and get 45 points.
+You are instructed to press K and get 52 points.
+You press <<J>> and get 67 points.
+You press <<J>> and get 63 points.
+You press <<J>> and get 66 points.
+You press <<J>> and get 67 points.
+You press <<J>> and get 47 points.
+You press <<J>> and get 61 points.
+
+Game 234. There are 10 trials in this game.
+You are instructed to press J and get 35 points.
+You are instructed to press J and get 41 points.
+You are instructed to press J and get 35 points.
+You are instructed to press K and get 71 points.
+You press <<K>> and get 54 points.
+You press <<K>> and get 65 points.
+You press <<K>> and get 57 points.
+You press <<K>> and get 62 points.
+You press <<K>> and get 57 points.
+You press <<K>> and get 61 points.
+
+Game 235. There are 5 trials in this game.
+You are instructed to press J and get 61 points.
+You are instructed to press K and get 91 points.
+You are instructed to press K and get 95 points.
+You are instructed to press J and get 59 points.
+You press <<K>> and get 99 points.
+
+Game 236. There are 10 trials in this game.
+You are instructed to press J and get 20 points.
+You are instructed to press J and get 45 points.
+You are instructed to press J and get 35 points.
+You are instructed to press K and get 53 points.
+You press <<K>> and get 53 points.
+You press <<K>> and get 60 points.
+You press <<K>> and get 39 points.
+You press <<K>> and get 42 points.
+You press <<K>> and get 37 points.
+You press <<K>> and get 51 points.
+
+Game 237. There are 10 trials in this game.
+You are instructed to press K and get 14 points.
+You are instructed to press K and get 29 points.
+You are instructed to press K and get 23 points.
+You are instructed to press J and get 46 points.
+You press <<J>> and get 43 points.
+You press <<J>> and get 36 points.
+You press <<J>> and get 27 points.
+You press <<J>> and get 35 points.
+You press <<J>> and get 60 points.
+You press <<J>> and get 30 points.
+
+Game 238. There are 5 trials in this game.
+You are instructed to press J and get 58 points.
+You are instructed to press J and get 64 points.
+You are instructed to press K and get 82 points.
+You are instructed to press J and get 69 points.
+You press <<K>> and get 71 points.
+
+Game 239. There are 10 trials in this game.
+You are instructed to press J and get 41 points.
+You are instructed to press K and get 62 points.
+You are instructed to press J and get 32 points.
+You are instructed to press K and get 70 points.
+You press <<K>> and get 63 points.
+You press <<K>> and get 66 points.
+You press <<K>> and get 64 points.
+You press <<K>> and get 60 points.
+You press <<K>> and get 47 points.
+You press <<K>> and get 63 points.
+
+Game 240. There are 10 trials in this game.
+You are instructed to press K and get 51 points.
+You are instructed to press J and get 47 points.
+You are instructed to press K and get 41 points.
+You are instructed to press J and get 38 points.
+You press <<K>> and get 38 points.
+You press <<J>> and get 39 points.
+You press <<K>> and get 40 points.
+You press <<J>> and get 70 points.
+You press <<J>> and get 37 points.
+You press <<J>> and get 32 points.
+
+Game 241. There are 5 trials in this game.
+You are instructed to press J and get 47 points.
+You are instructed to press J and get 52 points.
+You are instructed to press K and get 40 points.
+You are instructed to press J and get 46 points.
+You press <<J>> and get 44 points.
+
+Game 242. There are 10 trials in this game.
+You are instructed to press J and get 62 points.
+You are instructed to press K and get 64 points.
+You are instructed to press J and get 50 points.
+You are instructed to press K and get 60 points.
+You press <<K>> and get 58 points.
+You press <<K>> and get 58 points.
+You press <<K>> and get 60 points.
+You press <<K>> and get 60 points.
+You press <<K>> and get 63 points.
+You press <<K>> and get 58 points.
+
+Game 243. There are 10 trials in this game.
+You are instructed to press K and get 47 points.
+You are instructed to press J and get 61 points.
+You are instructed to press K and get 52 points.
+You are instructed to press J and get 61 points.
+You press <<J>> and get 73 points.
+You press <<J>> and get 57 points.
+You press <<J>> and get 54 points.
+You press <<J>> and get 72 points.
+You press <<J>> and get 65 points.
+You press <<J>> and get 58 points.
+
+Game 244. There are 10 trials in this game.
+You are instructed to press K and get 31 points.
+You are instructed to press J and get 21 points.
+You are instructed to press K and get 33 points.
+You are instructed to press J and get 36 points.
+You press <<K>> and get 51 points.
+You press <<K>> and get 38 points.
+You press <<K>> and get 28 points.
+You press <<J>> and get 30 points.
+You press <<K>> and get 37 points.
+You press <<J>> and get 33 points.
+
+Game 245. There are 5 trials in this game.
+You are instructed to press K and get 42 points.
+You are instructed to press J and get 18 points.
+You are instructed to press J and get 11 points.
+You are instructed to press K and get 49 points.
+You press <<K>> and get 37 points.
+
+Game 246. There are 5 trials in this game.
+You are instructed to press J and get 44 points.
+You are instructed to press K and get 33 points.
+You are instructed to press J and get 40 points.
+You are instructed to press K and get 38 points.
+You press <<J>> and get 40 points.
+
+Game 247. There are 10 trials in this game.
+You are instructed to press K and get 72 points.
+You are instructed to press J and get 58 points.
+You are instructed to press J and get 72 points.
+You are instructed to press J and get 70 points.
+You press <<K>> and get 71 points.
+You press <<K>> and get 76 points.
+You press <<K>> and get 65 points.
+You press <<J>> and get 44 points.
+You press <<K>> and get 70 points.
+You press <<K>> and get 74 points.
+
+Game 248. There are 5 trials in this game.
+You are instructed to press J and get 54 points.
+You are instructed to press K and get 69 points.
+You are instructed to press J and get 58 points.
+You are instructed to press K and get 45 points.
+You press <<J>> and get 45 points.
+
+Game 249. There are 10 trials in this game.
+You are instructed to press K and get 43 points.
+You are instructed to press K and get 33 points.
+You are instructed to press J and get 54 points.
+You are instructed to press J and get 62 points.
+You press <<K>> and get 46 points.
+You press <<J>> and get 46 points.
+You press <<J>> and get 45 points.
+You press <<J>> and get 64 points.
+You press <<J>> and get 53 points.
+You press <<J>> and get 62 points.
+
+Game 250. There are 10 trials in this game.
+You are instructed to press K and get 67 points.
+You are instructed to press J and get 65 points.
+You are instructed to press K and get 58 points.
+You are instructed to press K and get 60 points.
+You press <<J>> and get 84 points.
+You press <<J>> and get 62 points.
+You press <<J>> and get 85 points.
+You press <<J>> and get 78 points.
+You press <<J>> and get 82 points.
+You press <<J>> and get 65 points.
+
+Game 251. There are 5 trials in this game.
+You are instructed to press J and get 46 points.
+You are instructed to press K and get 62 points.
+You are instructed to press J and get 56 points.
+You are instructed to press K and get 69 points.
+You press <<K>> and get 54 points.
+
+Game 252. There are 10 trials in this game.
+You are instructed to press K and get 59 points.
+You are instructed to press K and get 67 points.
+You are instructed to press J and get 76 points.
+You are instructed to press J and get 68 points.
+You press <<J>> and get 65 points.
+You press <<J>> and get 60 points.
+You press <<K>> and get 71 points.
+You press <<J>> and get 66 points.
+You press <<K>> and get 58 points.
+You press <<J>> and get 82 points.
+
+Game 253. There are 10 trials in this game.
+You are instructed to press J and get 61 points.
+You are instructed to press K and get 60 points.
+You are instructed to press K and get 61 points.
+You are instructed to press K and get 51 points.
+You press <<K>> and get 61 points.
+You press <<J>> and get 64 points.
+You press <<J>> and get 74 points.
+You press <<J>> and get 74 points.
+You press <<J>> and get 59 points.
+You press <<J>> and get 57 points.
+
+Game 254. There are 10 trials in this game.
+You are instructed to press K and get 35 points.
+You are instructed to press K and get 26 points.
+You are instructed to press J and get 25 points.
+You are instructed to press J and get 33 points.
+You press <<K>> and get 35 points.
+You press <<J>> and get 49 points.
+You press <<K>> and get 49 points.
+You press <<J>> and get 46 points.
+You press <<K>> and get 36 points.
+You press <<J>> and get 27 points.
+
+Game 255. There are 5 trials in this game.
+You are instructed to press K and get 68 points.
+You are instructed to press J and get 65 points.
+You are instructed to press K and get 62 points.
+You are instructed to press K and get 61 points.
+You press <<K>> and get 45 points.
+
+Game 256. There are 10 trials in this game.
+You are instructed to press K and get 51 points.
+You are instructed to press J and get 12 points.
+You are instructed to press K and get 42 points.
+You are instructed to press K and get 37 points.
+You press <<J>> and get 34 points.
+You press <<K>> and get 37 points.
+You press <<K>> and get 44 points.
+You press <<K>> and get 33 points.
+You press <<K>> and get 36 points.
+You press <<K>> and get 33 points.
+
+Game 257. There are 5 trials in this game.
+You are instructed to press J and get 50 points.
+You are instructed to press J and get 61 points.
+You are instructed to press K and get 59 points.
+You are instructed to press K and get 69 points.
+You press <<K>> and get 57 points.
+
+Game 258. There are 10 trials in this game.
+You are instructed to press K and get 38 points.
+You are instructed to press J and get 85 points.
+You are instructed to press J and get 81 points.
+You are instructed to press J and get 95 points.
+You press <<K>> and get 54 points.
+You press <<J>> and get 99 points.
+You press <<J>> and get 88 points.
+You press <<J>> and get 90 points.
+You press <<J>> and get 93 points.
+You press <<J>> and get 93 points.
+
+Game 259. There are 10 trials in this game.
+You are instructed to press K and get 43 points.
+You are instructed to press K and get 21 points.
+You are instructed to press K and get 45 points.
+You are instructed to press J and get 11 points.
+You press <<J>> and get 17 points.
+You press <<K>> and get 29 points.
+You press <<K>> and get 40 points.
+You press <<K>> and get 39 points.
+You press <<K>> and get 40 points.
+You press <<K>> and get 43 points.
+
+Game 260. There are 5 trials in this game.
+You are instructed to press K and get 60 points.
+You are instructed to press J and get 73 points.
+You are instructed to press J and get 48 points.
+You are instructed to press K and get 64 points.
+You press <<J>> and get 61 points.
+
+Game 261. There are 10 trials in this game.
+You are instructed to press J and get 60 points.
+You are instructed to press K and get 56 points.
+You are instructed to press K and get 54 points.
+You are instructed to press K and get 61 points.
+You press <<J>> and get 42 points.
+You press <<K>> and get 67 points.
+You press <<K>> and get 66 points.
+You press <<K>> and get 73 points.
+You press <<K>> and get 58 points.
+You press <<K>> and get 55 points.
+
+Game 262. There are 10 trials in this game.
+You are instructed to press J and get 65 points.
+You are instructed to press K and get 29 points.
+You are instructed to press J and get 59 points.
+You are instructed to press K and get 39 points.
+You press <<K>> and get 49 points.
+You press <<J>> and get 57 points.
+You press <<J>> and get 63 points.
+You press <<J>> and get 61 points.
+You press <<J>> and get 51 points.
+You press <<J>> and get 67 points.
+
+Game 263. There are 10 trials in this game.
+You are instructed to press J and get 15 points.
+You are instructed to press J and get 31 points.
+You are instructed to press J and get 31 points.
+You are instructed to press K and get 84 points.
+You press <<K>> and get 62 points.
+You press <<K>> and get 54 points.
+You press <<K>> and get 68 points.
+You press <<K>> and get 54 points.
+You press <<K>> and get 66 points.
+You press <<K>> and get 49 points.
+
+Game 264. There are 5 trials in this game.
+You are instructed to press K and get 65 points.
+You are instructed to press K and get 61 points.
+You are instructed to press J and get 88 points.
+You are instructed to press J and get 82 points.
+You press <<J>> and get 84 points.
+
+Game 265. There are 5 trials in this game.
+You are instructed to press K and get 25 points.
+You are instructed to press J and get 47 points.
+You are instructed to press J and get 58 points.
+You are instructed to press J and get 45 points.
+You press <<K>> and get 31 points.
+
+Game 266. There are 10 trials in this game.
+You are instructed to press K and get 66 points.
+You are instructed to press J and get 67 points.
+You are instructed to press K and get 63 points.
+You are instructed to press J and get 67 points.
+You press <<K>> and get 45 points.
+You press <<J>> and get 57 points.
+You press <<J>> and get 54 points.
+You press <<J>> and get 78 points.
+You press <<J>> and get 59 points.
+You press <<J>> and get 77 points.
+
+Game 267. There are 5 trials in this game.
+You are instructed to press K and get 31 points.
+You are instructed to press J and get 50 points.
+You are instructed to press J and get 46 points.
+You are instructed to press J and get 43 points.
+You press <<J>> and get 37 points.
+
+Game 268. There are 5 trials in this game.
+You are instructed to press K and get 33 points.
+You are instructed to press J and get 54 points.
+You are instructed to press J and get 74 points.
+You are instructed to press K and get 38 points.
+You press <<J>> and get 67 points.
+
+Game 269. There are 10 trials in this game.
+You are instructed to press J and get 47 points.
+You are instructed to press K and get 55 points.
+You are instructed to press K and get 65 points.
+You are instructed to press J and get 53 points.
+You press <<K>> and get 63 points.
+You press <<K>> and get 70 points.
+You press <<K>> and get 89 points.
+You press <<K>> and get 61 points.
+You press <<K>> and get 48 points.
+You press <<K>> and get 50 points.
+
+Game 270. There are 10 trials in this game.
+You are instructed to press K and get 62 points.
+You are instructed to press J and get 57 points.
+You are instructed to press J and get 56 points.
+You are instructed to press K and get 39 points.
+You press <<J>> and get 52 points.
+You press <<J>> and get 67 points.
+You press <<J>> and get 72 points.
+You press <<J>> and get 59 points.
+You press <<J>> and get 62 points.
+You press <<J>> and get 61 points.
+
+Game 271. There are 5 trials in this game.
+You are instructed to press K and get 48 points.
+You are instructed to press J and get 9 points.
+You are instructed to press J and get 25 points.
+You are instructed to press K and get 33 points.
+You press <<K>> and get 39 points.
+
+Game 272. There are 10 trials in this game.
+You are instructed to press K and get 63 points.
+You are instructed to press J and get 46 points.
+You are instructed to press K and get 81 points.
+You are instructed to press J and get 46 points.
+You press <<K>> and get 62 points.
+You press <<K>> and get 63 points.
+You press <<K>> and get 70 points.
+You press <<K>> and get 73 points.
+You press <<K>> and get 73 points.
+You press <<K>> and get 59 points.
+
+Game 273. There are 5 trials in this game.
+You are instructed to press J and get 42 points.
+You are instructed to press K and get 35 points.
+You are instructed to press K and get 34 points.
+You are instructed to press J and get 38 points.
+You press <<J>> and get 32 points.
+
+Game 274. There are 5 trials in this game.
+You are instructed to press K and get 50 points.
+You are instructed to press K and get 71 points.
+You are instructed to press J and get 60 points.
+You are instructed to press K and get 69 points.
+You press <<K>> and get 41 points.
+
+Game 275. There are 5 trials in this game.
+You are instructed to press K and get 26 points.
+You are instructed to press J and get 54 points.
+You are instructed to press J and get 60 points.
+You are instructed to press K and get 43 points.
+You press <<J>> and get 64 points.
+
+Game 276. There are 5 trials in this game.
+You are instructed to press K and get 62 points.
+You are instructed to press J and get 69 points.
+You are instructed to press K and get 61 points.
+You are instructed to press K and get 78 points.
+You press <<K>> and get 57 points.
+
+Game 277. There are 5 trials in this game.
+You are instructed to press K and get 56 points.
+You are instructed to press K and get 54 points.
+You are instructed to press J and get 44 points.
+You are instructed to press K and get 54 points.
+You press <<K>> and get 62 points.
+
+Game 278. There are 5 trials in this game.
+You are instructed to press K and get 87 points.
+You are instructed to press J and get 54 points.
+You are instructed to press K and get 81 points.
+You are instructed to press J and get 42 points.
+You press <<K>> and get 89 points.
+
+Game 279. There are 5 trials in this game.
+You are instructed to press J and get 60 points.
+You are instructed to press K and get 38 points.
+You are instructed to press K and get 45 points.
+You are instructed to press J and get 63 points.
+You press <<J>> and get 61 points.
+
+Game 280. There are 5 trials in this game.
+You are instructed to press K and get 66 points.
+You are instructed to press J and get 47 points.
+You are instructed to press K and get 66 points.
+You are instructed to press K and get 68 points.
+You press <<K>> and get 57 points.
+
+Game 281. There are 5 trials in this game.
+You are instructed to press J and get 52 points.
+You are instructed to press J and get 48 points.
+You are instructed to press K and get 73 points.
+You are instructed to press J and get 47 points.
+You press <<K>> and get 61 points.
+
+Game 282. There are 5 trials in this game.
+You are instructed to press K and get 68 points.
+You are instructed to press J and get 76 points.
+You are instructed to press K and get 71 points.
+You are instructed to press K and get 57 points.
+You press <<J>> and get 73 points.
+
+Game 283. There are 5 trials in this game.
+You are instructed to press J and get 14 points.
+You are instructed to press K and get 23 points.
+You are instructed to press K and get 39 points.
+You are instructed to press J and get 39 points.
+You press <<K>> and get 40 points.
+
+Game 284. There are 10 trials in this game.
+You are instructed to press K and get 61 points.
+You are instructed to press J and get 65 points.
+You are instructed to press J and get 56 points.
+You are instructed to press J and get 48 points.
+You press <<K>> and get 79 points.
+You press <<K>> and get 60 points.
+You press <<K>> and get 68 points.
+You press <<K>> and get 51 points.
+You press <<K>> and get 56 points.
+You press <<K>> and get 61 points.
+
+Game 285. There are 5 trials in this game.
+You are instructed to press K and get 26 points.
+You are instructed to press J and get 53 points.
+You are instructed to press J and get 56 points.
+You are instructed to press K and get 24 points.
+You press <<J>> and get 65 points.
+
+Game 286. There are 10 trials in this game.
+You are instructed to press J and get 38 points.
+You are instructed to press J and get 37 points.
+You are instructed to press K and get 57 points.
+You are instructed to press K and get 55 points.
+You press <<K>> and get 52 points.
+You press <<K>> and get 64 points.
+You press <<K>> and get 61 points.
+You press <<J>> and get 49 points.
+You press <<K>> and get 53 points.
+You press <<K>> and get 66 points.
+
+Game 287. There are 10 trials in this game.
+You are instructed to press J and get 75 points.
+You are instructed to press J and get 55 points.
+You are instructed to press K and get 90 points.
+You are instructed to press K and get 99 points.
+You press <<K>> and get 96 points.
+You press <<K>> and get 86 points.
+You press <<K>> and get 88 points.
+You press <<K>> and get 84 points.
+You press <<K>> and get 95 points.
+You press <<K>> and get 82 points.
+
+Game 288. There are 5 trials in this game.
+You are instructed to press J and get 53 points.
+You are instructed to press K and get 61 points.
+You are instructed to press J and get 57 points.
+You are instructed to press J and get 68 points.
+You press <<J>> and get 49 points.
+
+Game 289. There are 5 trials in this game.
+You are instructed to press K and get 61 points.
+You are instructed to press K and get 54 points.
+You are instructed to press J and get 71 points.
+You are instructed to press J and get 74 points.
+You press <<J>> and get 53 points.
+
+Game 290. There are 10 trials in this game.
+You are instructed to press K and get 11 points.
+You are instructed to press K and get 14 points.
+You are instructed to press K and get 2 points.
+You are instructed to press J and get 48 points.
+You press <<J>> and get 36 points.
+You press <<J>> and get 34 points.
+You press <<J>> and get 36 points.
+You press <<J>> and get 50 points.
+You press <<J>> and get 42 points.
+You press <<J>> and get 44 points.
+
+Game 291. There are 10 trials in this game.
+You are instructed to press K and get 22 points.
+You are instructed to press J and get 13 points.
+You are instructed to press J and get 16 points.
+You are instructed to press K and get 53 points.
+You press <<K>> and get 33 points.
+You press <<K>> and get 51 points.
+You press <<K>> and get 34 points.
+You press <<K>> and get 46 points.
+You press <<K>> and get 41 points.
+You press <<K>> and get 44 points.
+
+Game 292. There are 10 trials in this game.
+You are instructed to press J and get 37 points.
+You are instructed to press J and get 37 points.
+You are instructed to press J and get 49 points.
+You are instructed to press K and get 40 points.
+You press <<K>> and get 55 points.
+You press <<K>> and get 63 points.
+You press <<K>> and get 55 points.
+You press <<K>> and get 61 points.
+You press <<K>> and get 69 points.
+You press <<K>> and get 47 points.
+
+Game 293. There are 5 trials in this game.
+You are instructed to press K and get 62 points.
+You are instructed to press J and get 73 points.
+You are instructed to press K and get 73 points.
+You are instructed to press J and get 73 points.
+You press <<K>> and get 59 points.
+
+Game 294. There are 5 trials in this game.
+You are instructed to press J and get 70 points.
+You are instructed to press K and get 42 points.
+You are instructed to press K and get 40 points.
+You are instructed to press K and get 17 points.
+You press <<J>> and get 62 points.
+
+Game 295. There are 10 trials in this game.
+You are instructed to press K and get 72 points.
+You are instructed to press K and get 71 points.
+You are instructed to press J and get 58 points.
+You are instructed to press J and get 62 points.
+You press <<K>> and get 61 points.
+You press <<K>> and get 75 points.
+You press <<K>> and get 51 points.
+You press <<K>> and get 76 points.
+You press <<K>> and get 81 points.
+You press <<K>> and get 68 points.
+
+Game 296. There are 5 trials in this game.
+You are instructed to press J and get 60 points.
+You are instructed to press K and get 67 points.
+You are instructed to press K and get 71 points.
+You are instructed to press K and get 73 points.
+You press <<K>> and get 77 points.
+
+Game 297. There are 10 trials in this game.
+You are instructed to press J and get 26 points.
+You are instructed to press J and get 20 points.
+You are instructed to press J and get 17 points.
+You are instructed to press K and get 35 points.
+You press <<K>> and get 42 points.
+You press <<K>> and get 54 points.
+You press <<K>> and get 30 points.
+You press <<K>> and get 38 points.
+You press <<J>> and get 24 points.
+You press <<K>> and get 46 points.
+
+Game 298. There are 10 trials in this game.
+You are instructed to press K and get 40 points.
+You are instructed to press K and get 38 points.
+You are instructed to press J and get 71 points.
+You are instructed to press J and get 75 points.
+You press <<J>> and get 76 points.
+You press <<J>> and get 73 points.
+You press <<J>> and get 79 points.
+You press <<J>> and get 76 points.
+You press <<J>> and get 91 points.
+You press <<J>> and get 69 points.
+
+Game 299. There are 5 trials in this game.
+You are instructed to press J and get 52 points.
+You are instructed to press J and get 63 points.
+You are instructed to press K and get 88 points.
+You are instructed to press J and get 68 points.
+You press <<K>> and get 66 points.
+
+Game 300. There are 10 trials in this game.
+You are instructed to press K and get 54 points.
+You are instructed to press J and get 61 points.
+You are instructed to press J and get 62 points.
+You are instructed to press K and get 78 points.
+You press <<K>> and get 69 points.
+You press <<K>> and get 76 points.
+You press <<K>> and get 63 points.
+You press <<K>> and get 80 points.
+You press <<K>> and get 73 points.
+You press <<K>> and get 62 points.
+
+Game 301. There are 10 trials in this game.
+You are instructed to press J and get 56 points.
+You are instructed to press K and get 48 points.
+You are instructed to press J and get 71 points.
+You are instructed to press K and get 54 points.
+You press <<K>> and get 62 points.
+You press <<J>> and get 59 points.
+You press <<J>> and get 59 points.
+You press <<J>> and get 42 points.
+You press <<J>> and get 49 points.
+You press <<J>> and get 50 points.
+
+Game 302. There are 10 trials in this game.
+You are instructed to press J and get 51 points.
+You are instructed to press K and get 30 points.
+You are instructed to press J and get 43 points.
+You are instructed to press J and get 45 points.
+You press <<J>> and get 28 points.
+You press <<K>> and get 16 points.
+You press <<J>> and get 27 points.
+You press <<J>> and get 26 points.
+You press <<J>> and get 47 points.
+You press <<J>> and get 40 points.
+
+Game 303. There are 5 trials in this game.
+You are instructed to press K and get 64 points.
+You are instructed to press K and get 66 points.
+You are instructed to press J and get 56 points.
+You are instructed to press J and get 73 points.
+You press <<J>> and get 74 points.
+
+Game 304. There are 10 trials in this game.
+You are instructed to press K and get 54 points.
+You are instructed to press J and get 58 points.
+You are instructed to press K and get 52 points.
+You are instructed to press K and get 41 points.
+You press <<K>> and get 50 points.
+You press <<J>> and get 40 points.
+You press <<K>> and get 51 points.
+You press <<K>> and get 61 points.
+You press <<K>> and get 31 points.
+You press <<K>> and get 53 points.
+
+Game 305. There are 5 trials in this game.
+You are instructed to press K and get 45 points.
+You are instructed to press J and get 49 points.
+You are instructed to press J and get 44 points.
+You are instructed to press J and get 45 points.
+You press <<K>> and get 63 points.
+
+Game 306. There are 5 trials in this game.
+You are instructed to press J and get 55 points.
+You are instructed to press K and get 79 points.
+You are instructed to press K and get 80 points.
+You are instructed to press J and get 75 points.
+You press <<K>> and get 68 points.
+
+Game 307. There are 10 trials in this game.
+You are instructed to press J and get 29 points.
+You are instructed to press J and get 27 points.
+You are instructed to press J and get 42 points.
+You are instructed to press K and get 40 points.
+You press <<K>> and get 37 points.
+You press <<K>> and get 34 points.
+You press <<J>> and get 28 points.
+You press <<J>> and get 37 points.
+You press <<J>> and get 31 points.
+You press <<J>> and get 30 points.
+
+Game 308. There are 10 trials in this game.
+You are instructed to press K and get 75 points.
+You are instructed to press J and get 52 points.
+You are instructed to press K and get 69 points.
+You are instructed to press K and get 66 points.
+You press <<K>> and get 57 points.
+You press <<K>> and get 72 points.
+You press <<K>> and get 79 points.
+You press <<K>> and get 76 points.
+You press <<K>> and get 61 points.
+You press <<K>> and get 74 points.
+
+Game 309. There are 5 trials in this game.
+You are instructed to press K and get 73 points.
+You are instructed to press J and get 61 points.
+You are instructed to press K and get 86 points.
+You are instructed to press K and get 86 points.
+You press <<K>> and get 99 points.
+
+Game 310. There are 5 trials in this game.
+You are instructed to press J and get 52 points.
+You are instructed to press K and get 39 points.
+You are instructed to press J and get 71 points.
+You are instructed to press K and get 46 points.
+You press <<J>> and get 57 points.
+
+Game 311. There are 10 trials in this game.
+You are instructed to press K and get 47 points.
+You are instructed to press J and get 28 points.
+You are instructed to press K and get 53 points.
+You are instructed to press J and get 27 points.
+You press <<K>> and get 32 points.
+You press <<K>> and get 46 points.
+You press <<K>> and get 46 points.
+You press <<K>> and get 48 points.
+You press <<K>> and get 33 points.
+You press <<K>> and get 34 points.
+
+Game 312. There are 10 trials in this game.
+You are instructed to press K and get 53 points.
+You are instructed to press J and get 80 points.
+You are instructed to press J and get 63 points.
+You are instructed to press K and get 53 points.
+You press <<J>> and get 69 points.
+You press <<J>> and get 71 points.
+You press <<J>> and get 83 points.
+You press <<J>> and get 72 points.
+You press <<J>> and get 76 points.
+You press <<J>> and get 73 points.
+
+Game 313. There are 5 trials in this game.
+You are instructed to press K and get 47 points.
+You are instructed to press K and get 23 points.
+You are instructed to press J and get 38 points.
+You are instructed to press K and get 42 points.
+You press <<K>> and get 34 points.
+
+Game 314. There are 5 trials in this game.
+You are instructed to press K and get 73 points.
+You are instructed to press J and get 58 points.
+You are instructed to press K and get 82 points.
+You are instructed to press J and get 66 points.
+You press <<K>> and get 80 points.
+
+Game 315. There are 5 trials in this game.
+You are instructed to press K and get 38 points.
+You are instructed to press K and get 45 points.
+You are instructed to press J and get 30 points.
+You are instructed to press J and get 49 points.
+You press <<J>> and get 27 points.
+
+Game 316. There are 10 trials in this game.
+You are instructed to press K and get 74 points.
+You are instructed to press K and get 68 points.
+You are instructed to press J and get 63 points.
+You are instructed to press J and get 43 points.
+You press <<K>> and get 74 points.
+You press <<K>> and get 77 points.
+You press <<K>> and get 67 points.
+You press <<K>> and get 55 points.
+You press <<K>> and get 76 points.
+You press <<K>> and get 76 points.
+
+Game 317. There are 10 trials in this game.
+You are instructed to press K and get 51 points.
+You are instructed to press J and get 41 points.
+You are instructed to press J and get 41 points.
+You are instructed to press K and get 69 points.
+You press <<K>> and get 59 points.
+You press <<K>> and get 69 points.
+You press <<K>> and get 68 points.
+You press <<K>> and get 66 points.
+You press <<K>> and get 56 points.
+You press <<K>> and get 59 points.
+
+Game 318. There are 5 trials in this game.
+You are instructed to press K and get 60 points.
+You are instructed to press J and get 61 points.
+You are instructed to press K and get 62 points.
+You are instructed to press K and get 52 points.
+You press <<K>> and get 47 points.
+
+Game 319. There are 5 trials in this game.
+You are instructed to press J and get 46 points.
+You are instructed to press J and get 41 points.
+You are instructed to press J and get 42 points.
+You are instructed to press K and get 74 points.
+You press <<K>> and get 67 points.
+
+Game 320. There are 10 trials in this game.
+You are instructed to press J and get 77 points.
+You are instructed to press J and get 84 points.
+You are instructed to press J and get 70 points.
+You are instructed to press K and get 62 points.
+You press <<K>> and get 70 points.
+You press <<J>> and get 66 points.
+You press <<J>> and get 58 points.
+You press <<J>> and get 70 points.
+You press <<J>> and get 68 points.
+You press <<J>> and get 62 points.

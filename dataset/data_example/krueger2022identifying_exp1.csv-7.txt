@@ -1,0 +1,165 @@
+You will play multiple rounds of a gambling game.
+In each round, you will be presented with 6 different gambles labeled: O, S, W, G, M, and P.
+You will have to choose one of the gambles and receive a payoff for doing so.
+The payoff you receive depends on both the gamble you choose and also the color of a ball we pull out of a jar with 100 colored balls.
+There are a different number of balls of each color on every round.
+The colors with more balls are more likely to be chosen.
+Before making your choice, you may check how much different gambles are worth for different ball colors.
+Each time you check a gamble will cost you 2 points.
+To choose or check a gamble, first press the corresponding key, followed by typing "stop" (for choosing) or the ball color you would like to check.
+
+A new round begins.
+There are 26 cyan balls, 20 silver balls, 33 teal balls, and 21 black balls.
+You press <<O>> and then type <<teal>>. The payoff for this combination would be -4 points.
+You press <<S>> and then type <<black>>. The payoff for this combination would be -74 points.
+You press <<W>> and then type <<silver>>. The payoff for this combination would be -56 points.
+You press <<G>> and then type <<cyan>>. The payoff for this combination would be -62 points.
+You press <<M>> and then type <<teal>>. The payoff for this combination would be -85 points.
+You press <<P>> and then type <<silver>>. The payoff for this combination would be 25 points.
+You press <<P>> and then type <<black>>. The payoff for this combination would be 192 points.
+You press <<P>> and then type <<stop>>. A teal ball is chosen, and you earn 18 points.
+
+A new round begins.
+There are 24 cyan balls, 26 silver balls, 25 teal balls, and 25 black balls.
+You press <<O>> and then type <<silver>>. The payoff for this combination would be -5 points.
+You press <<S>> and then type <<teal>>. The payoff for this combination would be 5 points.
+You press <<W>> and then type <<cyan>>. The payoff for this combination would be -5 points.
+You press <<G>> and then type <<black>>. The payoff for this combination would be -23 points.
+You press <<M>> and then type <<silver>>. The payoff for this combination would be 99 points.
+You press <<M>> and then type <<stop>>. A teal ball is chosen, and you earn 6 points.
+
+A new round begins.
+There are 36 cyan balls, 30 silver balls, 15 teal balls, and 19 black balls.
+You press <<O>> and then type <<silver>>. The payoff for this combination would be 101 points.
+You press <<O>> and then type <<stop>>. A silver ball is chosen, and you earn 101 points.
+
+A new round begins.
+There are 27 cyan balls, 18 silver balls, 35 teal balls, and 20 black balls.
+You press <<S>> and then type <<teal>>. The payoff for this combination would be 64 points.
+You press <<W>> and then type <<silver>>. The payoff for this combination would be -55 points.
+You press <<W>> and then type <<black>>. The payoff for this combination would be -22 points.
+You press <<S>> and then type <<stop>>. A silver ball is chosen, and you earn -34 points.
+
+A new round begins.
+There are 40 cyan balls, 17 silver balls, 18 teal balls, and 25 black balls.
+You press <<O>> and then type <<cyan>>. The payoff for this combination would be -50 points.
+You press <<G>> and then type <<black>>. The payoff for this combination would be -55 points.
+You press <<W>> and then type <<silver>>. The payoff for this combination would be -10 points.
+You press <<S>> and then type <<teal>>. The payoff for this combination would be 3 points.
+You press <<M>> and then type <<cyan>>. The payoff for this combination would be 78 points.
+You press <<M>> and then type <<stop>>. A black ball is chosen, and you earn -43 points.
+
+A new round begins.
+There are 28 cyan balls, 27 silver balls, 23 teal balls, and 21 black balls.
+You press <<O>> and then type <<teal>>. The payoff for this combination would be 248 points.
+You press <<S>> and then type <<silver>>. The payoff for this combination would be 53 points.
+You press <<O>> and then type <<stop>>. A cyan ball is chosen, and you earn -73 points.
+
+A new round begins.
+There are 27 cyan balls, 28 silver balls, 21 teal balls, and 24 black balls.
+You press <<O>> and then type <<cyan>>. The payoff for this combination would be -23 points.
+You press <<S>> and then type <<teal>>. The payoff for this combination would be -75 points.
+You press <<W>> and then type <<silver>>. The payoff for this combination would be -30 points.
+You press <<G>> and then type <<teal>>. The payoff for this combination would be 81 points.
+You press <<G>> and then type <<black>>. The payoff for this combination would be -10 points.
+You press <<G>> and then type <<cyan>>. The payoff for this combination would be 96 points.
+You press <<G>> and then type <<stop>>. A black ball is chosen, and you earn -10 points.
+
+A new round begins.
+There are 25 cyan balls, 27 silver balls, 19 teal balls, and 28 black balls.
+You press <<O>> and then type <<silver>>. The payoff for this combination would be 71 points.
+You press <<S>> and then type <<teal>>. The payoff for this combination would be 69 points.
+You press <<S>> and then type <<black>>. The payoff for this combination would be 73 points.
+You press <<S>> and then type <<stop>>. A teal ball is chosen, and you earn 69 points.
+
+A new round begins.
+There are 12 cyan balls, 33 silver balls, 32 teal balls, and 23 black balls.
+You press <<O>> and then type <<silver>>. The payoff for this combination would be 22 points.
+You press <<S>> and then type <<teal>>. The payoff for this combination would be 28 points.
+You press <<S>> and then type <<black>>. The payoff for this combination would be 13 points.
+You press <<S>> and then type <<stop>>. A teal ball is chosen, and you earn 28 points.
+
+A new round begins.
+There are 24 cyan balls, 21 silver balls, 18 teal balls, and 37 black balls.
+You press <<O>> and then type <<silver>>. The payoff for this combination would be -109 points.
+You press <<S>> and then type <<black>>. The payoff for this combination would be 46 points.
+You press <<S>> and then type <<cyan>>. The payoff for this combination would be 14 points.
+You press <<S>> and then type <<stop>>. A cyan ball is chosen, and you earn 14 points.
+
+A new round begins.
+There are 22 cyan balls, 22 silver balls, 28 teal balls, and 28 black balls.
+You press <<O>> and then type <<teal>>. The payoff for this combination would be 17 points.
+You press <<O>> and then type <<black>>. The payoff for this combination would be -26 points.
+You press <<S>> and then type <<black>>. The payoff for this combination would be -72 points.
+You press <<S>> and then type <<silver>>. The payoff for this combination would be 77 points.
+You press <<S>> and then type <<stop>>. A silver ball is chosen, and you earn 77 points.
+
+A new round begins.
+There are 28 cyan balls, 19 silver balls, 24 teal balls, and 28 black balls.
+You press <<O>> and then type <<teal>>. The payoff for this combination would be 63 points.
+You press <<S>> and then type <<cyan>>. The payoff for this combination would be 81 points.
+You press <<S>> and then type <<black>>. The payoff for this combination would be 136 points.
+You press <<S>> and then type <<stop>>. A silver ball is chosen, and you earn -6 points.
+
+A new round begins.
+There are 20 cyan balls, 35 silver balls, 20 teal balls, and 25 black balls.
+You press <<O>> and then type <<teal>>. The payoff for this combination would be 3 points.
+You press <<S>> and then type <<silver>>. The payoff for this combination would be -34 points.
+You press <<S>> and then type <<black>>. The payoff for this combination would be -2 points.
+You press <<W>> and then type <<silver>>. The payoff for this combination would be -13 points.
+You press <<W>> and then type <<black>>. The payoff for this combination would be -8 points.
+You press <<G>> and then type <<cyan>>. The payoff for this combination would be 45 points.
+You press <<G>> and then type <<stop>>. A silver ball is chosen, and you earn 22 points.
+
+A new round begins.
+There are 27 cyan balls, 24 silver balls, 17 teal balls, and 32 black balls.
+You press <<O>> and then type <<silver>>. The payoff for this combination would be 23 points.
+You press <<S>> and then type <<black>>. The payoff for this combination would be 31 points.
+You press <<S>> and then type <<cyan>>. The payoff for this combination would be -48 points.
+You press <<W>> and then type <<cyan>>. The payoff for this combination would be 44 points.
+You press <<W>> and then type <<black>>. The payoff for this combination would be -50 points.
+You press <<W>> and then type <<silver>>. The payoff for this combination would be -61 points.
+You press <<S>> and then type <<stop>>. A cyan ball is chosen, and you earn -48 points.
+
+A new round begins.
+There are 20 cyan balls, 44 silver balls, 18 teal balls, and 18 black balls.
+You press <<O>> and then type <<silver>>. The payoff for this combination would be -31 points.
+You press <<S>> and then type <<teal>>. The payoff for this combination would be 4 points.
+You press <<W>> and then type <<cyan>>. The payoff for this combination would be 53 points.
+You press <<W>> and then type <<black>>. The payoff for this combination would be 105 points.
+You press <<W>> and then type <<stop>>. A silver ball is chosen, and you earn 47 points.
+
+A new round begins.
+There are 17 cyan balls, 30 silver balls, 17 teal balls, and 36 black balls.
+You press <<O>> and then type <<silver>>. The payoff for this combination would be 98 points.
+You press <<S>> and then type <<teal>>. The payoff for this combination would be -36 points.
+You press <<O>> and then type <<teal>>. The payoff for this combination would be 23 points.
+You press <<O>> and then type <<stop>>. A silver ball is chosen, and you earn 98 points.
+
+A new round begins.
+There are 28 cyan balls, 22 silver balls, 28 teal balls, and 22 black balls.
+You press <<O>> and then type <<cyan>>. The payoff for this combination would be 123 points.
+You press <<S>> and then type <<teal>>. The payoff for this combination would be 38 points.
+You press <<O>> and then type <<stop>>. A silver ball is chosen, and you earn -94 points.
+
+A new round begins.
+There are 25 cyan balls, 34 silver balls, 19 teal balls, and 22 black balls.
+You press <<O>> and then type <<silver>>. The payoff for this combination would be -9 points.
+You press <<S>> and then type <<teal>>. The payoff for this combination would be -34 points.
+You press <<W>> and then type <<black>>. The payoff for this combination would be 29 points.
+You press <<W>> and then type <<cyan>>. The payoff for this combination would be -129 points.
+You press <<G>> and then type <<cyan>>. The payoff for this combination would be 73 points.
+You press <<G>> and then type <<silver>>. The payoff for this combination would be 60 points.
+You press <<G>> and then type <<stop>>. A teal ball is chosen, and you earn 51 points.
+
+A new round begins.
+There are 17 cyan balls, 26 silver balls, 25 teal balls, and 32 black balls.
+You press <<O>> and then type <<teal>>. The payoff for this combination would be 111 points.
+You press <<O>> and then type <<cyan>>. The payoff for this combination would be 108 points.
+You press <<O>> and then type <<stop>>. A black ball is chosen, and you earn 59 points.
+
+A new round begins.
+There are 17 cyan balls, 26 silver balls, 16 teal balls, and 41 black balls.
+You press <<O>> and then type <<silver>>. The payoff for this combination would be 109 points.
+You press <<O>> and then type <<black>>. The payoff for this combination would be 57 points.
+You press <<O>> and then type <<stop>>. A silver ball is chosen, and you earn 109 points.

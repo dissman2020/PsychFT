@@ -1,0 +1,366 @@
+In this task, you need to emit responses to certain stimuli and omit responses to others.
+You will see one of two colours, colour1 or colour2, on the screen in each trial.
+You need to press button X when you see colour1 and press nothing when you see colour2.
+You need to respond as quickly as possible.
+You will be doing 10 practice trials followed by 350 test trials.
+
+You see colour1 and press nothing.
+You see colour2 and press <<X>> in 555.0ms.
+You see colour2 and press nothing.
+You see colour2 and press nothing.
+You see colour2 and press nothing.
+You see colour1 and press <<X>> in 405.0ms.
+You see colour1 and press <<X>> in 519.0ms.
+You see colour1 and press <<X>> in 328.0ms.
+You see colour1 and press <<X>> in 340.0ms.
+You see colour2 and press nothing.
+You see colour1 and press <<X>> in 332.0ms.
+You see colour1 and press <<X>> in 442.0ms.
+You see colour1 and press <<X>> in 290.0ms.
+You see colour2 and press nothing.
+You see colour2 and press nothing.
+You see colour1 and press <<X>> in 308.0ms.
+You see colour2 and press nothing.
+You see colour1 and press <<X>> in 326.0ms.
+You see colour2 and press nothing.
+You see colour1 and press <<X>> in 319.0ms.
+You see colour1 and press <<X>> in 332.0ms.
+You see colour1 and press <<X>> in 332.0ms.
+You see colour1 and press <<X>> in 501.0ms.
+You see colour1 and press <<X>> in 353.0ms.
+You see colour1 and press <<X>> in 374.0ms.
+You see colour2 and press nothing.
+You see colour1 and press <<X>> in 348.0ms.
+You see colour1 and press <<X>> in 386.0ms.
+You see colour1 and press <<X>> in 332.0ms.
+You see colour1 and press <<X>> in 327.0ms.
+You see colour1 and press <<X>> in 315.0ms.
+You see colour1 and press <<X>> in 299.0ms.
+You see colour2 and press nothing.
+You see colour1 and press <<X>> in 310.0ms.
+You see colour2 and press nothing.
+You see colour1 and press <<X>> in 309.0ms.
+You see colour1 and press <<X>> in 409.0ms.
+You see colour1 and press <<X>> in 431.0ms.
+You see colour1 and press <<X>> in 372.0ms.
+You see colour1 and press <<X>> in 339.0ms.
+You see colour1 and press <<X>> in 364.0ms.
+You see colour1 and press <<X>> in 370.0ms.
+You see colour1 and press <<X>> in 294.0ms.
+You see colour1 and press <<X>> in 329.0ms.
+You see colour2 and press nothing.
+You see colour1 and press <<X>> in 295.0ms.
+You see colour1 and press <<X>> in 334.0ms.
+You see colour1 and press <<X>> in 294.0ms.
+You see colour1 and press <<X>> in 328.0ms.
+You see colour1 and press <<X>> in 465.0ms.
+You see colour1 and press <<X>> in 309.0ms.
+You see colour1 and press <<X>> in 515.0ms.
+You see colour1 and press <<X>> in 468.0ms.
+You see colour1 and press <<X>> in 359.0ms.
+You see colour1 and press <<X>> in 295.0ms.
+You see colour1 and press <<X>> in 310.0ms.
+You see colour1 and press <<X>> in 323.0ms.
+You see colour1 and press <<X>> in 307.0ms.
+You see colour1 and press <<X>> in 438.0ms.
+You see colour1 and press <<X>> in 414.0ms.
+You see colour1 and press <<X>> in 302.0ms.
+You see colour1 and press <<X>> in 250.0ms.
+You see colour1 and press <<X>> in 307.0ms.
+You see colour1 and press <<X>> in 270.0ms.
+You see colour1 and press <<X>> in 253.0ms.
+You see colour1 and press <<X>> in 322.0ms.
+You see colour1 and press <<X>> in 371.0ms.
+You see colour1 and press <<X>> in 341.0ms.
+You see colour1 and press <<X>> in 349.0ms.
+You see colour1 and press <<X>> in 348.0ms.
+You see colour1 and press <<X>> in 317.0ms.
+You see colour1 and press <<X>> in 312.0ms.
+You see colour1 and press <<X>> in 345.0ms.
+You see colour1 and press <<X>> in 413.0ms.
+You see colour1 and press <<X>> in 405.0ms.
+You see colour1 and press <<X>> in 475.0ms.
+You see colour1 and press <<X>> in 300.0ms.
+You see colour1 and press <<X>> in 401.0ms.
+You see colour2 and press nothing.
+You see colour1 and press <<X>> in 344.0ms.
+You see colour1 and press <<X>> in 320.0ms.
+You see colour2 and press nothing.
+You see colour1 and press <<X>> in 307.0ms.
+You see colour2 and press nothing.
+You see colour1 and press <<X>> in 279.0ms.
+You see colour1 and press <<X>> in 349.0ms.
+You see colour1 and press <<X>> in 361.0ms.
+You see colour1 and press <<X>> in 349.0ms.
+You see colour1 and press <<X>> in 363.0ms.
+You see colour1 and press <<X>> in 372.0ms.
+You see colour1 and press <<X>> in 372.0ms.
+You see colour1 and press <<X>> in 488.0ms.
+You see colour1 and press <<X>> in 317.0ms.
+You see colour1 and press <<X>> in 345.0ms.
+You see colour1 and press <<X>> in 318.0ms.
+You see colour1 and press <<X>> in 290.0ms.
+You see colour1 and press <<X>> in 373.0ms.
+You see colour1 and press <<X>> in 348.0ms.
+You see colour1 and press <<X>> in 360.0ms.
+You see colour1 and press <<X>> in 335.0ms.
+You see colour1 and press <<X>> in 345.0ms.
+You see colour1 and press <<X>> in 367.0ms.
+You see colour1 and press <<X>> in 375.0ms.
+You see colour1 and press <<X>> in 365.0ms.
+You see colour1 and press <<X>> in 327.0ms.
+You see colour1 and press <<X>> in 339.0ms.
+You see colour2 and press nothing.
+You see colour1 and press <<X>> in 358.0ms.
+You see colour1 and press <<X>> in 319.0ms.
+You see colour1 and press <<X>> in 420.0ms.
+You see colour1 and press <<X>> in 347.0ms.
+You see colour1 and press <<X>> in 337.0ms.
+You see colour1 and press <<X>> in 338.0ms.
+You see colour1 and press <<X>> in 301.0ms.
+You see colour1 and press <<X>> in 294.0ms.
+You see colour2 and press nothing.
+You see colour1 and press <<X>> in 293.0ms.
+You see colour1 and press <<X>> in 396.0ms.
+You see colour1 and press <<X>> in 338.0ms.
+You see colour1 and press <<X>> in 326.0ms.
+You see colour1 and press <<X>> in 351.0ms.
+You see colour1 and press <<X>> in 379.0ms.
+You see colour1 and press <<X>> in 350.0ms.
+You see colour1 and press <<X>> in 354.0ms.
+You see colour2 and press nothing.
+You see colour1 and press <<X>> in 366.0ms.
+You see colour1 and press <<X>> in 483.0ms.
+You see colour1 and press <<X>> in 379.0ms.
+You see colour1 and press <<X>> in 348.0ms.
+You see colour1 and press <<X>> in 460.0ms.
+You see colour1 and press <<X>> in 352.0ms.
+You see colour1 and press <<X>> in 336.0ms.
+You see colour1 and press <<X>> in 302.0ms.
+You see colour1 and press <<X>> in 326.0ms.
+You see colour1 and press <<X>> in 427.0ms.
+You see colour1 and press <<X>> in 295.0ms.
+You see colour1 and press <<X>> in 364.0ms.
+You see colour1 and press <<X>> in 328.0ms.
+You see colour1 and press <<X>> in 298.0ms.
+You see colour1 and press <<X>> in 305.0ms.
+You see colour1 and press <<X>> in 379.0ms.
+You see colour1 and press <<X>> in 387.0ms.
+You see colour1 and press <<X>> in 325.0ms.
+You see colour1 and press <<X>> in 298.0ms.
+You see colour1 and press <<X>> in 340.0ms.
+You see colour1 and press <<X>> in 389.0ms.
+You see colour1 and press <<X>> in 342.0ms.
+You see colour2 and press nothing.
+You see colour1 and press <<X>> in 313.0ms.
+You see colour1 and press <<X>> in 289.0ms.
+You see colour2 and press nothing.
+You see colour1 and press <<X>> in 251.0ms.
+You see colour1 and press <<X>> in 259.0ms.
+You see colour1 and press <<X>> in 278.0ms.
+You see colour1 and press <<X>> in 256.0ms.
+You see colour1 and press <<X>> in 292.0ms.
+You see colour1 and press <<X>> in 290.0ms.
+You see colour1 and press <<X>> in 273.0ms.
+You see colour1 and press <<X>> in 296.0ms.
+You see colour1 and press <<X>> in 311.0ms.
+You see colour1 and press <<X>> in 272.0ms.
+You see colour1 and press <<X>> in 334.0ms.
+You see colour1 and press <<X>> in 416.0ms.
+You see colour1 and press <<X>> in 297.0ms.
+You see colour1 and press <<X>> in 398.0ms.
+You see colour1 and press <<X>> in 308.0ms.
+You see colour1 and press <<X>> in 287.0ms.
+You see colour1 and press <<X>> in 286.0ms.
+You see colour2 and press nothing.
+You see colour1 and press <<X>> in 276.0ms.
+You see colour1 and press <<X>> in 278.0ms.
+You see colour1 and press <<X>> in 308.0ms.
+You see colour1 and press <<X>> in 369.0ms.
+You see colour1 and press <<X>> in 276.0ms.
+You see colour1 and press <<X>> in 299.0ms.
+You see colour1 and press <<X>> in 294.0ms.
+You see colour2 and press nothing.
+You see colour1 and press <<X>> in 258.0ms.
+You see colour1 and press <<X>> in 315.0ms.
+You see colour1 and press <<X>> in 357.0ms.
+You see colour1 and press <<X>> in 362.0ms.
+You see colour1 and press <<X>> in 328.0ms.
+You see colour2 and press nothing.
+You see colour1 and press <<X>> in 309.0ms.
+You see colour1 and press <<X>> in 281.0ms.
+You see colour1 and press <<X>> in 326.0ms.
+You see colour1 and press <<X>> in 279.0ms.
+You see colour2 and press nothing.
+You see colour1 and press <<X>> in 264.0ms.
+You see colour1 and press <<X>> in 308.0ms.
+You see colour1 and press <<X>> in 371.0ms.
+You see colour1 and press <<X>> in 342.0ms.
+You see colour1 and press <<X>> in 325.0ms.
+You see colour1 and press <<X>> in 294.0ms.
+You see colour1 and press <<X>> in 301.0ms.
+You see colour1 and press <<X>> in 272.0ms.
+You see colour1 and press <<X>> in 350.0ms.
+You see colour1 and press <<X>> in 343.0ms.
+You see colour1 and press <<X>> in 374.0ms.
+You see colour1 and press <<X>> in 267.0ms.
+You see colour1 and press <<X>> in 270.0ms.
+You see colour1 and press <<X>> in 651.0ms.
+You see colour1 and press <<X>> in 332.0ms.
+You see colour1 and press <<X>> in 290.0ms.
+You see colour1 and press <<X>> in 305.0ms.
+You see colour1 and press <<X>> in 289.0ms.
+You see colour1 and press <<X>> in 336.0ms.
+You see colour1 and press <<X>> in 328.0ms.
+You see colour1 and press <<X>> in 296.0ms.
+You see colour1 and press <<X>> in 295.0ms.
+You see colour1 and press <<X>> in 308.0ms.
+You see colour1 and press <<X>> in 312.0ms.
+You see colour1 and press <<X>> in 320.0ms.
+You see colour1 and press <<X>> in 296.0ms.
+You see colour1 and press <<X>> in 274.0ms.
+You see colour1 and press <<X>> in 236.0ms.
+You see colour1 and press <<X>> in 260.0ms.
+You see colour1 and press <<X>> in 274.0ms.
+You see colour1 and press <<X>> in 317.0ms.
+You see colour1 and press <<X>> in 296.0ms.
+You see colour2 and press nothing.
+You see colour1 and press <<X>> in 284.0ms.
+You see colour1 and press <<X>> in 289.0ms.
+You see colour1 and press <<X>> in 300.0ms.
+You see colour1 and press <<X>> in 304.0ms.
+You see colour1 and press <<X>> in 384.0ms.
+You see colour1 and press <<X>> in 262.0ms.
+You see colour1 and press <<X>> in 272.0ms.
+You see colour2 and press nothing.
+You see colour1 and press <<X>> in 294.0ms.
+You see colour2 and press nothing.
+You see colour1 and press <<X>> in 346.0ms.
+You see colour1 and press <<X>> in 368.0ms.
+You see colour1 and press <<X>> in 286.0ms.
+You see colour2 and press nothing.
+You see colour1 and press <<X>> in 300.0ms.
+You see colour1 and press <<X>> in 306.0ms.
+You see colour1 and press <<X>> in 286.0ms.
+You see colour2 and press nothing.
+You see colour1 and press <<X>> in 264.0ms.
+You see colour1 and press <<X>> in 356.0ms.
+You see colour1 and press <<X>> in 296.0ms.
+You see colour2 and press nothing.
+You see colour1 and press <<X>> in 244.0ms.
+You see colour1 and press <<X>> in 332.0ms.
+You see colour1 and press <<X>> in 298.0ms.
+You see colour1 and press <<X>> in 306.0ms.
+You see colour1 and press <<X>> in 292.0ms.
+You see colour1 and press <<X>> in 314.0ms.
+You see colour1 and press <<X>> in 321.0ms.
+You see colour1 and press <<X>> in 587.0ms.
+You see colour1 and press <<X>> in 304.0ms.
+You see colour1 and press <<X>> in 254.0ms.
+You see colour1 and press <<X>> in 272.0ms.
+You see colour2 and press nothing.
+You see colour1 and press <<X>> in 246.0ms.
+You see colour1 and press <<X>> in 285.0ms.
+You see colour1 and press <<X>> in 268.0ms.
+You see colour1 and press <<X>> in 270.0ms.
+You see colour1 and press <<X>> in 284.0ms.
+You see colour1 and press <<X>> in 426.0ms.
+You see colour1 and press <<X>> in 330.0ms.
+You see colour2 and press nothing.
+You see colour1 and press <<X>> in 264.0ms.
+You see colour1 and press <<X>> in 294.0ms.
+You see colour2 and press nothing.
+You see colour1 and press <<X>> in 248.0ms.
+You see colour1 and press <<X>> in 409.0ms.
+You see colour1 and press <<X>> in 321.0ms.
+You see colour1 and press <<X>> in 281.0ms.
+You see colour1 and press <<X>> in 292.0ms.
+You see colour1 and press <<X>> in 383.0ms.
+You see colour1 and press <<X>> in 287.0ms.
+You see colour1 and press <<X>> in 242.0ms.
+You see colour1 and press <<X>> in 264.0ms.
+You see colour1 and press <<X>> in 270.0ms.
+You see colour1 and press <<X>> in 248.0ms.
+You see colour1 and press <<X>> in 257.0ms.
+You see colour1 and press <<X>> in 304.0ms.
+You see colour2 and press nothing.
+You see colour1 and press <<X>> in 249.0ms.
+You see colour1 and press <<X>> in 280.0ms.
+You see colour1 and press <<X>> in 304.0ms.
+You see colour1 and press <<X>> in 271.0ms.
+You see colour1 and press <<X>> in 277.0ms.
+You see colour1 and press <<X>> in 275.0ms.
+You see colour1 and press <<X>> in 275.0ms.
+You see colour1 and press <<X>> in 241.0ms.
+You see colour1 and press <<X>> in 292.0ms.
+You see colour1 and press <<X>> in 436.0ms.
+You see colour2 and press nothing.
+You see colour1 and press <<X>> in 254.0ms.
+You see colour1 and press <<X>> in 244.0ms.
+You see colour1 and press <<X>> in 276.0ms.
+You see colour1 and press <<X>> in 268.0ms.
+You see colour1 and press <<X>> in 280.0ms.
+You see colour1 and press <<X>> in 271.0ms.
+You see colour1 and press <<X>> in 312.0ms.
+You see colour1 and press <<X>> in 289.0ms.
+You see colour1 and press <<X>> in 290.0ms.
+You see colour1 and press <<X>> in 254.0ms.
+You see colour2 and press <<X>> in 209.0ms.
+You see colour1 and press <<X>> in 424.0ms.
+You see colour1 and press <<X>> in 232.0ms.
+You see colour1 and press <<X>> in 270.0ms.
+You see colour1 and press <<X>> in 379.0ms.
+You see colour1 and press <<X>> in 296.0ms.
+You see colour1 and press <<X>> in 272.0ms.
+You see colour1 and press <<X>> in 280.0ms.
+You see colour1 and press <<X>> in 298.0ms.
+You see colour1 and press <<X>> in 444.0ms.
+You see colour1 and press <<X>> in 440.0ms.
+You see colour1 and press <<X>> in 260.0ms.
+You see colour1 and press <<X>> in 256.0ms.
+You see colour1 and press <<X>> in 322.0ms.
+You see colour1 and press <<X>> in 384.0ms.
+You see colour1 and press <<X>> in 547.0ms.
+You see colour2 and press nothing.
+You see colour1 and press <<X>> in 475.0ms.
+You see colour1 and press <<X>> in 424.0ms.
+You see colour1 and press <<X>> in 435.0ms.
+You see colour1 and press <<X>> in 530.0ms.
+You see colour1 and press <<X>> in 268.0ms.
+You see colour1 and press <<X>> in 380.0ms.
+You see colour1 and press <<X>> in 256.0ms.
+You see colour1 and press <<X>> in 288.0ms.
+You see colour1 and press <<X>> in 282.0ms.
+You see colour1 and press <<X>> in 265.0ms.
+You see colour1 and press <<X>> in 280.0ms.
+You see colour1 and press <<X>> in 276.0ms.
+You see colour1 and press <<X>> in 280.0ms.
+You see colour1 and press <<X>> in 393.0ms.
+You see colour1 and press <<X>> in 328.0ms.
+You see colour1 and press <<X>> in 356.0ms.
+You see colour1 and press <<X>> in 286.0ms.
+You see colour2 and press <<X>> in 274.0ms.
+You see colour2 and press nothing.
+You see colour1 and press <<X>> in 377.0ms.
+You see colour1 and press <<X>> in 338.0ms.
+You see colour1 and press <<X>> in 268.0ms.
+You see colour1 and press <<X>> in 269.0ms.
+You see colour1 and press <<X>> in 251.0ms.
+You see colour1 and press <<X>> in 265.0ms.
+You see colour1 and press <<X>> in 256.0ms.
+You see colour1 and press <<X>> in 262.0ms.
+You see colour1 and press <<X>> in 253.0ms.
+You see colour1 and press <<X>> in 474.0ms.
+You see colour1 and press <<X>> in 326.0ms.
+You see colour1 and press <<X>> in 295.0ms.
+You see colour1 and press <<X>> in 260.0ms.
+You see colour1 and press <<X>> in 293.0ms.
+You see colour1 and press <<X>> in 289.0ms.
+You see colour1 and press <<X>> in 452.0ms.
+You see colour1 and press <<X>> in 302.0ms.
+You see colour1 and press <<X>> in 242.0ms.
+You see colour1 and press <<X>> in 338.0ms.
+You see colour1 and press <<X>> in 369.0ms.
+You see colour1 and press <<X>> in 334.0ms.
+You see colour1 and press <<X>> in 448.0ms.
+You see colour1 and press <<X>> in 324.0ms.

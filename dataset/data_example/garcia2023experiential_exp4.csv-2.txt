@@ -1,0 +1,183 @@
+This experiment is composed of three parts.
+In each round of the first part, you have to choose between one of two options represented by letters.
+In a given pair, one option is, on average, more advantageous compared to the other.
+You can win or lose the following outcomes: 1.0 points and -1.0 points.
+In the second part, there will be two types of options.
+The first type of option is represented by the letters you already encountered during the previous part.
+Note that the options maintain the same odds of winning or losing a point as in the first part.
+The second type of option is represented by an explicit description of the odds of winning or losing a point.
+In each round of the third part, you will be presented with the options you met in the first and the second part.
+This is the occasion to test your knowledge of each options's outcome.
+You will be asked to indicate (in percentages), what are the odds that a given option makes you win a point.
+You can choose an option by pressing its corresponding key.
+Your goal for the first two parts is to maximize the amount of received points.
+Your goal in the third part is to guess as accurately as possible.
+
+You can choose between option R and option Z. You press <<Z>> and get 1.0 points. You would have gotten -1.0 points had you chosen option R instead. 
+You can choose between option R and option Z. You press <<R>> and get -1.0 points. You would have gotten 1.0 points had you chosen option Z instead. 
+You can choose between option R and option Z. You press <<R>> and get -1.0 points. You would have gotten 1.0 points had you chosen option Z instead. 
+You can choose between option R and option Z. You press <<Z>> and get 1.0 points. You would have gotten 1.0 points had you chosen option R instead. 
+You can choose between option R and option Z. You press <<R>> and get 1.0 points. You would have gotten -1.0 points had you chosen option Z instead. 
+You can choose between option R and option Z. You press <<Z>> and get -1.0 points. You would have gotten -1.0 points had you chosen option R instead. 
+You can choose between option R and option Z. You press <<R>> and get 1.0 points. You would have gotten 1.0 points had you chosen option Z instead. 
+You can choose between option R and option Z. You press <<Z>> and get 1.0 points. You would have gotten -1.0 points had you chosen option R instead. 
+You can choose between option R and option Z. You press <<Z>> and get -1.0 points. You would have gotten 1.0 points had you chosen option R instead. 
+You can choose between option R and option Z. You press <<Z>> and get -1.0 points. You would have gotten 1.0 points had you chosen option R instead. 
+You can choose between option R and option Z. You press <<Z>> and get -1.0 points. You would have gotten 1.0 points had you chosen option R instead. 
+You can choose between option R and option Z. You press <<R>> and get 1.0 points. You would have gotten -1.0 points had you chosen option Z instead. 
+You can choose between option R and option Z. You press <<Z>> and get -1.0 points. You would have gotten 1.0 points had you chosen option R instead. 
+You can choose between option R and option Z. You press <<Z>> and get 1.0 points. You would have gotten 1.0 points had you chosen option R instead. 
+You can choose between option R and option Z. You press <<Z>> and get -1.0 points. You would have gotten 1.0 points had you chosen option R instead. 
+You can choose between option R and option Z. You press <<Z>> and get -1.0 points. You would have gotten 1.0 points had you chosen option R instead. 
+You can choose between option R and option Z. You press <<R>> and get -1.0 points. You would have gotten -1.0 points had you chosen option Z instead. 
+You can choose between option R and option Z. You press <<R>> and get 1.0 points. You would have gotten -1.0 points had you chosen option Z instead. 
+You can choose between option R and option Z. You press <<R>> and get 1.0 points. You would have gotten -1.0 points had you chosen option Z instead. 
+You can choose between option R and option Z. You press <<Z>> and get 1.0 points. You would have gotten 1.0 points had you chosen option R instead. 
+You can choose between option R and option Z. You press <<R>> and get -1.0 points. You would have gotten 1.0 points had you chosen option Z instead. 
+You can choose between option R and option Z. You press <<R>> and get 1.0 points. You would have gotten -1.0 points had you chosen option Z instead. 
+You can choose between option R and option Z. You press <<Z>> and get 1.0 points. You would have gotten 1.0 points had you chosen option R instead. 
+You can choose between option R and option Z. You press <<Z>> and get -1.0 points. You would have gotten 1.0 points had you chosen option R instead. 
+You can choose between option R and option Z. You press <<Z>> and get -1.0 points. You would have gotten 1.0 points had you chosen option R instead. 
+You can choose between option R and option Z. You press <<Z>> and get -1.0 points. You would have gotten 1.0 points had you chosen option R instead. 
+You can choose between option R and option Z. You press <<Z>> and get -1.0 points. You would have gotten -1.0 points had you chosen option R instead. 
+You can choose between option R and option Z. You press <<R>> and get 1.0 points. You would have gotten -1.0 points had you chosen option Z instead. 
+You can choose between option R and option Z. You press <<Z>> and get -1.0 points. You would have gotten 1.0 points had you chosen option R instead. 
+You can choose between option R and option Z. You press <<R>> and get -1.0 points. You would have gotten -1.0 points had you chosen option Z instead. 
+You can choose between option R and option Z. You press <<Z>> and get -1.0 points. You would have gotten -1.0 points had you chosen option R instead. 
+You can choose between option R and option Z. You press <<R>> and get -1.0 points. You would have gotten 1.0 points had you chosen option Z instead. 
+You can choose between option R and option Z. You press <<Z>> and get -1.0 points. You would have gotten 1.0 points had you chosen option R instead. 
+You can choose between option R and option Z. You press <<R>> and get -1.0 points. You would have gotten -1.0 points had you chosen option Z instead. 
+You can choose between option R and option Z. You press <<Z>> and get -1.0 points. You would have gotten -1.0 points had you chosen option R instead. 
+You can choose between option R and option Z. You press <<Z>> and get -1.0 points. You would have gotten 1.0 points had you chosen option R instead. 
+You can choose between option R and option Z. You press <<R>> and get -1.0 points. You would have gotten -1.0 points had you chosen option Z instead. 
+You can choose between option R and option Z. You press <<R>> and get 1.0 points. You would have gotten -1.0 points had you chosen option Z instead. 
+You can choose between option R and option Z. You press <<Z>> and get 1.0 points. You would have gotten -1.0 points had you chosen option R instead. 
+You can choose between option R and option Z. You press <<Z>> and get 1.0 points. You would have gotten -1.0 points had you chosen option R instead. 
+You can choose between option R and option Z. You press <<R>> and get -1.0 points. You would have gotten -1.0 points had you chosen option Z instead. 
+You can choose between option R and option Z. You press <<Z>> and get -1.0 points. You would have gotten 1.0 points had you chosen option R instead. 
+You can choose between option R and option Z. You press <<R>> and get -1.0 points. You would have gotten 1.0 points had you chosen option Z instead. 
+You can choose between option R and option Z. You press <<Z>> and get -1.0 points. You would have gotten 1.0 points had you chosen option R instead. 
+You can choose between option R and option Z. You press <<Z>> and get -1.0 points. You would have gotten -1.0 points had you chosen option R instead. 
+You can choose between option R and option Z. You press <<Z>> and get -1.0 points. You would have gotten 1.0 points had you chosen option R instead. 
+You can choose between option R and option Z. You press <<Z>> and get 1.0 points. You would have gotten 1.0 points had you chosen option R instead. 
+You can choose between option R and option Z. You press <<Z>> and get 1.0 points. You would have gotten 1.0 points had you chosen option R instead. 
+You can choose between option R and option Z. You press <<Z>> and get 1.0 points. You would have gotten -1.0 points had you chosen option R instead. 
+You can choose between option R and option Z. You press <<R>> and get 1.0 points. You would have gotten 1.0 points had you chosen option Z instead. 
+You can choose between option R and option Z. You press <<Z>> and get -1.0 points. You would have gotten -1.0 points had you chosen option R instead. 
+You can choose between option R and option Z. You press <<Z>> and get -1.0 points. You would have gotten -1.0 points had you chosen option R instead. 
+You can choose between option R and option Z. You press <<Z>> and get -1.0 points. You would have gotten -1.0 points had you chosen option R instead. 
+You can choose between option R and option Z. You press <<Z>> and get -1.0 points. You would have gotten 1.0 points had you chosen option R instead. 
+You can choose between option R and option Z. You press <<R>> and get 1.0 points. You would have gotten 1.0 points had you chosen option Z instead. 
+You can choose between option R and option Z. You press <<R>> and get -1.0 points. You would have gotten 1.0 points had you chosen option Z instead. 
+You can choose between option R and option Z. You press <<Z>> and get 1.0 points. You would have gotten -1.0 points had you chosen option R instead. 
+You can choose between option R and option Z. You press <<R>> and get 1.0 points. You would have gotten -1.0 points had you chosen option Z instead. 
+You can choose between option R and option Z. You press <<R>> and get 1.0 points. You would have gotten -1.0 points had you chosen option Z instead. 
+You can choose between option R and option Z. You press <<R>> and get -1.0 points. You would have gotten 1.0 points had you chosen option Z instead. 
+You can choose between option E and option Q. You press <<Q>> and get -1.0 points. You would have gotten 1.0 points had you chosen option E instead. 
+You can choose between option E and option Q. You press <<E>> and get 1.0 points. You would have gotten 1.0 points had you chosen option Q instead. 
+You can choose between option E and option Q. You press <<E>> and get 1.0 points. You would have gotten -1.0 points had you chosen option Q instead. 
+You can choose between option E and option Q. You press <<Q>> and get -1.0 points. You would have gotten 1.0 points had you chosen option E instead. 
+You can choose between option E and option Q. You press <<E>> and get 1.0 points. You would have gotten 1.0 points had you chosen option Q instead. 
+You can choose between option E and option Q. You press <<E>> and get 1.0 points. You would have gotten -1.0 points had you chosen option Q instead. 
+You can choose between option E and option Q. You press <<E>> and get 1.0 points. You would have gotten -1.0 points had you chosen option Q instead. 
+You can choose between option E and option Q. You press <<Q>> and get -1.0 points. You would have gotten 1.0 points had you chosen option E instead. 
+You can choose between option E and option Q. You press <<E>> and get 1.0 points. You would have gotten -1.0 points had you chosen option Q instead. 
+You can choose between option E and option Q. You press <<E>> and get 1.0 points. You would have gotten -1.0 points had you chosen option Q instead. 
+You can choose between option E and option Q. You press <<E>> and get 1.0 points. You would have gotten -1.0 points had you chosen option Q instead. 
+You can choose between option E and option Q. You press <<E>> and get 1.0 points. You would have gotten -1.0 points had you chosen option Q instead. 
+You can choose between option E and option Q. You press <<Q>> and get -1.0 points. You would have gotten 1.0 points had you chosen option E instead. 
+You can choose between option E and option Q. You press <<Q>> and get -1.0 points. You would have gotten 1.0 points had you chosen option E instead. 
+You can choose between option E and option Q. You press <<Q>> and get -1.0 points. You would have gotten 1.0 points had you chosen option E instead. 
+You can choose between option E and option Q. You press <<Q>> and get 1.0 points. You would have gotten 1.0 points had you chosen option E instead. 
+You can choose between option E and option Q. You press <<E>> and get 1.0 points. You would have gotten 1.0 points had you chosen option Q instead. 
+You can choose between option E and option Q. You press <<Q>> and get -1.0 points. You would have gotten 1.0 points had you chosen option E instead. 
+You can choose between option E and option Q. You press <<Q>> and get 1.0 points. You would have gotten 1.0 points had you chosen option E instead. 
+You can choose between option E and option Q. You press <<E>> and get 1.0 points. You would have gotten -1.0 points had you chosen option Q instead. 
+You can choose between option E and option Q. You press <<E>> and get 1.0 points. You would have gotten 1.0 points had you chosen option Q instead. 
+You can choose between option E and option Q. You press <<E>> and get 1.0 points. You would have gotten -1.0 points had you chosen option Q instead. 
+You can choose between option E and option Q. You press <<Q>> and get -1.0 points. You would have gotten 1.0 points had you chosen option E instead. 
+You can choose between option E and option Q. You press <<Q>> and get -1.0 points. You would have gotten 1.0 points had you chosen option E instead. 
+You can choose between option E and option Q. You press <<Q>> and get -1.0 points. You would have gotten 1.0 points had you chosen option E instead. 
+You can choose between option E and option Q. You press <<E>> and get 1.0 points. You would have gotten -1.0 points had you chosen option Q instead. 
+You can choose between option E and option Q. You press <<Q>> and get -1.0 points. You would have gotten 1.0 points had you chosen option E instead. 
+You can choose between option E and option Q. You press <<Q>> and get -1.0 points. You would have gotten 1.0 points had you chosen option E instead. 
+You can choose between option E and option Q. You press <<E>> and get 1.0 points. You would have gotten -1.0 points had you chosen option Q instead. 
+You can choose between option E and option Q. You press <<E>> and get 1.0 points. You would have gotten -1.0 points had you chosen option Q instead. 
+You can choose between option E and option Q. You press <<E>> and get 1.0 points. You would have gotten -1.0 points had you chosen option Q instead. 
+You can choose between option E and option Q. You press <<E>> and get -1.0 points. You would have gotten 1.0 points had you chosen option Q instead. 
+You can choose between option E and option Q. You press <<E>> and get 1.0 points. You would have gotten -1.0 points had you chosen option Q instead. 
+You can choose between option E and option Q. You press <<Q>> and get -1.0 points. You would have gotten 1.0 points had you chosen option E instead. 
+You can choose between option E and option Q. You press <<Q>> and get -1.0 points. You would have gotten 1.0 points had you chosen option E instead. 
+You can choose between option E and option Q. You press <<Q>> and get -1.0 points. You would have gotten 1.0 points had you chosen option E instead. 
+You can choose between option E and option Q. You press <<Q>> and get -1.0 points. You would have gotten 1.0 points had you chosen option E instead. 
+You can choose between option E and option Q. You press <<E>> and get 1.0 points. You would have gotten -1.0 points had you chosen option Q instead. 
+You can choose between option E and option Q. You press <<Q>> and get -1.0 points. You would have gotten 1.0 points had you chosen option E instead. 
+You can choose between option E and option Q. You press <<E>> and get 1.0 points. You would have gotten -1.0 points had you chosen option Q instead. 
+You can choose between option E and option Q. You press <<Q>> and get -1.0 points. You would have gotten 1.0 points had you chosen option E instead. 
+You can choose between option E and option Q. You press <<Q>> and get -1.0 points. You would have gotten 1.0 points had you chosen option E instead. 
+You can choose between option E and option Q. You press <<Q>> and get -1.0 points. You would have gotten 1.0 points had you chosen option E instead. 
+You can choose between option E and option Q. You press <<Q>> and get -1.0 points. You would have gotten 1.0 points had you chosen option E instead. 
+You can choose between option E and option Q. You press <<E>> and get 1.0 points. You would have gotten -1.0 points had you chosen option Q instead. 
+You can choose between option E and option Q. You press <<E>> and get 1.0 points. You would have gotten -1.0 points had you chosen option Q instead. 
+You can choose between option E and option Q. You press <<Q>> and get -1.0 points. You would have gotten 1.0 points had you chosen option E instead. 
+You can choose between option E and option Q. You press <<Q>> and get -1.0 points. You would have gotten 1.0 points had you chosen option E instead. 
+You can choose between option E and option Q. You press <<E>> and get 1.0 points. You would have gotten -1.0 points had you chosen option Q instead. 
+You can choose between option E and option Q. You press <<E>> and get 1.0 points. You would have gotten -1.0 points had you chosen option Q instead. 
+You can choose between option E and option Q. You press <<Q>> and get -1.0 points. You would have gotten 1.0 points had you chosen option E instead. 
+You can choose between option E and option Q. You press <<E>> and get 1.0 points. You would have gotten -1.0 points had you chosen option Q instead. 
+You can choose between option E and option Q. You press <<Q>> and get -1.0 points. You would have gotten 1.0 points had you chosen option E instead. 
+You can choose between option E and option Q. You press <<E>> and get 1.0 points. You would have gotten 1.0 points had you chosen option Q instead. 
+You can choose between option E and option Q. You press <<Q>> and get -1.0 points. You would have gotten 1.0 points had you chosen option E instead. 
+You can choose between option E and option Q. You press <<E>> and get 1.0 points. You would have gotten -1.0 points had you chosen option Q instead. 
+You can choose between option E and option Q. You press <<Q>> and get -1.0 points. You would have gotten 1.0 points had you chosen option E instead. 
+You can choose between option E and option Q. You press <<E>> and get 1.0 points. You would have gotten 1.0 points had you chosen option Q instead. 
+You can choose between option E and option Q. You press <<E>> and get 1.0 points. You would have gotten -1.0 points had you chosen option Q instead. 
+You can choose between option E and option Q. You press <<E>> and get 1.0 points. You would have gotten -1.0 points had you chosen option Q instead. 
+You can choose between option R and the following option by pressing button S: -1.0 point with 90.0% chance and 1.0 point with 10.0% chance. You press <<R>>.
+You can choose between option R and the following option by pressing button S: -1.0 point with 10.0% chance and 1.0 point with 90.0% chance. You press <<S>>.
+You can choose between option R and the following option by pressing button S: -1.0 point with 80.0% chance and 1.0 point with 20.0% chance. You press <<R>>.
+You can choose between option R and the following option by pressing button S: -1.0 point with 30.0% chance and 1.0 point with 70.0% chance. You press <<S>>.
+You can choose between option R and the following option by pressing button S: -1.0 point with 100.0% chance and 1.0 point with 0.0% chance. You press <<R>>.
+You can choose between option R and the following option by pressing button S: -1.0 point with 0.0% chance and 1.0 point with 100.0% chance. You press <<S>>.
+You can choose between option R and the following option by pressing button S: -1.0 point with 40.0% chance and 1.0 point with 60.0% chance. You press <<S>>.
+You can choose between option R and the following option by pressing button S: -1.0 point with 20.0% chance and 1.0 point with 80.0% chance. You press <<S>>.
+You can choose between option R and the following option by pressing button S: -1.0 point with 60.0% chance and 1.0 point with 40.0% chance. You press <<R>>.
+You can choose between option R and the following option by pressing button S: -1.0 point with 70.0% chance and 1.0 point with 30.0% chance. You press <<R>>.
+You can choose between option R and the following option by pressing button S: -1.0 point with 50.0% chance and 1.0 point with 50.0% chance. You press <<S>>.
+You can choose between option Q and the following option by pressing button S: -1.0 point with 80.0% chance and 1.0 point with 20.0% chance. You press <<Q>>.
+You can choose between option Q and the following option by pressing button S: -1.0 point with 70.0% chance and 1.0 point with 30.0% chance. You press <<Q>>.
+You can choose between option Q and the following option by pressing button S: -1.0 point with 60.0% chance and 1.0 point with 40.0% chance. You press <<S>>.
+You can choose between option Q and the following option by pressing button S: -1.0 point with 10.0% chance and 1.0 point with 90.0% chance. You press <<S>>.
+You can choose between option Q and the following option by pressing button S: -1.0 point with 100.0% chance and 1.0 point with 0.0% chance. You press <<Q>>.
+You can choose between option Q and the following option by pressing button S: -1.0 point with 40.0% chance and 1.0 point with 60.0% chance. You press <<S>>.
+You can choose between option Q and the following option by pressing button S: -1.0 point with 30.0% chance and 1.0 point with 70.0% chance. You press <<S>>.
+You can choose between option Q and the following option by pressing button S: -1.0 point with 50.0% chance and 1.0 point with 50.0% chance. You press <<S>>.
+You can choose between option Q and the following option by pressing button S: -1.0 point with 20.0% chance and 1.0 point with 80.0% chance. You press <<S>>.
+You can choose between option Q and the following option by pressing button S: -1.0 point with 90.0% chance and 1.0 point with 10.0% chance. You press <<Q>>.
+You can choose between option Q and the following option by pressing button S: -1.0 point with 0.0% chance and 1.0 point with 100.0% chance. You press <<S>>.
+You can choose between option Z and the following option by pressing button S: -1.0 point with 40.0% chance and 1.0 point with 60.0% chance. You press <<S>>.
+You can choose between option Z and the following option by pressing button S: -1.0 point with 20.0% chance and 1.0 point with 80.0% chance. You press <<S>>.
+You can choose between option Z and the following option by pressing button S: -1.0 point with 0.0% chance and 1.0 point with 100.0% chance. You press <<S>>.
+You can choose between option Z and the following option by pressing button S: -1.0 point with 50.0% chance and 1.0 point with 50.0% chance. You press <<S>>.
+You can choose between option Z and the following option by pressing button S: -1.0 point with 30.0% chance and 1.0 point with 70.0% chance. You press <<S>>.
+You can choose between option Z and the following option by pressing button S: -1.0 point with 100.0% chance and 1.0 point with 0.0% chance. You press <<Z>>.
+You can choose between option Z and the following option by pressing button S: -1.0 point with 10.0% chance and 1.0 point with 90.0% chance. You press <<S>>.
+You can choose between option Z and the following option by pressing button S: -1.0 point with 90.0% chance and 1.0 point with 10.0% chance. You press <<Z>>.
+You can choose between option Z and the following option by pressing button S: -1.0 point with 70.0% chance and 1.0 point with 30.0% chance. You press <<Z>>.
+You can choose between option Z and the following option by pressing button S: -1.0 point with 80.0% chance and 1.0 point with 20.0% chance. You press <<Z>>.
+You can choose between option Z and the following option by pressing button S: -1.0 point with 60.0% chance and 1.0 point with 40.0% chance. You press <<Z>>.
+You can choose between option E and the following option by pressing button S: -1.0 point with 60.0% chance and 1.0 point with 40.0% chance. You press <<S>>.
+You can choose between option E and the following option by pressing button S: -1.0 point with 30.0% chance and 1.0 point with 70.0% chance. You press <<S>>.
+You can choose between option E and the following option by pressing button S: -1.0 point with 100.0% chance and 1.0 point with 0.0% chance. You press <<E>>.
+You can choose between option E and the following option by pressing button S: -1.0 point with 70.0% chance and 1.0 point with 30.0% chance. You press <<E>>.
+You can choose between option E and the following option by pressing button S: -1.0 point with 50.0% chance and 1.0 point with 50.0% chance. You press <<S>>.
+You can choose between option E and the following option by pressing button S: -1.0 point with 10.0% chance and 1.0 point with 90.0% chance. You press <<S>>.
+You can choose between option E and the following option by pressing button S: -1.0 point with 40.0% chance and 1.0 point with 60.0% chance. You press <<E>>.
+You can choose between option E and the following option by pressing button S: -1.0 point with 90.0% chance and 1.0 point with 10.0% chance. You press <<E>>.
+You can choose between option E and the following option by pressing button S: -1.0 point with 80.0% chance and 1.0 point with 20.0% chance. You press <<E>>.
+You can choose between option E and the following option by pressing button S: -1.0 point with 0.0% chance and 1.0 point with 100.0% chance. You press <<S>>.
+You can choose between option E and the following option by pressing button S: -1.0 point with 20.0% chance and 1.0 point with 80.0% chance. You press <<S>>.
+Q: What are the odds that option Z gives 1.0 points? A: <<50.0>>%.
+Q: What are the odds that option R gives 1.0 points? A: <<40.0>>%.
+Q: What are the odds that option E gives 1.0 points? A: <<80.0>>%.
+Q: What are the odds that option Q gives 1.0 points? A: <<30.0>>%.

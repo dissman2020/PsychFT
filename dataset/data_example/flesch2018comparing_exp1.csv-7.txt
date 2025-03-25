@@ -1,0 +1,611 @@
+You are going to plant trees in two different gardens labeled North and South.
+The trees look different from each other regarding their leafiness and branchiness.
+There are 5 levels of leafiness (0, 1, 2, 3, 4) and 5 levels of branchiness (0, 1, 2, 3, 4).
+In each round, you get presented with a tree.
+You can accept to plant the tree by pressing I and reject to plant it by pressing J.
+If you accept to plant the tree and your answer is correct, you will be rewarded with points, otherwise, you will lose some points.
+If you reject to plant the tree, you will not be rewarded (0 points).
+Your task is to learn which type of tree grows best in each garden.
+During the training phase, there will be feedback on every trial about your decisions.
+During the testing phase, there will be no feedback for your decision.
+
+You get a tree with level 4 of leafiness and level 1 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten 50 points, had you accepted to plant the tree.
+You get a tree with level 2 of leafiness and level 1 of branchiness in the South garden. You press <<I>> and get -25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 0 of leafiness and level 0 of branchiness in the North garden. You press <<I>> and get -50 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 0 of leafiness and level 2 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten -50 points, had you accepted to plant the tree.
+You get a tree with level 4 of leafiness and level 3 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten 50 points, had you accepted to plant the tree.
+You get a tree with level 4 of leafiness and level 1 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten -25 points, had you accepted to plant the tree.
+You get a tree with level 4 of leafiness and level 4 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten 50 points, had you accepted to plant the tree.
+You get a tree with level 1 of leafiness and level 3 of branchiness in the North garden. You press <<I>> and get -25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 1 of leafiness and level 0 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten -50 points, had you accepted to plant the tree.
+You get a tree with level 2 of leafiness and level 0 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten -50 points, had you accepted to plant the tree.
+You get a tree with level 3 of leafiness and level 3 of branchiness in the South garden. You press <<I>> and get 25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 3 of leafiness and level 0 of branchiness in the North garden. You press <<I>> and get 25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 1 of leafiness and level 2 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten -25 points, had you accepted to plant the tree.
+You get a tree with level 0 of leafiness and level 3 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten 25 points, had you accepted to plant the tree.
+You get a tree with level 3 of leafiness and level 4 of branchiness in the South garden. You press <<I>> and get 50 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 3 of leafiness and level 2 of branchiness in the North garden. You press <<I>> and get 25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 3 of leafiness and level 4 of branchiness in the North garden. You press <<I>> and get 25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 3 of leafiness and level 2 of branchiness in the South garden. You press <<I>> and get 0 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 4 of leafiness and level 3 of branchiness in the South garden. You press <<I>> and get 25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 0 of leafiness and level 3 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten 25 points, had you accepted to plant the tree.
+You get a tree with level 4 of leafiness and level 1 of branchiness in the North garden. You press <<I>> and get 50 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 1 of leafiness and level 4 of branchiness in the South garden. You press <<I>> and get 50 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 3 of leafiness and level 3 of branchiness in the South garden. You press <<I>> and get 25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 1 of leafiness and level 2 of branchiness in the North garden. You press <<I>> and get -25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 2 of leafiness and level 4 of branchiness in the North garden. You press <<I>> and get 0 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 1 of leafiness and level 3 of branchiness in the North garden. You press <<I>> and get -25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 1 of leafiness and level 4 of branchiness in the South garden. You press <<I>> and get 50 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 0 of leafiness and level 3 of branchiness in the South garden. You press <<I>> and get 25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 0 of leafiness and level 4 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten -50 points, had you accepted to plant the tree.
+You get a tree with level 2 of leafiness and level 0 of branchiness in the South garden. You press <<I>> and get -50 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 1 of leafiness and level 4 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten 50 points, had you accepted to plant the tree.
+You get a tree with level 1 of leafiness and level 0 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten -50 points, had you accepted to plant the tree.
+You get a tree with level 3 of leafiness and level 0 of branchiness in the North garden. You press <<I>> and get 25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 2 of leafiness and level 1 of branchiness in the South garden. You press <<I>> and get -25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 3 of leafiness and level 0 of branchiness in the North garden. You press <<I>> and get 25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 3 of leafiness and level 3 of branchiness in the North garden. You press <<I>> and get 25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 1 of leafiness and level 2 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten 0 points, had you accepted to plant the tree.
+You get a tree with level 0 of leafiness and level 1 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten -50 points, had you accepted to plant the tree.
+You get a tree with level 4 of leafiness and level 0 of branchiness in the North garden. You press <<I>> and get 50 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 3 of leafiness and level 2 of branchiness in the South garden. You press <<I>> and get 0 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 4 of leafiness and level 1 of branchiness in the South garden. You press <<I>> and get -25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 3 of leafiness and level 1 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten 25 points, had you accepted to plant the tree.
+You get a tree with level 3 of leafiness and level 4 of branchiness in the North garden. You press <<I>> and get 25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 3 of leafiness and level 4 of branchiness in the South garden. You press <<I>> and get 50 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 3 of leafiness and level 1 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten 25 points, had you accepted to plant the tree.
+You get a tree with level 0 of leafiness and level 1 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten -50 points, had you accepted to plant the tree.
+You get a tree with level 2 of leafiness and level 3 of branchiness in the South garden. You press <<I>> and get 25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 2 of leafiness and level 4 of branchiness in the South garden. You press <<I>> and get 50 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 3 of leafiness and level 3 of branchiness in the South garden. You press <<I>> and get 25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 4 of leafiness and level 2 of branchiness in the South garden. You press <<I>> and get 0 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 0 of leafiness and level 0 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten -50 points, had you accepted to plant the tree.
+You get a tree with level 3 of leafiness and level 4 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten 25 points, had you accepted to plant the tree.
+You get a tree with level 3 of leafiness and level 0 of branchiness in the North garden. You press <<I>> and get 25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 0 of leafiness and level 2 of branchiness in the South garden. You press <<I>> and get 0 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 1 of leafiness and level 4 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten -25 points, had you accepted to plant the tree.
+You get a tree with level 2 of leafiness and level 4 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten 0 points, had you accepted to plant the tree.
+You get a tree with level 1 of leafiness and level 0 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten -50 points, had you accepted to plant the tree.
+You get a tree with level 1 of leafiness and level 0 of branchiness in the South garden. You press <<I>> and get -50 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 3 of leafiness and level 0 of branchiness in the North garden. You press <<I>> and get 25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 1 of leafiness and level 0 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten -50 points, had you accepted to plant the tree.
+You get a tree with level 0 of leafiness and level 3 of branchiness in the North garden. You press <<I>> and get -50 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 2 of leafiness and level 2 of branchiness in the South garden. You press <<I>> and get 0 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 4 of leafiness and level 4 of branchiness in the North garden. You press <<I>> and get 50 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 3 of leafiness and level 4 of branchiness in the South garden. You press <<I>> and get 50 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 1 of leafiness and level 3 of branchiness in the North garden. You press <<I>> and get -25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 0 of leafiness and level 3 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten -50 points, had you accepted to plant the tree.
+You get a tree with level 2 of leafiness and level 1 of branchiness in the South garden. You press <<I>> and get -25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 3 of leafiness and level 0 of branchiness in the South garden. You press <<I>> and get -50 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 0 of leafiness and level 1 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten -25 points, had you accepted to plant the tree.
+You get a tree with level 2 of leafiness and level 1 of branchiness in the North garden. You press <<I>> and get 0 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 2 of leafiness and level 0 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten -50 points, had you accepted to plant the tree.
+You get a tree with level 0 of leafiness and level 3 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten 25 points, had you accepted to plant the tree.
+You get a tree with level 3 of leafiness and level 0 of branchiness in the South garden. You press <<I>> and get -50 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 4 of leafiness and level 3 of branchiness in the South garden. You press <<I>> and get 25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 1 of leafiness and level 3 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten 25 points, had you accepted to plant the tree.
+You get a tree with level 1 of leafiness and level 1 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten -25 points, had you accepted to plant the tree.
+You get a tree with level 2 of leafiness and level 2 of branchiness in the North garden. You press <<I>> and get 0 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 0 of leafiness and level 2 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten -50 points, had you accepted to plant the tree.
+You get a tree with level 1 of leafiness and level 1 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten -25 points, had you accepted to plant the tree.
+You get a tree with level 3 of leafiness and level 4 of branchiness in the North garden. You press <<I>> and get 25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 4 of leafiness and level 1 of branchiness in the South garden. You press <<I>> and get -25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 3 of leafiness and level 3 of branchiness in the North garden. You press <<I>> and get 25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 1 of leafiness and level 4 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten -25 points, had you accepted to plant the tree.
+You get a tree with level 1 of leafiness and level 1 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten -25 points, had you accepted to plant the tree.
+You get a tree with level 0 of leafiness and level 2 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten -50 points, had you accepted to plant the tree.
+You get a tree with level 1 of leafiness and level 2 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten -25 points, had you accepted to plant the tree.
+You get a tree with level 3 of leafiness and level 1 of branchiness in the South garden. You press <<I>> and get -25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 2 of leafiness and level 3 of branchiness in the South garden. You press <<I>> and get 25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 1 of leafiness and level 0 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten -25 points, had you accepted to plant the tree.
+You get a tree with level 0 of leafiness and level 2 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten 0 points, had you accepted to plant the tree.
+You get a tree with level 4 of leafiness and level 3 of branchiness in the North garden. You press <<I>> and get 50 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 4 of leafiness and level 4 of branchiness in the South garden. You press <<I>> and get 50 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 2 of leafiness and level 0 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten 0 points, had you accepted to plant the tree.
+You get a tree with level 2 of leafiness and level 1 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten -25 points, had you accepted to plant the tree.
+You get a tree with level 3 of leafiness and level 2 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten 25 points, had you accepted to plant the tree.
+You get a tree with level 4 of leafiness and level 4 of branchiness in the South garden. You press <<I>> and get 50 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 1 of leafiness and level 0 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten -50 points, had you accepted to plant the tree.
+You get a tree with level 0 of leafiness and level 3 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten -50 points, had you accepted to plant the tree.
+You get a tree with level 3 of leafiness and level 3 of branchiness in the North garden. You press <<I>> and get 25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 0 of leafiness and level 0 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten -50 points, had you accepted to plant the tree.
+You get a tree with level 3 of leafiness and level 2 of branchiness in the North garden. You press <<I>> and get 25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 1 of leafiness and level 2 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten -25 points, had you accepted to plant the tree.
+You get a tree with level 4 of leafiness and level 0 of branchiness in the South garden. You press <<I>> and get -50 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 1 of leafiness and level 0 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten -50 points, had you accepted to plant the tree.
+You get a tree with level 1 of leafiness and level 1 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten -25 points, had you accepted to plant the tree.
+You get a tree with level 4 of leafiness and level 4 of branchiness in the North garden. You press <<I>> and get 50 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 1 of leafiness and level 1 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten -25 points, had you accepted to plant the tree.
+You get a tree with level 4 of leafiness and level 2 of branchiness in the South garden. You press <<I>> and get 0 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 4 of leafiness and level 3 of branchiness in the North garden. You press <<I>> and get 50 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 0 of leafiness and level 0 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten -50 points, had you accepted to plant the tree.
+You get a tree with level 2 of leafiness and level 0 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten -50 points, had you accepted to plant the tree.
+You get a tree with level 0 of leafiness and level 0 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten -50 points, had you accepted to plant the tree.
+You get a tree with level 0 of leafiness and level 1 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten -50 points, had you accepted to plant the tree.
+You get a tree with level 3 of leafiness and level 0 of branchiness in the North garden. You press <<I>> and get 25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 2 of leafiness and level 1 of branchiness in the North garden. You press <<I>> and get 0 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 0 of leafiness and level 3 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten -50 points, had you accepted to plant the tree.
+You get a tree with level 2 of leafiness and level 0 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten 0 points, had you accepted to plant the tree.
+You get a tree with level 3 of leafiness and level 2 of branchiness in the North garden. You press <<I>> and get 25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 0 of leafiness and level 1 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten -50 points, had you accepted to plant the tree.
+You get a tree with level 1 of leafiness and level 2 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten 0 points, had you accepted to plant the tree.
+You get a tree with level 3 of leafiness and level 1 of branchiness in the South garden. You press <<I>> and get -25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 3 of leafiness and level 3 of branchiness in the South garden. You press <<I>> and get 25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 4 of leafiness and level 0 of branchiness in the South garden. You press <<I>> and get -50 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 3 of leafiness and level 4 of branchiness in the North garden. You press <<I>> and get 25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 0 of leafiness and level 1 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten -50 points, had you accepted to plant the tree.
+You get a tree with level 1 of leafiness and level 3 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten 25 points, had you accepted to plant the tree.
+You get a tree with level 3 of leafiness and level 0 of branchiness in the South garden. You press <<I>> and get -50 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 4 of leafiness and level 2 of branchiness in the North garden. You press <<I>> and get 50 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 2 of leafiness and level 4 of branchiness in the North garden. You press <<I>> and get 0 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 2 of leafiness and level 4 of branchiness in the North garden. You press <<I>> and get 0 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 2 of leafiness and level 4 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten 0 points, had you accepted to plant the tree.
+You get a tree with level 3 of leafiness and level 4 of branchiness in the South garden. You press <<I>> and get 50 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 2 of leafiness and level 1 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten 0 points, had you accepted to plant the tree.
+You get a tree with level 1 of leafiness and level 1 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten -25 points, had you accepted to plant the tree.
+You get a tree with level 0 of leafiness and level 4 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten -50 points, had you accepted to plant the tree.
+You get a tree with level 2 of leafiness and level 4 of branchiness in the South garden. You press <<I>> and get 50 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 2 of leafiness and level 3 of branchiness in the North garden. You press <<I>> and get 0 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 4 of leafiness and level 3 of branchiness in the North garden. You press <<I>> and get 50 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 0 of leafiness and level 4 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten -50 points, had you accepted to plant the tree.
+You get a tree with level 2 of leafiness and level 2 of branchiness in the North garden. You press <<I>> and get 0 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 4 of leafiness and level 2 of branchiness in the South garden. You press <<I>> and get 0 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 4 of leafiness and level 4 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten 50 points, had you accepted to plant the tree.
+You get a tree with level 2 of leafiness and level 2 of branchiness in the South garden. You press <<I>> and get 0 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 1 of leafiness and level 4 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten -25 points, had you accepted to plant the tree.
+You get a tree with level 2 of leafiness and level 3 of branchiness in the North garden. You press <<I>> and get 0 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 3 of leafiness and level 0 of branchiness in the North garden. You press <<I>> and get 25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 4 of leafiness and level 0 of branchiness in the South garden. You press <<I>> and get -50 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 3 of leafiness and level 3 of branchiness in the North garden. You press <<I>> and get 25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 0 of leafiness and level 4 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten 50 points, had you accepted to plant the tree.
+You get a tree with level 4 of leafiness and level 4 of branchiness in the South garden. You press <<I>> and get 50 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 3 of leafiness and level 1 of branchiness in the North garden. You press <<I>> and get 25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 1 of leafiness and level 4 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten -25 points, had you accepted to plant the tree.
+You get a tree with level 0 of leafiness and level 1 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten -25 points, had you accepted to plant the tree.
+You get a tree with level 0 of leafiness and level 4 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten 50 points, had you accepted to plant the tree.
+You get a tree with level 2 of leafiness and level 4 of branchiness in the North garden. You press <<I>> and get 0 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 2 of leafiness and level 3 of branchiness in the North garden. You press <<I>> and get 0 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 1 of leafiness and level 2 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten 0 points, had you accepted to plant the tree.
+You get a tree with level 0 of leafiness and level 3 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten 25 points, had you accepted to plant the tree.
+You get a tree with level 1 of leafiness and level 2 of branchiness in the North garden. You press <<I>> and get -25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 4 of leafiness and level 2 of branchiness in the North garden. You press <<I>> and get 50 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 1 of leafiness and level 4 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten 50 points, had you accepted to plant the tree.
+You get a tree with level 2 of leafiness and level 1 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten -25 points, had you accepted to plant the tree.
+You get a tree with level 2 of leafiness and level 1 of branchiness in the South garden. You press <<I>> and get -25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 2 of leafiness and level 4 of branchiness in the South garden. You press <<I>> and get 50 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 2 of leafiness and level 2 of branchiness in the North garden. You press <<I>> and get 0 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 0 of leafiness and level 1 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten -50 points, had you accepted to plant the tree.
+You get a tree with level 3 of leafiness and level 4 of branchiness in the North garden. You press <<I>> and get 25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 4 of leafiness and level 0 of branchiness in the South garden. You press <<I>> and get -50 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 2 of leafiness and level 2 of branchiness in the South garden. You press <<I>> and get 0 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 4 of leafiness and level 0 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten 50 points, had you accepted to plant the tree.
+You get a tree with level 3 of leafiness and level 1 of branchiness in the North garden. You press <<I>> and get 25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 3 of leafiness and level 0 of branchiness in the South garden. You press <<I>> and get -50 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 3 of leafiness and level 2 of branchiness in the North garden. You press <<I>> and get 25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 4 of leafiness and level 4 of branchiness in the North garden. You press <<I>> and get 50 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 2 of leafiness and level 0 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten 0 points, had you accepted to plant the tree.
+You get a tree with level 0 of leafiness and level 0 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten -50 points, had you accepted to plant the tree.
+You get a tree with level 3 of leafiness and level 0 of branchiness in the North garden. You press <<I>> and get 25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 2 of leafiness and level 3 of branchiness in the South garden. You press <<I>> and get 25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 1 of leafiness and level 0 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten -25 points, had you accepted to plant the tree.
+You get a tree with level 1 of leafiness and level 3 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten 25 points, had you accepted to plant the tree.
+You get a tree with level 1 of leafiness and level 1 of branchiness in the South garden. You press <<I>> and get -25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 3 of leafiness and level 3 of branchiness in the South garden. You press <<I>> and get 25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 0 of leafiness and level 4 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten 50 points, had you accepted to plant the tree.
+You get a tree with level 0 of leafiness and level 1 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten -25 points, had you accepted to plant the tree.
+You get a tree with level 4 of leafiness and level 1 of branchiness in the South garden. You press <<I>> and get -25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 0 of leafiness and level 2 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten -50 points, had you accepted to plant the tree.
+You get a tree with level 3 of leafiness and level 4 of branchiness in the South garden. You press <<I>> and get 50 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 0 of leafiness and level 2 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten -50 points, had you accepted to plant the tree.
+You get a tree with level 0 of leafiness and level 0 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten -50 points, had you accepted to plant the tree.
+You get a tree with level 1 of leafiness and level 1 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten -25 points, had you accepted to plant the tree.
+You get a tree with level 4 of leafiness and level 0 of branchiness in the North garden. You press <<I>> and get 50 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 2 of leafiness and level 3 of branchiness in the South garden. You press <<I>> and get 25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 0 of leafiness and level 3 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten -50 points, had you accepted to plant the tree.
+You get a tree with level 4 of leafiness and level 4 of branchiness in the South garden. You press <<I>> and get 50 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 1 of leafiness and level 2 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten 0 points, had you accepted to plant the tree.
+You get a tree with level 4 of leafiness and level 2 of branchiness in the North garden. You press <<I>> and get 50 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 4 of leafiness and level 2 of branchiness in the North garden. You press <<I>> and get 50 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 1 of leafiness and level 3 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten -25 points, had you accepted to plant the tree.
+You get a tree with level 4 of leafiness and level 4 of branchiness in the South garden. You press <<I>> and get 50 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 4 of leafiness and level 0 of branchiness in the North garden. You press <<I>> and get 50 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 1 of leafiness and level 3 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten 25 points, had you accepted to plant the tree.
+You get a tree with level 4 of leafiness and level 0 of branchiness in the North garden. You press <<I>> and get 50 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 1 of leafiness and level 0 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten -25 points, had you accepted to plant the tree.
+You get a tree with level 0 of leafiness and level 4 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten -50 points, had you accepted to plant the tree.
+You get a tree with level 3 of leafiness and level 2 of branchiness in the North garden. You press <<I>> and get 25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 2 of leafiness and level 4 of branchiness in the North garden. You press <<I>> and get 0 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 4 of leafiness and level 3 of branchiness in the South garden. You press <<I>> and get 25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 2 of leafiness and level 0 of branchiness in the North garden. You press <<I>> and get 0 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 3 of leafiness and level 4 of branchiness in the South garden. You press <<I>> and get 50 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 0 of leafiness and level 4 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten 50 points, had you accepted to plant the tree.
+You get a tree with level 4 of leafiness and level 0 of branchiness in the South garden. You press <<I>> and get -50 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 0 of leafiness and level 3 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten -50 points, had you accepted to plant the tree.
+You get a tree with level 4 of leafiness and level 4 of branchiness in the South garden. You press <<I>> and get 50 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 0 of leafiness and level 4 of branchiness in the South garden. You press <<I>> and get 50 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 3 of leafiness and level 3 of branchiness in the North garden. You press <<I>> and get 25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 0 of leafiness and level 1 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten -50 points, had you accepted to plant the tree.
+You get a tree with level 0 of leafiness and level 1 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten -25 points, had you accepted to plant the tree.
+You get a tree with level 0 of leafiness and level 4 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten 50 points, had you accepted to plant the tree.
+You get a tree with level 2 of leafiness and level 4 of branchiness in the North garden. You press <<I>> and get 0 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 1 of leafiness and level 2 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten 0 points, had you accepted to plant the tree.
+You get a tree with level 0 of leafiness and level 0 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten -50 points, had you accepted to plant the tree.
+You get a tree with level 4 of leafiness and level 1 of branchiness in the North garden. You press <<I>> and get 50 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 2 of leafiness and level 1 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten 0 points, had you accepted to plant the tree.
+You get a tree with level 3 of leafiness and level 1 of branchiness in the South garden. You press <<I>> and get -25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 3 of leafiness and level 4 of branchiness in the South garden. You press <<I>> and get 50 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 3 of leafiness and level 3 of branchiness in the North garden. You press <<I>> and get 25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 1 of leafiness and level 4 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten 50 points, had you accepted to plant the tree.
+You get a tree with level 0 of leafiness and level 0 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten -50 points, had you accepted to plant the tree.
+You get a tree with level 1 of leafiness and level 0 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten -25 points, had you accepted to plant the tree.
+You get a tree with level 2 of leafiness and level 2 of branchiness in the South garden. You press <<I>> and get 0 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 3 of leafiness and level 1 of branchiness in the South garden. You press <<I>> and get -25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 0 of leafiness and level 2 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten 0 points, had you accepted to plant the tree.
+You get a tree with level 4 of leafiness and level 4 of branchiness in the North garden. You press <<I>> and get 50 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 3 of leafiness and level 2 of branchiness in the North garden. You press <<I>> and get 25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 0 of leafiness and level 1 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten -25 points, had you accepted to plant the tree.
+You get a tree with level 4 of leafiness and level 2 of branchiness in the South garden. You press <<I>> and get 0 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 1 of leafiness and level 1 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten -25 points, had you accepted to plant the tree.
+You get a tree with level 4 of leafiness and level 2 of branchiness in the North garden. You press <<I>> and get 50 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 0 of leafiness and level 2 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten 0 points, had you accepted to plant the tree.
+You get a tree with level 4 of leafiness and level 2 of branchiness in the North garden. You press <<I>> and get 50 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 2 of leafiness and level 4 of branchiness in the South garden. You press <<I>> and get 50 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 3 of leafiness and level 0 of branchiness in the South garden. You press <<I>> and get -50 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 3 of leafiness and level 3 of branchiness in the South garden. You press <<I>> and get 25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 4 of leafiness and level 2 of branchiness in the South garden. You press <<I>> and get 0 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 2 of leafiness and level 1 of branchiness in the North garden. You press <<I>> and get 0 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 2 of leafiness and level 4 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten 50 points, had you accepted to plant the tree.
+You get a tree with level 1 of leafiness and level 2 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten -25 points, had you accepted to plant the tree.
+You get a tree with level 2 of leafiness and level 3 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten 25 points, had you accepted to plant the tree.
+You get a tree with level 1 of leafiness and level 1 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten -25 points, had you accepted to plant the tree.
+You get a tree with level 4 of leafiness and level 4 of branchiness in the North garden. You press <<I>> and get 50 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 0 of leafiness and level 4 of branchiness in the South garden. You press <<I>> and get 50 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 3 of leafiness and level 4 of branchiness in the North garden. You press <<I>> and get 25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 0 of leafiness and level 3 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten -50 points, had you accepted to plant the tree.
+You get a tree with level 1 of leafiness and level 1 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten -25 points, had you accepted to plant the tree.
+You get a tree with level 1 of leafiness and level 0 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten -25 points, had you accepted to plant the tree.
+You get a tree with level 2 of leafiness and level 1 of branchiness in the North garden. You press <<I>> and get 0 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 0 of leafiness and level 3 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten 25 points, had you accepted to plant the tree.
+You get a tree with level 2 of leafiness and level 0 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten -50 points, had you accepted to plant the tree.
+You get a tree with level 4 of leafiness and level 1 of branchiness in the North garden. You press <<I>> and get 50 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 2 of leafiness and level 0 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten -50 points, had you accepted to plant the tree.
+You get a tree with level 3 of leafiness and level 1 of branchiness in the North garden. You press <<I>> and get 25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 2 of leafiness and level 1 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten -25 points, had you accepted to plant the tree.
+You get a tree with level 3 of leafiness and level 1 of branchiness in the North garden. You press <<I>> and get 25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 1 of leafiness and level 1 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten -25 points, had you accepted to plant the tree.
+You get a tree with level 0 of leafiness and level 4 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten -50 points, had you accepted to plant the tree.
+You get a tree with level 1 of leafiness and level 4 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten -25 points, had you accepted to plant the tree.
+You get a tree with level 1 of leafiness and level 2 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten 0 points, had you accepted to plant the tree.
+You get a tree with level 2 of leafiness and level 2 of branchiness in the South garden. You press <<I>> and get 0 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 4 of leafiness and level 1 of branchiness in the South garden. You press <<I>> and get -25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 2 of leafiness and level 2 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten 0 points, had you accepted to plant the tree.
+You get a tree with level 0 of leafiness and level 2 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten -50 points, had you accepted to plant the tree.
+You get a tree with level 2 of leafiness and level 4 of branchiness in the South garden. You press <<I>> and get 50 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 4 of leafiness and level 4 of branchiness in the North garden. You press <<I>> and get 50 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 0 of leafiness and level 0 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten -50 points, had you accepted to plant the tree.
+You get a tree with level 4 of leafiness and level 2 of branchiness in the South garden. You press <<I>> and get 0 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 1 of leafiness and level 4 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten 50 points, had you accepted to plant the tree.
+You get a tree with level 4 of leafiness and level 4 of branchiness in the North garden. You press <<I>> and get 50 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 1 of leafiness and level 3 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten 25 points, had you accepted to plant the tree.
+You get a tree with level 1 of leafiness and level 2 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten 0 points, had you accepted to plant the tree.
+You get a tree with level 0 of leafiness and level 0 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten -50 points, had you accepted to plant the tree.
+You get a tree with level 2 of leafiness and level 2 of branchiness in the North garden. You press <<I>> and get 0 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 1 of leafiness and level 4 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten 50 points, had you accepted to plant the tree.
+You get a tree with level 3 of leafiness and level 2 of branchiness in the South garden. You press <<I>> and get 0 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 3 of leafiness and level 0 of branchiness in the South garden. You press <<I>> and get -50 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 0 of leafiness and level 0 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten -50 points, had you accepted to plant the tree.
+You get a tree with level 4 of leafiness and level 4 of branchiness in the North garden. You press <<I>> and get 50 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 2 of leafiness and level 3 of branchiness in the North garden. You press <<I>> and get 0 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 1 of leafiness and level 1 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten -25 points, had you accepted to plant the tree.
+You get a tree with level 1 of leafiness and level 2 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten -25 points, had you accepted to plant the tree.
+You get a tree with level 2 of leafiness and level 2 of branchiness in the South garden. You press <<I>> and get 0 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 4 of leafiness and level 3 of branchiness in the North garden. You press <<I>> and get 50 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 4 of leafiness and level 0 of branchiness in the North garden. You press <<I>> and get 50 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 2 of leafiness and level 3 of branchiness in the North garden. You press <<I>> and get 0 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 1 of leafiness and level 2 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten 0 points, had you accepted to plant the tree.
+You get a tree with level 4 of leafiness and level 3 of branchiness in the South garden. You press <<I>> and get 25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 1 of leafiness and level 3 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten -25 points, had you accepted to plant the tree.
+You get a tree with level 4 of leafiness and level 2 of branchiness in the North garden. You press <<I>> and get 50 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 0 of leafiness and level 2 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten 0 points, had you accepted to plant the tree.
+You get a tree with level 0 of leafiness and level 1 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten -25 points, had you accepted to plant the tree.
+You get a tree with level 3 of leafiness and level 4 of branchiness in the North garden. You press <<I>> and get 25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 0 of leafiness and level 2 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten 0 points, had you accepted to plant the tree.
+You get a tree with level 3 of leafiness and level 1 of branchiness in the South garden. You press <<I>> and get -25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 1 of leafiness and level 3 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten 25 points, had you accepted to plant the tree.
+You get a tree with level 1 of leafiness and level 4 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten -25 points, had you accepted to plant the tree.
+You get a tree with level 4 of leafiness and level 1 of branchiness in the North garden. You press <<I>> and get 50 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 2 of leafiness and level 3 of branchiness in the North garden. You press <<I>> and get 0 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 4 of leafiness and level 0 of branchiness in the South garden. You press <<I>> and get -50 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 2 of leafiness and level 2 of branchiness in the North garden. You press <<I>> and get 0 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 3 of leafiness and level 2 of branchiness in the South garden. You press <<I>> and get 0 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 2 of leafiness and level 3 of branchiness in the South garden. You press <<I>> and get 25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 3 of leafiness and level 3 of branchiness in the South garden. You press <<I>> and get 25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 3 of leafiness and level 0 of branchiness in the South garden. You press <<I>> and get -50 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 4 of leafiness and level 1 of branchiness in the South garden. You press <<I>> and get -25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 2 of leafiness and level 3 of branchiness in the North garden. You press <<I>> and get 0 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 1 of leafiness and level 3 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten 25 points, had you accepted to plant the tree.
+You get a tree with level 2 of leafiness and level 2 of branchiness in the South garden. You press <<I>> and get 0 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 3 of leafiness and level 3 of branchiness in the South garden. You press <<I>> and get 25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 1 of leafiness and level 1 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten -25 points, had you accepted to plant the tree.
+You get a tree with level 3 of leafiness and level 2 of branchiness in the South garden. You press <<I>> and get 0 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 3 of leafiness and level 1 of branchiness in the South garden. You press <<I>> and get -25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 0 of leafiness and level 1 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten -50 points, had you accepted to plant the tree.
+You get a tree with level 2 of leafiness and level 4 of branchiness in the South garden. You press <<I>> and get 50 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 4 of leafiness and level 3 of branchiness in the North garden. You press <<I>> and get 50 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 4 of leafiness and level 1 of branchiness in the North garden. You press <<I>> and get 50 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 1 of leafiness and level 3 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten -25 points, had you accepted to plant the tree.
+You get a tree with level 3 of leafiness and level 1 of branchiness in the North garden. You press <<I>> and get 25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 4 of leafiness and level 3 of branchiness in the North garden. You press <<I>> and get 50 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 2 of leafiness and level 1 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten 0 points, had you accepted to plant the tree.
+You get a tree with level 2 of leafiness and level 2 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten 0 points, had you accepted to plant the tree.
+You get a tree with level 1 of leafiness and level 3 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten -25 points, had you accepted to plant the tree.
+You get a tree with level 4 of leafiness and level 3 of branchiness in the South garden. You press <<I>> and get 25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 2 of leafiness and level 0 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten 0 points, had you accepted to plant the tree.
+You get a tree with level 1 of leafiness and level 4 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten 50 points, had you accepted to plant the tree.
+You get a tree with level 2 of leafiness and level 0 of branchiness in the South garden. You press <<I>> and get -50 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 4 of leafiness and level 2 of branchiness in the North garden. You press <<I>> and get 50 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 4 of leafiness and level 0 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten -50 points, had you accepted to plant the tree.
+You get a tree with level 3 of leafiness and level 4 of branchiness in the South garden. You press <<I>> and get 50 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 2 of leafiness and level 0 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten 0 points, had you accepted to plant the tree.
+You get a tree with level 3 of leafiness and level 3 of branchiness in the North garden. You press <<I>> and get 25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 1 of leafiness and level 3 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten -25 points, had you accepted to plant the tree.
+You get a tree with level 2 of leafiness and level 0 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten -50 points, had you accepted to plant the tree.
+You get a tree with level 4 of leafiness and level 0 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten -50 points, had you accepted to plant the tree.
+You get a tree with level 4 of leafiness and level 1 of branchiness in the North garden. You press <<I>> and get 50 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 3 of leafiness and level 3 of branchiness in the North garden. You press <<I>> and get 25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 1 of leafiness and level 0 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten -25 points, had you accepted to plant the tree.
+You get a tree with level 2 of leafiness and level 3 of branchiness in the South garden. You press <<I>> and get 25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 0 of leafiness and level 3 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten 25 points, had you accepted to plant the tree.
+You get a tree with level 1 of leafiness and level 4 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten -25 points, had you accepted to plant the tree.
+You get a tree with level 3 of leafiness and level 2 of branchiness in the South garden. You press <<I>> and get 0 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 0 of leafiness and level 0 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten -50 points, had you accepted to plant the tree.
+You get a tree with level 0 of leafiness and level 3 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten 25 points, had you accepted to plant the tree.
+You get a tree with level 3 of leafiness and level 1 of branchiness in the South garden. You press <<I>> and get -25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 0 of leafiness and level 4 of branchiness in the South garden. You press <<I>> and get 50 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 3 of leafiness and level 0 of branchiness in the South garden. You press <<I>> and get -50 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 1 of leafiness and level 0 of branchiness in the North garden. You press <<I>> and get -25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 2 of leafiness and level 0 of branchiness in the North garden. You press <<I>> and get 0 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 3 of leafiness and level 2 of branchiness in the South garden. You press <<I>> and get 0 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 2 of leafiness and level 0 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten 0 points, had you accepted to plant the tree.
+You get a tree with level 0 of leafiness and level 1 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten -25 points, had you accepted to plant the tree.
+You get a tree with level 1 of leafiness and level 0 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten -25 points, had you accepted to plant the tree.
+You get a tree with level 0 of leafiness and level 2 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten 0 points, had you accepted to plant the tree.
+You get a tree with level 0 of leafiness and level 4 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten -50 points, had you accepted to plant the tree.
+You get a tree with level 0 of leafiness and level 2 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten -50 points, had you accepted to plant the tree.
+You get a tree with level 4 of leafiness and level 3 of branchiness in the North garden. You press <<I>> and get 50 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 0 of leafiness and level 2 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten 0 points, had you accepted to plant the tree.
+You get a tree with level 4 of leafiness and level 2 of branchiness in the South garden. You press <<I>> and get 0 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 4 of leafiness and level 3 of branchiness in the South garden. You press <<I>> and get 25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 1 of leafiness and level 3 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten 25 points, had you accepted to plant the tree.
+You get a tree with level 2 of leafiness and level 4 of branchiness in the South garden. You press <<I>> and get 50 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 2 of leafiness and level 1 of branchiness in the South garden. You press <<I>> and get -25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 3 of leafiness and level 2 of branchiness in the South garden. You press <<I>> and get 0 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 0 of leafiness and level 3 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten -50 points, had you accepted to plant the tree.
+You get a tree with level 4 of leafiness and level 3 of branchiness in the South garden. You press <<I>> and get 25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 0 of leafiness and level 4 of branchiness in the North garden. You press <<I>> and get -50 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 4 of leafiness and level 1 of branchiness in the North garden. You press <<I>> and get 50 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 0 of leafiness and level 1 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten -25 points, had you accepted to plant the tree.
+You get a tree with level 2 of leafiness and level 2 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten 0 points, had you accepted to plant the tree.
+You get a tree with level 4 of leafiness and level 1 of branchiness in the South garden. You press <<I>> and get -25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 4 of leafiness and level 3 of branchiness in the South garden. You press <<I>> and get 25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 0 of leafiness and level 0 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten -50 points, had you accepted to plant the tree.
+You get a tree with level 2 of leafiness and level 2 of branchiness in the North garden. You press <<I>> and get 0 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 4 of leafiness and level 2 of branchiness in the South garden. You press <<I>> and get 0 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 4 of leafiness and level 0 of branchiness in the North garden. You press <<I>> and get 50 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 3 of leafiness and level 1 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten 25 points, had you accepted to plant the tree.
+You get a tree with level 1 of leafiness and level 1 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten -25 points, had you accepted to plant the tree.
+You get a tree with level 2 of leafiness and level 3 of branchiness in the South garden. You press <<I>> and get 25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 1 of leafiness and level 0 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten -50 points, had you accepted to plant the tree.
+You get a tree with level 1 of leafiness and level 2 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten -25 points, had you accepted to plant the tree.
+You get a tree with level 4 of leafiness and level 0 of branchiness in the North garden. You press <<I>> and get 50 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 0 of leafiness and level 0 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten -50 points, had you accepted to plant the tree.
+You get a tree with level 0 of leafiness and level 0 of branchiness in the South garden. You press <<J>> and get 0 points. You would have gotten -50 points, had you accepted to plant the tree.
+You get a tree with level 3 of leafiness and level 2 of branchiness in the North garden. You press <<I>> and get 25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 0 of leafiness and level 2 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten -50 points, had you accepted to plant the tree.
+You get a tree with level 1 of leafiness and level 4 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten -25 points, had you accepted to plant the tree.
+You get a tree with level 0 of leafiness and level 4 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten -50 points, had you accepted to plant the tree.
+You get a tree with level 2 of leafiness and level 3 of branchiness in the North garden. You press <<I>> and get 0 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 2 of leafiness and level 1 of branchiness in the North garden. You press <<I>> and get 0 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 3 of leafiness and level 1 of branchiness in the South garden. You press <<I>> and get -25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 4 of leafiness and level 1 of branchiness in the South garden. You press <<I>> and get -25 points. You would have gotten 0 points, had you rejected to plant the tree.
+You get a tree with level 1 of leafiness and level 1 of branchiness in the North garden. You press <<J>> and get 0 points. You would have gotten -25 points, had you accepted to plant the tree.
+You get a tree with level 3 of leafiness and level 2 of branchiness in the South garden. You press <<I>>.
+You get a tree with level 2 of leafiness and level 3 of branchiness in the North garden. You press <<I>>.
+You get a tree with level 1 of leafiness and level 0 of branchiness in the South garden. You press <<J>>.
+You get a tree with level 2 of leafiness and level 0 of branchiness in the North garden. You press <<J>>.
+You get a tree with level 2 of leafiness and level 4 of branchiness in the North garden. You press <<I>>.
+You get a tree with level 2 of leafiness and level 1 of branchiness in the South garden. You press <<J>>.
+You get a tree with level 1 of leafiness and level 1 of branchiness in the North garden. You press <<J>>.
+You get a tree with level 1 of leafiness and level 4 of branchiness in the North garden. You press <<J>>.
+You get a tree with level 4 of leafiness and level 0 of branchiness in the South garden. You press <<I>>.
+You get a tree with level 3 of leafiness and level 1 of branchiness in the South garden. You press <<I>>.
+You get a tree with level 1 of leafiness and level 3 of branchiness in the South garden. You press <<J>>.
+You get a tree with level 3 of leafiness and level 3 of branchiness in the North garden. You press <<I>>.
+You get a tree with level 0 of leafiness and level 2 of branchiness in the South garden. You press <<J>>.
+You get a tree with level 2 of leafiness and level 1 of branchiness in the North garden. You press <<J>>.
+You get a tree with level 1 of leafiness and level 2 of branchiness in the North garden. You press <<J>>.
+You get a tree with level 4 of leafiness and level 0 of branchiness in the South garden. You press <<I>>.
+You get a tree with level 0 of leafiness and level 2 of branchiness in the North garden. You press <<J>>.
+You get a tree with level 0 of leafiness and level 1 of branchiness in the South garden. You press <<J>>.
+You get a tree with level 2 of leafiness and level 3 of branchiness in the North garden. You press <<I>>.
+You get a tree with level 0 of leafiness and level 0 of branchiness in the South garden. You press <<J>>.
+You get a tree with level 2 of leafiness and level 1 of branchiness in the North garden. You press <<J>>.
+You get a tree with level 0 of leafiness and level 0 of branchiness in the North garden. You press <<J>>.
+You get a tree with level 0 of leafiness and level 2 of branchiness in the North garden. You press <<J>>.
+You get a tree with level 3 of leafiness and level 1 of branchiness in the North garden. You press <<I>>.
+You get a tree with level 0 of leafiness and level 2 of branchiness in the South garden. You press <<J>>.
+You get a tree with level 1 of leafiness and level 1 of branchiness in the North garden. You press <<J>>.
+You get a tree with level 0 of leafiness and level 0 of branchiness in the North garden. You press <<J>>.
+You get a tree with level 4 of leafiness and level 1 of branchiness in the South garden. You press <<I>>.
+You get a tree with level 2 of leafiness and level 0 of branchiness in the North garden. You press <<J>>.
+You get a tree with level 0 of leafiness and level 3 of branchiness in the South garden. You press <<J>>.
+You get a tree with level 1 of leafiness and level 4 of branchiness in the South garden. You press <<J>>.
+You get a tree with level 3 of leafiness and level 2 of branchiness in the South garden. You press <<I>>.
+You get a tree with level 4 of leafiness and level 2 of branchiness in the North garden. You press <<I>>.
+You get a tree with level 3 of leafiness and level 2 of branchiness in the South garden. You press <<I>>.
+You get a tree with level 0 of leafiness and level 4 of branchiness in the North garden. You press <<J>>.
+You get a tree with level 4 of leafiness and level 4 of branchiness in the South garden. You press <<I>>.
+You get a tree with level 4 of leafiness and level 0 of branchiness in the North garden. You press <<I>>.
+You get a tree with level 4 of leafiness and level 1 of branchiness in the South garden. You press <<I>>.
+You get a tree with level 1 of leafiness and level 2 of branchiness in the North garden. You press <<J>>.
+You get a tree with level 2 of leafiness and level 2 of branchiness in the North garden. You press <<I>>.
+You get a tree with level 4 of leafiness and level 3 of branchiness in the North garden. You press <<I>>.
+You get a tree with level 3 of leafiness and level 4 of branchiness in the South garden. You press <<I>>.
+You get a tree with level 3 of leafiness and level 3 of branchiness in the North garden. You press <<I>>.
+You get a tree with level 1 of leafiness and level 0 of branchiness in the North garden. You press <<J>>.
+You get a tree with level 3 of leafiness and level 1 of branchiness in the North garden. You press <<I>>.
+You get a tree with level 4 of leafiness and level 4 of branchiness in the South garden. You press <<I>>.
+You get a tree with level 2 of leafiness and level 1 of branchiness in the South garden. You press <<J>>.
+You get a tree with level 0 of leafiness and level 0 of branchiness in the North garden. You press <<J>>.
+You get a tree with level 4 of leafiness and level 4 of branchiness in the North garden. You press <<I>>.
+You get a tree with level 0 of leafiness and level 4 of branchiness in the South garden. You press <<J>>.
+You get a tree with level 1 of leafiness and level 2 of branchiness in the South garden. You press <<J>>.
+You get a tree with level 2 of leafiness and level 2 of branchiness in the South garden. You press <<J>>.
+You get a tree with level 3 of leafiness and level 1 of branchiness in the South garden. You press <<I>>.
+You get a tree with level 4 of leafiness and level 2 of branchiness in the South garden. You press <<I>>.
+You get a tree with level 3 of leafiness and level 3 of branchiness in the North garden. You press <<I>>.
+You get a tree with level 0 of leafiness and level 2 of branchiness in the South garden. You press <<J>>.
+You get a tree with level 3 of leafiness and level 0 of branchiness in the North garden. You press <<J>>.
+You get a tree with level 1 of leafiness and level 1 of branchiness in the South garden. You press <<J>>.
+You get a tree with level 2 of leafiness and level 4 of branchiness in the South garden. You press <<J>>.
+You get a tree with level 3 of leafiness and level 3 of branchiness in the South garden. You press <<I>>.
+You get a tree with level 0 of leafiness and level 0 of branchiness in the South garden. You press <<J>>.
+You get a tree with level 4 of leafiness and level 0 of branchiness in the North garden. You press <<I>>.
+You get a tree with level 4 of leafiness and level 2 of branchiness in the North garden. You press <<I>>.
+You get a tree with level 2 of leafiness and level 3 of branchiness in the North garden. You press <<J>>.
+You get a tree with level 0 of leafiness and level 3 of branchiness in the North garden. You press <<J>>.
+You get a tree with level 3 of leafiness and level 2 of branchiness in the North garden. You press <<I>>.
+You get a tree with level 2 of leafiness and level 0 of branchiness in the South garden. You press <<J>>.
+You get a tree with level 3 of leafiness and level 3 of branchiness in the South garden. You press <<I>>.
+You get a tree with level 2 of leafiness and level 1 of branchiness in the South garden. You press <<J>>.
+You get a tree with level 2 of leafiness and level 0 of branchiness in the South garden. You press <<J>>.
+You get a tree with level 1 of leafiness and level 4 of branchiness in the South garden. You press <<J>>.
+You get a tree with level 1 of leafiness and level 3 of branchiness in the South garden. You press <<J>>.
+You get a tree with level 3 of leafiness and level 0 of branchiness in the South garden. You press <<J>>.
+You get a tree with level 1 of leafiness and level 3 of branchiness in the South garden. You press <<J>>.
+You get a tree with level 2 of leafiness and level 3 of branchiness in the South garden. You press <<I>>.
+You get a tree with level 2 of leafiness and level 3 of branchiness in the South garden. You press <<I>>.
+You get a tree with level 1 of leafiness and level 3 of branchiness in the North garden. You press <<J>>.
+You get a tree with level 4 of leafiness and level 2 of branchiness in the South garden. You press <<I>>.
+You get a tree with level 3 of leafiness and level 3 of branchiness in the South garden. You press <<I>>.
+You get a tree with level 2 of leafiness and level 2 of branchiness in the South garden. You press <<J>>.
+You get a tree with level 1 of leafiness and level 1 of branchiness in the North garden. You press <<J>>.
+You get a tree with level 0 of leafiness and level 1 of branchiness in the North garden. You press <<J>>.
+You get a tree with level 0 of leafiness and level 1 of branchiness in the North garden. You press <<J>>.
+You get a tree with level 2 of leafiness and level 1 of branchiness in the North garden. You press <<J>>.
+You get a tree with level 2 of leafiness and level 2 of branchiness in the North garden. You press <<J>>.
+You get a tree with level 2 of leafiness and level 3 of branchiness in the South garden. You press <<I>>.
+You get a tree with level 0 of leafiness and level 3 of branchiness in the North garden. You press <<J>>.
+You get a tree with level 1 of leafiness and level 0 of branchiness in the North garden. You press <<J>>.
+You get a tree with level 2 of leafiness and level 4 of branchiness in the North garden. You press <<I>>.
+You get a tree with level 3 of leafiness and level 0 of branchiness in the South garden. You press <<I>>.
+You get a tree with level 0 of leafiness and level 4 of branchiness in the North garden. You press <<J>>.
+You get a tree with level 1 of leafiness and level 0 of branchiness in the South garden. You press <<J>>.
+You get a tree with level 2 of leafiness and level 0 of branchiness in the South garden. You press <<J>>.
+You get a tree with level 4 of leafiness and level 3 of branchiness in the South garden. You press <<I>>.
+You get a tree with level 3 of leafiness and level 1 of branchiness in the South garden. You press <<I>>.
+You get a tree with level 1 of leafiness and level 0 of branchiness in the South garden. You press <<J>>.
+You get a tree with level 1 of leafiness and level 1 of branchiness in the South garden. You press <<J>>.
+You get a tree with level 4 of leafiness and level 4 of branchiness in the North garden. You press <<I>>.
+You get a tree with level 1 of leafiness and level 4 of branchiness in the South garden. You press <<J>>.
+You get a tree with level 4 of leafiness and level 2 of branchiness in the North garden. You press <<I>>.
+You get a tree with level 0 of leafiness and level 2 of branchiness in the North garden. You press <<J>>.
+You get a tree with level 0 of leafiness and level 3 of branchiness in the North garden. You press <<J>>.
+You get a tree with level 0 of leafiness and level 2 of branchiness in the North garden. You press <<J>>.
+You get a tree with level 0 of leafiness and level 0 of branchiness in the South garden. You press <<J>>.
+You get a tree with level 4 of leafiness and level 3 of branchiness in the North garden. You press <<I>>.
+You get a tree with level 4 of leafiness and level 1 of branchiness in the North garden. You press <<I>>.
+You get a tree with level 3 of leafiness and level 0 of branchiness in the North garden. You press <<I>>.
+You get a tree with level 4 of leafiness and level 4 of branchiness in the South garden. You press <<I>>.
+You get a tree with level 2 of leafiness and level 4 of branchiness in the North garden. You press <<J>>.
+You get a tree with level 1 of leafiness and level 1 of branchiness in the South garden. You press <<J>>.
+You get a tree with level 4 of leafiness and level 1 of branchiness in the North garden. You press <<I>>.
+You get a tree with level 0 of leafiness and level 4 of branchiness in the South garden. You press <<J>>.
+You get a tree with level 1 of leafiness and level 0 of branchiness in the North garden. You press <<J>>.
+You get a tree with level 0 of leafiness and level 0 of branchiness in the North garden. You press <<J>>.
+You get a tree with level 2 of leafiness and level 0 of branchiness in the North garden. You press <<J>>.
+You get a tree with level 0 of leafiness and level 1 of branchiness in the South garden. You press <<J>>.
+You get a tree with level 2 of leafiness and level 3 of branchiness in the North garden. You press <<I>>.
+You get a tree with level 0 of leafiness and level 3 of branchiness in the South garden. You press <<J>>.
+You get a tree with level 3 of leafiness and level 4 of branchiness in the South garden. You press <<I>>.
+You get a tree with level 1 of leafiness and level 1 of branchiness in the North garden. You press <<J>>.
+You get a tree with level 3 of leafiness and level 0 of branchiness in the South garden. You press <<J>>.
+You get a tree with level 4 of leafiness and level 3 of branchiness in the North garden. You press <<I>>.
+You get a tree with level 4 of leafiness and level 2 of branchiness in the South garden. You press <<I>>.
+You get a tree with level 4 of leafiness and level 2 of branchiness in the South garden. You press <<I>>.
+You get a tree with level 2 of leafiness and level 2 of branchiness in the North garden. You press <<J>>.
+You get a tree with level 4 of leafiness and level 2 of branchiness in the North garden. You press <<I>>.
+You get a tree with level 4 of leafiness and level 3 of branchiness in the South garden. You press <<I>>.
+You get a tree with level 3 of leafiness and level 0 of branchiness in the South garden. You press <<I>>.
+You get a tree with level 1 of leafiness and level 3 of branchiness in the South garden. You press <<J>>.
+You get a tree with level 1 of leafiness and level 0 of branchiness in the South garden. You press <<J>>.
+You get a tree with level 4 of leafiness and level 1 of branchiness in the North garden. You press <<I>>.
+You get a tree with level 0 of leafiness and level 1 of branchiness in the South garden. You press <<J>>.
+You get a tree with level 3 of leafiness and level 1 of branchiness in the North garden. You press <<I>>.
+You get a tree with level 3 of leafiness and level 2 of branchiness in the North garden. You press <<I>>.
+You get a tree with level 3 of leafiness and level 4 of branchiness in the South garden. You press <<I>>.
+You get a tree with level 3 of leafiness and level 4 of branchiness in the North garden. You press <<I>>.
+You get a tree with level 1 of leafiness and level 4 of branchiness in the North garden. You press <<J>>.
+You get a tree with level 4 of leafiness and level 0 of branchiness in the North garden. You press <<I>>.
+You get a tree with level 1 of leafiness and level 4 of branchiness in the South garden. You press <<J>>.
+You get a tree with level 1 of leafiness and level 2 of branchiness in the North garden. You press <<J>>.
+You get a tree with level 0 of leafiness and level 3 of branchiness in the South garden. You press <<J>>.
+You get a tree with level 3 of leafiness and level 4 of branchiness in the North garden. You press <<I>>.
+You get a tree with level 4 of leafiness and level 0 of branchiness in the South garden. You press <<I>>.
+You get a tree with level 2 of leafiness and level 4 of branchiness in the South garden. You press <<I>>.
+You get a tree with level 3 of leafiness and level 4 of branchiness in the North garden. You press <<I>>.
+You get a tree with level 0 of leafiness and level 3 of branchiness in the South garden. You press <<J>>.
+You get a tree with level 1 of leafiness and level 2 of branchiness in the South garden. You press <<J>>.
+You get a tree with level 0 of leafiness and level 1 of branchiness in the North garden. You press <<J>>.
+You get a tree with level 3 of leafiness and level 2 of branchiness in the South garden. You press <<I>>.
+You get a tree with level 4 of leafiness and level 4 of branchiness in the North garden. You press <<I>>.
+You get a tree with level 3 of leafiness and level 0 of branchiness in the North garden. You press <<I>>.
+You get a tree with level 4 of leafiness and level 4 of branchiness in the North garden. You press <<I>>.
+You get a tree with level 2 of leafiness and level 1 of branchiness in the South garden. You press <<J>>.
+You get a tree with level 2 of leafiness and level 0 of branchiness in the North garden. You press <<J>>.
+You get a tree with level 2 of leafiness and level 4 of branchiness in the South garden. You press <<J>>.
+You get a tree with level 2 of leafiness and level 4 of branchiness in the South garden. You press <<I>>.
+You get a tree with level 2 of leafiness and level 2 of branchiness in the South garden. You press <<J>>.
+You get a tree with level 1 of leafiness and level 3 of branchiness in the North garden. You press <<J>>.
+You get a tree with level 1 of leafiness and level 4 of branchiness in the North garden. You press <<J>>.
+You get a tree with level 2 of leafiness and level 2 of branchiness in the North garden. You press <<J>>.
+You get a tree with level 0 of leafiness and level 4 of branchiness in the South garden. You press <<J>>.
+You get a tree with level 1 of leafiness and level 1 of branchiness in the South garden. You press <<J>>.
+You get a tree with level 2 of leafiness and level 0 of branchiness in the South garden. You press <<J>>.
+You get a tree with level 4 of leafiness and level 1 of branchiness in the South garden. You press <<I>>.
+You get a tree with level 0 of leafiness and level 4 of branchiness in the South garden. You press <<J>>.
+You get a tree with level 3 of leafiness and level 3 of branchiness in the South garden. You press <<I>>.
+You get a tree with level 2 of leafiness and level 4 of branchiness in the North garden. You press <<I>>.
+You get a tree with level 2 of leafiness and level 3 of branchiness in the South garden. You press <<I>>.
+You get a tree with level 1 of leafiness and level 3 of branchiness in the North garden. You press <<J>>.
+You get a tree with level 3 of leafiness and level 0 of branchiness in the North garden. You press <<J>>.
+You get a tree with level 0 of leafiness and level 0 of branchiness in the South garden. You press <<J>>.
+You get a tree with level 4 of leafiness and level 3 of branchiness in the North garden. You press <<I>>.
+You get a tree with level 1 of leafiness and level 2 of branchiness in the South garden. You press <<J>>.
+You get a tree with level 1 of leafiness and level 2 of branchiness in the North garden. You press <<J>>.
+You get a tree with level 1 of leafiness and level 3 of branchiness in the North garden. You press <<J>>.
+You get a tree with level 4 of leafiness and level 3 of branchiness in the South garden. You press <<I>>.
+You get a tree with level 0 of leafiness and level 4 of branchiness in the North garden. You press <<J>>.
+You get a tree with level 0 of leafiness and level 4 of branchiness in the North garden. You press <<J>>.
+You get a tree with level 4 of leafiness and level 1 of branchiness in the North garden. You press <<I>>.
+You get a tree with level 4 of leafiness and level 3 of branchiness in the South garden. You press <<I>>.
+You get a tree with level 1 of leafiness and level 0 of branchiness in the North garden. You press <<J>>.
+You get a tree with level 4 of leafiness and level 0 of branchiness in the South garden. You press <<I>>.
+You get a tree with level 4 of leafiness and level 1 of branchiness in the South garden. You press <<I>>.
+You get a tree with level 2 of leafiness and level 1 of branchiness in the North garden. You press <<J>>.
+You get a tree with level 1 of leafiness and level 4 of branchiness in the North garden. You press <<J>>.
+You get a tree with level 3 of leafiness and level 3 of branchiness in the North garden. You press <<I>>.
+You get a tree with level 0 of leafiness and level 1 of branchiness in the South garden. You press <<J>>.
+You get a tree with level 3 of leafiness and level 1 of branchiness in the North garden. You press <<I>>.
+You get a tree with level 3 of leafiness and level 1 of branchiness in the South garden. You press <<I>>.
+You get a tree with level 4 of leafiness and level 4 of branchiness in the South garden. You press <<I>>.
+You get a tree with level 3 of leafiness and level 2 of branchiness in the North garden. You press <<I>>.
+You get a tree with level 3 of leafiness and level 4 of branchiness in the South garden. You press <<I>>.
+You get a tree with level 0 of leafiness and level 3 of branchiness in the North garden. You press <<J>>.
+You get a tree with level 2 of leafiness and level 2 of branchiness in the South garden. You press <<J>>.
+You get a tree with level 3 of leafiness and level 2 of branchiness in the North garden. You press <<I>>.
+You get a tree with level 0 of leafiness and level 1 of branchiness in the North garden. You press <<J>>.
+You get a tree with level 1 of leafiness and level 2 of branchiness in the South garden. You press <<J>>.
+You get a tree with level 0 of leafiness and level 2 of branchiness in the South garden. You press <<J>>.
+You get a tree with level 4 of leafiness and level 0 of branchiness in the North garden. You press <<I>>.
+You get a tree with level 3 of leafiness and level 4 of branchiness in the North garden. You press <<I>>.

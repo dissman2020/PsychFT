@@ -1,0 +1,287 @@
+Your task is to estimate the blood concentration of the hormone Caldionine based on information about the amount of two other hormones, Progladine and Amalydine, in multiple individuals' urine.
+Both Progladine and Amalydine can take five values (1, 2, 3, 4, 5).
+Caldionine can take nine values (10, 20, 30, 40, 50, 60, 70, 80, 90).
+Your goal is to estimate the concentration of Caldionine correctly.
+You will receive feedback about the actual concentration after making your estimate.
+This feedback will stop at some point.
+
+Progladine: 2. Amalydine: 5. You say that the Caldionine concentration is <<30>>. That is incorrect. The correct concentration of Caldionine is 20.
+Progladine: 4. Amalydine: 1. You say that the Caldionine concentration is <<20>>. That is incorrect. The correct concentration of Caldionine is 80.
+Progladine: 3. Amalydine: 5. You say that the Caldionine concentration is <<50>>. That is incorrect. The correct concentration of Caldionine is 30.
+Progladine: 1. Amalydine: 3. You say that the Caldionine concentration is <<20>>. That is incorrect. The correct concentration of Caldionine is 30.
+Progladine: 3. Amalydine: 2. You say that the Caldionine concentration is <<70>>. That is incorrect. The correct concentration of Caldionine is 60.
+Progladine: 4. Amalydine: 2. You say that the Caldionine concentration is <<30>>. That is incorrect. The correct concentration of Caldionine is 70.
+Progladine: 4. Amalydine: 3. You say that the Caldionine concentration is <<50>>. That is incorrect. The correct concentration of Caldionine is 60.
+Progladine: 2. Amalydine: 2. You say that the Caldionine concentration is <<50>>. That is correct. The correct concentration of Caldionine is indeed 50.
+Progladine: 3. Amalydine: 4. You say that the Caldionine concentration is <<30>>. That is incorrect. The correct concentration of Caldionine is 40.
+Progladine: 2. Amalydine: 3. You say that the Caldionine concentration is <<20>>. That is incorrect. The correct concentration of Caldionine is 40.
+Progladine: 5. Amalydine: 3. You say that the Caldionine concentration is <<80>>. That is incorrect. The correct concentration of Caldionine is 70.
+Progladine: 2. Amalydine: 4. You say that the Caldionine concentration is <<20>>. That is incorrect. The correct concentration of Caldionine is 30.
+Progladine: 1. Amalydine: 2. You say that the Caldionine concentration is <<40>>. That is correct. The correct concentration of Caldionine is indeed 40.
+Progladine: 2. Amalydine: 1. You say that the Caldionine concentration is <<60>>. That is correct. The correct concentration of Caldionine is indeed 60.
+Progladine: 3. Amalydine: 3. You say that the Caldionine concentration is <<50>>. That is correct. The correct concentration of Caldionine is indeed 50.
+Progladine: 1. Amalydine: 1. You say that the Caldionine concentration is <<50>>. That is correct. The correct concentration of Caldionine is indeed 50.
+Progladine: 4. Amalydine: 5. You say that the Caldionine concentration is <<40>>. That is correct. The correct concentration of Caldionine is indeed 40.
+Progladine: 5. Amalydine: 4. You say that the Caldionine concentration is <<60>>. That is correct. The correct concentration of Caldionine is indeed 60.
+Progladine: 5. Amalydine: 2. You say that the Caldionine concentration is <<70>>. That is incorrect. The correct concentration of Caldionine is 80.
+Progladine: 4. Amalydine: 4. You say that the Caldionine concentration is <<50>>. That is correct. The correct concentration of Caldionine is indeed 50.
+Progladine: 5. Amalydine: 5. You say that the Caldionine concentration is <<50>>. That is correct. The correct concentration of Caldionine is indeed 50.
+Progladine: 3. Amalydine: 1. You say that the Caldionine concentration is <<70>>. That is correct. The correct concentration of Caldionine is indeed 70.
+Progladine: 1. Amalydine: 4. You say that the Caldionine concentration is <<30>>. That is incorrect. The correct concentration of Caldionine is 20.
+Progladine: 2. Amalydine: 2. You say that the Caldionine concentration is <<50>>. That is correct. The correct concentration of Caldionine is indeed 50.
+Progladine: 2. Amalydine: 1. You say that the Caldionine concentration is <<60>>. That is correct. The correct concentration of Caldionine is indeed 60.
+Progladine: 1. Amalydine: 3. You say that the Caldionine concentration is <<30>>. That is correct. The correct concentration of Caldionine is indeed 30.
+Progladine: 4. Amalydine: 5. You say that the Caldionine concentration is <<40>>. That is correct. The correct concentration of Caldionine is indeed 40.
+Progladine: 3. Amalydine: 5. You say that the Caldionine concentration is <<30>>. That is correct. The correct concentration of Caldionine is indeed 30.
+Progladine: 5. Amalydine: 2. You say that the Caldionine concentration is <<70>>. That is incorrect. The correct concentration of Caldionine is 80.
+Progladine: 3. Amalydine: 2. You say that the Caldionine concentration is <<70>>. That is incorrect. The correct concentration of Caldionine is 60.
+Progladine: 5. Amalydine: 5. You say that the Caldionine concentration is <<50>>. That is correct. The correct concentration of Caldionine is indeed 50.
+Progladine: 2. Amalydine: 5. You say that the Caldionine concentration is <<30>>. That is incorrect. The correct concentration of Caldionine is 20.
+Progladine: 3. Amalydine: 4. You say that the Caldionine concentration is <<30>>. That is incorrect. The correct concentration of Caldionine is 40.
+Progladine: 3. Amalydine: 3. You say that the Caldionine concentration is <<50>>. That is correct. The correct concentration of Caldionine is indeed 50.
+Progladine: 1. Amalydine: 1. You say that the Caldionine concentration is <<50>>. That is correct. The correct concentration of Caldionine is indeed 50.
+Progladine: 4. Amalydine: 1. You say that the Caldionine concentration is <<80>>. That is correct. The correct concentration of Caldionine is indeed 80.
+Progladine: 4. Amalydine: 3. You say that the Caldionine concentration is <<70>>. That is incorrect. The correct concentration of Caldionine is 60.
+Progladine: 2. Amalydine: 4. You say that the Caldionine concentration is <<40>>. That is incorrect. The correct concentration of Caldionine is 30.
+Progladine: 4. Amalydine: 4. You say that the Caldionine concentration is <<50>>. That is correct. The correct concentration of Caldionine is indeed 50.
+Progladine: 1. Amalydine: 2. You say that the Caldionine concentration is <<30>>. That is incorrect. The correct concentration of Caldionine is 40.
+Progladine: 3. Amalydine: 1. You say that the Caldionine concentration is <<60>>. That is incorrect. The correct concentration of Caldionine is 70.
+Progladine: 2. Amalydine: 3. You say that the Caldionine concentration is <<30>>. That is incorrect. The correct concentration of Caldionine is 40.
+Progladine: 1. Amalydine: 4. You say that the Caldionine concentration is <<20>>. That is correct. The correct concentration of Caldionine is indeed 20.
+Progladine: 4. Amalydine: 2. You say that the Caldionine concentration is <<70>>. That is correct. The correct concentration of Caldionine is indeed 70.
+Progladine: 5. Amalydine: 4. You say that the Caldionine concentration is <<60>>. That is correct. The correct concentration of Caldionine is indeed 60.
+Progladine: 5. Amalydine: 3. You say that the Caldionine concentration is <<70>>. That is correct. The correct concentration of Caldionine is indeed 70.
+Progladine: 1. Amalydine: 2. You say that the Caldionine concentration is <<40>>. That is correct. The correct concentration of Caldionine is indeed 40.
+Progladine: 4. Amalydine: 1. You say that the Caldionine concentration is <<70>>. That is incorrect. The correct concentration of Caldionine is 80.
+Progladine: 3. Amalydine: 3. You say that the Caldionine concentration is <<50>>. That is correct. The correct concentration of Caldionine is indeed 50.
+Progladine: 3. Amalydine: 2. You say that the Caldionine concentration is <<60>>. That is correct. The correct concentration of Caldionine is indeed 60.
+Progladine: 2. Amalydine: 5. You say that the Caldionine concentration is <<20>>. That is correct. The correct concentration of Caldionine is indeed 20.
+Progladine: 1. Amalydine: 1. You say that the Caldionine concentration is <<50>>. That is correct. The correct concentration of Caldionine is indeed 50.
+Progladine: 4. Amalydine: 5. You say that the Caldionine concentration is <<40>>. That is correct. The correct concentration of Caldionine is indeed 40.
+Progladine: 5. Amalydine: 4. You say that the Caldionine concentration is <<60>>. That is correct. The correct concentration of Caldionine is indeed 60.
+Progladine: 1. Amalydine: 3. You say that the Caldionine concentration is <<30>>. That is correct. The correct concentration of Caldionine is indeed 30.
+Progladine: 3. Amalydine: 5. You say that the Caldionine concentration is <<40>>. That is incorrect. The correct concentration of Caldionine is 30.
+Progladine: 2. Amalydine: 2. You say that the Caldionine concentration is <<50>>. That is correct. The correct concentration of Caldionine is indeed 50.
+Progladine: 2. Amalydine: 4. You say that the Caldionine concentration is <<30>>. That is correct. The correct concentration of Caldionine is indeed 30.
+Progladine: 3. Amalydine: 4. You say that the Caldionine concentration is <<40>>. That is correct. The correct concentration of Caldionine is indeed 40.
+Progladine: 4. Amalydine: 3. You say that the Caldionine concentration is <<60>>. That is correct. The correct concentration of Caldionine is indeed 60.
+Progladine: 4. Amalydine: 4. You say that the Caldionine concentration is <<50>>. That is correct. The correct concentration of Caldionine is indeed 50.
+Progladine: 2. Amalydine: 1. You say that the Caldionine concentration is <<70>>. That is incorrect. The correct concentration of Caldionine is 60.
+Progladine: 2. Amalydine: 3. You say that the Caldionine concentration is <<30>>. That is incorrect. The correct concentration of Caldionine is 40.
+Progladine: 3. Amalydine: 1. You say that the Caldionine concentration is <<40>>. That is incorrect. The correct concentration of Caldionine is 70.
+Progladine: 5. Amalydine: 2. You say that the Caldionine concentration is <<80>>. That is correct. The correct concentration of Caldionine is indeed 80.
+Progladine: 1. Amalydine: 4. You say that the Caldionine concentration is <<20>>. That is correct. The correct concentration of Caldionine is indeed 20.
+Progladine: 4. Amalydine: 2. You say that the Caldionine concentration is <<70>>. That is correct. The correct concentration of Caldionine is indeed 70.
+Progladine: 5. Amalydine: 3. You say that the Caldionine concentration is <<70>>. That is correct. The correct concentration of Caldionine is indeed 70.
+Progladine: 5. Amalydine: 5. You say that the Caldionine concentration is <<50>>. That is correct. The correct concentration of Caldionine is indeed 50.
+Progladine: 4. Amalydine: 5. You say that the Caldionine concentration is <<20>>. That is incorrect. The correct concentration of Caldionine is 40.
+Progladine: 2. Amalydine: 5. You say that the Caldionine concentration is <<20>>. That is correct. The correct concentration of Caldionine is indeed 20.
+Progladine: 2. Amalydine: 2. You say that the Caldionine concentration is <<50>>. That is correct. The correct concentration of Caldionine is indeed 50.
+Progladine: 3. Amalydine: 5. You say that the Caldionine concentration is <<30>>. That is correct. The correct concentration of Caldionine is indeed 30.
+Progladine: 2. Amalydine: 1. You say that the Caldionine concentration is <<60>>. That is correct. The correct concentration of Caldionine is indeed 60.
+Progladine: 2. Amalydine: 4. You say that the Caldionine concentration is <<30>>. That is correct. The correct concentration of Caldionine is indeed 30.
+Progladine: 5. Amalydine: 2. You say that the Caldionine concentration is <<80>>. That is correct. The correct concentration of Caldionine is indeed 80.
+Progladine: 5. Amalydine: 3. You say that the Caldionine concentration is <<70>>. That is correct. The correct concentration of Caldionine is indeed 70.
+Progladine: 3. Amalydine: 3. You say that the Caldionine concentration is <<50>>. That is correct. The correct concentration of Caldionine is indeed 50.
+Progladine: 1. Amalydine: 1. You say that the Caldionine concentration is <<50>>. That is correct. The correct concentration of Caldionine is indeed 50.
+Progladine: 3. Amalydine: 2. You say that the Caldionine concentration is <<60>>. That is correct. The correct concentration of Caldionine is indeed 60.
+Progladine: 1. Amalydine: 3. You say that the Caldionine concentration is <<40>>. That is incorrect. The correct concentration of Caldionine is 30.
+Progladine: 3. Amalydine: 4. You say that the Caldionine concentration is <<40>>. That is correct. The correct concentration of Caldionine is indeed 40.
+Progladine: 1. Amalydine: 4. You say that the Caldionine concentration is <<20>>. That is correct. The correct concentration of Caldionine is indeed 20.
+Progladine: 4. Amalydine: 1. You say that the Caldionine concentration is <<80>>. That is correct. The correct concentration of Caldionine is indeed 80.
+Progladine: 5. Amalydine: 4. You say that the Caldionine concentration is <<80>>. That is incorrect. The correct concentration of Caldionine is 60.
+Progladine: 1. Amalydine: 2. You say that the Caldionine concentration is <<40>>. That is correct. The correct concentration of Caldionine is indeed 40.
+Progladine: 2. Amalydine: 3. You say that the Caldionine concentration is <<30>>. That is incorrect. The correct concentration of Caldionine is 40.
+Progladine: 3. Amalydine: 1. You say that the Caldionine concentration is <<70>>. That is correct. The correct concentration of Caldionine is indeed 70.
+Progladine: 5. Amalydine: 5. You say that the Caldionine concentration is <<50>>. That is correct. The correct concentration of Caldionine is indeed 50.
+Progladine: 4. Amalydine: 2. You say that the Caldionine concentration is <<70>>. That is correct. The correct concentration of Caldionine is indeed 70.
+Progladine: 4. Amalydine: 4. You say that the Caldionine concentration is <<50>>. That is correct. The correct concentration of Caldionine is indeed 50.
+Progladine: 4. Amalydine: 3. You say that the Caldionine concentration is <<60>>. That is correct. The correct concentration of Caldionine is indeed 60.
+Progladine: 2. Amalydine: 3. You say that the Caldionine concentration is <<40>>. That is correct. The correct concentration of Caldionine is indeed 40.
+Progladine: 2. Amalydine: 5. You say that the Caldionine concentration is <<30>>. That is incorrect. The correct concentration of Caldionine is 20.
+Progladine: 4. Amalydine: 2. You say that the Caldionine concentration is <<70>>. That is correct. The correct concentration of Caldionine is indeed 70.
+Progladine: 5. Amalydine: 5. You say that the Caldionine concentration is <<50>>. That is correct. The correct concentration of Caldionine is indeed 50.
+Progladine: 3. Amalydine: 1. You say that the Caldionine concentration is <<70>>. That is correct. The correct concentration of Caldionine is indeed 70.
+Progladine: 3. Amalydine: 4. You say that the Caldionine concentration is <<40>>. That is correct. The correct concentration of Caldionine is indeed 40.
+Progladine: 3. Amalydine: 5. You say that the Caldionine concentration is <<30>>. That is correct. The correct concentration of Caldionine is indeed 30.
+Progladine: 5. Amalydine: 3. You say that the Caldionine concentration is <<70>>. That is correct. The correct concentration of Caldionine is indeed 70.
+Progladine: 1. Amalydine: 2. You say that the Caldionine concentration is <<40>>. That is correct. The correct concentration of Caldionine is indeed 40.
+Progladine: 1. Amalydine: 1. You say that the Caldionine concentration is <<50>>. That is correct. The correct concentration of Caldionine is indeed 50.
+Progladine: 4. Amalydine: 4. You say that the Caldionine concentration is <<50>>. That is correct. The correct concentration of Caldionine is indeed 50.
+Progladine: 2. Amalydine: 2. You say that the Caldionine concentration is <<50>>. That is correct. The correct concentration of Caldionine is indeed 50.
+Progladine: 1. Amalydine: 3. You say that the Caldionine concentration is <<30>>. That is correct. The correct concentration of Caldionine is indeed 30.
+Progladine: 4. Amalydine: 3. You say that the Caldionine concentration is <<60>>. That is correct. The correct concentration of Caldionine is indeed 60.
+Progladine: 4. Amalydine: 1. You say that the Caldionine concentration is <<80>>. That is correct. The correct concentration of Caldionine is indeed 80.
+Progladine: 5. Amalydine: 2. You say that the Caldionine concentration is <<80>>. That is correct. The correct concentration of Caldionine is indeed 80.
+Progladine: 3. Amalydine: 3. You say that the Caldionine concentration is <<50>>. That is correct. The correct concentration of Caldionine is indeed 50.
+Progladine: 4. Amalydine: 5. You say that the Caldionine concentration is <<40>>. That is correct. The correct concentration of Caldionine is indeed 40.
+Progladine: 2. Amalydine: 1. You say that the Caldionine concentration is <<60>>. That is correct. The correct concentration of Caldionine is indeed 60.
+Progladine: 3. Amalydine: 2. You say that the Caldionine concentration is <<60>>. That is correct. The correct concentration of Caldionine is indeed 60.
+Progladine: 1. Amalydine: 4. You say that the Caldionine concentration is <<20>>. That is correct. The correct concentration of Caldionine is indeed 20.
+Progladine: 5. Amalydine: 4. You say that the Caldionine concentration is <<60>>. That is correct. The correct concentration of Caldionine is indeed 60.
+Progladine: 2. Amalydine: 4. You say that the Caldionine concentration is <<30>>. That is correct. The correct concentration of Caldionine is indeed 30.
+Progladine: 4. Amalydine: 4. You say that the Caldionine concentration is <<50>>. That is correct. The correct concentration of Caldionine is indeed 50.
+Progladine: 4. Amalydine: 1. You say that the Caldionine concentration is <<80>>. That is correct. The correct concentration of Caldionine is indeed 80.
+Progladine: 2. Amalydine: 4. You say that the Caldionine concentration is <<30>>. That is correct. The correct concentration of Caldionine is indeed 30.
+Progladine: 2. Amalydine: 1. You say that the Caldionine concentration is <<60>>. That is correct. The correct concentration of Caldionine is indeed 60.
+Progladine: 5. Amalydine: 2. You say that the Caldionine concentration is <<80>>. That is correct. The correct concentration of Caldionine is indeed 80.
+Progladine: 3. Amalydine: 5. You say that the Caldionine concentration is <<30>>. That is correct. The correct concentration of Caldionine is indeed 30.
+Progladine: 5. Amalydine: 5. You say that the Caldionine concentration is <<50>>. That is correct. The correct concentration of Caldionine is indeed 50.
+Progladine: 2. Amalydine: 2. You say that the Caldionine concentration is <<50>>. That is correct. The correct concentration of Caldionine is indeed 50.
+Progladine: 1. Amalydine: 4. You say that the Caldionine concentration is <<20>>. That is correct. The correct concentration of Caldionine is indeed 20.
+Progladine: 3. Amalydine: 3. You say that the Caldionine concentration is <<50>>. That is correct. The correct concentration of Caldionine is indeed 50.
+Progladine: 4. Amalydine: 5. You say that the Caldionine concentration is <<40>>. That is correct. The correct concentration of Caldionine is indeed 40.
+Progladine: 4. Amalydine: 2. You say that the Caldionine concentration is <<70>>. That is correct. The correct concentration of Caldionine is indeed 70.
+Progladine: 5. Amalydine: 4. You say that the Caldionine concentration is <<60>>. That is correct. The correct concentration of Caldionine is indeed 60.
+Progladine: 3. Amalydine: 1. You say that the Caldionine concentration is <<70>>. That is correct. The correct concentration of Caldionine is indeed 70.
+Progladine: 2. Amalydine: 5. You say that the Caldionine concentration is <<20>>. That is correct. The correct concentration of Caldionine is indeed 20.
+Progladine: 5. Amalydine: 3. You say that the Caldionine concentration is <<70>>. That is correct. The correct concentration of Caldionine is indeed 70.
+Progladine: 3. Amalydine: 2. You say that the Caldionine concentration is <<70>>. That is incorrect. The correct concentration of Caldionine is 60.
+Progladine: 1. Amalydine: 3. You say that the Caldionine concentration is <<30>>. That is correct. The correct concentration of Caldionine is indeed 30.
+Progladine: 1. Amalydine: 1. You say that the Caldionine concentration is <<50>>. That is correct. The correct concentration of Caldionine is indeed 50.
+Progladine: 4. Amalydine: 3. You say that the Caldionine concentration is <<60>>. That is correct. The correct concentration of Caldionine is indeed 60.
+Progladine: 3. Amalydine: 4. You say that the Caldionine concentration is <<30>>. That is incorrect. The correct concentration of Caldionine is 40.
+Progladine: 2. Amalydine: 3. You say that the Caldionine concentration is <<40>>. That is correct. The correct concentration of Caldionine is indeed 40.
+Progladine: 1. Amalydine: 2. You say that the Caldionine concentration is <<40>>. That is correct. The correct concentration of Caldionine is indeed 40.
+Progladine: 3. Amalydine: 2. You say that the Caldionine concentration is <<60>>. That is correct. The correct concentration of Caldionine is indeed 60.
+Progladine: 3. Amalydine: 1. You say that the Caldionine concentration is <<70>>. That is correct. The correct concentration of Caldionine is indeed 70.
+Progladine: 1. Amalydine: 3. You say that the Caldionine concentration is <<40>>. That is incorrect. The correct concentration of Caldionine is 30.
+Progladine: 2. Amalydine: 2. You say that the Caldionine concentration is <<50>>. That is correct. The correct concentration of Caldionine is indeed 50.
+Progladine: 2. Amalydine: 3. You say that the Caldionine concentration is <<40>>. That is correct. The correct concentration of Caldionine is indeed 40.
+Progladine: 2. Amalydine: 4. You say that the Caldionine concentration is <<30>>. That is correct. The correct concentration of Caldionine is indeed 30.
+Progladine: 2. Amalydine: 1. You say that the Caldionine concentration is <<60>>. That is correct. The correct concentration of Caldionine is indeed 60.
+Progladine: 4. Amalydine: 5. You say that the Caldionine concentration is <<40>>. That is correct. The correct concentration of Caldionine is indeed 40.
+Progladine: 4. Amalydine: 1. You say that the Caldionine concentration is <<80>>. That is correct. The correct concentration of Caldionine is indeed 80.
+Progladine: 4. Amalydine: 4. You say that the Caldionine concentration is <<50>>. That is correct. The correct concentration of Caldionine is indeed 50.
+Progladine: 1. Amalydine: 1. You say that the Caldionine concentration is <<50>>. That is correct. The correct concentration of Caldionine is indeed 50.
+Progladine: 2. Amalydine: 5. You say that the Caldionine concentration is <<20>>. That is correct. The correct concentration of Caldionine is indeed 20.
+Progladine: 1. Amalydine: 2. You say that the Caldionine concentration is <<40>>. That is correct. The correct concentration of Caldionine is indeed 40.
+Progladine: 1. Amalydine: 4. You say that the Caldionine concentration is <<20>>. That is correct. The correct concentration of Caldionine is indeed 20.
+Progladine: 5. Amalydine: 2. You say that the Caldionine concentration is <<80>>. That is correct. The correct concentration of Caldionine is indeed 80.
+Progladine: 5. Amalydine: 5. You say that the Caldionine concentration is <<50>>. That is correct. The correct concentration of Caldionine is indeed 50.
+Progladine: 3. Amalydine: 4. You say that the Caldionine concentration is <<40>>. That is correct. The correct concentration of Caldionine is indeed 40.
+Progladine: 3. Amalydine: 3. You say that the Caldionine concentration is <<50>>. That is correct. The correct concentration of Caldionine is indeed 50.
+Progladine: 5. Amalydine: 3. You say that the Caldionine concentration is <<70>>. That is correct. The correct concentration of Caldionine is indeed 70.
+Progladine: 5. Amalydine: 4. You say that the Caldionine concentration is <<60>>. That is correct. The correct concentration of Caldionine is indeed 60.
+Progladine: 4. Amalydine: 2. You say that the Caldionine concentration is <<70>>. That is correct. The correct concentration of Caldionine is indeed 70.
+Progladine: 3. Amalydine: 5. You say that the Caldionine concentration is <<30>>. That is correct. The correct concentration of Caldionine is indeed 30.
+Progladine: 4. Amalydine: 3. You say that the Caldionine concentration is <<60>>. That is correct. The correct concentration of Caldionine is indeed 60.
+Progladine: 3. Amalydine: 3. You say that the Caldionine concentration is <<50>>. That is correct. The correct concentration of Caldionine is indeed 50.
+Progladine: 1. Amalydine: 3. You say that the Caldionine concentration is <<30>>. That is correct. The correct concentration of Caldionine is indeed 30.
+Progladine: 4. Amalydine: 1. You say that the Caldionine concentration is <<80>>. That is correct. The correct concentration of Caldionine is indeed 80.
+Progladine: 5. Amalydine: 3. You say that the Caldionine concentration is <<70>>. That is correct. The correct concentration of Caldionine is indeed 70.
+Progladine: 5. Amalydine: 2. You say that the Caldionine concentration is <<80>>. That is correct. The correct concentration of Caldionine is indeed 80.
+Progladine: 2. Amalydine: 5. You say that the Caldionine concentration is <<20>>. That is correct. The correct concentration of Caldionine is indeed 20.
+Progladine: 4. Amalydine: 5. You say that the Caldionine concentration is <<40>>. That is correct. The correct concentration of Caldionine is indeed 40.
+Progladine: 4. Amalydine: 4. You say that the Caldionine concentration is <<50>>. That is correct. The correct concentration of Caldionine is indeed 50.
+Progladine: 3. Amalydine: 2. You say that the Caldionine concentration is <<60>>. That is correct. The correct concentration of Caldionine is indeed 60.
+Progladine: 1. Amalydine: 1. You say that the Caldionine concentration is <<50>>. That is correct. The correct concentration of Caldionine is indeed 50.
+Progladine: 5. Amalydine: 5. You say that the Caldionine concentration is <<50>>. That is correct. The correct concentration of Caldionine is indeed 50.
+Progladine: 4. Amalydine: 3. You say that the Caldionine concentration is <<60>>. That is correct. The correct concentration of Caldionine is indeed 60.
+Progladine: 5. Amalydine: 4. You say that the Caldionine concentration is <<40>>. That is incorrect. The correct concentration of Caldionine is 60.
+Progladine: 2. Amalydine: 2. You say that the Caldionine concentration is <<50>>. That is correct. The correct concentration of Caldionine is indeed 50.
+Progladine: 3. Amalydine: 1. You say that the Caldionine concentration is <<70>>. That is correct. The correct concentration of Caldionine is indeed 70.
+Progladine: 2. Amalydine: 3. You say that the Caldionine concentration is <<40>>. That is correct. The correct concentration of Caldionine is indeed 40.
+Progladine: 1. Amalydine: 2. You say that the Caldionine concentration is <<40>>. That is correct. The correct concentration of Caldionine is indeed 40.
+Progladine: 2. Amalydine: 4. You say that the Caldionine concentration is <<30>>. That is correct. The correct concentration of Caldionine is indeed 30.
+Progladine: 3. Amalydine: 4. You say that the Caldionine concentration is <<40>>. That is correct. The correct concentration of Caldionine is indeed 40.
+Progladine: 4. Amalydine: 2. You say that the Caldionine concentration is <<70>>. That is correct. The correct concentration of Caldionine is indeed 70.
+Progladine: 3. Amalydine: 5. You say that the Caldionine concentration is <<30>>. That is correct. The correct concentration of Caldionine is indeed 30.
+Progladine: 1. Amalydine: 4. You say that the Caldionine concentration is <<20>>. That is correct. The correct concentration of Caldionine is indeed 20.
+Progladine: 2. Amalydine: 1. You say that the Caldionine concentration is <<60>>. That is correct. The correct concentration of Caldionine is indeed 60.
+Progladine: 4. Amalydine: 5. You say that the Caldionine concentration is <<40>>. That is correct. The correct concentration of Caldionine is indeed 40.
+Progladine: 5. Amalydine: 4. You say that the Caldionine concentration is <<60>>. That is correct. The correct concentration of Caldionine is indeed 60.
+Progladine: 5. Amalydine: 3. You say that the Caldionine concentration is <<70>>. That is correct. The correct concentration of Caldionine is indeed 70.
+Progladine: 4. Amalydine: 2. You say that the Caldionine concentration is <<70>>. That is correct. The correct concentration of Caldionine is indeed 70.
+Progladine: 3. Amalydine: 1. You say that the Caldionine concentration is <<70>>. That is correct. The correct concentration of Caldionine is indeed 70.
+Progladine: 5. Amalydine: 5. You say that the Caldionine concentration is <<50>>. That is correct. The correct concentration of Caldionine is indeed 50.
+Progladine: 3. Amalydine: 2. You say that the Caldionine concentration is <<60>>. That is correct. The correct concentration of Caldionine is indeed 60.
+Progladine: 2. Amalydine: 2. You say that the Caldionine concentration is <<50>>. That is correct. The correct concentration of Caldionine is indeed 50.
+Progladine: 1. Amalydine: 4. You say that the Caldionine concentration is <<20>>. That is correct. The correct concentration of Caldionine is indeed 20.
+Progladine: 3. Amalydine: 5. You say that the Caldionine concentration is <<30>>. That is correct. The correct concentration of Caldionine is indeed 30.
+Progladine: 1. Amalydine: 2. You say that the Caldionine concentration is <<40>>. That is correct. The correct concentration of Caldionine is indeed 40.
+Progladine: 3. Amalydine: 3. You say that the Caldionine concentration is <<50>>. That is correct. The correct concentration of Caldionine is indeed 50.
+Progladine: 2. Amalydine: 1. You say that the Caldionine concentration is <<60>>. That is correct. The correct concentration of Caldionine is indeed 60.
+Progladine: 3. Amalydine: 4. You say that the Caldionine concentration is <<40>>. That is correct. The correct concentration of Caldionine is indeed 40.
+Progladine: 4. Amalydine: 1. You say that the Caldionine concentration is <<80>>. That is correct. The correct concentration of Caldionine is indeed 80.
+Progladine: 4. Amalydine: 3. You say that the Caldionine concentration is <<60>>. That is correct. The correct concentration of Caldionine is indeed 60.
+Progladine: 2. Amalydine: 4. You say that the Caldionine concentration is <<30>>. That is correct. The correct concentration of Caldionine is indeed 30.
+Progladine: 2. Amalydine: 3. You say that the Caldionine concentration is <<40>>. That is correct. The correct concentration of Caldionine is indeed 40.
+Progladine: 1. Amalydine: 3. You say that the Caldionine concentration is <<30>>. That is correct. The correct concentration of Caldionine is indeed 30.
+Progladine: 1. Amalydine: 1. You say that the Caldionine concentration is <<50>>. That is correct. The correct concentration of Caldionine is indeed 50.
+Progladine: 5. Amalydine: 2. You say that the Caldionine concentration is <<80>>. That is correct. The correct concentration of Caldionine is indeed 80.
+Progladine: 2. Amalydine: 5. You say that the Caldionine concentration is <<20>>. That is correct. The correct concentration of Caldionine is indeed 20.
+Progladine: 4. Amalydine: 4. You say that the Caldionine concentration is <<50>>. That is correct. The correct concentration of Caldionine is indeed 50.
+Progladine: 2. Amalydine: 3. You say that the Caldionine concentration is <<40>>. That is correct. The correct concentration of Caldionine is indeed 40.
+Progladine: 1. Amalydine: 3. You say that the Caldionine concentration is <<30>>. That is correct. The correct concentration of Caldionine is indeed 30.
+Progladine: 4. Amalydine: 4. You say that the Caldionine concentration is <<50>>. That is correct. The correct concentration of Caldionine is indeed 50.
+Progladine: 1. Amalydine: 4. You say that the Caldionine concentration is <<20>>. That is correct. The correct concentration of Caldionine is indeed 20.
+Progladine: 5. Amalydine: 4. You say that the Caldionine concentration is <<60>>. That is correct. The correct concentration of Caldionine is indeed 60.
+Progladine: 2. Amalydine: 4. You say that the Caldionine concentration is <<30>>. That is correct. The correct concentration of Caldionine is indeed 30.
+Progladine: 4. Amalydine: 2. You say that the Caldionine concentration is <<70>>. That is correct. The correct concentration of Caldionine is indeed 70.
+Progladine: 1. Amalydine: 1. You say that the Caldionine concentration is <<50>>. That is correct. The correct concentration of Caldionine is indeed 50.
+Progladine: 5. Amalydine: 3. You say that the Caldionine concentration is <<70>>. That is correct. The correct concentration of Caldionine is indeed 70.
+Progladine: 5. Amalydine: 5. You say that the Caldionine concentration is <<50>>. That is correct. The correct concentration of Caldionine is indeed 50.
+Progladine: 3. Amalydine: 3. You say that the Caldionine concentration is <<50>>. That is correct. The correct concentration of Caldionine is indeed 50.
+Progladine: 2. Amalydine: 2. You say that the Caldionine concentration is <<50>>. That is correct. The correct concentration of Caldionine is indeed 50.
+Progladine: 1. Amalydine: 2. You say that the Caldionine concentration is <<40>>. That is correct. The correct concentration of Caldionine is indeed 40.
+Progladine: 3. Amalydine: 2. You say that the Caldionine concentration is <<60>>. That is correct. The correct concentration of Caldionine is indeed 60.
+Progladine: 4. Amalydine: 5. You say that the Caldionine concentration is <<40>>. That is correct. The correct concentration of Caldionine is indeed 40.
+Progladine: 3. Amalydine: 5. You say that the Caldionine concentration is <<30>>. That is correct. The correct concentration of Caldionine is indeed 30.
+Progladine: 4. Amalydine: 1. You say that the Caldionine concentration is <<80>>. That is correct. The correct concentration of Caldionine is indeed 80.
+Progladine: 2. Amalydine: 5. You say that the Caldionine concentration is <<20>>. That is correct. The correct concentration of Caldionine is indeed 20.
+Progladine: 4. Amalydine: 3. You say that the Caldionine concentration is <<60>>. That is correct. The correct concentration of Caldionine is indeed 60.
+Progladine: 3. Amalydine: 1. You say that the Caldionine concentration is <<70>>. That is correct. The correct concentration of Caldionine is indeed 70.
+Progladine: 5. Amalydine: 2. You say that the Caldionine concentration is <<80>>. That is correct. The correct concentration of Caldionine is indeed 80.
+Progladine: 3. Amalydine: 4. You say that the Caldionine concentration is <<40>>. That is correct. The correct concentration of Caldionine is indeed 40.
+Progladine: 2. Amalydine: 1. You say that the Caldionine concentration is <<60>>. That is correct. The correct concentration of Caldionine is indeed 60.
+Progladine: 2. Amalydine: 4. You say that the Caldionine concentration is <<30>>. 
+Progladine: 3. Amalydine: 3. You say that the Caldionine concentration is <<50>>. 
+Progladine: 2. Amalydine: 2. You say that the Caldionine concentration is <<50>>. 
+Progladine: 4. Amalydine: 4. You say that the Caldionine concentration is <<50>>. 
+Progladine: 3. Amalydine: 4. You say that the Caldionine concentration is <<40>>. 
+Progladine: 1. Amalydine: 4. You say that the Caldionine concentration is <<20>>. 
+Progladine: 4. Amalydine: 2. You say that the Caldionine concentration is <<70>>. 
+Progladine: 3. Amalydine: 5. You say that the Caldionine concentration is <<30>>. 
+Progladine: 1. Amalydine: 5. You say that the Caldionine concentration is <<10>>. 
+Progladine: 1. Amalydine: 1. You say that the Caldionine concentration is <<50>>. 
+Progladine: 2. Amalydine: 1. You say that the Caldionine concentration is <<60>>. 
+Progladine: 2. Amalydine: 3. You say that the Caldionine concentration is <<40>>. 
+Progladine: 1. Amalydine: 2. You say that the Caldionine concentration is <<40>>. 
+Progladine: 1. Amalydine: 3. You say that the Caldionine concentration is <<30>>. 
+Progladine: 5. Amalydine: 2. You say that the Caldionine concentration is <<80>>. 
+Progladine: 5. Amalydine: 4. You say that the Caldionine concentration is <<60>>. 
+Progladine: 2. Amalydine: 5. You say that the Caldionine concentration is <<20>>. 
+Progladine: 3. Amalydine: 2. You say that the Caldionine concentration is <<60>>. 
+Progladine: 5. Amalydine: 3. You say that the Caldionine concentration is <<70>>. 
+Progladine: 4. Amalydine: 5. You say that the Caldionine concentration is <<40>>. 
+Progladine: 4. Amalydine: 1. You say that the Caldionine concentration is <<80>>. 
+Progladine: 5. Amalydine: 1. You say that the Caldionine concentration is <<90>>. 
+Progladine: 3. Amalydine: 1. You say that the Caldionine concentration is <<70>>. 
+Progladine: 5. Amalydine: 5. You say that the Caldionine concentration is <<50>>. 
+Progladine: 4. Amalydine: 3. You say that the Caldionine concentration is <<60>>. 
+Progladine: 3. Amalydine: 3. You say that the Caldionine concentration is <<50>>. 
+Progladine: 5. Amalydine: 4. You say that the Caldionine concentration is <<60>>. 
+Progladine: 1. Amalydine: 5. You say that the Caldionine concentration is <<10>>. 
+Progladine: 1. Amalydine: 3. You say that the Caldionine concentration is <<30>>. 
+Progladine: 3. Amalydine: 4. You say that the Caldionine concentration is <<40>>. 
+Progladine: 5. Amalydine: 3. You say that the Caldionine concentration is <<70>>. 
+Progladine: 2. Amalydine: 1. You say that the Caldionine concentration is <<60>>. 
+Progladine: 2. Amalydine: 5. You say that the Caldionine concentration is <<20>>. 
+Progladine: 3. Amalydine: 1. You say that the Caldionine concentration is <<70>>. 
+Progladine: 5. Amalydine: 2. You say that the Caldionine concentration is <<80>>. 
+Progladine: 2. Amalydine: 3. You say that the Caldionine concentration is <<40>>. 
+Progladine: 2. Amalydine: 4. You say that the Caldionine concentration is <<30>>. 
+Progladine: 4. Amalydine: 3. You say that the Caldionine concentration is <<60>>. 
+Progladine: 1. Amalydine: 4. You say that the Caldionine concentration is <<20>>. 
+Progladine: 3. Amalydine: 5. You say that the Caldionine concentration is <<30>>. 
+Progladine: 4. Amalydine: 4. You say that the Caldionine concentration is <<50>>. 
+Progladine: 5. Amalydine: 1. You say that the Caldionine concentration is <<90>>. 
+Progladine: 4. Amalydine: 1. You say that the Caldionine concentration is <<80>>. 
+Progladine: 4. Amalydine: 2. You say that the Caldionine concentration is <<70>>. 
+Progladine: 1. Amalydine: 2. You say that the Caldionine concentration is <<40>>. 
+Progladine: 5. Amalydine: 5. You say that the Caldionine concentration is <<50>>. 
+Progladine: 3. Amalydine: 2. You say that the Caldionine concentration is <<60>>. 
+Progladine: 2. Amalydine: 2. You say that the Caldionine concentration is <<50>>. 
+Progladine: 4. Amalydine: 5. You say that the Caldionine concentration is <<40>>. 
+Progladine: 1. Amalydine: 1. You say that the Caldionine concentration is <<50>>. 

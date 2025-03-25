@@ -1,0 +1,172 @@
+You will observe a series of objects, one at a time.
+The objects differ along three binary dimensions: shape (square vs. triangle), size (1.50 inch vs. 0.75 inch), and shading (black vs. white).
+Each dimension is indicated by the three digits, for example, '121' means a square, 0.75 inch, black object.
+Based on some combination of the three dimensions, each object belongs to one of two categories, Q or J.
+You have to assign each object to one of the two categories by pressing the corresponding key.
+If your choice is correct, you get a point, otherwise you lose a point.
+Your goal is to get as many points as possible.
+At some point, you begin a 'test block' in which you will see eight objects.
+Here, you have to assign each object to one of the two categories as before.
+Furthermore, you have to rate how typical the object is for the category you chose, on a scale from 1 to 9.
+1 means 'not at all typical', and 9 means 'most typical'.
+
+You see the image 221, press <<J>> and get 0 points.
+You see the image 222, press <<Q>> and get 0 points.
+You see the image 121, press <<Q>> and get 0 points.
+You see the image 112, press <<J>> and get 1 points.
+You see the image 212, press <<J>> and get 0 points.
+You see the image 111, press <<Q>> and get 1 points.
+You see the image 121, press <<Q>> and get 0 points.
+You see the image 111, press <<J>> and get 0 points.
+You see the image 222, press <<Q>> and get 0 points.
+You see the image 212, press <<Q>> and get 1 points.
+You see the image 221, press <<Q>> and get 1 points.
+You see the image 112, press <<Q>> and get 0 points.
+You see the image 111, press <<Q>> and get 1 points.
+You see the image 121, press <<Q>> and get 0 points.
+You see the image 212, press <<Q>> and get 1 points.
+You see the image 221, press <<Q>> and get 1 points.
+You see the image 112, press <<J>> and get 1 points.
+You see the image 222, press <<Q>> and get 0 points.
+You see the image 222, press <<J>> and get 1 points.
+You see the image 112, press <<Q>> and get 0 points.
+You see the image 212, press <<J>> and get 0 points.
+You see the image 221, press <<Q>> and get 1 points.
+You see the image 111, press <<Q>> and get 1 points.
+You see the image 121, press <<Q>> and get 0 points.
+You see the image 111, press <<J>> and get 0 points.
+You see the image 221, press <<Q>> and get 1 points.
+You see the image 121, press <<Q>> and get 0 points.
+You see the image 112, press <<J>> and get 1 points.
+You see the image 222, press <<J>> and get 1 points.
+You see the image 212, press <<J>> and get 0 points.
+You see the image 212, press <<Q>> and get 1 points.
+You see the image 112, press <<Q>> and get 0 points.
+You see the image 121, press <<J>> and get 1 points.
+You see the image 222, press <<J>> and get 1 points.
+You see the image 111, press <<J>> and get 0 points.
+You see the image 221, press <<Q>> and get 1 points.
+You see the image 112, press <<Q>> and get 0 points.
+You see the image 222, press <<Q>> and get 0 points.
+You see the image 111, press <<Q>> and get 1 points.
+You see the image 121, press <<J>> and get 1 points.
+You see the image 221, press <<J>> and get 0 points.
+You see the image 212, press <<Q>> and get 1 points.
+You see the image 221, press <<Q>> and get 1 points.
+You see the image 111, press <<J>> and get 0 points.
+You see the image 121, press <<J>> and get 1 points.
+You see the image 112, press <<J>> and get 1 points.
+You see the image 212, press <<Q>> and get 1 points.
+You see the image 222, press <<Q>> and get 0 points.
+You see the image 112, press <<J>> and get 1 points.
+You see the image 121, press <<J>> and get 1 points.
+You see the image 111, press <<J>> and get 0 points.
+You see the image 212, press <<Q>> and get 1 points.
+You see the image 222, press <<Q>> and get 0 points.
+You see the image 221, press <<J>> and get 0 points.
+You see the image 112, press <<J>> and get 1 points.
+You see the image 212, press <<J>> and get 0 points.
+You see the image 222, press <<Q>> and get 0 points.
+You see the image 111, press <<Q>> and get 1 points.
+You see the image 221, press <<Q>> and get 1 points.
+You see the image 121, press <<Q>> and get 0 points.
+You see the image 212, press <<J>> and get 0 points.
+You see the image 111, press <<J>> and get 0 points.
+You see the image 112, press <<J>> and get 1 points.
+You see the image 221, press <<Q>> and get 1 points.
+You see the image 222, press <<Q>> and get 0 points.
+You see the image 121, press <<J>> and get 1 points.
+You see the image 111, press <<Q>> and get 1 points.
+You see the image 212, press <<Q>> and get 1 points.
+You see the image 221, press <<J>> and get 0 points.
+You see the image 222, press <<Q>> and get 0 points.
+You see the image 112, press <<J>> and get 1 points.
+You see the image 121, press <<J>> and get 1 points.
+You see the image 212, press <<J>> and get 0 points.
+You see the image 112, press <<Q>> and get 0 points.
+You see the image 111, press <<J>> and get 0 points.
+You see the image 222, press <<J>> and get 1 points.
+You see the image 221, press <<J>> and get 0 points.
+You see the image 121, press <<Q>> and get 0 points.
+You see the image 212, press <<J>> and get 0 points.
+You see the image 221, press <<Q>> and get 1 points.
+You see the image 121, press <<Q>> and get 0 points.
+You see the image 112, press <<J>> and get 1 points.
+You see the image 111, press <<Q>> and get 1 points.
+You see the image 222, press <<J>> and get 1 points.
+You see the image 212, press <<Q>> and get 1 points.
+You see the image 221, press <<Q>> and get 1 points.
+You see the image 112, press <<J>> and get 1 points.
+You see the image 222, press <<Q>> and get 0 points.
+You see the image 111, press <<J>> and get 0 points.
+You see the image 121, press <<Q>> and get 0 points.
+You see the image 112, press <<J>> and get 1 points.
+You see the image 212, press <<J>> and get 0 points.
+You see the image 121, press <<Q>> and get 0 points.
+You see the image 111, press <<J>> and get 0 points.
+You see the image 221, press <<Q>> and get 1 points.
+You see the image 222, press <<Q>> and get 0 points.
+You see the image 111, press <<J>> and get 0 points.
+You see the image 221, press <<J>> and get 0 points.
+You see the image 112, press <<Q>> and get 0 points.
+You see the image 121, press <<J>> and get 1 points.
+You see the image 222, press <<J>> and get 1 points.
+You see the image 212, press <<Q>> and get 1 points.
+You see the image 222, press <<J>> and get 1 points.
+You see the image 112, press <<Q>> and get 0 points.
+You see the image 121, press <<J>> and get 1 points.
+You see the image 111, press <<Q>> and get 1 points.
+You see the image 212, press <<J>> and get 0 points.
+You see the image 221, press <<J>> and get 0 points.
+You see the image 212, press <<Q>> and get 1 points.
+You see the image 121, press <<Q>> and get 0 points.
+You see the image 111, press <<Q>> and get 1 points.
+You see the image 112, press <<Q>> and get 0 points.
+You see the image 222, press <<Q>> and get 0 points.
+You see the image 221, press <<J>> and get 0 points.
+You see the image 222, press <<Q>> and get 0 points.
+You see the image 212, press <<J>> and get 0 points.
+You see the image 121, press <<Q>> and get 0 points.
+You see the image 221, press <<J>> and get 0 points.
+You see the image 112, press <<Q>> and get 0 points.
+You see the image 111, press <<J>> and get 0 points.
+You see the image 111, press <<Q>> and get 1 points.
+You see the image 212, press <<Q>> and get 1 points.
+You see the image 112, press <<J>> and get 1 points.
+You see the image 121, press <<J>> and get 1 points.
+You see the image 221, press <<J>> and get 0 points.
+You see the image 222, press <<Q>> and get 0 points.
+You see the image 121, press <<J>> and get 1 points.
+You see the image 112, press <<J>> and get 1 points.
+You see the image 111, press <<Q>> and get 1 points.
+You see the image 212, press <<J>> and get 0 points.
+You see the image 221, press <<Q>> and get 1 points.
+You see the image 222, press <<J>> and get 1 points.
+You see the image 121, press <<J>> and get 1 points.
+You see the image 112, press <<Q>> and get 0 points.
+You see the image 222, press <<Q>> and get 0 points.
+You see the image 111, press <<J>> and get 0 points.
+You see the image 221, press <<Q>> and get 1 points.
+You see the image 212, press <<J>> and get 0 points.
+You see the image 222, press <<Q>> and get 0 points.
+You see the image 112, press <<J>> and get 1 points.
+You see the image 111, press <<J>> and get 0 points.
+You see the image 212, press <<Q>> and get 1 points.
+You see the image 121, press <<J>> and get 1 points.
+You see the image 221, press <<J>> and get 0 points.
+You see the image 221, press <<J>> and get 0 points.
+You see the image 212, press <<Q>> and get 1 points.
+You see the image 121, press <<J>> and get 1 points.
+You see the image 112, press <<J>> and get 1 points.
+You see the image 111, press <<Q>> and get 1 points.
+You see the image 222, press <<J>> and get 1 points.
+
+Test block:
+You see the image 212, press <<J>> and judged the typicality to be <<5>>.
+You see the image 121, press <<J>> and judged the typicality to be <<7>>.
+You see the image 221, press <<Q>> and judged the typicality to be <<9>>.
+You see the image 222, press <<J>> and judged the typicality to be <<9>>.
+You see the image 211, press <<J>> and judged the typicality to be <<7>>.
+You see the image 122, press <<Q>> and judged the typicality to be <<3>>.
+You see the image 111, press <<J>> and judged the typicality to be <<8>>.
+You see the image 112, press <<Q>> and judged the typicality to be <<3>>.

@@ -1,0 +1,376 @@
+
+You will view a series of digits and are then asked to recall them in the order you have seen them by pressing the corresponding keys.
+After having recalled all digits, please press 'G' to indicate the end of your recalled sequence.
+
+The digits are the following: [9, 2, 7]
+You press <<9>>.
+You press <<2>>.
+You press <<7>>.
+You press <<G>>. 
+
+You will view a series of digits and are then asked to recall them in the order you have seen them by pressing the corresponding keys.
+After having recalled all digits, please press 'G' to indicate the end of your recalled sequence.
+
+The digits are the following: [5, 1, 8, 3]
+You press <<5>>.
+You press <<1>>.
+You press <<8>>.
+You press <<3>>.
+You press <<G>>. 
+
+You will view a series of digits and are then asked to recall them in the order you have seen them by pressing the corresponding keys.
+After having recalled all digits, please press 'G' to indicate the end of your recalled sequence.
+
+The digits are the following: [8, 1, 5, 2, 5]
+You press <<8>>.
+You press <<1>>.
+You press <<5>>.
+You press <<2>>.
+You press <<5>>.
+You press <<G>>. 
+
+You will view a series of digits and are then asked to recall them in the order you have seen them by pressing the corresponding keys.
+After having recalled all digits, please press 'G' to indicate the end of your recalled sequence.
+
+The digits are the following: [7, 4, 1, 8, 3, 9]
+You press <<7>>.
+You press <<4>>.
+You press <<1>>.
+You press <<8>>.
+You press <<3>>.
+You press <<9>>.
+You press <<G>>. 
+
+You will view a series of digits and are then asked to recall them in the order you have seen them by pressing the corresponding keys.
+After having recalled all digits, please press 'G' to indicate the end of your recalled sequence.
+
+The digits are the following: [7, 2, 9, 5, 9, 4, 7]
+You press <<7>>.
+You press <<2>>.
+You press <<9>>.
+You press <<5>>.
+You press <<9>>.
+You press <<4>>.
+You press <<7>>.
+You press <<G>>. 
+
+You will view a series of digits and are then asked to recall them in the order you have seen them by pressing the corresponding keys.
+After having recalled all digits, please press 'G' to indicate the end of your recalled sequence.
+
+The digits are the following: [4, 8, 4, 9, 6, 3, 9, 3]
+You press <<4>>.
+You press <<8>>.
+You press <<4>>.
+You press <<9>>.
+You press <<6>>.
+You press <<3>>.
+You press <<6>>.
+You press <<9>>.
+You press <<G>>. 
+
+You will view a series of digits and are then asked to recall them in the order you have seen them by pressing the corresponding keys.
+After having recalled all digits, please press 'G' to indicate the end of your recalled sequence.
+
+The digits are the following: [4, 8, 1, 9, 5, 8, 3, 6]
+You press <<4>>.
+You press <<8>>.
+You press <<1>>.
+You press <<5>>.
+You press <<8>>.
+You press <<3>>.
+You press <<6>>.
+You press <<G>>. 
+
+You will view a series of digits and are then asked to recall them in the order you have seen them by pressing the corresponding keys.
+After having recalled all digits, please press 'G' to indicate the end of your recalled sequence.
+
+The digits are the following: [9, 3, 9, 5, 9, 2, 7]
+You press <<9>>.
+You press <<3>>.
+You press <<9>>.
+You press <<5>>.
+You press <<9>>.
+You press <<2>>.
+You press <<7>>.
+You press <<G>>. 
+
+You will view a series of digits and are then asked to recall them in the order you have seen them by pressing the corresponding keys.
+After having recalled all digits, please press 'G' to indicate the end of your recalled sequence.
+
+The digits are the following: [4, 1, 7, 4, 7, 1, 4, 7]
+You press <<4>>.
+You press <<1>>.
+You press <<4>>.
+You press <<7>>.
+You press <<7>>.
+You press <<1>>.
+You press <<4>>.
+You press <<7>>.
+You press <<G>>. 
+
+You will view a series of digits and are then asked to recall them in the order you have seen them by pressing the corresponding keys.
+After having recalled all digits, please press 'G' to indicate the end of your recalled sequence.
+
+The digits are the following: [9, 5, 1, 9, 5, 8, 3, 6]
+You press <<9>>.
+You press <<5>>.
+You press <<1>>.
+You press <<9>>.
+You press <<8>>.
+You press <<5>>.
+You press <<3>>.
+You press <<6>>.
+You press <<G>>. 
+
+You will view a series of digits and are then asked to recall them in the order you have seen them by pressing the corresponding keys.
+After having recalled all digits, please press 'G' to indicate the end of your recalled sequence.
+
+The digits are the following: [8, 5, 9, 4, 8, 1, 4]
+You press <<8>>.
+You press <<5>>.
+You press <<9>>.
+You press <<4>>.
+You press <<8>>.
+You press <<1>>.
+You press <<4>>.
+You press <<G>>. 
+
+You will view a series of digits and are then asked to recall them in the order you have seen them by pressing the corresponding keys.
+After having recalled all digits, please press 'G' to indicate the end of your recalled sequence.
+
+The digits are the following: [9, 1, 8, 4, 9, 2, 8, 1]
+You press <<9>>.
+You press <<1>>.
+You press <<8>>.
+You press <<4>>.
+You press <<9>>.
+You press <<2>>.
+You press <<8>>.
+You press <<1>>.
+You press <<G>>. 
+
+You will view a series of digits and are then asked to recall them in the order you have seen them by pressing the corresponding keys.
+After having recalled all digits, please press 'G' to indicate the end of your recalled sequence.
+
+The digits are the following: [9, 4, 9, 1, 6, 9, 6, 1, 9]
+You press <<9>>.
+You press <<4>>.
+You press <<9>>.
+You press <<6>>.
+You press <<1>>.
+You press <<9>>.
+You press <<1>>.
+You press <<6>>.
+You press <<9>>.
+You press <<G>>. 
+
+You will view a series of digits and are then asked to recall them in the order you have seen them by pressing the corresponding keys.
+After having recalled all digits, please press 'G' to indicate the end of your recalled sequence.
+
+The digits are the following: [7, 4, 9, 1, 8, 3, 9, 3, 8]
+You press <<7>>.
+You press <<4>>.
+You press <<9>>.
+You press <<1>>.
+You press <<8>>.
+You press <<3>>.
+You press <<9>>.
+You press <<8>>.
+You press <<1>>.
+You press <<G>>. 
+
+You will view a series of digits and are then asked to recall them in the reversed order you have seen them by pressing the corresponding keys.
+After having recalled all digits, please press 'G' to indicate the end of your recalled sequence.
+
+The digits are the following: [7, 4, 8]
+You press <<8>>.
+You press <<4>>.
+You press <<7>>.
+You press <<G>>. 
+
+You will view a series of digits and are then asked to recall them in the reversed order you have seen them by pressing the corresponding keys.
+After having recalled all digits, please press 'G' to indicate the end of your recalled sequence.
+
+The digits are the following: [4, 9, 6, 2]
+You press <<2>>.
+You press <<6>>.
+You press <<9>>.
+You press <<4>>.
+You press <<G>>. 
+
+You will view a series of digits and are then asked to recall them in the reversed order you have seen them by pressing the corresponding keys.
+After having recalled all digits, please press 'G' to indicate the end of your recalled sequence.
+
+The digits are the following: [5, 9, 2, 6, 3]
+You press <<3>>.
+You press <<6>>.
+You press <<2>>.
+You press <<9>>.
+You press <<5>>.
+You press <<G>>. 
+
+You will view a series of digits and are then asked to recall them in the reversed order you have seen them by pressing the corresponding keys.
+After having recalled all digits, please press 'G' to indicate the end of your recalled sequence.
+
+The digits are the following: [4, 1, 9, 4, 8, 5]
+You press <<5>>.
+You press <<8>>.
+You press <<4>>.
+You press <<9>>.
+You press <<1>>.
+You press <<4>>.
+You press <<G>>. 
+
+You will view a series of digits and are then asked to recall them in the reversed order you have seen them by pressing the corresponding keys.
+After having recalled all digits, please press 'G' to indicate the end of your recalled sequence.
+
+The digits are the following: [8, 5, 2, 7, 4, 7, 2]
+You press <<2>>.
+You press <<7>>.
+You press <<4>>.
+You press <<7>>.
+You press <<2>>.
+You press <<5>>.
+You press <<8>>.
+You press <<G>>. 
+
+You will view a series of digits and are then asked to recall them in the reversed order you have seen them by pressing the corresponding keys.
+After having recalled all digits, please press 'G' to indicate the end of your recalled sequence.
+
+The digits are the following: [9, 5, 2, 5, 9, 6, 9, 5]
+You press <<5>>.
+You press <<9>>.
+You press <<6>>.
+You press <<9>>.
+You press <<5>>.
+You press <<2>>.
+You press <<5>>.
+You press <<9>>.
+You press <<G>>. 
+
+You will view a series of digits and are then asked to recall them in the reversed order you have seen them by pressing the corresponding keys.
+After having recalled all digits, please press 'G' to indicate the end of your recalled sequence.
+
+The digits are the following: [3, 6, 9, 2, 9, 6, 3, 6, 9]
+You press <<9>>.
+You press <<6>>.
+You press <<3>>.
+You press <<6>>.
+You press <<9>>.
+You press <<2>>.
+You press <<9>>.
+You press <<6>>.
+You press <<3>>.
+You press <<G>>. 
+
+You will view a series of digits and are then asked to recall them in the reversed order you have seen them by pressing the corresponding keys.
+After having recalled all digits, please press 'G' to indicate the end of your recalled sequence.
+
+The digits are the following: [3, 6, 3, 7, 4, 7, 4, 9, 3, 9]
+You press <<9>>.
+You press <<3>>.
+You press <<9>>.
+You press <<4>>.
+You press <<7>>.
+You press <<4>>.
+You press <<7>>.
+You press <<3>>.
+You press <<6>>.
+You press <<3>>.
+You press <<G>>. 
+
+You will view a series of digits and are then asked to recall them in the reversed order you have seen them by pressing the corresponding keys.
+After having recalled all digits, please press 'G' to indicate the end of your recalled sequence.
+
+The digits are the following: [5, 1, 6, 2, 7, 4, 7, 1, 9, 2, 6]
+You press <<6>>.
+You press <<2>>.
+You press <<9>>.
+You press <<1>>.
+You press <<4>>.
+You press <<7>>.
+You press <<4>>.
+You press <<6>>.
+You press <<1>>.
+You press <<5>>.
+You press <<G>>. 
+
+You will view a series of digits and are then asked to recall them in the reversed order you have seen them by pressing the corresponding keys.
+After having recalled all digits, please press 'G' to indicate the end of your recalled sequence.
+
+The digits are the following: [6, 3, 9, 6, 2, 9, 4, 8, 5, 2, 5]
+You press <<5>>.
+You press <<2>>.
+You press <<5>>.
+You press <<8>>.
+You press <<4>>.
+You press <<9>>.
+You press <<G>>. 
+You press <<G>>. 
+You press <<G>>. 
+You press <<G>>. 
+You press <<G>>. 
+
+You will view a series of digits and are then asked to recall them in the reversed order you have seen them by pressing the corresponding keys.
+After having recalled all digits, please press 'G' to indicate the end of your recalled sequence.
+
+The digits are the following: [9, 4, 9, 1, 5, 8, 3, 6, 1, 7]
+You press <<7>>.
+You press <<1>>.
+You press <<6>>.
+You press <<3>>.
+You press <<8>>.
+You press <<5>>.
+You press <<1>>.
+You press <<9>>.
+You press <<4>>.
+You press <<9>>.
+You press <<G>>. 
+
+You will view a series of digits and are then asked to recall them in the reversed order you have seen them by pressing the corresponding keys.
+After having recalled all digits, please press 'G' to indicate the end of your recalled sequence.
+
+The digits are the following: [5, 1, 4, 8, 1, 8, 3, 6, 2, 8, 2]
+You press <<2>>.
+You press <<8>>.
+You press <<3>>.
+You press <<2>>.
+You press <<8>>.
+You press <<1>>.
+You press <<5>>.
+You press <<1>>.
+You press <<4>>.
+You press <<5>>.
+You press <<G>>. 
+
+You will view a series of digits and are then asked to recall them in the reversed order you have seen them by pressing the corresponding keys.
+After having recalled all digits, please press 'G' to indicate the end of your recalled sequence.
+
+The digits are the following: [6, 2, 6, 1, 4, 8, 5, 2, 8, 2, 5]
+You press <<5>>.
+You press <<2>>.
+You press <<8>>.
+You press <<2>>.
+You press <<5>>.
+You press <<8>>.
+You press <<4>>.
+You press <<1>>.
+You press <<6>>.
+You press <<2>>.
+You press <<G>>. 
+
+You will view a series of digits and are then asked to recall them in the reversed order you have seen them by pressing the corresponding keys.
+After having recalled all digits, please press 'G' to indicate the end of your recalled sequence.
+
+The digits are the following: [8, 5, 2, 8, 5, 9, 1, 7, 1, 9]
+You press <<1>>.
+You press <<9>>.
+You press <<7>>.
+You press <<1>>.
+You press <<9>>.
+You press <<5>>.
+You press <<8>>.
+You press <<2>>.
+You press <<5>>.
+You press <<8>>.
+You press <<G>>.

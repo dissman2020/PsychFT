@@ -1,0 +1,231 @@
+This experiment is composed of three parts.
+In each round of the first part, you have to choose between one of two options represented by letters.
+In a given pair, one option is, on average, more advantageous compared to the other.
+You can win or lose the following outcomes: 1.0 points and -1.0 points.
+In the second part, there will be two types of options.
+The first type of option is represented by the letters you already encountered during the previous part.
+Note that the options maintain the same odds of winning or losing a point as in the first part.
+The second type of option is represented by an explicit description of the odds of winning or losing a point.
+In each round of the third part, you will be presented with the options you met in the first and the second part.
+This is the occasion to test your knowledge of each options's outcome.
+You will be asked to indicate (in percentages), what are the odds that a given option makes you win a point.
+You can choose an option by pressing its corresponding key.
+Your goal for the first two parts is to maximize the amount of received points.
+Your goal in the third part is to guess as accurately as possible.
+
+You can choose between option I and option U. You press <<U>> and get -1.0 points. You would have gotten 1.0 points had you chosen option I instead. 
+You can choose between option I and option U. You press <<I>> and get -1.0 points. You would have gotten 1.0 points had you chosen option U instead. 
+You can choose between option I and option U. You press <<I>> and get 1.0 points. You would have gotten -1.0 points had you chosen option U instead. 
+You can choose between option I and option U. You press <<U>> and get -1.0 points. You would have gotten 1.0 points had you chosen option I instead. 
+You can choose between option I and option U. You press <<I>> and get 1.0 points. You would have gotten -1.0 points had you chosen option U instead. 
+You can choose between option I and option U. You press <<U>> and get 1.0 points. You would have gotten 1.0 points had you chosen option I instead. 
+You can choose between option I and option U. You press <<I>> and get 1.0 points. You would have gotten 1.0 points had you chosen option U instead. 
+You can choose between option I and option U. You press <<U>> and get -1.0 points. You would have gotten -1.0 points had you chosen option I instead. 
+You can choose between option I and option U. You press <<U>> and get 1.0 points. You would have gotten 1.0 points had you chosen option I instead. 
+You can choose between option I and option U. You press <<U>> and get -1.0 points. You would have gotten 1.0 points had you chosen option I instead. 
+You can choose between option I and option U. You press <<U>> and get 1.0 points. You would have gotten 1.0 points had you chosen option I instead. 
+You can choose between option I and option U. You press <<U>> and get -1.0 points. You would have gotten -1.0 points had you chosen option I instead. 
+You can choose between option I and option U. You press <<U>> and get -1.0 points. You would have gotten 1.0 points had you chosen option I instead. 
+You can choose between option I and option U. You press <<U>> and get 1.0 points. You would have gotten 1.0 points had you chosen option I instead. 
+You can choose between option I and option U. You press <<I>> and get 1.0 points. You would have gotten -1.0 points had you chosen option U instead. 
+You can choose between option I and option U. You press <<I>> and get 1.0 points. You would have gotten -1.0 points had you chosen option U instead. 
+You can choose between option I and option U. You press <<I>> and get 1.0 points. You would have gotten -1.0 points had you chosen option U instead. 
+You can choose between option I and option U. You press <<I>> and get 1.0 points. You would have gotten -1.0 points had you chosen option U instead. 
+You can choose between option I and option U. You press <<I>> and get 1.0 points. You would have gotten -1.0 points had you chosen option U instead. 
+You can choose between option I and option U. You press <<I>> and get 1.0 points. You would have gotten -1.0 points had you chosen option U instead. 
+You can choose between option I and option U. You press <<I>> and get 1.0 points. You would have gotten -1.0 points had you chosen option U instead. 
+You can choose between option I and option U. You press <<I>> and get -1.0 points. You would have gotten -1.0 points had you chosen option U instead. 
+You can choose between option I and option U. You press <<U>> and get -1.0 points. You would have gotten 1.0 points had you chosen option I instead. 
+You can choose between option I and option U. You press <<I>> and get 1.0 points. You would have gotten -1.0 points had you chosen option U instead. 
+You can choose between option I and option U. You press <<I>> and get 1.0 points. You would have gotten 1.0 points had you chosen option U instead. 
+You can choose between option I and option U. You press <<I>> and get -1.0 points. You would have gotten -1.0 points had you chosen option U instead. 
+You can choose between option I and option U. You press <<I>> and get 1.0 points. You would have gotten 1.0 points had you chosen option U instead. 
+You can choose between option I and option U. You press <<I>> and get 1.0 points. You would have gotten -1.0 points had you chosen option U instead. 
+You can choose between option I and option U. You press <<I>> and get 1.0 points. You would have gotten -1.0 points had you chosen option U instead. 
+You can choose between option I and option U. You press <<I>> and get 1.0 points. You would have gotten -1.0 points had you chosen option U instead. 
+You can choose between option Y and option O. You press <<O>> and get -1.0 points. You would have gotten 1.0 points had you chosen option Y instead. 
+You can choose between option Y and option O. You press <<Y>> and get 1.0 points. You would have gotten -1.0 points had you chosen option O instead. 
+You can choose between option Y and option O. You press <<Y>> and get 1.0 points. You would have gotten -1.0 points had you chosen option O instead. 
+You can choose between option Y and option O. You press <<Y>> and get -1.0 points. You would have gotten -1.0 points had you chosen option O instead. 
+You can choose between option Y and option O. You press <<Y>> and get 1.0 points. You would have gotten -1.0 points had you chosen option O instead. 
+You can choose between option Y and option O. You press <<Y>> and get -1.0 points. You would have gotten -1.0 points had you chosen option O instead. 
+You can choose between option Y and option O. You press <<O>> and get -1.0 points. You would have gotten 1.0 points had you chosen option Y instead. 
+You can choose between option Y and option O. You press <<Y>> and get 1.0 points. You would have gotten -1.0 points had you chosen option O instead. 
+You can choose between option Y and option O. You press <<Y>> and get -1.0 points. You would have gotten -1.0 points had you chosen option O instead. 
+You can choose between option Y and option O. You press <<Y>> and get -1.0 points. You would have gotten -1.0 points had you chosen option O instead. 
+You can choose between option Y and option O. You press <<Y>> and get 1.0 points. You would have gotten -1.0 points had you chosen option O instead. 
+You can choose between option Y and option O. You press <<Y>> and get 1.0 points. You would have gotten -1.0 points had you chosen option O instead. 
+You can choose between option Y and option O. You press <<Y>> and get -1.0 points. You would have gotten 1.0 points had you chosen option O instead. 
+You can choose between option Y and option O. You press <<Y>> and get 1.0 points. You would have gotten 1.0 points had you chosen option O instead. 
+You can choose between option Y and option O. You press <<Y>> and get -1.0 points. You would have gotten 1.0 points had you chosen option O instead. 
+You can choose between option Y and option O. You press <<Y>> and get 1.0 points. You would have gotten 1.0 points had you chosen option O instead. 
+You can choose between option Y and option O. You press <<Y>> and get 1.0 points. You would have gotten -1.0 points had you chosen option O instead. 
+You can choose between option Y and option O. You press <<Y>> and get 1.0 points. You would have gotten -1.0 points had you chosen option O instead. 
+You can choose between option Y and option O. You press <<Y>> and get -1.0 points. You would have gotten -1.0 points had you chosen option O instead. 
+You can choose between option Y and option O. You press <<Y>> and get 1.0 points. You would have gotten -1.0 points had you chosen option O instead. 
+You can choose between option Y and option O. You press <<Y>> and get -1.0 points. You would have gotten 1.0 points had you chosen option O instead. 
+You can choose between option Y and option O. You press <<Y>> and get 1.0 points. You would have gotten -1.0 points had you chosen option O instead. 
+You can choose between option Y and option O. You press <<Y>> and get -1.0 points. You would have gotten -1.0 points had you chosen option O instead. 
+You can choose between option Y and option O. You press <<Y>> and get -1.0 points. You would have gotten -1.0 points had you chosen option O instead. 
+You can choose between option Y and option O. You press <<Y>> and get 1.0 points. You would have gotten -1.0 points had you chosen option O instead. 
+You can choose between option Y and option O. You press <<Y>> and get -1.0 points. You would have gotten 1.0 points had you chosen option O instead. 
+You can choose between option Y and option O. You press <<Y>> and get 1.0 points. You would have gotten -1.0 points had you chosen option O instead. 
+You can choose between option Y and option O. You press <<Y>> and get 1.0 points. You would have gotten -1.0 points had you chosen option O instead. 
+You can choose between option Y and option O. You press <<Y>> and get 1.0 points. You would have gotten 1.0 points had you chosen option O instead. 
+You can choose between option Y and option O. You press <<Y>> and get 1.0 points. You would have gotten 1.0 points had you chosen option O instead. 
+You can choose between option A and option M. You press <<A>> and get 1.0 points. You would have gotten -1.0 points had you chosen option M instead. 
+You can choose between option A and option M. You press <<A>> and get -1.0 points. You would have gotten -1.0 points had you chosen option M instead. 
+You can choose between option A and option M. You press <<A>> and get 1.0 points. You would have gotten -1.0 points had you chosen option M instead. 
+You can choose between option A and option M. You press <<A>> and get 1.0 points. You would have gotten 1.0 points had you chosen option M instead. 
+You can choose between option A and option M. You press <<A>> and get -1.0 points. You would have gotten -1.0 points had you chosen option M instead. 
+You can choose between option A and option M. You press <<A>> and get 1.0 points. You would have gotten -1.0 points had you chosen option M instead. 
+You can choose between option A and option M. You press <<A>> and get -1.0 points. You would have gotten 1.0 points had you chosen option M instead. 
+You can choose between option A and option M. You press <<A>> and get 1.0 points. You would have gotten -1.0 points had you chosen option M instead. 
+You can choose between option A and option M. You press <<A>> and get -1.0 points. You would have gotten -1.0 points had you chosen option M instead. 
+You can choose between option A and option M. You press <<A>> and get -1.0 points. You would have gotten -1.0 points had you chosen option M instead. 
+You can choose between option A and option M. You press <<A>> and get -1.0 points. You would have gotten -1.0 points had you chosen option M instead. 
+You can choose between option A and option M. You press <<A>> and get -1.0 points. You would have gotten -1.0 points had you chosen option M instead. 
+You can choose between option A and option M. You press <<A>> and get 1.0 points. You would have gotten 1.0 points had you chosen option M instead. 
+You can choose between option A and option M. You press <<A>> and get 1.0 points. You would have gotten -1.0 points had you chosen option M instead. 
+You can choose between option A and option M. You press <<A>> and get 1.0 points. You would have gotten -1.0 points had you chosen option M instead. 
+You can choose between option A and option M. You press <<A>> and get 1.0 points. You would have gotten 1.0 points had you chosen option M instead. 
+You can choose between option A and option M. You press <<A>> and get 1.0 points. You would have gotten -1.0 points had you chosen option M instead. 
+You can choose between option A and option M. You press <<A>> and get 1.0 points. You would have gotten -1.0 points had you chosen option M instead. 
+You can choose between option A and option M. You press <<A>> and get 1.0 points. You would have gotten -1.0 points had you chosen option M instead. 
+You can choose between option A and option M. You press <<A>> and get -1.0 points. You would have gotten -1.0 points had you chosen option M instead. 
+You can choose between option A and option M. You press <<A>> and get 1.0 points. You would have gotten -1.0 points had you chosen option M instead. 
+You can choose between option A and option M. You press <<A>> and get -1.0 points. You would have gotten -1.0 points had you chosen option M instead. 
+You can choose between option A and option M. You press <<A>> and get 1.0 points. You would have gotten 1.0 points had you chosen option M instead. 
+You can choose between option A and option M. You press <<A>> and get 1.0 points. You would have gotten 1.0 points had you chosen option M instead. 
+You can choose between option A and option M. You press <<A>> and get -1.0 points. You would have gotten -1.0 points had you chosen option M instead. 
+You can choose between option A and option M. You press <<A>> and get 1.0 points. You would have gotten 1.0 points had you chosen option M instead. 
+You can choose between option A and option M. You press <<A>> and get 1.0 points. You would have gotten -1.0 points had you chosen option M instead. 
+You can choose between option A and option M. You press <<A>> and get 1.0 points. You would have gotten -1.0 points had you chosen option M instead. 
+You can choose between option A and option M. You press <<A>> and get -1.0 points. You would have gotten -1.0 points had you chosen option M instead. 
+You can choose between option A and option M. You press <<A>> and get 1.0 points. You would have gotten -1.0 points had you chosen option M instead. 
+You can choose between option B and option N. You press <<N>> and get -1.0 points. You would have gotten 1.0 points had you chosen option B instead. 
+You can choose between option B and option N. You press <<B>> and get 1.0 points. You would have gotten -1.0 points had you chosen option N instead. 
+You can choose between option B and option N. You press <<B>> and get 1.0 points. You would have gotten -1.0 points had you chosen option N instead. 
+You can choose between option B and option N. You press <<B>> and get 1.0 points. You would have gotten -1.0 points had you chosen option N instead. 
+You can choose between option B and option N. You press <<B>> and get 1.0 points. You would have gotten -1.0 points had you chosen option N instead. 
+You can choose between option B and option N. You press <<B>> and get 1.0 points. You would have gotten -1.0 points had you chosen option N instead. 
+You can choose between option B and option N. You press <<B>> and get 1.0 points. You would have gotten 1.0 points had you chosen option N instead. 
+You can choose between option B and option N. You press <<B>> and get 1.0 points. You would have gotten -1.0 points had you chosen option N instead. 
+You can choose between option B and option N. You press <<B>> and get 1.0 points. You would have gotten -1.0 points had you chosen option N instead. 
+You can choose between option B and option N. You press <<B>> and get 1.0 points. You would have gotten -1.0 points had you chosen option N instead. 
+You can choose between option B and option N. You press <<B>> and get 1.0 points. You would have gotten -1.0 points had you chosen option N instead. 
+You can choose between option B and option N. You press <<B>> and get 1.0 points. You would have gotten -1.0 points had you chosen option N instead. 
+You can choose between option B and option N. You press <<B>> and get 1.0 points. You would have gotten -1.0 points had you chosen option N instead. 
+You can choose between option B and option N. You press <<B>> and get 1.0 points. You would have gotten -1.0 points had you chosen option N instead. 
+You can choose between option B and option N. You press <<B>> and get 1.0 points. You would have gotten 1.0 points had you chosen option N instead. 
+You can choose between option B and option N. You press <<B>> and get 1.0 points. You would have gotten -1.0 points had you chosen option N instead. 
+You can choose between option B and option N. You press <<B>> and get 1.0 points. You would have gotten -1.0 points had you chosen option N instead. 
+You can choose between option B and option N. You press <<B>> and get 1.0 points. You would have gotten 1.0 points had you chosen option N instead. 
+You can choose between option B and option N. You press <<B>> and get 1.0 points. You would have gotten -1.0 points had you chosen option N instead. 
+You can choose between option B and option N. You press <<B>> and get -1.0 points. You would have gotten -1.0 points had you chosen option N instead. 
+You can choose between option B and option N. You press <<B>> and get 1.0 points. You would have gotten -1.0 points had you chosen option N instead. 
+You can choose between option B and option N. You press <<B>> and get -1.0 points. You would have gotten -1.0 points had you chosen option N instead. 
+You can choose between option B and option N. You press <<B>> and get 1.0 points. You would have gotten -1.0 points had you chosen option N instead. 
+You can choose between option B and option N. You press <<B>> and get 1.0 points. You would have gotten -1.0 points had you chosen option N instead. 
+You can choose between option B and option N. You press <<B>> and get 1.0 points. You would have gotten -1.0 points had you chosen option N instead. 
+You can choose between option B and option N. You press <<B>> and get 1.0 points. You would have gotten -1.0 points had you chosen option N instead. 
+You can choose between option B and option N. You press <<B>> and get 1.0 points. You would have gotten -1.0 points had you chosen option N instead. 
+You can choose between option B and option N. You press <<B>> and get 1.0 points. You would have gotten -1.0 points had you chosen option N instead. 
+You can choose between option B and option N. You press <<B>> and get 1.0 points. You would have gotten -1.0 points had you chosen option N instead. 
+You can choose between option B and option N. You press <<B>> and get 1.0 points. You would have gotten -1.0 points had you chosen option N instead. 
+You can choose between option A and the following option by pressing button K: -1.0 point with 50.0% chance and 1.0 point with 50.0% chance. You press <<K>>.
+You can choose between option A and the following option by pressing button K: -1.0 point with 100.0% chance and 1.0 point with 0.0% chance. You press <<A>>.
+You can choose between option A and the following option by pressing button K: -1.0 point with 70.0% chance and 1.0 point with 30.0% chance. You press <<A>>.
+You can choose between option A and the following option by pressing button K: -1.0 point with 40.0% chance and 1.0 point with 60.0% chance. You press <<K>>.
+You can choose between option A and the following option by pressing button K: -1.0 point with 0.0% chance and 1.0 point with 100.0% chance. You press <<K>>.
+You can choose between option A and the following option by pressing button K: -1.0 point with 10.0% chance and 1.0 point with 90.0% chance. You press <<K>>.
+You can choose between option A and the following option by pressing button K: -1.0 point with 90.0% chance and 1.0 point with 10.0% chance. You press <<A>>.
+You can choose between option A and the following option by pressing button K: -1.0 point with 80.0% chance and 1.0 point with 20.0% chance. You press <<A>>.
+You can choose between option A and the following option by pressing button K: -1.0 point with 20.0% chance and 1.0 point with 80.0% chance. You press <<K>>.
+You can choose between option A and the following option by pressing button K: -1.0 point with 60.0% chance and 1.0 point with 40.0% chance. You press <<A>>.
+You can choose between option A and the following option by pressing button K: -1.0 point with 30.0% chance and 1.0 point with 70.0% chance. You press <<K>>.
+You can choose between option M and the following option by pressing button K: -1.0 point with 50.0% chance and 1.0 point with 50.0% chance. You press <<K>>.
+You can choose between option M and the following option by pressing button K: -1.0 point with 40.0% chance and 1.0 point with 60.0% chance. You press <<K>>.
+You can choose between option M and the following option by pressing button K: -1.0 point with 90.0% chance and 1.0 point with 10.0% chance. You press <<M>>.
+You can choose between option M and the following option by pressing button K: -1.0 point with 10.0% chance and 1.0 point with 90.0% chance. You press <<K>>.
+You can choose between option M and the following option by pressing button K: -1.0 point with 20.0% chance and 1.0 point with 80.0% chance. You press <<K>>.
+You can choose between option M and the following option by pressing button K: -1.0 point with 0.0% chance and 1.0 point with 100.0% chance. You press <<K>>.
+You can choose between option M and the following option by pressing button K: -1.0 point with 70.0% chance and 1.0 point with 30.0% chance. You press <<M>>.
+You can choose between option M and the following option by pressing button K: -1.0 point with 30.0% chance and 1.0 point with 70.0% chance. You press <<K>>.
+You can choose between option M and the following option by pressing button K: -1.0 point with 80.0% chance and 1.0 point with 20.0% chance. You press <<M>>.
+You can choose between option M and the following option by pressing button K: -1.0 point with 100.0% chance and 1.0 point with 0.0% chance. You press <<M>>.
+You can choose between option M and the following option by pressing button K: -1.0 point with 60.0% chance and 1.0 point with 40.0% chance. You press <<M>>.
+You can choose between option I and the following option by pressing button K: -1.0 point with 50.0% chance and 1.0 point with 50.0% chance. You press <<K>>.
+You can choose between option I and the following option by pressing button K: -1.0 point with 70.0% chance and 1.0 point with 30.0% chance. You press <<I>>.
+You can choose between option I and the following option by pressing button K: -1.0 point with 0.0% chance and 1.0 point with 100.0% chance. You press <<K>>.
+You can choose between option I and the following option by pressing button K: -1.0 point with 40.0% chance and 1.0 point with 60.0% chance. You press <<K>>.
+You can choose between option I and the following option by pressing button K: -1.0 point with 90.0% chance and 1.0 point with 10.0% chance. You press <<I>>.
+You can choose between option I and the following option by pressing button K: -1.0 point with 30.0% chance and 1.0 point with 70.0% chance. You press <<K>>.
+You can choose between option I and the following option by pressing button K: -1.0 point with 80.0% chance and 1.0 point with 20.0% chance. You press <<I>>.
+You can choose between option I and the following option by pressing button K: -1.0 point with 60.0% chance and 1.0 point with 40.0% chance. You press <<I>>.
+You can choose between option I and the following option by pressing button K: -1.0 point with 100.0% chance and 1.0 point with 0.0% chance. You press <<I>>.
+You can choose between option I and the following option by pressing button K: -1.0 point with 20.0% chance and 1.0 point with 80.0% chance. You press <<K>>.
+You can choose between option I and the following option by pressing button K: -1.0 point with 10.0% chance and 1.0 point with 90.0% chance. You press <<K>>.
+You can choose between option U and the following option by pressing button K: -1.0 point with 100.0% chance and 1.0 point with 0.0% chance. You press <<U>>.
+You can choose between option U and the following option by pressing button K: -1.0 point with 30.0% chance and 1.0 point with 70.0% chance. You press <<K>>.
+You can choose between option U and the following option by pressing button K: -1.0 point with 20.0% chance and 1.0 point with 80.0% chance. You press <<K>>.
+You can choose between option U and the following option by pressing button K: -1.0 point with 10.0% chance and 1.0 point with 90.0% chance. You press <<K>>.
+You can choose between option U and the following option by pressing button K: -1.0 point with 70.0% chance and 1.0 point with 30.0% chance. You press <<U>>.
+You can choose between option U and the following option by pressing button K: -1.0 point with 80.0% chance and 1.0 point with 20.0% chance. You press <<U>>.
+You can choose between option U and the following option by pressing button K: -1.0 point with 90.0% chance and 1.0 point with 10.0% chance. You press <<U>>.
+You can choose between option U and the following option by pressing button K: -1.0 point with 60.0% chance and 1.0 point with 40.0% chance. You press <<U>>.
+You can choose between option U and the following option by pressing button K: -1.0 point with 0.0% chance and 1.0 point with 100.0% chance. You press <<K>>.
+You can choose between option U and the following option by pressing button K: -1.0 point with 40.0% chance and 1.0 point with 60.0% chance. You press <<K>>.
+You can choose between option U and the following option by pressing button K: -1.0 point with 50.0% chance and 1.0 point with 50.0% chance. You press <<K>>.
+You can choose between option Y and the following option by pressing button K: -1.0 point with 80.0% chance and 1.0 point with 20.0% chance. You press <<Y>>.
+You can choose between option Y and the following option by pressing button K: -1.0 point with 70.0% chance and 1.0 point with 30.0% chance. You press <<Y>>.
+You can choose between option Y and the following option by pressing button K: -1.0 point with 60.0% chance and 1.0 point with 40.0% chance. You press <<Y>>.
+You can choose between option Y and the following option by pressing button K: -1.0 point with 90.0% chance and 1.0 point with 10.0% chance. You press <<Y>>.
+You can choose between option Y and the following option by pressing button K: -1.0 point with 10.0% chance and 1.0 point with 90.0% chance. You press <<K>>.
+You can choose between option Y and the following option by pressing button K: -1.0 point with 30.0% chance and 1.0 point with 70.0% chance. You press <<K>>.
+You can choose between option Y and the following option by pressing button K: -1.0 point with 20.0% chance and 1.0 point with 80.0% chance. You press <<K>>.
+You can choose between option Y and the following option by pressing button K: -1.0 point with 40.0% chance and 1.0 point with 60.0% chance. You press <<K>>.
+You can choose between option Y and the following option by pressing button K: -1.0 point with 50.0% chance and 1.0 point with 50.0% chance. You press <<K>>.
+You can choose between option Y and the following option by pressing button K: -1.0 point with 0.0% chance and 1.0 point with 100.0% chance. You press <<K>>.
+You can choose between option Y and the following option by pressing button K: -1.0 point with 100.0% chance and 1.0 point with 0.0% chance. You press <<Y>>.
+You can choose between option O and the following option by pressing button K: -1.0 point with 60.0% chance and 1.0 point with 40.0% chance. You press <<O>>.
+You can choose between option O and the following option by pressing button K: -1.0 point with 30.0% chance and 1.0 point with 70.0% chance. You press <<K>>.
+You can choose between option O and the following option by pressing button K: -1.0 point with 0.0% chance and 1.0 point with 100.0% chance. You press <<K>>.
+You can choose between option O and the following option by pressing button K: -1.0 point with 40.0% chance and 1.0 point with 60.0% chance. You press <<K>>.
+You can choose between option O and the following option by pressing button K: -1.0 point with 20.0% chance and 1.0 point with 80.0% chance. You press <<K>>.
+You can choose between option O and the following option by pressing button K: -1.0 point with 10.0% chance and 1.0 point with 90.0% chance. You press <<K>>.
+You can choose between option O and the following option by pressing button K: -1.0 point with 100.0% chance and 1.0 point with 0.0% chance. You press <<O>>.
+You can choose between option O and the following option by pressing button K: -1.0 point with 80.0% chance and 1.0 point with 20.0% chance. You press <<O>>.
+You can choose between option O and the following option by pressing button K: -1.0 point with 50.0% chance and 1.0 point with 50.0% chance. You press <<K>>.
+You can choose between option O and the following option by pressing button K: -1.0 point with 90.0% chance and 1.0 point with 10.0% chance. You press <<O>>.
+You can choose between option O and the following option by pressing button K: -1.0 point with 70.0% chance and 1.0 point with 30.0% chance. You press <<O>>.
+You can choose between option B and the following option by pressing button K: -1.0 point with 0.0% chance and 1.0 point with 100.0% chance. You press <<K>>.
+You can choose between option B and the following option by pressing button K: -1.0 point with 80.0% chance and 1.0 point with 20.0% chance. You press <<B>>.
+You can choose between option B and the following option by pressing button K: -1.0 point with 20.0% chance and 1.0 point with 80.0% chance. You press <<K>>.
+You can choose between option B and the following option by pressing button K: -1.0 point with 30.0% chance and 1.0 point with 70.0% chance. You press <<K>>.
+You can choose between option B and the following option by pressing button K: -1.0 point with 90.0% chance and 1.0 point with 10.0% chance. You press <<B>>.
+You can choose between option B and the following option by pressing button K: -1.0 point with 40.0% chance and 1.0 point with 60.0% chance. You press <<K>>.
+You can choose between option B and the following option by pressing button K: -1.0 point with 60.0% chance and 1.0 point with 40.0% chance. You press <<K>>.
+You can choose between option B and the following option by pressing button K: -1.0 point with 100.0% chance and 1.0 point with 0.0% chance. You press <<B>>.
+You can choose between option B and the following option by pressing button K: -1.0 point with 50.0% chance and 1.0 point with 50.0% chance. You press <<K>>.
+You can choose between option B and the following option by pressing button K: -1.0 point with 10.0% chance and 1.0 point with 90.0% chance. You press <<K>>.
+You can choose between option B and the following option by pressing button K: -1.0 point with 70.0% chance and 1.0 point with 30.0% chance. You press <<B>>.
+You can choose between option N and the following option by pressing button K: -1.0 point with 40.0% chance and 1.0 point with 60.0% chance. You press <<K>>.
+You can choose between option N and the following option by pressing button K: -1.0 point with 30.0% chance and 1.0 point with 70.0% chance. You press <<K>>.
+You can choose between option N and the following option by pressing button K: -1.0 point with 60.0% chance and 1.0 point with 40.0% chance. You press <<N>>.
+You can choose between option N and the following option by pressing button K: -1.0 point with 80.0% chance and 1.0 point with 20.0% chance. You press <<N>>.
+You can choose between option N and the following option by pressing button K: -1.0 point with 0.0% chance and 1.0 point with 100.0% chance. You press <<K>>.
+You can choose between option N and the following option by pressing button K: -1.0 point with 100.0% chance and 1.0 point with 0.0% chance. You press <<N>>.
+You can choose between option N and the following option by pressing button K: -1.0 point with 20.0% chance and 1.0 point with 80.0% chance. You press <<K>>.
+You can choose between option N and the following option by pressing button K: -1.0 point with 90.0% chance and 1.0 point with 10.0% chance. You press <<N>>.
+You can choose between option N and the following option by pressing button K: -1.0 point with 10.0% chance and 1.0 point with 90.0% chance. You press <<K>>.
+You can choose between option N and the following option by pressing button K: -1.0 point with 50.0% chance and 1.0 point with 50.0% chance. You press <<K>>.
+You can choose between option N and the following option by pressing button K: -1.0 point with 70.0% chance and 1.0 point with 30.0% chance. You press <<N>>.
+Q: What are the odds that option Y gives 1.0 points? A: <<75.0>>%.
+Q: What are the odds that option I gives 1.0 points? A: <<80.0>>%.
+Q: What are the odds that option O gives 1.0 points? A: <<0.0>>%.
+Q: What are the odds that option A gives 1.0 points? A: <<70.0>>%.
+Q: What are the odds that option U gives 1.0 points? A: <<65.0>>%.
+Q: What are the odds that option N gives 1.0 points? A: <<0.0>>%.
+Q: What are the odds that option M gives 1.0 points? A: <<0.0>>%.
+Q: What are the odds that option B gives 1.0 points? A: <<100.0>>%.

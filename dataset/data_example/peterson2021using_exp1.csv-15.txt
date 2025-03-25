@@ -1,0 +1,164 @@
+You will encounter a series of gambling problems where you have to select between two options.
+You can select an option by pressing the corresponding key.
+For some problems, you are told the points you received and missed out on after each selection, while for others this information is suppressed.
+In cases where the probabilities are unknown, they sum up to one and remain constant within a problem.
+
+Option P delivers -5.0 points with 99.0% chance, or -13.0 points with 1.0% chance.
+Option U delivers -44.0 points with 25.0% chance, 5.5 points with 9.375% chance, 6.5 points with 28.125% chance, 7.5 points with 28.125% chance, or 8.5 points with 9.375% chance.
+You press <<P>>. You receive -5.0 points by selecting this option. You would have received -44.0 points had you chosen the other option.
+You press <<U>>. You receive 6.5 points by selecting this option. You would have received -5.0 points had you chosen the other option.
+You press <<U>>. You receive 6.5 points by selecting this option. You would have received -5.0 points had you chosen the other option.
+You press <<P>>. You receive -5.0 points by selecting this option. You would have received 8.5 points had you chosen the other option.
+You press <<U>>. You receive 7.5 points by selecting this option. You would have received -5.0 points had you chosen the other option.
+
+Option P delivers either 2.0 points with 100.0% chance, or 2.0 points with 0.0% chance.
+Option U delivers either -8.0 points with unknown chance, or 48.0 points with unknown chance.
+You press <<U>>. You receive -8.0 points by selecting this option. You would have received 2.0 points had you chosen the other option.
+You press <<U>>. You receive -8.0 points by selecting this option. You would have received 2.0 points had you chosen the other option.
+You press <<P>>. You receive 2.0 points by selecting this option. You would have received -8.0 points had you chosen the other option.
+You press <<U>>. You receive 48.0 points by selecting this option. You would have received 2.0 points had you chosen the other option.
+You press <<P>>. You receive 2.0 points by selecting this option. You would have received -8.0 points had you chosen the other option.
+
+Option P delivers either 18.0 points with 100.0% chance, or 18.0 points with 0.0% chance.
+Option U delivers either -16.0 points with unknown chance, 30.0 points with unknown chance, or 28.0 points with unknown chance.
+You press <<P>>. You receive 18.0 points by selecting this option. You would have received -16.0 points had you chosen the other option.
+You press <<P>>. You receive 18.0 points by selecting this option. You would have received -16.0 points had you chosen the other option.
+You press <<P>>. You receive 18.0 points by selecting this option. You would have received 28.0 points had you chosen the other option.
+You press <<P>>. You receive 18.0 points by selecting this option. You would have received 28.0 points had you chosen the other option.
+You press <<U>>. You receive -16.0 points by selecting this option. You would have received 18.0 points had you chosen the other option.
+
+Option P delivers -4.0 points with 100.0% chance, or -4.0 points with 0.0% chance.
+Option U delivers -5.0 points with 90.0% chance, 35.5 points with 0.3125% chance, 36.5 points with 1.5625% chance, 37.5 points with 3.125% chance, 38.5 points with 3.125% chance, 39.5 points with 1.5625% chance, or 40.5 points with 0.3125% chance.
+You press <<U>>. You receive -5.0 points by selecting this option. You would have received -4.0 points had you chosen the other option.
+You press <<U>>. You receive -5.0 points by selecting this option. You would have received -4.0 points had you chosen the other option.
+You press <<P>>. You receive -4.0 points by selecting this option. You would have received 37.5 points had you chosen the other option.
+You press <<U>>. You receive -5.0 points by selecting this option. You would have received -4.0 points had you chosen the other option.
+You press <<U>>. You receive -5.0 points by selecting this option. You would have received -4.0 points had you chosen the other option.
+
+Option P delivers 27.0 points with 25.0% chance, or 15.0 points with 75.0% chance.
+Option U delivers -20.0 points with 60.0% chance, 85.5 points with 1.25% chance, 86.5 points with 6.25% chance, 87.5 points with 12.5% chance, 88.5 points with 12.5% chance, 89.5 points with 6.25% chance, or 90.5 points with 1.25% chance.
+You press <<U>>. You receive -20.0 points by selecting this option. You would have received 15.0 points had you chosen the other option.
+You press <<U>>. You receive 89.5 points by selecting this option. You would have received 15.0 points had you chosen the other option.
+You press <<P>>. You receive 15.0 points by selecting this option. You would have received -20.0 points had you chosen the other option.
+You press <<P>>. You receive 27.0 points by selecting this option. You would have received -20.0 points had you chosen the other option.
+You press <<P>>. You receive 15.0 points by selecting this option. You would have received 87.5 points had you chosen the other option.
+
+Option P delivers 9.0 points with 100.0% chance, or 9.0 points with 0.0% chance.
+Option U delivers 7.0 points with 95.0% chance, or 48.0 points with 5.0% chance.
+You press <<U>>. You receive 7.0 points by selecting this option. You would have received 9.0 points had you chosen the other option.
+You press <<U>>. You receive 7.0 points by selecting this option. You would have received 9.0 points had you chosen the other option.
+You press <<P>>. You receive 9.0 points by selecting this option. You would have received 7.0 points had you chosen the other option.
+You press <<U>>. You receive 7.0 points by selecting this option. You would have received 9.0 points had you chosen the other option.
+You press <<U>>. You receive 48.0 points by selecting this option. You would have received 9.0 points had you chosen the other option.
+
+Option P delivers either -7.0 points with 100.0% chance, or -7.0 points with 0.0% chance.
+Option U delivers either -26.0 points with unknown chance, 65.0 points with unknown chance, 67.0 points with unknown chance, or 71.0 points with unknown chance.
+You press <<U>>. You receive 67.0 points by selecting this option. You would have received -7.0 points had you chosen the other option.
+You press <<P>>. You receive -7.0 points by selecting this option. You would have received -26.0 points had you chosen the other option.
+You press <<U>>. You receive 65.0 points by selecting this option. You would have received -7.0 points had you chosen the other option.
+You press <<U>>. You receive 65.0 points by selecting this option. You would have received -7.0 points had you chosen the other option.
+You press <<P>>. You receive -7.0 points by selecting this option. You would have received -26.0 points had you chosen the other option.
+
+Option P delivers 27.0 points with 100.0% chance, or 27.0 points with 0.0% chance.
+Option U delivers -24.0 points with 50.0% chance, or 89.0 points with 50.0% chance.
+You press <<P>>.
+You press <<P>>.
+You press <<P>>.
+You press <<U>>.
+You press <<P>>.
+
+Option P delivers 1.0 points with 100.0% chance, or 1.0 points with 0.0% chance.
+Option U delivers -12.0 points with 80.0% chance, or 72.0 points with 20.0% chance.
+You press <<U>>. You receive -12.0 points by selecting this option. You would have received 1.0 points had you chosen the other option.
+You press <<U>>. You receive 72.0 points by selecting this option. You would have received 1.0 points had you chosen the other option.
+You press <<P>>. You receive 1.0 points by selecting this option. You would have received -12.0 points had you chosen the other option.
+You press <<P>>. You receive 1.0 points by selecting this option. You would have received -12.0 points had you chosen the other option.
+You press <<P>>. You receive 1.0 points by selecting this option. You would have received -12.0 points had you chosen the other option.
+
+Option P delivers 22.0 points with 100.0% chance, or 22.0 points with 0.0% chance.
+Option U delivers 13.0 points with 50.0% chance, or 32.0 points with 50.0% chance.
+You press <<U>>. You receive 13.0 points by selecting this option. You would have received 22.0 points had you chosen the other option.
+You press <<U>>. You receive 13.0 points by selecting this option. You would have received 22.0 points had you chosen the other option.
+You press <<U>>. You receive 32.0 points by selecting this option. You would have received 22.0 points had you chosen the other option.
+You press <<P>>. You receive 22.0 points by selecting this option. You would have received 32.0 points had you chosen the other option.
+You press <<P>>. You receive 22.0 points by selecting this option. You would have received 32.0 points had you chosen the other option.
+
+Option P delivers 24.0 points with 100.0% chance, or 24.0 points with 0.0% chance.
+Option U delivers -12.0 points with 60.0% chance, or 72.0 points with 40.0% chance.
+You press <<U>>. You receive 72.0 points by selecting this option. You would have received 24.0 points had you chosen the other option.
+You press <<U>>. You receive -12.0 points by selecting this option. You would have received 24.0 points had you chosen the other option.
+You press <<U>>. You receive -12.0 points by selecting this option. You would have received 24.0 points had you chosen the other option.
+You press <<P>>. You receive 24.0 points by selecting this option. You would have received -12.0 points had you chosen the other option.
+You press <<P>>. You receive 24.0 points by selecting this option. You would have received 72.0 points had you chosen the other option.
+
+Option P delivers -9.0 points with 100.0% chance, or -9.0 points with 0.0% chance.
+Option U delivers -16.0 points with 99.0% chance, 52.0 points with 0.5% chance, or 54.0 points with 0.5% chance.
+You press <<U>>. You receive -16.0 points by selecting this option. You would have received -9.0 points had you chosen the other option.
+You press <<U>>. You receive -16.0 points by selecting this option. You would have received -9.0 points had you chosen the other option.
+You press <<U>>. You receive -16.0 points by selecting this option. You would have received -9.0 points had you chosen the other option.
+You press <<U>>. You receive -16.0 points by selecting this option. You would have received -9.0 points had you chosen the other option.
+You press <<U>>. You receive -16.0 points by selecting this option. You would have received -9.0 points had you chosen the other option.
+
+Option P delivers either 14.0 points with 60.0% chance, or -18.0 points with 40.0% chance.
+Option U delivers either -5.0 points with unknown chance, or 8.0 points with unknown chance.
+You press <<P>>. You receive -18.0 points by selecting this option. You would have received -5.0 points had you chosen the other option.
+You press <<U>>. You receive 8.0 points by selecting this option. You would have received -18.0 points had you chosen the other option.
+You press <<U>>. You receive -5.0 points by selecting this option. You would have received -18.0 points had you chosen the other option.
+You press <<P>>. You receive -18.0 points by selecting this option. You would have received 8.0 points had you chosen the other option.
+You press <<P>>. You receive 14.0 points by selecting this option. You would have received -5.0 points had you chosen the other option.
+
+Option P delivers 13.0 points with 100.0% chance, or 13.0 points with 0.0% chance.
+Option U delivers 15.0 points with 50.0% chance, 20.5 points with 1.5625% chance, 21.5 points with 7.8125% chance, 22.5 points with 15.625% chance, 23.5 points with 15.625% chance, 24.5 points with 7.8125% chance, or 25.5 points with 1.5625% chance.
+You press <<U>>. You receive 15.0 points by selecting this option. You would have received 13.0 points had you chosen the other option.
+You press <<U>>. You receive 21.5 points by selecting this option. You would have received 13.0 points had you chosen the other option.
+You press <<U>>. You receive 15.0 points by selecting this option. You would have received 13.0 points had you chosen the other option.
+You press <<U>>. You receive 15.0 points by selecting this option. You would have received 13.0 points had you chosen the other option.
+You press <<U>>. You receive 15.0 points by selecting this option. You would have received 13.0 points had you chosen the other option.
+
+Option P delivers -8.0 points with 100.0% chance, or -8.0 points with 0.0% chance.
+Option U delivers -6.0 points with 95.0% chance, or 24.0 points with 5.0% chance.
+You press <<U>>. You receive -6.0 points by selecting this option. You would have received -8.0 points had you chosen the other option.
+You press <<U>>. You receive -6.0 points by selecting this option. You would have received -8.0 points had you chosen the other option.
+You press <<U>>. You receive -6.0 points by selecting this option. You would have received -8.0 points had you chosen the other option.
+You press <<U>>. You receive -6.0 points by selecting this option. You would have received -8.0 points had you chosen the other option.
+You press <<U>>. You receive -6.0 points by selecting this option. You would have received -8.0 points had you chosen the other option.
+
+Option P delivers 31.0 points with 5.0% chance, or 10.0 points with 95.0% chance.
+Option U delivers 17.0 points with 10.0% chance, 16.5 points with 45.0% chance, or 17.5 points with 45.0% chance.
+You press <<P>>. You receive 10.0 points by selecting this option. You would have received 17.5 points had you chosen the other option.
+You press <<P>>. You receive 10.0 points by selecting this option. You would have received 16.5 points had you chosen the other option.
+You press <<U>>. You receive 16.5 points by selecting this option. You would have received 10.0 points had you chosen the other option.
+You press <<P>>. You receive 10.0 points by selecting this option. You would have received 17.5 points had you chosen the other option.
+You press <<P>>. You receive 31.0 points by selecting this option. You would have received 17.5 points had you chosen the other option.
+
+Option P delivers either 1.0 points with 100.0% chance, or 1.0 points with 0.0% chance.
+Option U delivers either 0.0 points with unknown chance, or 59.0 points with unknown chance.
+You press <<U>>.
+You press <<U>>.
+You press <<U>>.
+You press <<U>>.
+You press <<P>>.
+
+Option P delivers 26.0 points with 100.0% chance, or 26.0 points with 0.0% chance.
+Option U delivers -36.0 points with 25.0% chance, 41.0 points with 37.5% chance, 43.0 points with 18.75% chance, 47.0 points with 9.375% chance, 55.0 points with 4.6875% chance, or 71.0 points with 4.6875% chance.
+You press <<P>>.
+You press <<U>>.
+You press <<U>>.
+You press <<P>>.
+You press <<P>>.
+
+Option P delivers either 28.0 points with 100.0% chance, or 28.0 points with 0.0% chance.
+Option U delivers either 28.0 points with unknown chance, 31.0 points with unknown chance, 33.0 points with unknown chance, or 37.0 points with unknown chance.
+You press <<U>>. You receive 28.0 points by selecting this option. You would have received 28.0 points had you chosen the other option.
+You press <<U>>. You receive 31.0 points by selecting this option. You would have received 28.0 points had you chosen the other option.
+You press <<U>>. You receive 28.0 points by selecting this option. You would have received 28.0 points had you chosen the other option.
+You press <<U>>. You receive 28.0 points by selecting this option. You would have received 28.0 points had you chosen the other option.
+You press <<U>>. You receive 28.0 points by selecting this option. You would have received 28.0 points had you chosen the other option.
+
+Option P delivers -6.0 points with 100.0% chance, or -6.0 points with 0.0% chance.
+Option U delivers -5.0 points with 80.0% chance, 23.5 points with 10.0% chance, or 24.5 points with 10.0% chance.
+You press <<U>>.
+You press <<U>>.
+You press <<U>>.
+You press <<U>>.
+You press <<U>>.

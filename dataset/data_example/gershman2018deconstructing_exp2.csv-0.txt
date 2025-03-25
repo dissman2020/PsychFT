@@ -1,0 +1,248 @@
+In this task, you have to repeatedly choose between two slot machines labeled I and H.
+You can choose a slot machine by pressing its corresponding key.
+When you select one of the machines, you will win or lose points.
+The machines will not always give you the same points when you select them again, but one slot machine is always better than the other.
+Your goal is to choose the slot machines that will give you the most points.
+You will receive feedback about the outcome after making a choice.
+You will play 20 games in total, each with a different pair of slot machines.
+Each game will consist of 10 trials.
+
+Game 1:
+You press <<I>> and get 0 points.
+You press <<H>> and get -4 points.
+You press <<I>> and get -1 points.
+You press <<I>> and get -2 points.
+You press <<H>> and get -1 points.
+You press <<I>> and get 0 points.
+You press <<I>> and get -3 points.
+You press <<H>> and get -1 points.
+You press <<I>> and get -1 points.
+You press <<I>> and get -1 points.
+
+Game 2:
+You press <<I>> and get 0 points.
+You press <<H>> and get -8 points.
+You press <<I>> and get -2 points.
+You press <<I>> and get 0 points.
+You press <<I>> and get 0 points.
+You press <<I>> and get -1 points.
+You press <<H>> and get -11 points.
+You press <<I>> and get 1 points.
+You press <<I>> and get 0 points.
+You press <<H>> and get -10 points.
+
+Game 3:
+You press <<I>> and get -5 points.
+You press <<H>> and get 2 points.
+You press <<H>> and get 2 points.
+You press <<H>> and get 3 points.
+You press <<H>> and get 2 points.
+You press <<H>> and get 1 points.
+You press <<H>> and get 2 points.
+You press <<H>> and get 4 points.
+You press <<H>> and get 3 points.
+You press <<H>> and get 4 points.
+
+Game 4:
+You press <<H>> and get 1 points.
+You press <<H>> and get 3 points.
+You press <<I>> and get -2 points.
+You press <<H>> and get 3 points.
+You press <<H>> and get 1 points.
+You press <<H>> and get 1 points.
+You press <<H>> and get 0 points.
+You press <<H>> and get 1 points.
+You press <<H>> and get 2 points.
+You press <<H>> and get 1 points.
+
+Game 5:
+You press <<H>> and get -11 points.
+You press <<I>> and get -2 points.
+You press <<I>> and get -3 points.
+You press <<I>> and get -2 points.
+You press <<I>> and get -2 points.
+You press <<I>> and get -3 points.
+You press <<I>> and get -1 points.
+You press <<I>> and get -6 points.
+You press <<H>> and get -10 points.
+You press <<I>> and get -3 points.
+
+Game 6:
+You press <<I>> and get -6 points.
+You press <<H>> and get -9 points.
+You press <<I>> and get -5 points.
+You press <<I>> and get -5 points.
+You press <<I>> and get -5 points.
+You press <<I>> and get -4 points.
+You press <<I>> and get -5 points.
+You press <<I>> and get -6 points.
+You press <<I>> and get -4 points.
+You press <<I>> and get -3 points.
+
+Game 7:
+You press <<I>> and get 1 points.
+You press <<I>> and get -1 points.
+You press <<H>> and get 0 points.
+You press <<H>> and get 0 points.
+You press <<H>> and get -1 points.
+You press <<I>> and get -1 points.
+You press <<I>> and get 3 points.
+You press <<I>> and get 0 points.
+You press <<I>> and get 2 points.
+You press <<I>> and get -1 points.
+
+Game 8:
+You press <<I>> and get 1 points.
+You press <<I>> and get 1 points.
+You press <<I>> and get -1 points.
+You press <<I>> and get 4 points.
+You press <<I>> and get 2 points.
+You press <<I>> and get -1 points.
+You press <<I>> and get 0 points.
+You press <<I>> and get 0 points.
+You press <<I>> and get 2 points.
+You press <<I>> and get 1 points.
+
+Game 9:
+You press <<I>> and get 8 points.
+You press <<I>> and get 8 points.
+You press <<I>> and get 8 points.
+You press <<H>> and get -4 points.
+You press <<I>> and get 7 points.
+You press <<I>> and get 11 points.
+You press <<I>> and get 6 points.
+You press <<I>> and get 8 points.
+You press <<I>> and get 9 points.
+You press <<I>> and get 10 points.
+
+Game 10:
+You press <<I>> and get -9 points.
+You press <<H>> and get -10 points.
+You press <<I>> and get -8 points.
+You press <<I>> and get -9 points.
+You press <<I>> and get -9 points.
+You press <<I>> and get -8 points.
+You press <<I>> and get -9 points.
+You press <<I>> and get -9 points.
+You press <<I>> and get -9 points.
+You press <<I>> and get -7 points.
+
+Game 11:
+You press <<I>> and get 10 points.
+You press <<I>> and get 10 points.
+You press <<I>> and get 12 points.
+You press <<I>> and get 11 points.
+You press <<H>> and get 17 points.
+You press <<H>> and get 16 points.
+You press <<H>> and get 18 points.
+You press <<H>> and get 16 points.
+You press <<H>> and get 17 points.
+You press <<H>> and get 16 points.
+
+Game 12:
+You press <<H>> and get 5 points.
+You press <<I>> and get -12 points.
+You press <<H>> and get 4 points.
+You press <<H>> and get 4 points.
+You press <<H>> and get 3 points.
+You press <<H>> and get 5 points.
+You press <<H>> and get 4 points.
+You press <<H>> and get 5 points.
+You press <<H>> and get 4 points.
+You press <<H>> and get 3 points.
+
+Game 13:
+You press <<H>> and get 5 points.
+You press <<I>> and get -2 points.
+You press <<H>> and get 3 points.
+You press <<H>> and get 5 points.
+You press <<H>> and get 2 points.
+You press <<H>> and get 5 points.
+You press <<H>> and get 4 points.
+You press <<H>> and get 3 points.
+You press <<H>> and get 4 points.
+You press <<H>> and get 4 points.
+
+Game 14:
+You press <<H>> and get -5 points.
+You press <<I>> and get -6 points.
+You press <<H>> and get -5 points.
+You press <<I>> and get -7 points.
+You press <<I>> and get -6 points.
+You press <<I>> and get -4 points.
+You press <<H>> and get -7 points.
+You press <<I>> and get -6 points.
+You press <<I>> and get -7 points.
+You press <<I>> and get -7 points.
+
+Game 15:
+You press <<I>> and get -19 points.
+You press <<H>> and get -9 points.
+You press <<H>> and get -8 points.
+You press <<H>> and get -8 points.
+You press <<H>> and get -8 points.
+You press <<H>> and get -10 points.
+You press <<I>> and get -16 points.
+You press <<H>> and get -9 points.
+You press <<H>> and get -9 points.
+You press <<H>> and get -8 points.
+
+Game 16:
+You press <<H>> and get 9 points.
+You press <<I>> and get -8 points.
+You press <<H>> and get 8 points.
+You press <<H>> and get 10 points.
+You press <<H>> and get 9 points.
+You press <<H>> and get 9 points.
+You press <<H>> and get 9 points.
+You press <<H>> and get 8 points.
+You press <<H>> and get 7 points.
+You press <<H>> and get 7 points.
+
+Game 17:
+You press <<H>> and get 2 points.
+You press <<I>> and get 16 points.
+You press <<I>> and get 15 points.
+You press <<I>> and get 15 points.
+You press <<I>> and get 16 points.
+You press <<I>> and get 16 points.
+You press <<I>> and get 14 points.
+You press <<I>> and get 15 points.
+You press <<I>> and get 15 points.
+You press <<I>> and get 14 points.
+
+Game 18:
+You press <<H>> and get -3 points.
+You press <<I>> and get -5 points.
+You press <<I>> and get -6 points.
+You press <<H>> and get -6 points.
+You press <<I>> and get -7 points.
+You press <<H>> and get -2 points.
+You press <<I>> and get -6 points.
+You press <<H>> and get -4 points.
+You press <<I>> and get -6 points.
+You press <<H>> and get -2 points.
+
+Game 19:
+You press <<H>> and get 18 points.
+You press <<I>> and get 1 points.
+You press <<H>> and get 18 points.
+You press <<H>> and get 18 points.
+You press <<H>> and get 17 points.
+You press <<H>> and get 18 points.
+You press <<H>> and get 18 points.
+You press <<H>> and get 18 points.
+You press <<H>> and get 18 points.
+You press <<H>> and get 19 points.
+
+Game 20:
+You press <<H>> and get 4 points.
+You press <<I>> and get 1 points.
+You press <<H>> and get 3 points.
+You press <<H>> and get 3 points.
+You press <<H>> and get 5 points.
+You press <<H>> and get 4 points.
+You press <<H>> and get 2 points.
+You press <<H>> and get 4 points.
+You press <<H>> and get 3 points.
+You press <<H>> and get 4 points.

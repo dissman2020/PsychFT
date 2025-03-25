@@ -1,0 +1,96 @@
+Throughout the task, you will be presented with balloons, one at a time.
+In each step, you can choose to pump up the balloon by pressing N and you will accumulate 1 point for each pump.
+At any point, you can stop pumping up the balloon by pressing X and you will collect your accumulated points.
+You will repeat this procedure on multiple different balloons.
+It is your choice to determine how much to pump up the balloon, but be aware that at some point the balloon will explode.
+If the balloon explodes before you collect your accumulated points, then you move on to the next balloon and the points are lost.
+
+Balloon 1:
+You press <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>>. The balloon was inflated too much and explodes.
+
+Balloon 2:
+You press <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<X>>. You stop inflating the balloon and get 60 points.
+
+Balloon 3:
+You press <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>>. The balloon was inflated too much and explodes.
+
+Balloon 4:
+You press <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>>. The balloon was inflated too much and explodes.
+
+Balloon 5:
+You press <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<X>>. You stop inflating the balloon and get 30 points.
+
+Balloon 6:
+You press <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<X>>. You stop inflating the balloon and get 30 points.
+
+Balloon 7:
+You press <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<X>>. You stop inflating the balloon and get 40 points.
+
+Balloon 8:
+You press <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<X>>. You stop inflating the balloon and get 35 points.
+
+Balloon 9:
+You press <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>>. The balloon was inflated too much and explodes.
+
+Balloon 10:
+You press <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<X>>. You stop inflating the balloon and get 20 points.
+
+Balloon 11:
+You press <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<X>>. You stop inflating the balloon and get 25 points.
+
+Balloon 12:
+You press <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<X>>. You stop inflating the balloon and get 28 points.
+
+Balloon 13:
+You press <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<X>>. You stop inflating the balloon and get 32 points.
+
+Balloon 14:
+You press <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<X>>. You stop inflating the balloon and get 35 points.
+
+Balloon 15:
+You press <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<X>>. You stop inflating the balloon and get 35 points.
+
+Balloon 16:
+You press <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<X>>. You stop inflating the balloon and get 40 points.
+
+Balloon 17:
+You press <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<X>>. You stop inflating the balloon and get 35 points.
+
+Balloon 18:
+You press <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<X>>. You stop inflating the balloon and get 40 points.
+
+Balloon 19:
+You press <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>>. The balloon was inflated too much and explodes.
+
+Balloon 20:
+You press <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<X>>. You stop inflating the balloon and get 20 points.
+
+Balloon 21:
+You press <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>>. The balloon was inflated too much and explodes.
+
+Balloon 22:
+You press <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<X>>. You stop inflating the balloon and get 25 points.
+
+Balloon 23:
+You press <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>>. The balloon was inflated too much and explodes.
+
+Balloon 24:
+You press <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<X>>. You stop inflating the balloon and get 21 points.
+
+Balloon 25:
+You press <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<X>>. You stop inflating the balloon and get 29 points.
+
+Balloon 26:
+You press <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<X>>. You stop inflating the balloon and get 25 points.
+
+Balloon 27:
+You press <<N>>. The balloon was inflated too much and explodes.
+
+Balloon 28:
+You press <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<X>>. You stop inflating the balloon and get 22 points.
+
+Balloon 29:
+You press <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>>. The balloon was inflated too much and explodes.
+
+Balloon 30:
+You press <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<N>> <<X>>. You stop inflating the balloon and get 18 points.

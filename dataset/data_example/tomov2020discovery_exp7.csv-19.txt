@@ -1,0 +1,603 @@
+Imagine that you are a tourist and you have to navigate the subway network in an unfamiliar town.
+In each round, you will have to navigate from a starting station to a goal station.
+Please try to plan your trip as quickly as possible.
+During your trip, you will see the name of the current station and its neighboring stations in all four directions.
+If there is no neighboring station in a particular direction, there will be a circle instead of a station name.
+You can go north by pressing H, west by pressing F, south by pressing S, and east by pressing G.
+When you reach the goal station, press T to end the round and start the next round.
+
+The new starting station is 4 and the goal station is -1.
+Your station: 4. Neighboring stations: 3 on the north, circle on the east, 5 on the south, and circle on the west. You press <<G>>.
+Your station: 3. Neighboring stations: 2 on the north, circle on the east, 4 on the south, and circle on the west. You press <<G>>.
+You are successful.
+
+The new starting station is 2 and the goal station is 7.
+Your station: 2. Neighboring stations: circle on the north, circle on the east, 3 on the south, and circle on the west. You press <<G>>.
+Your station: 1. Neighboring stations: circle on the north, 2 on the east, circle on the south, and 10 on the west. You press <<G>>.
+Your station: 10. Neighboring stations: circle on the north, 1 on the east, 9 on the south, and circle on the west. You press <<H>>.
+Your station: 9. Neighboring stations: 10 on the north, circle on the east, 8 on the south, and circle on the west. You press <<H>>.
+Your station: 8. Neighboring stations: 9 on the north, circle on the east, 7 on the south, and circle on the west. You press <<H>>.
+Your station: 7. Neighboring stations: 8 on the north, 6 on the east, circle on the south, and circle on the west. You press <<H>>.
+You are successful.
+
+The new starting station is 5 and the goal station is 6.
+Your station: 5. Neighboring stations: 4 on the north, circle on the east, circle on the south, and 6 on the west. You press <<T>>.
+Your station: 4. Neighboring stations: 3 on the north, circle on the east, 5 on the south, and circle on the west. You press <<H>>.
+Your station: 3. Neighboring stations: 2 on the north, circle on the east, 4 on the south, and circle on the west. You press <<G>>.
+Your station: 2. Neighboring stations: circle on the north, circle on the east, 3 on the south, and circle on the west. You press <<G>>.
+Your station: 3. Neighboring stations: 2 on the north, circle on the east, 4 on the south, and circle on the west. You press <<T>>.
+Your station: 4. Neighboring stations: 3 on the north, circle on the east, 5 on the south, and circle on the west. You press <<G>>.
+Your station: 5. Neighboring stations: 4 on the north, circle on the east, circle on the south, and 6 on the west. You press <<G>>.
+Your station: 6. Neighboring stations: circle on the north, 5 on the east, circle on the south, and 7 on the west. You press <<H>>.
+You are successful.
+
+The new starting station is 9 and the goal station is -1.
+Your station: 9. Neighboring stations: 10 on the north, circle on the east, 8 on the south, and circle on the west. You press <<H>>.
+Your station: 10. Neighboring stations: circle on the north, 1 on the east, 9 on the south, and circle on the west. You press <<T>>.
+Your station: 1. Neighboring stations: circle on the north, 2 on the east, circle on the south, and 10 on the west. You press <<H>>.
+You are successful.
+
+The new starting station is 3 and the goal station is 7.
+Your station: 3. Neighboring stations: 2 on the north, circle on the east, 4 on the south, and circle on the west. You press <<T>>.
+Your station: 4. Neighboring stations: 3 on the north, circle on the east, 5 on the south, and circle on the west. You press <<G>>.
+Your station: 3. Neighboring stations: 2 on the north, circle on the east, 4 on the south, and circle on the west. You press <<G>>.
+Your station: 4. Neighboring stations: 3 on the north, circle on the east, 5 on the south, and circle on the west. You press <<H>>.
+Your station: 5. Neighboring stations: 4 on the north, circle on the east, circle on the south, and 6 on the west. You press <<H>>.
+Your station: 6. Neighboring stations: circle on the north, 5 on the east, circle on the south, and 7 on the west. You press <<F>>.
+Your station: 7. Neighboring stations: 8 on the north, 6 on the east, circle on the south, and circle on the west. You press <<T>>.
+You are successful.
+
+The new starting station is 2 and the goal station is 5.
+Your station: 2. Neighboring stations: circle on the north, circle on the east, 3 on the south, and circle on the west. You press <<T>>.
+Your station: 3. Neighboring stations: 2 on the north, circle on the east, 4 on the south, and circle on the west. You press <<F>>.
+Your station: 4. Neighboring stations: 3 on the north, circle on the east, 5 on the south, and circle on the west. You press <<S>>.
+Your station: 5. Neighboring stations: 4 on the north, circle on the east, circle on the south, and 6 on the west. You press <<S>>.
+You are successful.
+
+The new starting station is 6 and the goal station is 1.
+Your station: 6. Neighboring stations: circle on the north, 5 on the east, circle on the south, and 7 on the west. You press <<T>>.
+Your station: 7. Neighboring stations: 8 on the north, 6 on the east, circle on the south, and circle on the west. You press <<G>>.
+Your station: 8. Neighboring stations: 9 on the north, circle on the east, 7 on the south, and circle on the west. You press <<S>>.
+Your station: 9. Neighboring stations: 10 on the north, circle on the east, 8 on the south, and circle on the west. You press <<S>>.
+Your station: 10. Neighboring stations: circle on the north, 1 on the east, 9 on the south, and circle on the west. You press <<T>>.
+Your station: 1. Neighboring stations: circle on the north, 2 on the east, circle on the south, and 10 on the west. You press <<T>>.
+You are successful.
+
+The new starting station is 1 and the goal station is 3.
+Your station: 1. Neighboring stations: circle on the north, 2 on the east, circle on the south, and 10 on the west. You press <<T>>.
+Your station: 2. Neighboring stations: circle on the north, circle on the east, 3 on the south, and circle on the west. You press <<T>>.
+Your station: 3. Neighboring stations: 2 on the north, circle on the east, 4 on the south, and circle on the west. You press <<G>>.
+You are successful.
+
+The new starting station is 1 and the goal station is 2.
+Your station: 1. Neighboring stations: circle on the north, 2 on the east, circle on the south, and 10 on the west. You press <<G>>.
+Your station: 2. Neighboring stations: circle on the north, circle on the east, 3 on the south, and circle on the west. You press <<T>>.
+You are successful.
+
+The new starting station is 8 and the goal station is 5.
+Your station: 8. Neighboring stations: 9 on the north, circle on the east, 7 on the south, and circle on the west. You press <<T>>.
+Your station: 7. Neighboring stations: 8 on the north, 6 on the east, circle on the south, and circle on the west. You press <<T>>.
+Your station: 6. Neighboring stations: circle on the north, 5 on the east, circle on the south, and 7 on the west. You press <<S>>.
+Your station: 5. Neighboring stations: 4 on the north, circle on the east, circle on the south, and 6 on the west. You press <<T>>.
+You are successful.
+
+The new starting station is 1 and the goal station is 6.
+Your station: 1. Neighboring stations: circle on the north, 2 on the east, circle on the south, and 10 on the west. You press <<F>>.
+Your station: 10. Neighboring stations: circle on the north, 1 on the east, 9 on the south, and circle on the west. You press <<F>>.
+Your station: 9. Neighboring stations: 10 on the north, circle on the east, 8 on the south, and circle on the west. You press <<G>>.
+Your station: 8. Neighboring stations: 9 on the north, circle on the east, 7 on the south, and circle on the west. You press <<G>>.
+Your station: 7. Neighboring stations: 8 on the north, 6 on the east, circle on the south, and circle on the west. You press <<F>>.
+Your station: 6. Neighboring stations: circle on the north, 5 on the east, circle on the south, and 7 on the west. You press <<T>>.
+You are successful.
+
+The new starting station is 9 and the goal station is 6.
+Your station: 9. Neighboring stations: 10 on the north, circle on the east, 8 on the south, and circle on the west. You press <<S>>.
+Your station: 8. Neighboring stations: 9 on the north, circle on the east, 7 on the south, and circle on the west. You press <<T>>.
+Your station: 7. Neighboring stations: 8 on the north, 6 on the east, circle on the south, and circle on the west. You press <<S>>.
+Your station: 6. Neighboring stations: circle on the north, 5 on the east, circle on the south, and 7 on the west. You press <<S>>.
+You are successful.
+
+The new starting station is 9 and the goal station is 7.
+Your station: 9. Neighboring stations: 10 on the north, circle on the east, 8 on the south, and circle on the west. You press <<F>>.
+Your station: 8. Neighboring stations: 9 on the north, circle on the east, 7 on the south, and circle on the west. You press <<F>>.
+Your station: 7. Neighboring stations: 8 on the north, 6 on the east, circle on the south, and circle on the west. You press <<T>>.
+You are successful.
+
+The new starting station is 1 and the goal station is 4.
+Your station: 1. Neighboring stations: circle on the north, 2 on the east, circle on the south, and 10 on the west. You press <<S>>.
+Your station: 2. Neighboring stations: circle on the north, circle on the east, 3 on the south, and circle on the west. You press <<F>>.
+Your station: 3. Neighboring stations: 2 on the north, circle on the east, 4 on the south, and circle on the west. You press <<T>>.
+Your station: 4. Neighboring stations: 3 on the north, circle on the east, 5 on the south, and circle on the west. You press <<F>>.
+You are successful.
+
+The new starting station is 6 and the goal station is 9.
+Your station: 6. Neighboring stations: circle on the north, 5 on the east, circle on the south, and 7 on the west. You press <<T>>.
+Your station: 7. Neighboring stations: 8 on the north, 6 on the east, circle on the south, and circle on the west. You press <<F>>.
+Your station: 8. Neighboring stations: 9 on the north, circle on the east, 7 on the south, and circle on the west. You press <<F>>.
+Your station: 9. Neighboring stations: 10 on the north, circle on the east, 8 on the south, and circle on the west. You press <<T>>.
+You are successful.
+
+The new starting station is 2 and the goal station is 6.
+Your station: 2. Neighboring stations: circle on the north, circle on the east, 3 on the south, and circle on the west. You press <<G>>.
+Your station: 1. Neighboring stations: circle on the north, 2 on the east, circle on the south, and 10 on the west. You press <<G>>.
+Your station: 2. Neighboring stations: circle on the north, circle on the east, 3 on the south, and circle on the west. You press <<H>>.
+Your station: 3. Neighboring stations: 2 on the north, circle on the east, 4 on the south, and circle on the west. You press <<H>>.
+Your station: 4. Neighboring stations: 3 on the north, circle on the east, 5 on the south, and circle on the west. You press <<T>>.
+Your station: 5. Neighboring stations: 4 on the north, circle on the east, circle on the south, and 6 on the west. You press <<G>>.
+Your station: 6. Neighboring stations: circle on the north, 5 on the east, circle on the south, and 7 on the west. You press <<H>>.
+You are successful.
+
+The new starting station is 7 and the goal station is 8.
+Your station: 7. Neighboring stations: 8 on the north, 6 on the east, circle on the south, and circle on the west. You press <<G>>.
+Your station: 8. Neighboring stations: 9 on the north, circle on the east, 7 on the south, and circle on the west. You press <<G>>.
+You are successful.
+
+The new starting station is 10 and the goal station is 2.
+Your station: 10. Neighboring stations: circle on the north, 1 on the east, 9 on the south, and circle on the west. You press <<T>>.
+Your station: 1. Neighboring stations: circle on the north, 2 on the east, circle on the south, and 10 on the west. You press <<G>>.
+Your station: 2. Neighboring stations: circle on the north, circle on the east, 3 on the south, and circle on the west. You press <<G>>.
+You are successful.
+
+The new starting station is 1 and the goal station is 9.
+Your station: 1. Neighboring stations: circle on the north, 2 on the east, circle on the south, and 10 on the west. You press <<G>>.
+Your station: 10. Neighboring stations: circle on the north, 1 on the east, 9 on the south, and circle on the west. You press <<G>>.
+Your station: 9. Neighboring stations: 10 on the north, circle on the east, 8 on the south, and circle on the west. You press <<G>>.
+You are successful.
+
+The new starting station is 9 and the goal station is 5.
+Your station: 9. Neighboring stations: 10 on the north, circle on the east, 8 on the south, and circle on the west. You press <<S>>.
+Your station: 8. Neighboring stations: 9 on the north, circle on the east, 7 on the south, and circle on the west. You press <<S>>.
+Your station: 7. Neighboring stations: 8 on the north, 6 on the east, circle on the south, and circle on the west. You press <<T>>.
+Your station: 6. Neighboring stations: circle on the north, 5 on the east, circle on the south, and 7 on the west. You press <<S>>.
+Your station: 5. Neighboring stations: 4 on the north, circle on the east, circle on the south, and 6 on the west. You press <<T>>.
+You are successful.
+
+The new starting station is 5 and the goal station is 4.
+Your station: 5. Neighboring stations: 4 on the north, circle on the east, circle on the south, and 6 on the west. You press <<S>>.
+Your station: 4. Neighboring stations: 3 on the north, circle on the east, 5 on the south, and circle on the west. You press <<T>>.
+You are successful.
+
+The new starting station is 8 and the goal station is -1.
+Your station: 8. Neighboring stations: 9 on the north, circle on the east, 7 on the south, and circle on the west. You press <<G>>.
+Your station: 7. Neighboring stations: 8 on the north, 6 on the east, circle on the south, and circle on the west. You press <<G>>.
+Your station: 6. Neighboring stations: circle on the north, 5 on the east, circle on the south, and 7 on the west. You press <<G>>.
+You are successful.
+
+The new starting station is 8 and the goal station is 9.
+Your station: 8. Neighboring stations: 9 on the north, circle on the east, 7 on the south, and circle on the west. You press <<G>>.
+Your station: 9. Neighboring stations: 10 on the north, circle on the east, 8 on the south, and circle on the west. You press <<G>>.
+You are successful.
+
+The new starting station is 4 and the goal station is 1.
+Your station: 4. Neighboring stations: 3 on the north, circle on the east, 5 on the south, and circle on the west. You press <<G>>.
+Your station: 3. Neighboring stations: 2 on the north, circle on the east, 4 on the south, and circle on the west. You press <<G>>.
+Your station: 2. Neighboring stations: circle on the north, circle on the east, 3 on the south, and circle on the west. You press <<G>>.
+Your station: 1. Neighboring stations: circle on the north, 2 on the east, circle on the south, and 10 on the west. You press <<H>>.
+You are successful.
+
+The new starting station is 7 and the goal station is 5.
+Your station: 7. Neighboring stations: 8 on the north, 6 on the east, circle on the south, and circle on the west. You press <<H>>.
+Your station: 6. Neighboring stations: circle on the north, 5 on the east, circle on the south, and 7 on the west. You press <<T>>.
+Your station: 5. Neighboring stations: 4 on the north, circle on the east, circle on the south, and 6 on the west. You press <<T>>.
+You are successful.
+
+The new starting station is 6 and the goal station is 4.
+Your station: 6. Neighboring stations: circle on the north, 5 on the east, circle on the south, and 7 on the west. You press <<H>>.
+Your station: 5. Neighboring stations: 4 on the north, circle on the east, circle on the south, and 6 on the west. You press <<G>>.
+Your station: 4. Neighboring stations: 3 on the north, circle on the east, 5 on the south, and circle on the west. You press <<G>>.
+You are successful.
+
+The new starting station is 1 and the goal station is -1.
+Your station: 1. Neighboring stations: circle on the north, 2 on the east, circle on the south, and 10 on the west. You press <<G>>.
+Your station: 2. Neighboring stations: circle on the north, circle on the east, 3 on the south, and circle on the west. You press <<T>>.
+Your station: 3. Neighboring stations: 2 on the north, circle on the east, 4 on the south, and circle on the west. You press <<F>>.
+Your station: 4. Neighboring stations: 3 on the north, circle on the east, 5 on the south, and circle on the west. You press <<T>>.
+You are successful.
+
+The new starting station is 5 and the goal station is -1.
+Your station: 5. Neighboring stations: 4 on the north, circle on the east, circle on the south, and 6 on the west. You press <<G>>.
+Your station: 6. Neighboring stations: circle on the north, 5 on the east, circle on the south, and 7 on the west. You press <<G>>.
+Your station: 7. Neighboring stations: 8 on the north, 6 on the east, circle on the south, and circle on the west. You press <<G>>.
+Your station: 8. Neighboring stations: 9 on the north, circle on the east, 7 on the south, and circle on the west. You press <<S>>.
+Your station: 9. Neighboring stations: 10 on the north, circle on the east, 8 on the south, and circle on the west. You press <<S>>.
+Your station: 10. Neighboring stations: circle on the north, 1 on the east, 9 on the south, and circle on the west. You press <<F>>.
+Your station: 1. Neighboring stations: circle on the north, 2 on the east, circle on the south, and 10 on the west. You press <<T>>.
+You are successful.
+
+The new starting station is 4 and the goal station is -1.
+Your station: 4. Neighboring stations: 3 on the north, circle on the east, 5 on the south, and circle on the west. You press <<G>>.
+Your station: 3. Neighboring stations: 2 on the north, circle on the east, 4 on the south, and circle on the west. You press <<S>>.
+You are successful.
+
+The new starting station is 6 and the goal station is 2.
+Your station: 6. Neighboring stations: circle on the north, 5 on the east, circle on the south, and 7 on the west. You press <<S>>.
+Your station: 5. Neighboring stations: 4 on the north, circle on the east, circle on the south, and 6 on the west. You press <<T>>.
+Your station: 4. Neighboring stations: 3 on the north, circle on the east, 5 on the south, and circle on the west. You press <<G>>.
+Your station: 3. Neighboring stations: 2 on the north, circle on the east, 4 on the south, and circle on the west. You press <<G>>.
+Your station: 2. Neighboring stations: circle on the north, circle on the east, 3 on the south, and circle on the west. You press <<T>>.
+You are successful.
+
+The new starting station is 8 and the goal station is 4.
+Your station: 8. Neighboring stations: 9 on the north, circle on the east, 7 on the south, and circle on the west. You press <<S>>.
+Your station: 7. Neighboring stations: 8 on the north, 6 on the east, circle on the south, and circle on the west. You press <<S>>.
+Your station: 6. Neighboring stations: circle on the north, 5 on the east, circle on the south, and 7 on the west. You press <<T>>.
+Your station: 5. Neighboring stations: 4 on the north, circle on the east, circle on the south, and 6 on the west. You press <<G>>.
+Your station: 4. Neighboring stations: 3 on the north, circle on the east, 5 on the south, and circle on the west. You press <<H>>.
+You are successful.
+
+The new starting station is 4 and the goal station is 7.
+Your station: 4. Neighboring stations: 3 on the north, circle on the east, 5 on the south, and circle on the west. You press <<T>>.
+Your station: 5. Neighboring stations: 4 on the north, circle on the east, circle on the south, and 6 on the west. You press <<F>>.
+Your station: 6. Neighboring stations: circle on the north, 5 on the east, circle on the south, and 7 on the west. You press <<H>>.
+Your station: 7. Neighboring stations: 8 on the north, 6 on the east, circle on the south, and circle on the west. You press <<H>>.
+You are successful.
+
+The new starting station is 7 and the goal station is 10.
+Your station: 7. Neighboring stations: 8 on the north, 6 on the east, circle on the south, and circle on the west. You press <<H>>.
+Your station: 8. Neighboring stations: 9 on the north, circle on the east, 7 on the south, and circle on the west. You press <<G>>.
+Your station: 9. Neighboring stations: 10 on the north, circle on the east, 8 on the south, and circle on the west. You press <<G>>.
+Your station: 10. Neighboring stations: circle on the north, 1 on the east, 9 on the south, and circle on the west. You press <<T>>.
+You are successful.
+
+The new starting station is 9 and the goal station is 10.
+Your station: 9. Neighboring stations: 10 on the north, circle on the east, 8 on the south, and circle on the west. You press <<G>>.
+Your station: 10. Neighboring stations: circle on the north, 1 on the east, 9 on the south, and circle on the west. You press <<H>>.
+You are successful.
+
+The new starting station is 2 and the goal station is -1.
+Your station: 2. Neighboring stations: circle on the north, circle on the east, 3 on the south, and circle on the west. You press <<H>>.
+You are successful.
+
+The new starting station is 3 and the goal station is -1.
+Your station: 3. Neighboring stations: 2 on the north, circle on the east, 4 on the south, and circle on the west. You press <<T>>.
+You are successful.
+
+The new starting station is 8 and the goal station is 6.
+Your station: 8. Neighboring stations: 9 on the north, circle on the east, 7 on the south, and circle on the west. You press <<H>>.
+Your station: 7. Neighboring stations: 8 on the north, 6 on the east, circle on the south, and circle on the west. You press <<H>>.
+Your station: 6. Neighboring stations: circle on the north, 5 on the east, circle on the south, and 7 on the west. You press <<T>>.
+You are successful.
+
+The new starting station is 6 and the goal station is 8.
+Your station: 6. Neighboring stations: circle on the north, 5 on the east, circle on the south, and 7 on the west. You press <<H>>.
+Your station: 7. Neighboring stations: 8 on the north, 6 on the east, circle on the south, and circle on the west. You press <<G>>.
+Your station: 8. Neighboring stations: 9 on the north, circle on the east, 7 on the south, and circle on the west. You press <<G>>.
+You are successful.
+
+The new starting station is 10 and the goal station is -1.
+Your station: 10. Neighboring stations: circle on the north, 1 on the east, 9 on the south, and circle on the west. You press <<G>>.
+Your station: 1. Neighboring stations: circle on the north, 2 on the east, circle on the south, and 10 on the west. You press <<T>>.
+You are successful.
+
+The new starting station is 2 and the goal station is 10.
+Your station: 2. Neighboring stations: circle on the north, circle on the east, 3 on the south, and circle on the west. You press <<S>>.
+Your station: 1. Neighboring stations: circle on the north, 2 on the east, circle on the south, and 10 on the west. You press <<G>>.
+Your station: 10. Neighboring stations: circle on the north, 1 on the east, 9 on the south, and circle on the west. You press <<G>>.
+You are successful.
+
+The new starting station is 4 and the goal station is 5.
+Your station: 4. Neighboring stations: 3 on the north, circle on the east, 5 on the south, and circle on the west. You press <<G>>.
+Your station: 5. Neighboring stations: 4 on the north, circle on the east, circle on the south, and 6 on the west. You press <<H>>.
+You are successful.
+
+The new starting station is 9 and the goal station is 1.
+Your station: 9. Neighboring stations: 10 on the north, circle on the east, 8 on the south, and circle on the west. You press <<T>>.
+Your station: 10. Neighboring stations: circle on the north, 1 on the east, 9 on the south, and circle on the west. You press <<H>>.
+Your station: 1. Neighboring stations: circle on the north, 2 on the east, circle on the south, and 10 on the west. You press <<G>>.
+You are successful.
+
+The new starting station is 9 and the goal station is 5.
+Your station: 9. Neighboring stations: 10 on the north, circle on the east, 8 on the south, and circle on the west. You press <<G>>.
+Your station: 8. Neighboring stations: 9 on the north, circle on the east, 7 on the south, and circle on the west. You press <<S>>.
+Your station: 7. Neighboring stations: 8 on the north, 6 on the east, circle on the south, and circle on the west. You press <<S>>.
+Your station: 6. Neighboring stations: circle on the north, 5 on the east, circle on the south, and 7 on the west. You press <<T>>.
+Your station: 5. Neighboring stations: 4 on the north, circle on the east, circle on the south, and 6 on the west. You press <<T>>.
+You are successful.
+
+The new starting station is 4 and the goal station is 3.
+Your station: 4. Neighboring stations: 3 on the north, circle on the east, 5 on the south, and circle on the west. You press <<F>>.
+Your station: 3. Neighboring stations: 2 on the north, circle on the east, 4 on the south, and circle on the west. You press <<T>>.
+You are successful.
+
+The new starting station is 7 and the goal station is 6.
+Your station: 7. Neighboring stations: 8 on the north, 6 on the east, circle on the south, and circle on the west. You press <<F>>.
+Your station: 6. Neighboring stations: circle on the north, 5 on the east, circle on the south, and 7 on the west. You press <<S>>.
+You are successful.
+
+The new starting station is 4 and the goal station is 10.
+Your station: 4. Neighboring stations: 3 on the north, circle on the east, 5 on the south, and circle on the west. You press <<S>>.
+Your station: 3. Neighboring stations: 2 on the north, circle on the east, 4 on the south, and circle on the west. You press <<T>>.
+Your station: 2. Neighboring stations: circle on the north, circle on the east, 3 on the south, and circle on the west. You press <<G>>.
+Your station: 1. Neighboring stations: circle on the north, 2 on the east, circle on the south, and 10 on the west. You press <<G>>.
+Your station: 10. Neighboring stations: circle on the north, 1 on the east, 9 on the south, and circle on the west. You press <<T>>.
+You are successful.
+
+The new starting station is 3 and the goal station is -1.
+Your station: 3. Neighboring stations: 2 on the north, circle on the east, 4 on the south, and circle on the west. You press <<H>>.
+You are successful.
+
+The new starting station is 1 and the goal station is -1.
+Your station: 1. Neighboring stations: circle on the north, 2 on the east, circle on the south, and 10 on the west. You press <<T>>.
+Your station: 2. Neighboring stations: circle on the north, circle on the east, 3 on the south, and circle on the west. You press <<T>>.
+Your station: 3. Neighboring stations: 2 on the north, circle on the east, 4 on the south, and circle on the west. You press <<H>>.
+Your station: 4. Neighboring stations: 3 on the north, circle on the east, 5 on the south, and circle on the west. You press <<S>>.
+Your station: 5. Neighboring stations: 4 on the north, circle on the east, circle on the south, and 6 on the west. You press <<16>>.
+You are successful.
+
+The new starting station is 7 and the goal station is 5.
+Your station: 7. Neighboring stations: 8 on the north, 6 on the east, circle on the south, and circle on the west. You press <<F>>.
+Your station: 6. Neighboring stations: circle on the north, 5 on the east, circle on the south, and 7 on the west. You press <<F>>.
+Your station: 5. Neighboring stations: 4 on the north, circle on the east, circle on the south, and 6 on the west. You press <<F>>.
+You are successful.
+
+The new starting station is 4 and the goal station is 6.
+Your station: 4. Neighboring stations: 3 on the north, circle on the east, 5 on the south, and circle on the west. You press <<T>>.
+Your station: 5. Neighboring stations: 4 on the north, circle on the east, circle on the south, and 6 on the west. You press <<F>>.
+Your station: 6. Neighboring stations: circle on the north, 5 on the east, circle on the south, and 7 on the west. You press <<F>>.
+You are successful.
+
+The new starting station is 6 and the goal station is 4.
+Your station: 6. Neighboring stations: circle on the north, 5 on the east, circle on the south, and 7 on the west. You press <<F>>.
+Your station: 5. Neighboring stations: 4 on the north, circle on the east, circle on the south, and 6 on the west. You press <<S>>.
+Your station: 4. Neighboring stations: 3 on the north, circle on the east, 5 on the south, and circle on the west. You press <<T>>.
+You are successful.
+
+The new starting station is 7 and the goal station is -1.
+Your station: 7. Neighboring stations: 8 on the north, 6 on the east, circle on the south, and circle on the west. You press <<H>>.
+Your station: 6. Neighboring stations: circle on the north, 5 on the east, circle on the south, and 7 on the west. You press <<G>>.
+You are successful.
+
+The new starting station is 2 and the goal station is -1.
+Your station: 2. Neighboring stations: circle on the north, circle on the east, 3 on the south, and circle on the west. You press <<G>>.
+You are successful.
+
+The new starting station is 3 and the goal station is -1.
+Your station: 3. Neighboring stations: 2 on the north, circle on the east, 4 on the south, and circle on the west. You press <<T>>.
+You are successful.
+
+The new starting station is 2 and the goal station is -1.
+Your station: 2. Neighboring stations: circle on the north, circle on the east, 3 on the south, and circle on the west. You press <<H>>.
+Your station: 3. Neighboring stations: 2 on the north, circle on the east, 4 on the south, and circle on the west. You press <<G>>.
+You are successful.
+
+The new starting station is 7 and the goal station is -1.
+Your station: 7. Neighboring stations: 8 on the north, 6 on the east, circle on the south, and circle on the west. You press <<T>>.
+Your station: 6. Neighboring stations: circle on the north, 5 on the east, circle on the south, and 7 on the west. You press <<T>>.
+Your station: 5. Neighboring stations: 4 on the north, circle on the east, circle on the south, and 6 on the west. You press <<H>>.
+You are successful.
+
+The new starting station is 2 and the goal station is -1.
+Your station: 2. Neighboring stations: circle on the north, circle on the east, 3 on the south, and circle on the west. You press <<F>>.
+Your station: 3. Neighboring stations: 2 on the north, circle on the east, 4 on the south, and circle on the west. You press <<F>>.
+Your station: 4. Neighboring stations: 3 on the north, circle on the east, 5 on the south, and circle on the west. You press <<H>>.
+Your station: 5. Neighboring stations: 4 on the north, circle on the east, circle on the south, and 6 on the west. You press <<F>>.
+You are successful.
+
+The new starting station is 8 and the goal station is -1.
+Your station: 8. Neighboring stations: 9 on the north, circle on the east, 7 on the south, and circle on the west. You press <<F>>.
+Your station: 7. Neighboring stations: 8 on the north, 6 on the east, circle on the south, and circle on the west. You press <<T>>.
+Your station: 6. Neighboring stations: circle on the north, 5 on the east, circle on the south, and 7 on the west. You press <<H>>.
+You are successful.
+
+The new starting station is 4 and the goal station is -1.
+Your station: 4. Neighboring stations: 3 on the north, circle on the east, 5 on the south, and circle on the west. You press <<T>>.
+Your station: 3. Neighboring stations: 2 on the north, circle on the east, 4 on the south, and circle on the west. You press <<S>>.
+You are successful.
+
+The new starting station is 4 and the goal station is -1.
+Your station: 4. Neighboring stations: 3 on the north, circle on the east, 5 on the south, and circle on the west. You press <<G>>.
+Your station: 3. Neighboring stations: 2 on the north, circle on the east, 4 on the south, and circle on the west. You press <<T>>.
+You are successful.
+
+The new starting station is 2 and the goal station is -1.
+Your station: 2. Neighboring stations: circle on the north, circle on the east, 3 on the south, and circle on the west. You press <<H>>.
+You are successful.
+
+The new starting station is 10 and the goal station is -1.
+Your station: 10. Neighboring stations: circle on the north, 1 on the east, 9 on the south, and circle on the west. You press <<T>>.
+Your station: 1. Neighboring stations: circle on the north, 2 on the east, circle on the south, and 10 on the west. You press <<G>>.
+You are successful.
+
+The new starting station is 10 and the goal station is -1.
+Your station: 10. Neighboring stations: circle on the north, 1 on the east, 9 on the south, and circle on the west. You press <<G>>.
+Your station: 1. Neighboring stations: circle on the north, 2 on the east, circle on the south, and 10 on the west. You press <<H>>.
+You are successful.
+
+The new starting station is 2 and the goal station is -1.
+Your station: 2. Neighboring stations: circle on the north, circle on the east, 3 on the south, and circle on the west. You press <<T>>.
+You are successful.
+
+The new starting station is 3 and the goal station is -1.
+Your station: 3. Neighboring stations: 2 on the north, circle on the east, 4 on the south, and circle on the west. You press <<G>>.
+You are successful.
+
+The new starting station is 3 and the goal station is -1.
+Your station: 3. Neighboring stations: 2 on the north, circle on the east, 4 on the south, and circle on the west. You press <<G>>.
+Your station: 2. Neighboring stations: circle on the north, circle on the east, 3 on the south, and circle on the west. You press <<G>>.
+Your station: 1. Neighboring stations: circle on the north, 2 on the east, circle on the south, and 10 on the west. You press <<H>>.
+Your station: 10. Neighboring stations: circle on the north, 1 on the east, 9 on the south, and circle on the west. You press <<T>>.
+You are successful.
+
+The new starting station is 8 and the goal station is -1.
+Your station: 8. Neighboring stations: 9 on the north, circle on the east, 7 on the south, and circle on the west. You press <<G>>.
+You are successful.
+
+The new starting station is 9 and the goal station is -1.
+Your station: 9. Neighboring stations: 10 on the north, circle on the east, 8 on the south, and circle on the west. You press <<H>>.
+Your station: 10. Neighboring stations: circle on the north, 1 on the east, 9 on the south, and circle on the west. You press <<T>>.
+Your station: 1. Neighboring stations: circle on the north, 2 on the east, circle on the south, and 10 on the west. You press <<H>>.
+You are successful.
+
+The new starting station is 10 and the goal station is -1.
+Your station: 10. Neighboring stations: circle on the north, 1 on the east, 9 on the south, and circle on the west. You press <<T>>.
+Your station: 1. Neighboring stations: circle on the north, 2 on the east, circle on the south, and 10 on the west. You press <<T>>.
+You are successful.
+
+The new starting station is 3 and the goal station is -1.
+Your station: 3. Neighboring stations: 2 on the north, circle on the east, 4 on the south, and circle on the west. You press <<T>>.
+You are successful.
+
+The new starting station is 8 and the goal station is -1.
+Your station: 8. Neighboring stations: 9 on the north, circle on the east, 7 on the south, and circle on the west. You press <<H>>.
+Your station: 9. Neighboring stations: 10 on the north, circle on the east, 8 on the south, and circle on the west. You press <<H>>.
+Your station: 10. Neighboring stations: circle on the north, 1 on the east, 9 on the south, and circle on the west. You press <<F>>.
+Your station: 1. Neighboring stations: circle on the north, 2 on the east, circle on the south, and 10 on the west. You press <<F>>.
+You are successful.
+
+The new starting station is 10 and the goal station is -1.
+Your station: 10. Neighboring stations: circle on the north, 1 on the east, 9 on the south, and circle on the west. You press <<F>>.
+Your station: 1. Neighboring stations: circle on the north, 2 on the east, circle on the south, and 10 on the west. You press <<T>>.
+You are successful.
+
+The new starting station is 3 and the goal station is -1.
+Your station: 3. Neighboring stations: 2 on the north, circle on the east, 4 on the south, and circle on the west. You press <<G>>.
+You are successful.
+
+The new starting station is 3 and the goal station is -1.
+Your station: 3. Neighboring stations: 2 on the north, circle on the east, 4 on the south, and circle on the west. You press <<T>>.
+You are successful.
+
+The new starting station is 6 and the goal station is -1.
+Your station: 6. Neighboring stations: circle on the north, 5 on the east, circle on the south, and 7 on the west. You press <<G>>.
+Your station: 5. Neighboring stations: 4 on the north, circle on the east, circle on the south, and 6 on the west. You press <<T>>.
+Your station: 4. Neighboring stations: 3 on the north, circle on the east, 5 on the south, and circle on the west. You press <<F>>.
+Your station: 3. Neighboring stations: 2 on the north, circle on the east, 4 on the south, and circle on the west. You press <<F>>.
+Your station: 2. Neighboring stations: circle on the north, circle on the east, 3 on the south, and circle on the west. You press <<F>>.
+You are successful.
+
+The new starting station is 10 and the goal station is -1.
+Your station: 10. Neighboring stations: circle on the north, 1 on the east, 9 on the south, and circle on the west. You press <<H>>.
+Your station: 1. Neighboring stations: circle on the north, 2 on the east, circle on the south, and 10 on the west. You press <<T>>.
+You are successful.
+
+The new starting station is 5 and the goal station is -1.
+Your station: 5. Neighboring stations: 4 on the north, circle on the east, circle on the south, and 6 on the west. You press <<H>>.
+Your station: 4. Neighboring stations: 3 on the north, circle on the east, 5 on the south, and circle on the west. You press <<G>>.
+Your station: 3. Neighboring stations: 2 on the north, circle on the east, 4 on the south, and circle on the west. You press <<G>>.
+You are successful.
+
+The new starting station is 1 and the goal station is -1.
+Your station: 1. Neighboring stations: circle on the north, 2 on the east, circle on the south, and 10 on the west. You press <<T>>.
+You are successful.
+
+The new starting station is 2 and the goal station is -1.
+Your station: 2. Neighboring stations: circle on the north, circle on the east, 3 on the south, and circle on the west. You press <<T>>.
+Your station: 1. Neighboring stations: circle on the north, 2 on the east, circle on the south, and 10 on the west. You press <<T>>.
+Your station: 10. Neighboring stations: circle on the north, 1 on the east, 9 on the south, and circle on the west. You press <<G>>.
+Your station: 9. Neighboring stations: 10 on the north, circle on the east, 8 on the south, and circle on the west. You press <<G>>.
+You are successful.
+
+The new starting station is 9 and the goal station is -1.
+Your station: 9. Neighboring stations: 10 on the north, circle on the east, 8 on the south, and circle on the west. You press <<G>>.
+You are successful.
+
+The new starting station is 2 and the goal station is -1.
+Your station: 2. Neighboring stations: circle on the north, circle on the east, 3 on the south, and circle on the west. You press <<T>>.
+Your station: 1. Neighboring stations: circle on the north, 2 on the east, circle on the south, and 10 on the west. You press <<G>>.
+Your station: 10. Neighboring stations: circle on the north, 1 on the east, 9 on the south, and circle on the west. You press <<G>>.
+Your station: 1. Neighboring stations: circle on the north, 2 on the east, circle on the south, and 10 on the west. You press <<T>>.
+Your station: 2. Neighboring stations: circle on the north, circle on the east, 3 on the south, and circle on the west. You press <<G>>.
+Your station: 3. Neighboring stations: 2 on the north, circle on the east, 4 on the south, and circle on the west. You press <<G>>.
+Your station: 4. Neighboring stations: 3 on the north, circle on the east, 5 on the south, and circle on the west. You press <<S>>.
+You are successful.
+
+The new starting station is 9 and the goal station is -1.
+Your station: 9. Neighboring stations: 10 on the north, circle on the east, 8 on the south, and circle on the west. You press <<S>>.
+Your station: 8. Neighboring stations: 9 on the north, circle on the east, 7 on the south, and circle on the west. You press <<F>>.
+Your station: 7. Neighboring stations: 8 on the north, 6 on the east, circle on the south, and circle on the west. You press <<T>>.
+Your station: 6. Neighboring stations: circle on the north, 5 on the east, circle on the south, and 7 on the west. You press <<T>>.
+You are successful.
+
+The new starting station is 3 and the goal station is -1.
+Your station: 3. Neighboring stations: 2 on the north, circle on the east, 4 on the south, and circle on the west. You press <<T>>.
+Your station: 4. Neighboring stations: 3 on the north, circle on the east, 5 on the south, and circle on the west. You press <<H>>.
+You are successful.
+
+The new starting station is 7 and the goal station is -1.
+Your station: 7. Neighboring stations: 8 on the north, 6 on the east, circle on the south, and circle on the west. You press <<H>>.
+Your station: 6. Neighboring stations: circle on the north, 5 on the east, circle on the south, and 7 on the west. You press <<G>>.
+You are successful.
+
+The new starting station is 8 and the goal station is -1.
+Your station: 8. Neighboring stations: 9 on the north, circle on the east, 7 on the south, and circle on the west. You press <<G>>.
+Your station: 7. Neighboring stations: 8 on the north, 6 on the east, circle on the south, and circle on the west. You press <<T>>.
+Your station: 6. Neighboring stations: circle on the north, 5 on the east, circle on the south, and 7 on the west. You press <<G>>.
+You are successful.
+
+The new starting station is 7 and the goal station is -1.
+Your station: 7. Neighboring stations: 8 on the north, 6 on the east, circle on the south, and circle on the west. You press <<G>>.
+Your station: 6. Neighboring stations: circle on the north, 5 on the east, circle on the south, and 7 on the west. You press <<S>>.
+You are successful.
+
+The new starting station is 10 and the goal station is -1.
+Your station: 10. Neighboring stations: circle on the north, 1 on the east, 9 on the south, and circle on the west. You press <<S>>.
+Your station: 1. Neighboring stations: circle on the north, 2 on the east, circle on the south, and 10 on the west. You press <<F>>.
+Your station: 2. Neighboring stations: circle on the north, circle on the east, 3 on the south, and circle on the west. You press <<T>>.
+Your station: 3. Neighboring stations: 2 on the north, circle on the east, 4 on the south, and circle on the west. You press <<G>>.
+Your station: 4. Neighboring stations: 3 on the north, circle on the east, 5 on the south, and circle on the west. You press <<G>>.
+You are successful.
+
+The new starting station is 8 and the goal station is -1.
+Your station: 8. Neighboring stations: 9 on the north, circle on the east, 7 on the south, and circle on the west. You press <<H>>.
+Your station: 7. Neighboring stations: 8 on the north, 6 on the east, circle on the south, and circle on the west. You press <<T>>.
+Your station: 6. Neighboring stations: circle on the north, 5 on the east, circle on the south, and 7 on the west. You press <<T>>.
+You are successful.
+
+The new starting station is 7 and the goal station is -1.
+Your station: 7. Neighboring stations: 8 on the north, 6 on the east, circle on the south, and circle on the west. You press <<G>>.
+Your station: 6. Neighboring stations: circle on the north, 5 on the east, circle on the south, and 7 on the west. You press <<T>>.
+You are successful.
+
+The new starting station is 1 and the goal station is -1.
+Your station: 1. Neighboring stations: circle on the north, 2 on the east, circle on the south, and 10 on the west. You press <<H>>.
+Your station: 2. Neighboring stations: circle on the north, circle on the east, 3 on the south, and circle on the west. You press <<H>>.
+Your station: 3. Neighboring stations: 2 on the north, circle on the east, 4 on the south, and circle on the west. You press <<G>>.
+Your station: 2. Neighboring stations: circle on the north, circle on the east, 3 on the south, and circle on the west. You press <<G>>.
+You are successful.
+
+The new starting station is 4 and the goal station is -1.
+Your station: 4. Neighboring stations: 3 on the north, circle on the east, 5 on the south, and circle on the west. You press <<G>>.
+You are successful.
+
+The new starting station is 10 and the goal station is -1.
+Your station: 10. Neighboring stations: circle on the north, 1 on the east, 9 on the south, and circle on the west. You press <<T>>.
+You are successful.
+
+The new starting station is 2 and the goal station is -1.
+Your station: 2. Neighboring stations: circle on the north, circle on the east, 3 on the south, and circle on the west. You press <<T>>.
+You are successful.
+
+The new starting station is 2 and the goal station is -1.
+Your station: 2. Neighboring stations: circle on the north, circle on the east, 3 on the south, and circle on the west. You press <<F>>.
+You are successful.
+
+The new starting station is 2 and the goal station is -1.
+Your station: 2. Neighboring stations: circle on the north, circle on the east, 3 on the south, and circle on the west. You press <<F>>.
+You are successful.
+
+The new starting station is 5 and the goal station is -1.
+Your station: 5. Neighboring stations: 4 on the north, circle on the east, circle on the south, and 6 on the west. You press <<S>>.
+You are successful.
+
+The new starting station is 8 and the goal station is -1.
+Your station: 8. Neighboring stations: 9 on the north, circle on the east, 7 on the south, and circle on the west. You press <<T>>.
+You are successful.
+
+The new starting station is 10 and the goal station is -1.
+Your station: 10. Neighboring stations: circle on the north, 1 on the east, 9 on the south, and circle on the west. You press <<T>>.
+You are successful.
+
+The new starting station is 2 and the goal station is -1.
+Your station: 2. Neighboring stations: circle on the north, circle on the east, 3 on the south, and circle on the west. You press <<H>>.
+Your station: 1. Neighboring stations: circle on the north, 2 on the east, circle on the south, and 10 on the west. You press <<T>>.
+Your station: 10. Neighboring stations: circle on the north, 1 on the east, 9 on the south, and circle on the west. You press <<G>>.
+You are successful.
+
+The new starting station is 1 and the goal station is -1.
+Your station: 1. Neighboring stations: circle on the north, 2 on the east, circle on the south, and 10 on the west. You press <<G>>.
+Your station: 10. Neighboring stations: circle on the north, 1 on the east, 9 on the south, and circle on the west. You press <<H>>.
+You are successful.
+
+The subway system is now unreliable, so that some trips may randomly be interrupted midway.
+The new starting station is 6 and the goal station is 1.
+Your station: 6. Neighboring stations: circle on the north, 5 on the east, circle on the south, and 7 on the west. You press <<T>>.

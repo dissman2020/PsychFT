@@ -1,0 +1,183 @@
+You have to estimate the probability of a series of weather-related queries.
+Please respond by typing your estimated probabilities.
+
+If the weather in England is rainy on a random day, what is the probability that the weather will also be cold on the same day? You estimate <<70>>%.
+If the weather in England is not warm on a random day, what is the probability that the weather will also be not snowy on the same day? You estimate <<60>>%.
+If the weather in England is not rainy on a random day, what is the probability that the weather will also be not cold on the same day? You estimate <<60>>%.
+If the weather in England is not windy on a random day, what is the probability that the weather will also be cloudy on the same day? You estimate <<40>>%.
+What is the probability that the weather will be not warm or not snowy on a random day in England? You estimate <<70>>%.
+If the weather in England is not cold on a random day, what is the probability that the weather will also be rainy on the same day? You estimate <<60>>%.
+What is the probability that the weather will be warm on a random day in England? You estimate <<30>>%.
+What is the probability that the weather will be warm and snowy on a random day in England? You estimate <<20>>%.
+What is the probability that the weather will be cold or not rainy on a random day in England? You estimate <<70>>%.
+If the weather in England is not rainy on a random day, what is the probability that the weather will also be cold on the same day? You estimate <<50>>%.
+What is the probability that the weather will be not windy on a random day in England? You estimate <<60>>%.
+If the weather in England is not cold on a random day, what is the probability that the weather will also be not rainy on the same day? You estimate <<30>>%.
+If the weather in England is snowy on a random day, what is the probability that the weather will also be warm on the same day? You estimate <<20>>%.
+What is the probability that the weather will be cold and not rainy on a random day in England? You estimate <<60>>%.
+What is the probability that the weather will be windy on a random day in England? You estimate <<60>>%.
+What is the probability that the weather will be cold or rainy on a random day in England? You estimate <<60>>%.
+What is the probability that the weather will be cloudy and not windy on a random day in England? You estimate <<60>>%.
+If the weather in England is rainy on a random day, what is the probability that the weather will also be not cold on the same day? You estimate <<50>>%.
+If the weather in England is not cloudy on a random day, what is the probability that the weather will also be windy on the same day? You estimate <<30>>%.
+If the weather in England is windy on a random day, what is the probability that the weather will also be cloudy on the same day? You estimate <<70>>%.
+What is the probability that the weather will be not warm and not snowy on a random day in England? You estimate <<60>>%.
+What is the probability that the weather will be not windy or not cloudy on a random day in England? You estimate <<30>>%.
+If the weather in England is windy on a random day, what is the probability that the weather will also be not cloudy on the same day? You estimate <<15>>%.
+If the weather in England is not snowy on a random day, what is the probability that the weather will also be warm on the same day? You estimate <<70>>%.
+What is the probability that the weather will be windy or cloudy on a random day in England? You estimate <<60>>%.
+If the weather in England is cloudy on a random day, what is the probability that the weather will also be windy on the same day? You estimate <<40>>%.
+What is the probability that the weather will be not cloudy on a random day in England? You estimate <<20>>%.
+What is the probability that the weather will be rainy on a random day in England? You estimate <<70>>%.
+What is the probability that the weather will be rainy and not cold on a random day in England? You estimate <<40>>%.
+If the weather in England is cold on a random day, what is the probability that the weather will also be not rainy on the same day? You estimate <<50>>%.
+If the weather in England is cold on a random day, what is the probability that the weather will also be rainy on the same day? You estimate <<60>>%.
+What is the probability that the weather will be cloudy or not windy on a random day in England? You estimate <<60>>%.
+What is the probability that the weather will be cloudy on a random day in England? You estimate <<60>>%.
+What is the probability that the weather will be windy or not cloudy on a random day in England? You estimate <<30>>%.
+What is the probability that the weather will be snowy or not warm on a random day in England? You estimate <<60>>%.
+If the weather in England is warm on a random day, what is the probability that the weather will also be not snowy on the same day? You estimate <<70>>%.
+What is the probability that the weather will be warm or not snowy on a random day in England? You estimate <<30>>%.
+What is the probability that the weather will be warm or snowy on a random day in England? You estimate <<30>>%.
+If the weather in England is not snowy on a random day, what is the probability that the weather will also be not warm on the same day? You estimate <<30>>%.
+What is the probability that the weather will be not rainy on a random day in England? You estimate <<40>>%.
+What is the probability that the weather will be snowy on a random day in England? You estimate <<10>>%.
+If the weather in England is not cloudy on a random day, what is the probability that the weather will also be not windy on the same day? You estimate <<65>>%.
+What is the probability that the weather will be windy and not cloudy on a random day in England? You estimate <<20>>%.
+If the weather in England is snowy on a random day, what is the probability that the weather will also be not warm on the same day? You estimate <<90>>%.
+What is the probability that the weather will be cold and rainy on a random day in England? You estimate <<60>>%.
+What is the probability that the weather will be warm and not snowy on a random day in England? You estimate <<20>>%.
+What is the probability that the weather will be snowy and not warm on a random day in England? You estimate <<20>>%.
+What is the probability that the weather will be not cold on a random day in England? You estimate <<20>>%.
+What is the probability that the weather will be not cold or not rainy on a random day in England? You estimate <<30>>%.
+What is the probability that the weather will be cold on a random day in England? You estimate <<60>>%.
+What is the probability that the weather will be rainy or not cold on a random day in England? You estimate <<70>>%.
+What is the probability that the weather will be not cold and not rainy on a random day in England? You estimate <<20>>%.
+What is the probability that the weather will be windy and cloudy on a random day in England? You estimate <<20>>%.
+If the weather in England is warm on a random day, what is the probability that the weather will also be snowy on the same day? You estimate <<10>>%.
+If the weather in England is cloudy on a random day, what is the probability that the weather will also be not windy on the same day? You estimate <<50>>%.
+If the weather in England is not windy on a random day, what is the probability that the weather will also be not cloudy on the same day? You estimate <<50>>%.
+What is the probability that the weather will be not snowy on a random day in England? You estimate <<80>>%.
+What is the probability that the weather will be not warm on a random day in England? You estimate <<70>>%.
+What is the probability that the weather will be not windy and not cloudy on a random day in England? You estimate <<40>>%.
+If the weather in England is not warm on a random day, what is the probability that the weather will also be snowy on the same day? You estimate <<30>>%.
+What is the probability that the weather will be snowy or not warm on a random day in England? You estimate <<70>>%.
+What is the probability that the weather will be rainy or not cold on a random day in England? You estimate <<65>>%.
+What is the probability that the weather will be cold or rainy on a random day in England? You estimate <<65>>%.
+What is the probability that the weather will be windy or cloudy on a random day in England? You estimate <<60>>%.
+If the weather in England is not cold on a random day, what is the probability that the weather will also be rainy on the same day? You estimate <<25>>%.
+What is the probability that the weather will be rainy on a random day in England? You estimate <<60>>%.
+If the weather in England is not rainy on a random day, what is the probability that the weather will also be not cold on the same day? You estimate <<40>>%.
+If the weather in England is not windy on a random day, what is the probability that the weather will also be cloudy on the same day? You estimate <<60>>%.
+What is the probability that the weather will be cold or not rainy on a random day in England? You estimate <<75>>%.
+If the weather in England is cloudy on a random day, what is the probability that the weather will also be not windy on the same day? You estimate <<60>>%.
+If the weather in England is rainy on a random day, what is the probability that the weather will also be not cold on the same day? You estimate <<20>>%.
+What is the probability that the weather will be warm or snowy on a random day in England? You estimate <<30>>%.
+If the weather in England is snowy on a random day, what is the probability that the weather will also be not warm on the same day? You estimate <<80>>%.
+If the weather in England is not cloudy on a random day, what is the probability that the weather will also be not windy on the same day? You estimate <<70>>%.
+What is the probability that the weather will be warm and not snowy on a random day in England? You estimate <<30>>%.
+If the weather in England is not rainy on a random day, what is the probability that the weather will also be cold on the same day? You estimate <<60>>%.
+What is the probability that the weather will be cloudy on a random day in England? You estimate <<60>>%.
+What is the probability that the weather will be rainy and not cold on a random day in England? You estimate <<27>>%.
+What is the probability that the weather will be not windy and not cloudy on a random day in England? You estimate <<30>>%.
+What is the probability that the weather will be snowy and not warm on a random day in England? You estimate <<20>>%.
+If the weather in England is warm on a random day, what is the probability that the weather will also be snowy on the same day? You estimate <<10>>%.
+What is the probability that the weather will be windy on a random day in England? You estimate <<35>>%.
+What is the probability that the weather will be not snowy on a random day in England? You estimate <<70>>%.
+What is the probability that the weather will be windy and not cloudy on a random day in England? You estimate <<20>>%.
+What is the probability that the weather will be snowy on a random day in England? You estimate <<15>>%.
+If the weather in England is windy on a random day, what is the probability that the weather will also be cloudy on the same day? You estimate <<80>>%.
+What is the probability that the weather will be warm on a random day in England? You estimate <<30>>%.
+What is the probability that the weather will be not warm on a random day in England? You estimate <<60>>%.
+If the weather in England is cloudy on a random day, what is the probability that the weather will also be windy on the same day? You estimate <<50>>%.
+If the weather in England is rainy on a random day, what is the probability that the weather will also be cold on the same day? You estimate <<70>>%.
+What is the probability that the weather will be cloudy and not windy on a random day in England? You estimate <<55>>%.
+What is the probability that the weather will be not rainy on a random day in England? You estimate <<60>>%.
+What is the probability that the weather will be not warm and not snowy on a random day in England? You estimate <<60>>%.
+What is the probability that the weather will be not cloudy on a random day in England? You estimate <<20>>%.
+What is the probability that the weather will be windy or not cloudy on a random day in England? You estimate <<30>>%.
+If the weather in England is not cold on a random day, what is the probability that the weather will also be not rainy on the same day? You estimate <<80>>%.
+If the weather in England is windy on a random day, what is the probability that the weather will also be not cloudy on the same day? You estimate <<20>>%.
+What is the probability that the weather will be cold on a random day in England? You estimate <<60>>%.
+If the weather in England is cold on a random day, what is the probability that the weather will also be rainy on the same day? You estimate <<60>>%.
+If the weather in England is not warm on a random day, what is the probability that the weather will also be snowy on the same day? You estimate <<40>>%.
+What is the probability that the weather will be not cold or not rainy on a random day in England? You estimate <<47>>%.
+What is the probability that the weather will be not cold on a random day in England? You estimate <<39>>%.
+What is the probability that the weather will be warm and snowy on a random day in England? You estimate <<15>>%.
+What is the probability that the weather will be cloudy or not windy on a random day in England? You estimate <<70>>%.
+What is the probability that the weather will be cold and rainy on a random day in England? You estimate <<40>>%.
+What is the probability that the weather will be windy and cloudy on a random day in England? You estimate <<30>>%.
+If the weather in England is not windy on a random day, what is the probability that the weather will also be not cloudy on the same day? You estimate <<30>>%.
+If the weather in England is cold on a random day, what is the probability that the weather will also be not rainy on the same day? You estimate <<40>>%.
+What is the probability that the weather will be not warm or not snowy on a random day in England? You estimate <<80>>%.
+If the weather in England is not snowy on a random day, what is the probability that the weather will also be not warm on the same day? You estimate <<50>>%.
+If the weather in England is snowy on a random day, what is the probability that the weather will also be warm on the same day? You estimate <<60>>%.
+What is the probability that the weather will be warm or not snowy on a random day in England? You estimate <<40>>%.
+What is the probability that the weather will be not windy or not cloudy on a random day in England? You estimate <<45>>%.
+If the weather in England is not warm on a random day, what is the probability that the weather will also be not snowy on the same day? You estimate <<60>>%.
+If the weather in England is not cloudy on a random day, what is the probability that the weather will also be windy on the same day? You estimate <<40>>%.
+What is the probability that the weather will be not windy on a random day in England? You estimate <<60>>%.
+If the weather in England is not snowy on a random day, what is the probability that the weather will also be warm on the same day? You estimate <<60>>%.
+What is the probability that the weather will be cold and not rainy on a random day in England? You estimate <<60>>%.
+If the weather in England is warm on a random day, what is the probability that the weather will also be not snowy on the same day? You estimate <<90>>%.
+What is the probability that the weather will be not cold and not rainy on a random day in England? You estimate <<30>>%.
+What is the probability that the weather will be warm and not snowy on a random day in England? You estimate <<30>>%.
+What is the probability that the weather will be not snowy on a random day in England? You estimate <<70>>%.
+What is the probability that the weather will be warm on a random day in England? You estimate <<30>>%.
+What is the probability that the weather will be windy and not cloudy on a random day in England? You estimate <<45>>%.
+If the weather in England is rainy on a random day, what is the probability that the weather will also be cold on the same day? You estimate <<60>>%.
+If the weather in England is not windy on a random day, what is the probability that the weather will also be cloudy on the same day? You estimate <<60>>%.
+What is the probability that the weather will be not cold and not rainy on a random day in England? You estimate <<30>>%.
+What is the probability that the weather will be not rainy on a random day in England? You estimate <<47>>%.
+If the weather in England is snowy on a random day, what is the probability that the weather will also be not warm on the same day? You estimate <<89>>%.
+What is the probability that the weather will be windy on a random day in England? You estimate <<40>>%.
+What is the probability that the weather will be not windy and not cloudy on a random day in England? You estimate <<30>>%.
+If the weather in England is windy on a random day, what is the probability that the weather will also be not cloudy on the same day? You estimate <<28>>%.
+If the weather in England is windy on a random day, what is the probability that the weather will also be cloudy on the same day? You estimate <<45>>%.
+What is the probability that the weather will be windy or not cloudy on a random day in England? You estimate <<45>>%.
+What is the probability that the weather will be not windy or not cloudy on a random day in England? You estimate <<30>>%.
+What is the probability that the weather will be warm and snowy on a random day in England? You estimate <<25>>%.
+What is the probability that the weather will be cloudy or not windy on a random day in England? You estimate <<65>>%.
+If the weather in England is not cold on a random day, what is the probability that the weather will also be not rainy on the same day? You estimate <<30>>%.
+If the weather in England is not cloudy on a random day, what is the probability that the weather will also be not windy on the same day? You estimate <<75>>%.
+If the weather in England is cloudy on a random day, what is the probability that the weather will also be not windy on the same day? You estimate <<60>>%.
+If the weather in England is not snowy on a random day, what is the probability that the weather will also be not warm on the same day? You estimate <<60>>%.
+What is the probability that the weather will be snowy and not warm on a random day in England? You estimate <<25>>%.
+What is the probability that the weather will be warm or not snowy on a random day in England? You estimate <<70>>%.
+If the weather in England is not rainy on a random day, what is the probability that the weather will also be cold on the same day? You estimate <<60>>%.
+If the weather in England is not cold on a random day, what is the probability that the weather will also be rainy on the same day? You estimate <<15>>%.
+What is the probability that the weather will be cold or not rainy on a random day in England? You estimate <<60>>%.
+What is the probability that the weather will be windy and cloudy on a random day in England? You estimate <<30>>%.
+What is the probability that the weather will be rainy or not cold on a random day in England? You estimate <<70>>%.
+If the weather in England is not rainy on a random day, what is the probability that the weather will also be not cold on the same day? You estimate <<40>>%.
+What is the probability that the weather will be snowy on a random day in England? You estimate <<10>>%.
+What is the probability that the weather will be snowy or not warm on a random day in England? You estimate <<60>>%.
+What is the probability that the weather will be not warm or not snowy on a random day in England? You estimate <<60>>%.
+What is the probability that the weather will be rainy on a random day in England? You estimate <<60>>%.
+What is the probability that the weather will be not cloudy on a random day in England? You estimate <<25>>%.
+If the weather in England is snowy on a random day, what is the probability that the weather will also be warm on the same day? You estimate <<9>>%.
+What is the probability that the weather will be not cold on a random day in England? You estimate <<30>>%.
+What is the probability that the weather will be cold and not rainy on a random day in England? You estimate <<60>>%.
+What is the probability that the weather will be not warm and not snowy on a random day in England? You estimate <<60>>%.
+If the weather in England is not windy on a random day, what is the probability that the weather will also be not cloudy on the same day? You estimate <<60>>%.
+What is the probability that the weather will be warm or snowy on a random day in England? You estimate <<35>>%.
+If the weather in England is not warm on a random day, what is the probability that the weather will also be snowy on the same day? You estimate <<60>>%.
+If the weather in England is rainy on a random day, what is the probability that the weather will also be not cold on the same day? You estimate <<20>>%.
+If the weather in England is not snowy on a random day, what is the probability that the weather will also be warm on the same day? You estimate <<40>>%.
+What is the probability that the weather will be cloudy on a random day in England? You estimate <<60>>%.
+What is the probability that the weather will be rainy and not cold on a random day in England? You estimate <<20>>%.
+If the weather in England is cold on a random day, what is the probability that the weather will also be not rainy on the same day? You estimate <<60>>%.
+What is the probability that the weather will be not warm on a random day in England? You estimate <<60>>%.
+If the weather in England is cold on a random day, what is the probability that the weather will also be rainy on the same day? You estimate <<40>>%.
+What is the probability that the weather will be not cold or not rainy on a random day in England? You estimate <<30>>%.
+If the weather in England is cloudy on a random day, what is the probability that the weather will also be windy on the same day? You estimate <<45>>%.
+If the weather in England is not warm on a random day, what is the probability that the weather will also be not snowy on the same day? You estimate <<80>>%.
+If the weather in England is warm on a random day, what is the probability that the weather will also be not snowy on the same day? You estimate <<80>>%.
+If the weather in England is warm on a random day, what is the probability that the weather will also be snowy on the same day? You estimate <<15>>%.
+What is the probability that the weather will be not windy on a random day in England? You estimate <<70>>%.
+What is the probability that the weather will be cold or rainy on a random day in England? You estimate <<65>>%.
+What is the probability that the weather will be cloudy and not windy on a random day in England? You estimate <<45>>%.
+What is the probability that the weather will be cold and rainy on a random day in England? You estimate <<60>>%.
+What is the probability that the weather will be cold on a random day in England? You estimate <<60>>%.
+What is the probability that the weather will be windy or cloudy on a random day in England? You estimate <<45>>%.
+If the weather in England is not cloudy on a random day, what is the probability that the weather will also be windy on the same day? You estimate <<30>>%.

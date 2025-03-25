@@ -1,0 +1,366 @@
+You will be playing a game for 30 rounds.
+Each round contains 10 trials.
+In each trial, you have to select one option that will generate a reward between 0 and 50 points.
+You can choose between options 1, 2, 3, 4, 5, 6, 7 and 8 by pressing the corresponding key.
+After each round the options reset and each option can produce different rewards in the following round.
+Your goal is to maximize your reward.
+
+You are playing round 1:
+You press <<5>> and get 33.6691660977713 points.
+You press <<6>> and get 24.4473259706888 points.
+You press <<5>> and get 33.5676102335507 points.
+You press <<5>> and get 33.3894168189745 points.
+You press <<7>> and get 15.9248165538875 points.
+You press <<5>> and get 33.3527132994689 points.
+You press <<1>> and get 28.903413396743 points.
+You press <<5>> and get 32.7958868619107 points.
+You press <<5>> and get 33.9580333906665 points.
+You press <<5>> and get 33.5946633864252 points.
+
+You are playing round 2:
+You press <<3>> and get 35.2752494464661 points.
+You press <<4>> and get 29.3151257758575 points.
+You press <<5>> and get 23.2669061593772 points.
+You press <<8>> and get 4.53194666779427 points.
+You press <<1>> and get 38.9833142401044 points.
+You press <<1>> and get 38.7852429623084 points.
+You press <<1>> and get 38.3552313264373 points.
+You press <<2>> and get 42.0655957435458 points.
+You press <<2>> and get 42.004886038982 points.
+You press <<2>> and get 42.6300143122978 points.
+
+You are playing round 3:
+You press <<4>> and get 27.9684436721492 points.
+You press <<5>> and get 36.1453261806381 points.
+You press <<5>> and get 36.4924562626222 points.
+You press <<5>> and get 36.7338053403534 points.
+You press <<5>> and get 35.633064763369 points.
+You press <<5>> and get 36.2481983914007 points.
+You press <<5>> and get 36.6312512007661 points.
+You press <<5>> and get 36.8025174113884 points.
+You press <<5>> and get 36.0938280167147 points.
+You press <<5>> and get 36.198034211476 points.
+
+You are playing round 4:
+You press <<1>> and get 37.0172984155391 points.
+You press <<2>> and get 40.7946741408979 points.
+You press <<2>> and get 41.1628355802775 points.
+You press <<2>> and get 40.5367941035671 points.
+You press <<2>> and get 40.9612957937495 points.
+You press <<2>> and get 40.2994250320354 points.
+You press <<2>> and get 40.5542855228388 points.
+You press <<2>> and get 41.0646360501378 points.
+You press <<2>> and get 41.0002591372811 points.
+You press <<2>> and get 41.0648033283064 points.
+
+You are playing round 5:
+You press <<8>> and get 2.60532191776132 points.
+You press <<2>> and get 42.8974999637273 points.
+You press <<2>> and get 42.4475645225207 points.
+You press <<2>> and get 42.6786036779067 points.
+You press <<2>> and get 42.4181954049238 points.
+You press <<2>> and get 42.9576123591542 points.
+You press <<2>> and get 41.9077235473851 points.
+You press <<2>> and get 42.798386931451 points.
+You press <<2>> and get 42.44381279734 points.
+You press <<2>> and get 42.8830254975339 points.
+
+You are playing round 6:
+You press <<1>> and get 38.8925143565598 points.
+You press <<2>> and get 42.4734587010255 points.
+You press <<3>> and get 35.5808709035868 points.
+You press <<2>> and get 42.4324148051961 points.
+You press <<2>> and get 42.2831212682903 points.
+You press <<2>> and get 42.4944803834004 points.
+You press <<2>> and get 42.5884946196801 points.
+You press <<2>> and get 43.492587784742 points.
+You press <<2>> and get 41.9964719161146 points.
+You press <<2>> and get 42.2461421640892 points.
+
+You are playing round 7:
+You press <<2>> and get 41.7559306029592 points.
+You press <<3>> and get 42.01731026655 points.
+You press <<4>> and get 47.1670357826106 points.
+You press <<4>> and get 48.0557136571403 points.
+You press <<4>> and get 47.3048941648687 points.
+You press <<4>> and get 47.4567801175043 points.
+You press <<4>> and get 47.87835747104 points.
+You press <<4>> and get 47.3023313542748 points.
+You press <<4>> and get 47.7492672708446 points.
+You press <<4>> and get 48.1416688824036 points.
+
+You are playing round 8:
+You press <<4>> and get 25.8372389339544 points.
+You press <<5>> and get 33.6710656178275 points.
+You press <<6>> and get 41.6299577246359 points.
+You press <<6>> and get 41.2515893106856 points.
+You press <<6>> and get 41.4099208904142 points.
+You press <<6>> and get 41.0697259990437 points.
+You press <<2>> and get 10.1073639140806 points.
+You press <<6>> and get 41.6607880363702 points.
+You press <<7>> and get 37.7706361558012 points.
+You press <<6>> and get 41.7104025084282 points.
+
+You are playing round 9:
+You press <<6>> and get 38.6462903406487 points.
+You press <<5>> and get 31.819018616426 points.
+You press <<7>> and get 46.5894848034214 points.
+You press <<7>> and get 46.1220477281996 points.
+You press <<7>> and get 45.756835962206 points.
+You press <<7>> and get 45.9286897464636 points.
+You press <<7>> and get 46.4924427390626 points.
+You press <<7>> and get 46.3532095217538 points.
+You press <<7>> and get 46.3085911056592 points.
+You press <<7>> and get 46.0397771373413 points.
+
+You are playing round 10:
+You press <<7>> and get 14.3009333279519 points.
+You press <<2>> and get 39.1430576265297 points.
+You press <<3>> and get 42.287169063005 points.
+You press <<4>> and get 35.3521609977685 points.
+You press <<3>> and get 41.980869746856 points.
+You press <<3>> and get 42.1083923205514 points.
+You press <<3>> and get 42.8175543801201 points.
+You press <<3>> and get 42.5590167121792 points.
+You press <<3>> and get 43.116161147808 points.
+You press <<3>> and get 42.5854200747095 points.
+
+You are playing round 11:
+You press <<1>> and get 3.03935361983205 points.
+You press <<5>> and get 45.005848217161 points.
+You press <<5>> and get 44.8908133607827 points.
+You press <<6>> and get 39.9452500452497 points.
+You press <<4>> and get 34.126625195242 points.
+You press <<5>> and get 45.0765932401207 points.
+You press <<5>> and get 44.5096108949212 points.
+You press <<5>> and get 44.7383773567608 points.
+You press <<5>> and get 43.9655265656313 points.
+You press <<5>> and get 43.9731090881617 points.
+
+You are playing round 12:
+You press <<5>> and get 33.4180235603848 points.
+You press <<6>> and get 38.6718200958628 points.
+You press <<7>> and get 44.8502479145464 points.
+You press <<7>> and get 44.6238354719458 points.
+You press <<7>> and get 44.9170400081647 points.
+You press <<7>> and get 44.7879938245854 points.
+You press <<7>> and get 44.6724738829374 points.
+You press <<7>> and get 44.615193675987 points.
+You press <<7>> and get 44.4391289625855 points.
+You press <<7>> and get 44.5599973986192 points.
+
+You are playing round 13:
+You press <<6>> and get 20.1997061052241 points.
+You press <<3>> and get 35.5887377525162 points.
+You press <<2>> and get 41.3938638397423 points.
+You press <<1>> and get 38.1977008844856 points.
+You press <<2>> and get 40.9470996325172 points.
+You press <<2>> and get 41.3757403830074 points.
+You press <<2>> and get 41.0629776699535 points.
+You press <<2>> and get 41.2029176722854 points.
+You press <<8>> and get 8.63752526736288 points.
+You press <<2>> and get 40.8305283330942 points.
+
+You are playing round 14:
+You press <<2>> and get 12.7219405073818 points.
+You press <<5>> and get 45.0509547638681 points.
+You press <<6>> and get 39.276994710197 points.
+You press <<5>> and get 45.4966895582466 points.
+You press <<5>> and get 44.7580740995693 points.
+You press <<5>> and get 44.4621028365171 points.
+You press <<5>> and get 44.7796919381153 points.
+You press <<5>> and get 44.9284350851402 points.
+You press <<5>> and get 44.8171886266417 points.
+You press <<5>> and get 44.9950766595202 points.
+
+You are playing round 15:
+You press <<5>> and get 27.2491885624385 points.
+You press <<6>> and get 21.6266994254806 points.
+You press <<2>> and get 38.4280322027838 points.
+You press <<1>> and get 34.5570197559756 points.
+You press <<2>> and get 38.1452380646374 points.
+You press <<3>> and get 40.8535912079428 points.
+You press <<3>> and get 41.2315146950135 points.
+You press <<3>> and get 41.3349471145127 points.
+You press <<3>> and get 41.5341399260548 points.
+You press <<3>> and get 40.6153376488611 points.
+
+You are playing round 16:
+You press <<5>> and get 35.1921621585153 points.
+You press <<6>> and get 41.7825999211575 points.
+You press <<6>> and get 41.6156799019403 points.
+You press <<7>> and get 37.813006637831 points.
+You press <<6>> and get 41.6342539393087 points.
+You press <<6>> and get 41.434409355758 points.
+You press <<6>> and get 41.614115394332 points.
+You press <<6>> and get 41.9464423504186 points.
+You press <<6>> and get 41.7125722447552 points.
+You press <<6>> and get 41.2279997550624 points.
+
+You are playing round 17:
+You press <<2>> and get 13.8153795686581 points.
+You press <<5>> and get 30.7478019217521 points.
+You press <<6>> and get 36.4809933560034 points.
+You press <<7>> and get 42.1046265835055 points.
+You press <<8>> and get 39.5688858646415 points.
+You press <<7>> and get 42.5229240861098 points.
+You press <<7>> and get 42.9031793929795 points.
+You press <<7>> and get 42.1540167279512 points.
+You press <<7>> and get 41.8551201281592 points.
+You press <<7>> and get 42.3078458492527 points.
+
+You are playing round 18:
+You press <<1>> and get 6.57159736156647 points.
+You press <<5>> and get 46.9317506538089 points.
+You press <<5>> and get 46.3813921970798 points.
+You press <<5>> and get 46.5052815293964 points.
+You press <<5>> and get 46.6985008836932 points.
+You press <<5>> and get 46.0072463088474 points.
+You press <<5>> and get 46.1273699254234 points.
+You press <<5>> and get 46.3508279415963 points.
+You press <<5>> and get 45.8917239884094 points.
+You press <<5>> and get 46.0828588364625 points.
+
+You are playing round 19:
+You press <<6>> and get 41.188143838814 points.
+You press <<6>> and get 41.1747881028105 points.
+You press <<5>> and get 34.2872108972247 points.
+You press <<7>> and get 38.7847627373694 points.
+You press <<6>> and get 40.8672217313829 points.
+You press <<6>> and get 41.1339836102713 points.
+You press <<6>> and get 40.9163610983023 points.
+You press <<6>> and get 41.7207640481211 points.
+You press <<6>> and get 41.2848562712928 points.
+You press <<6>> and get 41.3728853269288 points.
+
+You are playing round 20:
+You press <<2>> and get 15.6523814106348 points.
+You press <<5>> and get 33.3688951290774 points.
+You press <<6>> and get 41.0554404229383 points.
+You press <<6>> and get 41.5060609384237 points.
+You press <<6>> and get 40.882140152715 points.
+You press <<6>> and get 40.8296328508639 points.
+You press <<6>> and get 41.1560148787506 points.
+You press <<6>> and get 41.1285569725967 points.
+You press <<6>> and get 41.3035003738085 points.
+You press <<6>> and get 41.6851889568664 points.
+
+You are playing round 21:
+You press <<6>> and get 18.5979220659853 points.
+You press <<2>> and get 40.4654816784987 points.
+You press <<3>> and get 35.4908452077507 points.
+You press <<1>> and get 38.7371958326407 points.
+You press <<2>> and get 41.2758526567819 points.
+You press <<2>> and get 40.5933373753146 points.
+You press <<2>> and get 41.4425173725332 points.
+You press <<2>> and get 40.6768818428204 points.
+You press <<2>> and get 40.6251338471316 points.
+You press <<2>> and get 41.1071341301113 points.
+
+You are playing round 22:
+You press <<6>> and get 22.9928345571347 points.
+You press <<2>> and get 33.0959412769657 points.
+You press <<3>> and get 37.9547237034911 points.
+You press <<4>> and get 43.7996360731382 points.
+You press <<4>> and get 43.3703710088864 points.
+You press <<4>> and get 43.4620460315186 points.
+You press <<4>> and get 43.1578601709943 points.
+You press <<4>> and get 43.5895596928165 points.
+You press <<4>> and get 43.5090908472802 points.
+You press <<4>> and get 42.8793361951621 points.
+
+You are playing round 23:
+You press <<4>> and get 39.1924726827405 points.
+You press <<3>> and get 47.129257970393 points.
+You press <<3>> and get 47.5421228696111 points.
+You press <<3>> and get 47.875609979681 points.
+You press <<3>> and get 47.8102250012747 points.
+You press <<3>> and get 47.1703947290341 points.
+You press <<3>> and get 47.662423784527 points.
+You press <<3>> and get 47.1032012018603 points.
+You press <<3>> and get 47.9224121384226 points.
+You press <<3>> and get 47.228990789518 points.
+
+You are playing round 24:
+You press <<5>> and get 41.7176839831102 points.
+You press <<6>> and get 37.4865394366712 points.
+You press <<5>> and get 41.9136422227733 points.
+You press <<4>> and get 33.4512718848493 points.
+You press <<5>> and get 41.453270235359 points.
+You press <<5>> and get 41.9897007389409 points.
+You press <<5>> and get 41.793780614582 points.
+You press <<5>> and get 42.1357278329662 points.
+You press <<5>> and get 42.45494532989 points.
+You press <<5>> and get 41.8963512887658 points.
+
+You are playing round 25:
+You press <<6>> and get 21.1254360642617 points.
+You press <<2>> and get 44.9991918604378 points.
+You press <<2>> and get 45.0395082882553 points.
+You press <<2>> and get 45.536164207909 points.
+You press <<2>> and get 45.1054294374878 points.
+You press <<2>> and get 45.058396173684 points.
+You press <<2>> and get 45.1774552576796 points.
+You press <<2>> and get 45.2142050113604 points.
+You press <<2>> and get 44.9590751109915 points.
+You press <<2>> and get 45.8905816275454 points.
+
+You are playing round 26:
+You press <<2>> and get 37.0591820608568 points.
+You press <<1>> and get 31.8613633597977 points.
+You press <<3>> and get 42.3803165624982 points.
+You press <<4>> and get 47.6953295431752 points.
+You press <<4>> and get 46.9677601231726 points.
+You press <<4>> and get 47.3965091840493 points.
+You press <<4>> and get 47.3186623953041 points.
+You press <<4>> and get 47.0984734636555 points.
+You press <<4>> and get 47.1198210478913 points.
+You press <<4>> and get 47.7377772820634 points.
+
+You are playing round 27:
+You press <<6>> and get 35.5740375126888 points.
+You press <<5>> and get 29.2383875683421 points.
+You press <<7>> and get 41.9268563819583 points.
+You press <<7>> and get 41.8613260181938 points.
+You press <<7>> and get 41.9099909465433 points.
+You press <<7>> and get 42.2182691691225 points.
+You press <<7>> and get 42.3627256586911 points.
+You press <<7>> and get 42.1620301816998 points.
+You press <<7>> and get 42.2157448779908 points.
+You press <<7>> and get 42.3971552572543 points.
+
+You are playing round 28:
+You press <<2>> and get 13.9870731938133 points.
+You press <<6>> and get 35.5599457088568 points.
+You press <<5>> and get 30.8224708958512 points.
+You press <<7>> and get 41.3393558821643 points.
+You press <<7>> and get 41.3464120271914 points.
+You press <<7>> and get 41.1200696617322 points.
+You press <<7>> and get 40.721330392998 points.
+You press <<7>> and get 40.901722066681 points.
+You press <<7>> and get 40.9079989771768 points.
+You press <<7>> and get 41.0962255823521 points.
+
+You are playing round 29:
+You press <<6>> and get 38.5599638206496 points.
+You press <<7>> and get 34.0638472070852 points.
+You press <<5>> and get 43.1967395547299 points.
+You press <<5>> and get 44.1624301544724 points.
+You press <<5>> and get 43.542635628421 points.
+You press <<5>> and get 44.0061917589572 points.
+You press <<5>> and get 43.580583099327 points.
+You press <<5>> and get 43.1324721329178 points.
+You press <<5>> and get 43.9526295507704 points.
+You press <<5>> and get 43.6829977101675 points.
+
+You are playing round 30:
+You press <<6>> and get 24.7979489312071 points.
+You press <<5>> and get 33.2727302684986 points.
+You press <<4>> and get 41.8831673449117 points.
+You press <<4>> and get 41.3980495848113 points.
+You press <<4>> and get 40.9218634252194 points.
+You press <<4>> and get 41.1718732689799 points.
+You press <<4>> and get 41.733204442552 points.
+You press <<4>> and get 40.979639875409 points.
+You press <<4>> and get 40.9644815559589 points.
+You press <<4>> and get 41.0945232143042 points.

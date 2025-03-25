@@ -1,0 +1,163 @@
+In this experiment, you will go through three cycles of three tasks.
+Each cycle concerns itself with a list of 30 word pairs for you to study.
+In the first task of each cycle, you will go through the list.
+You need to remember the word pairs indicated by a blue border.
+For each word pair, please make a judgement on whether the object on the left is larger or smaller than the object on the right, and press the key "V" if the object on the left is larger, and the key "F" if it is smaller instead.
+In the second task of each cycle, you will try to solve as many arithmetic equations as you can in one minute.
+In the third task of each cycle, you will recall the words that you memorized in the first task of that cycle.
+
+List 1, task 1: 
+You see the word pair "lamp" (on the left) and "tank" (on the right), surrounded by a red border. You press <<F>>. The word pair disappears but the red border stays for another 3 seconds before disappearing.
+You see the word pair "soda" (on the left) and "universe" (on the right), surrounded by a blue border. You press <<F>>. The word pair disappears but the blue border stays for another 3 seconds before disappearing.
+You see the word pair "railroad" (on the left) and "bowl" (on the right), surrounded by a red border. You press <<V>>. The word pair disappears but the red border stays for another 3 seconds before disappearing.
+You see the word pair "chin" (on the left) and "house" (on the right), surrounded by a red border. You press <<F>>. The word pair disappears but the red border stays for another 3 seconds before disappearing.
+You see the word pair "dentist" (on the left) and "tire" (on the right), surrounded by a blue border. You press <<F>>. The word pair disappears but the blue border stays for another 3 seconds before disappearing.
+You see the word pair "pillow" (on the left) and "banana" (on the right), surrounded by a blue border. You press <<V>>. The word pair disappears but the blue border stays for another 3 seconds before disappearing.
+You see the word pair "ranch" (on the left) and "lawyer" (on the right), surrounded by a blue border. You press <<V>>. The word pair disappears but the blue border stays for another 3 seconds before disappearing.
+You see the word pair "flower" (on the left) and "nurse" (on the right), surrounded by a blue border. You press <<F>>. The word pair disappears but the blue border stays for another 3 seconds before disappearing.
+You see the word pair "wrist" (on the left) and "horn" (on the right), surrounded by a blue border. You press <<F>>. The word pair disappears but the blue border stays for another 3 seconds before disappearing.
+You see the word pair "newspaper" (on the left) and "fruit" (on the right), surrounded by a red border. You press <<V>>. The word pair disappears but the red border stays for another 3 seconds before disappearing.
+You see the word pair "stairs" (on the left) and "fort" (on the right), surrounded by a blue border. You press <<V>>. The word pair disappears but the blue border stays for another 3 seconds before disappearing.
+You see the word pair "pistol" (on the left) and "lemon" (on the right), surrounded by a red border. You press <<V>>. The word pair disappears but the red border stays for another 3 seconds before disappearing.
+You see the word pair "statue" (on the left) and "tooth" (on the right), surrounded by a blue border. You press <<V>>. The word pair disappears but the blue border stays for another 3 seconds before disappearing.
+You see the word pair "bread" (on the left) and "orange" (on the right), surrounded by a red border. You press <<V>>. The word pair disappears but the red border stays for another 3 seconds before disappearing.
+You see the word pair "camera" (on the left) and "hammer" (on the right), surrounded by a blue border. You press <<F>>. The word pair disappears but the blue border stays for another 3 seconds before disappearing.
+You see the word pair "ocean" (on the left) and "sheep" (on the right), surrounded by a red border. You press <<V>>. The word pair disappears but the red border stays for another 3 seconds before disappearing.
+You see the word pair "bike" (on the left) and "peanut" (on the right), surrounded by a blue border. You press <<V>>. The word pair disappears but the blue border stays for another 3 seconds before disappearing.
+You see the word pair "elevator" (on the left) and "chair" (on the right), surrounded by a red border. You press <<V>>. The word pair disappears but the red border stays for another 3 seconds before disappearing.
+You see the word pair "doctor" (on the left) and "casino" (on the right), surrounded by a red border. You press <<F>>. The word pair disappears but the red border stays for another 3 seconds before disappearing.
+You see the word pair "liver" (on the left) and "lawn" (on the right), surrounded by a blue border. You press <<F>>. The word pair disappears but the blue border stays for another 3 seconds before disappearing.
+You see the word pair "apple" (on the left) and "belt" (on the right), surrounded by a red border. You press <<F>>. The word pair disappears but the red border stays for another 3 seconds before disappearing.
+You see the word pair "market" (on the left) and "costume" (on the right), surrounded by a blue border. You press <<V>>. The word pair disappears but the blue border stays for another 3 seconds before disappearing.
+You see the word pair "surgeon" (on the left) and "jungle" (on the right), surrounded by a blue border. You press <<F>>. The word pair disappears but the blue border stays for another 3 seconds before disappearing.
+You see the word pair "bucket" (on the left) and "pill" (on the right), surrounded by a red border. You press <<V>>. The word pair disappears but the red border stays for another 3 seconds before disappearing.
+You see the word pair "palace" (on the left) and "soldier" (on the right), surrounded by a red border. You press <<V>>. The word pair disappears but the red border stays for another 3 seconds before disappearing.
+You see the word pair "opera" (on the left) and "pumpkin" (on the right), surrounded by a red border. You press <<V>>. The word pair disappears but the red border stays for another 3 seconds before disappearing.
+You see the word pair "basement" (on the left) and "virus" (on the right), surrounded by a blue border. You press <<V>>. The word pair disappears but the blue border stays for another 3 seconds before disappearing.
+You see the word pair "butler" (on the left) and "turtle" (on the right), surrounded by a red border. You press <<V>>. The word pair disappears but the red border stays for another 3 seconds before disappearing.
+You see the word pair "island" (on the left) and "passport" (on the right), surrounded by a red border. You press <<V>>. The word pair disappears but the red border stays for another 3 seconds before disappearing.
+You see the word pair "bone" (on the left) and "tiger" (on the right), surrounded by a blue border. You press <<F>>. The word pair disappears but the blue border stays for another 3 seconds before disappearing.
+
+List 1, task 2:
+You see the equation (3 + 3) * 8. You answer <<24.0>>.
+You see the equation (8 + 8) / 4. You answer <<4.0>>.
+You see the equation (2 + 6) * 5. You answer <<24.0>>.
+
+List 1, task 3:
+Please recall and type out, as many as you can, the words you were told to remember (marked by a blue border) in task 1.
+You type the word <<tooth>>.
+You type the word <<house>>.
+You type the word <<ocean>>.
+You type the word <<camera>>.
+You type the word <<hammer>>.
+You type the word <<universe>>.
+You type the word <<banana>>.
+You type the word <<pillow>>.
+
+List 2, task 1: 
+You see the word pair "pilot" (on the left) and "tent" (on the right), surrounded by a blue border. You press <<F>>. The word pair disappears but the blue border stays for another 3 seconds before disappearing.
+You see the word pair "empire" (on the left) and "crown" (on the right), surrounded by a blue border. You press <<V>>. The word pair disappears but the blue border stays for another 3 seconds before disappearing.
+You see the word pair "earth" (on the left) and "badge" (on the right), surrounded by a blue border. You press <<V>>. The word pair disappears but the blue border stays for another 3 seconds before disappearing.
+You see the word pair "phone" (on the left) and "cigar" (on the right), surrounded by a red border. You press <<F>>. The word pair disappears but the red border stays for another 3 seconds before disappearing.
+You see the word pair "dessert" (on the left) and "barn" (on the right), surrounded by a blue border. You press <<F>>. The word pair disappears but the blue border stays for another 3 seconds before disappearing.
+You see the word pair "castle" (on the left) and "wallet" (on the right), surrounded by a red border. You press <<V>>. The word pair disappears but the red border stays for another 3 seconds before disappearing.
+You see the word pair "dog" (on the left) and "church" (on the right), surrounded by a blue border. You press <<F>>. The word pair disappears but the blue border stays for another 3 seconds before disappearing.
+You see the word pair "finger" (on the left) and "blanket" (on the right), surrounded by a red border. You press <<F>>. The word pair disappears but the red border stays for another 3 seconds before disappearing.
+You see the word pair "eagle" (on the left) and "purse" (on the right), surrounded by a red border. You press <<V>>. The word pair disappears but the red border stays for another 3 seconds before disappearing.
+You see the word pair "cage" (on the left) and "curtain" (on the right), surrounded by a red border. You press <<F>>. The word pair disappears but the red border stays for another 3 seconds before disappearing.
+You see the word pair "skull" (on the left) and "robin" (on the right), surrounded by a blue border. You press <<V>>. The word pair disappears but the blue border stays for another 3 seconds before disappearing.
+You see the word pair "elephant" (on the left) and "rabbit" (on the right), surrounded by a red border. You press <<V>>. The word pair disappears but the red border stays for another 3 seconds before disappearing.
+You see the word pair "circus" (on the left) and "needle" (on the right), surrounded by a red border. You press <<V>>. The word pair disappears but the red border stays for another 3 seconds before disappearing.
+You see the word pair "dice" (on the left) and "devil" (on the right), surrounded by a red border. You press <<F>>. The word pair disappears but the red border stays for another 3 seconds before disappearing.
+You see the word pair "horse" (on the left) and "window" (on the right), surrounded by a blue border. You press <<V>>. The word pair disappears but the blue border stays for another 3 seconds before disappearing.
+You see the word pair "brick" (on the left) and "robot" (on the right), surrounded by a blue border. You press <<V>>. The word pair disappears but the blue border stays for another 3 seconds before disappearing.
+You see the word pair "lion" (on the left) and "corn" (on the right), surrounded by a red border. You press <<V>>. The word pair disappears but the red border stays for another 3 seconds before disappearing.
+You see the word pair "beach" (on the left) and "bedroom" (on the right), surrounded by a blue border. You press <<V>>. The word pair disappears but the blue border stays for another 3 seconds before disappearing.
+You see the word pair "pearl" (on the left) and "underwear" (on the right), surrounded by a blue border. You press <<F>>. The word pair disappears but the blue border stays for another 3 seconds before disappearing.
+You see the word pair "train" (on the left) and "steak" (on the right), surrounded by a blue border. You press <<V>>. The word pair disappears but the blue border stays for another 3 seconds before disappearing.
+You see the word pair "cabin" (on the left) and "penny" (on the right), surrounded by a blue border. You press <<V>>. The word pair disappears but the blue border stays for another 3 seconds before disappearing.
+You see the word pair "medal" (on the left) and "burger" (on the right), surrounded by a blue border. You press <<F>>. The word pair disappears but the blue border stays for another 3 seconds before disappearing.
+You see the word pair "buffalo" (on the left) and "string" (on the right), surrounded by a red border. You press <<V>>. The word pair disappears but the red border stays for another 3 seconds before disappearing.
+You see the word pair "planet" (on the left) and "guitar" (on the right), surrounded by a blue border. You press <<V>>. The word pair disappears but the blue border stays for another 3 seconds before disappearing.
+You see the word pair "couch" (on the left) and "waiter" (on the right), surrounded by a red border. You press <<V>>. The word pair disappears but the red border stays for another 3 seconds before disappearing.
+You see the word pair "nest" (on the left) and "priest" (on the right), surrounded by a blue border. You press <<F>>. The word pair disappears but the blue border stays for another 3 seconds before disappearing.
+You see the word pair "shotgun" (on the left) and "factory" (on the right), surrounded by a red border. You press <<F>>. The word pair disappears but the red border stays for another 3 seconds before disappearing.
+You see the word pair "jewelry" (on the left) and "clown" (on the right), surrounded by a red border. You press <<F>>. The word pair disappears but the red border stays for another 3 seconds before disappearing.
+You see the word pair "cave" (on the left) and "cloud" (on the right), surrounded by a red border. You press <<F>>. The word pair disappears but the red border stays for another 3 seconds before disappearing.
+You see the word pair "jeep" (on the left) and "library" (on the right), surrounded by a red border. You press <<F>>. The word pair disappears but the red border stays for another 3 seconds before disappearing.
+
+List 2, task 2:
+You see the equation nan. You answer <<18.0>>.
+You see the equation (2 + 2) * 16. You answer <<64.0>>.
+You see the equation (4 + 2) * 9. You answer <<54.0>>.
+You see the equation (7 + 2) * 8. You answer <<72.0>>.
+You see the equation (7 + 8) * 3. You answer <<45.0>>.
+You see the equation (45 - 23) / 11. You answer <<2.0>>.
+You see the equation (2 + 5) * 2. You answer <<4.0>>.
+
+List 2, task 3:
+Please recall and type out, as many as you can, the words you were told to remember (marked by a blue border) in task 1.
+You type the word <<barn>>.
+You type the word <<beach>>.
+You type the word <<bedroom>>.
+You type the word <<pilot>>.
+You type the word <<empire>>.
+You type the word <<crown>>.
+You type the word <<steak>>.
+You type the word <<burger>>.
+
+List 3, task 1: 
+You see the word pair "garden" (on the left) and "potato" (on the right), surrounded by a blue border. You press <<V>>. The word pair disappears but the blue border stays for another 3 seconds before disappearing.
+You see the word pair "harbor" (on the left) and "tunnel" (on the right), surrounded by a blue border. You press <<V>>. The word pair disappears but the blue border stays for another 3 seconds before disappearing.
+You see the word pair "branch" (on the left) and "airplane" (on the right), surrounded by a blue border. You press <<F>>. The word pair disappears but the blue border stays for another 3 seconds before disappearing.
+You see the word pair "diamond" (on the left) and "basket" (on the right), surrounded by a blue border. You press <<F>>. The word pair disappears but the blue border stays for another 3 seconds before disappearing.
+You see the word pair "piano" (on the left) and "whale" (on the right), surrounded by a blue border. You press <<F>>. The word pair disappears but the blue border stays for another 3 seconds before disappearing.
+You see the word pair "goose" (on the left) and "knife" (on the right), surrounded by a blue border. You press <<V>>. The word pair disappears but the blue border stays for another 3 seconds before disappearing.
+You see the word pair "clinic" (on the left) and "goat" (on the right), surrounded by a red border. You press <<V>>. The word pair disappears but the red border stays for another 3 seconds before disappearing.
+You see the word pair "towel" (on the left) and "worm" (on the right), surrounded by a red border. You press <<V>>. The word pair disappears but the red border stays for another 3 seconds before disappearing.
+You see the word pair "chicken" (on the left) and "knee" (on the right), surrounded by a red border. You press <<V>>. The word pair disappears but the red border stays for another 3 seconds before disappearing.
+You see the word pair "highway" (on the left) and "table" (on the right), surrounded by a blue border. You press <<V>>. The word pair disappears but the blue border stays for another 3 seconds before disappearing.
+You see the word pair "valley" (on the left) and "shark" (on the right), surrounded by a blue border. You press <<V>>. The word pair disappears but the blue border stays for another 3 seconds before disappearing.
+You see the word pair "school" (on the left) and "taxi" (on the right), surrounded by a red border. You press <<V>>. The word pair disappears but the red border stays for another 3 seconds before disappearing.
+You see the word pair "glove" (on the left) and "carpet" (on the right), surrounded by a red border. You press <<F>>. The word pair disappears but the red border stays for another 3 seconds before disappearing.
+You see the word pair "barrel" (on the left) and "pipe" (on the right), surrounded by a red border. You press <<V>>. The word pair disappears but the red border stays for another 3 seconds before disappearing.
+You see the word pair "bush" (on the left) and "sweater" (on the right), surrounded by a red border. You press <<V>>. The word pair disappears but the red border stays for another 3 seconds before disappearing.
+You see the word pair "mouse" (on the left) and "nanny" (on the right), surrounded by a blue border. You press <<F>>. The word pair disappears but the blue border stays for another 3 seconds before disappearing.
+You see the word pair "pizza" (on the left) and "heart" (on the right), surrounded by a blue border. You press <<V>>. The word pair disappears but the blue border stays for another 3 seconds before disappearing.
+You see the word pair "tower" (on the left) and "boot" (on the right), surrounded by a blue border. You press <<V>>. The word pair disappears but the blue border stays for another 3 seconds before disappearing.
+You see the word pair "coast" (on the left) and "toast" (on the right), surrounded by a red border. You press <<V>>. The word pair disappears but the red border stays for another 3 seconds before disappearing.
+You see the word pair "frog" (on the left) and "monkey" (on the right), surrounded by a red border. You press <<F>>. The word pair disappears but the red border stays for another 3 seconds before disappearing.
+You see the word pair "bacon" (on the left) and "bridge" (on the right), surrounded by a blue border. You press <<F>>. The word pair disappears but the blue border stays for another 3 seconds before disappearing.
+You see the word pair "sandwich" (on the left) and "whistle" (on the right), surrounded by a red border. You press <<V>>. The word pair disappears but the red border stays for another 3 seconds before disappearing.
+You see the word pair "concert" (on the left) and "cocktail" (on the right), surrounded by a blue border. You press <<V>>. The word pair disappears but the blue border stays for another 3 seconds before disappearing.
+You see the word pair "bride" (on the left) and "nail" (on the right), surrounded by a red border. You press <<V>>. The word pair disappears but the red border stays for another 3 seconds before disappearing.
+You see the word pair "wolf" (on the left) and "bible" (on the right), surrounded by a red border. You press <<V>>. The word pair disappears but the red border stays for another 3 seconds before disappearing.
+You see the word pair "spider" (on the left) and "cookie" (on the right), surrounded by a red border. You press <<V>>. The word pair disappears but the red border stays for another 3 seconds before disappearing.
+You see the word pair "dragon" (on the left) and "cherry" (on the right), surrounded by a red border. You press <<V>>. The word pair disappears but the red border stays for another 3 seconds before disappearing.
+You see the word pair "sink" (on the left) and "satellite" (on the right), surrounded by a red border. You press <<F>>. The word pair disappears but the red border stays for another 3 seconds before disappearing.
+You see the word pair "pole" (on the left) and "child" (on the right), surrounded by a blue border. You press <<V>>. The word pair disappears but the blue border stays for another 3 seconds before disappearing.
+You see the word pair "forest" (on the left) and "brain" (on the right), surrounded by a blue border. You press <<V>>. The word pair disappears but the blue border stays for another 3 seconds before disappearing.
+
+List 3, task 2:
+You see the equation nan. You answer <<40.0>>.
+You see the equation (4 + 2) * 9. You answer <<54.0>>.
+You see the equation (11 + 23) * 3. You answer <<42.0>>.
+You see the equation (5 + 3) / 4. You answer <<2.0>>.
+You see the equation (3 + 3) / 2. You answer <<3.0>>.
+You see the equation (3 + 3) * 8. You answer <<48.0>>.
+You see the equation (17 + 23) / 8. You answer <<5.0>>.
+You see the equation (9 + 3) * 2. You answer <<24.0>>.
+You see the equation (2 + 2) / 2. You answer <<2.0>>.
+You see the equation (19 + 11) / 5. You answer <<6.0>>.
+You see the equation (2 + 5) * 2. You answer <<14.0>>.
+You see the equation (4 + 3) * 4.
+
+List 3, task 3:
+Please recall and type out, as many as you can, the words from task 1 regardless of whether you were asked to remember them or not.
+You type the word <<pizza>>.
+You type the word <<heart>>.
+You type the word <<pole>>.
+You type the word <<child>>.
+You type the word <<potato>>.
+You type the word <<garden>>.
+You type the word <<harbor>>.

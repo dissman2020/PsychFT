@@ -1,0 +1,846 @@
+You will encounter a series of gambling problems where you have to select between two options.
+You can select an option by pressing the corresponding key.
+You will encounter each problem 25 times.
+In the first five encounters, you will not receive feedback.
+In the remaining 20 encounters, you will receive feedback about the outcomes of both options.
+In cases where the probabilities are stated to be unknown, they sum up to one and remain constant within a problem.
+
+Option G delivers 23 points with 100.0% chance.
+Option H delivers 2 points with 90.0% chance, 242 points with 10.0% chance.
+You press <<H>>.
+You press <<H>>.
+You press <<H>>.
+You press <<H>>.
+You press <<G>>.
+You press <<H>> and gain 2 points. You would have gained 23 points had you chosen option G.
+You press <<G>> and gain 23 points. You would have gained 2 points had you chosen option H.
+You press <<G>> and gain 23 points. You would have gained 242 points had you chosen option H.
+You press <<G>> and gain 23 points. You would have gained 2 points had you chosen option H.
+You press <<H>> and gain 2 points. You would have gained 23 points had you chosen option G.
+You press <<G>> and gain 23 points. You would have gained 2 points had you chosen option H.
+You press <<H>> and gain 2 points. You would have gained 23 points had you chosen option G.
+You press <<H>> and gain 242 points. You would have gained 23 points had you chosen option G.
+You press <<G>> and gain 23 points. You would have gained 2 points had you chosen option H.
+You press <<G>> and gain 23 points. You would have gained 2 points had you chosen option H.
+You press <<H>> and gain 2 points. You would have gained 23 points had you chosen option G.
+You press <<G>> and gain 23 points. You would have gained 2 points had you chosen option H.
+You press <<H>> and gain 2 points. You would have gained 23 points had you chosen option G.
+You press <<H>> and gain 2 points. You would have gained 23 points had you chosen option G.
+You press <<G>> and gain 23 points. You would have gained 2 points had you chosen option H.
+You press <<H>> and gain 2 points. You would have gained 23 points had you chosen option G.
+You press <<G>> and gain 23 points. You would have gained 2 points had you chosen option H.
+You press <<H>> and gain 2 points. You would have gained 23 points had you chosen option G.
+You press <<H>> and gain 242 points. You would have gained 23 points had you chosen option G.
+You press <<H>> and gain 2 points. You would have gained 23 points had you chosen option G.
+
+Option G delivers 19 points with 100.0% chance.
+Option H delivers -19 points with unknown chance, 26 points with unknown chance.
+You press <<H>>.
+You press <<H>>.
+You press <<H>>.
+You press <<G>>.
+You press <<H>>.
+You press <<G>> and gain 19 points. You would have gained 26 points had you chosen option H.
+You press <<G>> and gain 19 points. You would have gained 26 points had you chosen option H.
+You press <<G>> and gain 19 points. You would have gained 26 points had you chosen option H.
+You press <<H>> and lose 19 points. You would have gained 19 points had you chosen option G.
+You press <<G>> and gain 19 points. You would have gained 26 points had you chosen option H.
+You press <<H>> and gain 26 points. You would have gained 19 points had you chosen option G.
+You press <<H>> and gain 26 points. You would have gained 19 points had you chosen option G.
+You press <<H>> and lose 19 points. You would have gained 19 points had you chosen option G.
+You press <<G>> and gain 19 points. You would have gained 26 points had you chosen option H.
+You press <<H>> and gain 26 points. You would have gained 19 points had you chosen option G.
+You press <<H>> and gain 26 points. You would have gained 19 points had you chosen option G.
+You press <<G>> and gain 19 points. You would have gained 26 points had you chosen option H.
+You press <<G>> and gain 19 points. You would have gained 26 points had you chosen option H.
+You press <<H>> and gain 26 points. You would have gained 19 points had you chosen option G.
+You press <<H>> and gain 26 points. You would have gained 19 points had you chosen option G.
+You press <<G>> and gain 19 points. You would have lost 19 points had you chosen option H.
+You press <<H>> and gain 26 points. You would have gained 19 points had you chosen option G.
+You press <<H>> and lose 19 points. You would have gained 19 points had you chosen option G.
+You press <<G>> and gain 19 points. You would have gained 26 points had you chosen option H.
+You press <<H>> and gain 26 points. You would have gained 19 points had you chosen option G.
+
+Option G delivers -8 points with 100.0% chance.
+Option H delivers -19 points with 47.5% chance, -11 points with 7.5% chance, -7 points with 15.0% chance, -5 points with 30.0% chance.
+You press <<H>>.
+You press <<H>>.
+You press <<G>>.
+You press <<H>>.
+You press <<H>>.
+You press <<G>> and lose 8 points. You would have lost 7 points had you chosen option H.
+You press <<H>> and lose 7 points. You would have lost 8 points had you chosen option G.
+You press <<G>> and lose 8 points. You would have lost 5 points had you chosen option H.
+You press <<H>> and lose 5 points. You would have lost 8 points had you chosen option G.
+You press <<G>> and lose 8 points. You would have lost 19 points had you chosen option H.
+You press <<H>> and lose 5 points. You would have lost 8 points had you chosen option G.
+You press <<G>> and lose 8 points. You would have lost 11 points had you chosen option H.
+You press <<H>> and lose 7 points. You would have lost 8 points had you chosen option G.
+You press <<G>> and lose 8 points. You would have lost 11 points had you chosen option H.
+You press <<H>> and lose 5 points. You would have lost 8 points had you chosen option G.
+You press <<G>> and lose 8 points. You would have lost 7 points had you chosen option H.
+You press <<H>> and lose 5 points. You would have lost 8 points had you chosen option G.
+You press <<G>> and lose 8 points. You would have lost 19 points had you chosen option H.
+You press <<H>> and lose 5 points. You would have lost 8 points had you chosen option G.
+You press <<H>> and lose 7 points. You would have lost 8 points had you chosen option G.
+You press <<G>> and lose 8 points. You would have lost 19 points had you chosen option H.
+You press <<H>> and lose 19 points. You would have lost 8 points had you chosen option G.
+You press <<G>> and lose 8 points. You would have lost 19 points had you chosen option H.
+You press <<G>> and lose 8 points. You would have lost 7 points had you chosen option H.
+You press <<H>> and lose 5 points. You would have lost 8 points had you chosen option G.
+
+Option G delivers -10 points with 0.390625% chance, -9 points with 3.125% chance, -8 points with 10.9375% chance, -7 points with 21.875% chance, -6 points with 27.34375% chance, -5 points with 21.875% chance, -4 points with 10.9375% chance, -3 points with 3.125% chance, -2 points with 0.390625% chance.
+Option H delivers -35 points with 80.0% chance, 89 points with 5.0% chance, 93 points with 5.0% chance, 95 points with 10.0% chance.
+You press <<H>>.
+You press <<G>>.
+You press <<H>>.
+You press <<H>>.
+You press <<H>>.
+You press <<G>> and lose 7 points. You would have lost 35 points had you chosen option H.
+You press <<H>> and lose 35 points. You would have lost 5 points had you chosen option G.
+You press <<H>> and lose 35 points. You would have lost 4 points had you chosen option G.
+You press <<G>> and lose 6 points. You would have lost 35 points had you chosen option H.
+You press <<G>> and lose 7 points. You would have lost 35 points had you chosen option H.
+You press <<G>> and lose 4 points. You would have lost 35 points had you chosen option H.
+You press <<G>> and lose 4 points. You would have lost 35 points had you chosen option H.
+You press <<H>> and gain 95 points. You would have lost 8 points had you chosen option G.
+You press <<H>> and lose 35 points. You would have lost 6 points had you chosen option G.
+You press <<G>> and lose 6 points. You would have lost 35 points had you chosen option H.
+You press <<H>> and lose 35 points. You would have lost 6 points had you chosen option G.
+You press <<G>> and lose 3 points. You would have lost 35 points had you chosen option H.
+You press <<H>> and lose 35 points. You would have lost 6 points had you chosen option G.
+You press <<G>> and lose 6 points. You would have lost 35 points had you chosen option H.
+You press <<G>> and lose 5 points. You would have lost 35 points had you chosen option H.
+You press <<G>> and lose 6 points. You would have lost 35 points had you chosen option H.
+You press <<G>> and lose 8 points. You would have lost 35 points had you chosen option H.
+You press <<G>> and lose 5 points. You would have lost 35 points had you chosen option H.
+You press <<G>> and lose 6 points. You would have gained 95 points had you chosen option H.
+You press <<H>> and lose 35 points. You would have lost 8 points had you chosen option G.
+
+Option G delivers 2 points with 95.0% chance, 27 points with 0.019531299999999998% chance, 28 points with 0.15625% chance, 29 points with 0.546875% chance, 30 points with 1.09375% chance, 31 points with 1.3671875% chance, 32 points with 1.09375% chance, 33 points with 0.546875% chance, 34 points with 0.15625% chance, 35 points with 0.019531299999999998% chance.
+Option H delivers 14 points with unknown chance, 28 points with unknown chance.
+You press <<H>>.
+You press <<H>>.
+You press <<G>>.
+You press <<H>>.
+You press <<H>>.
+You press <<H>> and gain 14 points. You would have gained 2 points had you chosen option G.
+You press <<H>> and gain 14 points. You would have gained 2 points had you chosen option G.
+You press <<H>> and gain 14 points. You would have gained 2 points had you chosen option G.
+You press <<H>> and gain 14 points. You would have gained 2 points had you chosen option G.
+You press <<H>> and gain 14 points. You would have gained 2 points had you chosen option G.
+You press <<H>> and gain 14 points. You would have gained 2 points had you chosen option G.
+You press <<H>> and gain 14 points. You would have gained 2 points had you chosen option G.
+You press <<H>> and gain 14 points. You would have gained 2 points had you chosen option G.
+You press <<H>> and gain 14 points. You would have gained 2 points had you chosen option G.
+You press <<H>> and gain 14 points. You would have gained 2 points had you chosen option G.
+You press <<H>> and gain 14 points. You would have gained 2 points had you chosen option G.
+You press <<H>> and gain 14 points. You would have gained 2 points had you chosen option G.
+You press <<H>> and gain 14 points. You would have gained 2 points had you chosen option G.
+You press <<H>> and gain 14 points. You would have gained 2 points had you chosen option G.
+You press <<H>> and gain 14 points. You would have gained 2 points had you chosen option G.
+You press <<H>> and gain 14 points. You would have gained 2 points had you chosen option G.
+You press <<H>> and gain 14 points. You would have gained 2 points had you chosen option G.
+You press <<H>> and gain 14 points. You would have gained 2 points had you chosen option G.
+You press <<H>> and gain 14 points. You would have gained 2 points had you chosen option G.
+You press <<H>> and gain 14 points. You would have gained 2 points had you chosen option G.
+
+Option G delivers 0 points with 50.0% chance, 56 points with 50.0% chance.
+Option H delivers 5 points with 40.0% chance, 41 points with 60.0% chance.
+You press <<G>>.
+You press <<G>>.
+You press <<G>>.
+You press <<H>>.
+You press <<G>>.
+You press <<G>> and gain 56 points. You would have gained 5 points had you chosen option H.
+You press <<G>> and gain 56 points. You would have gained 41 points had you chosen option H.
+You press <<G>> and gain 0 points. You would have gained 41 points had you chosen option H.
+You press <<H>> and gain 5 points. You would have gained 0 points had you chosen option G.
+You press <<H>> and gain 5 points. You would have gained 56 points had you chosen option G.
+You press <<G>> and gain 0 points. You would have gained 41 points had you chosen option H.
+You press <<G>> and gain 0 points. You would have gained 41 points had you chosen option H.
+You press <<G>> and gain 56 points. You would have gained 41 points had you chosen option H.
+You press <<G>> and gain 56 points. You would have gained 41 points had you chosen option H.
+You press <<H>> and gain 41 points. You would have gained 0 points had you chosen option G.
+You press <<H>> and gain 5 points. You would have gained 0 points had you chosen option G.
+You press <<G>> and gain 56 points. You would have gained 5 points had you chosen option H.
+You press <<G>> and gain 56 points. You would have gained 5 points had you chosen option H.
+You press <<H>> and gain 41 points. You would have gained 0 points had you chosen option G.
+You press <<H>> and gain 5 points. You would have gained 56 points had you chosen option G.
+You press <<H>> and gain 5 points. You would have gained 56 points had you chosen option G.
+You press <<G>> and gain 0 points. You would have gained 5 points had you chosen option H.
+You press <<H>> and gain 5 points. You would have gained 56 points had you chosen option G.
+You press <<G>> and gain 0 points. You would have gained 41 points had you chosen option H.
+You press <<G>> and gain 56 points. You would have gained 41 points had you chosen option H.
+
+Option G delivers 3 points with 80.0% chance, 94 points with 1.25% chance, 95 points with 5.0% chance, 96 points with 7.5% chance, 97 points with 5.0% chance, 98 points with 1.25% chance.
+Option H delivers -19 points with 50.0% chance, 59 points with 50.0% chance.
+You press <<H>>.
+You press <<H>>.
+You press <<H>>.
+You press <<H>>.
+You press <<G>>.
+You press <<G>> and gain 3 points. You would have gained 59 points had you chosen option H.
+You press <<G>> and gain 3 points. You would have lost 19 points had you chosen option H.
+You press <<H>> and gain 59 points. You would have gained 94 points had you chosen option G.
+You press <<G>> and gain 3 points. You would have gained 59 points had you chosen option H.
+You press <<H>> and lose 19 points. You would have gained 97 points had you chosen option G.
+You press <<H>> and gain 59 points. You would have gained 3 points had you chosen option G.
+You press <<H>> and gain 59 points. You would have gained 96 points had you chosen option G.
+You press <<H>> and lose 19 points. You would have gained 3 points had you chosen option G.
+You press <<G>> and gain 95 points. You would have lost 19 points had you chosen option H.
+You press <<G>> and gain 3 points. You would have gained 59 points had you chosen option H.
+You press <<H>> and lose 19 points. You would have gained 3 points had you chosen option G.
+You press <<G>> and gain 3 points. You would have lost 19 points had you chosen option H.
+You press <<G>> and gain 3 points. You would have gained 59 points had you chosen option H.
+You press <<H>> and lose 19 points. You would have gained 3 points had you chosen option G.
+You press <<G>> and gain 3 points. You would have gained 59 points had you chosen option H.
+You press <<G>> and gain 3 points. You would have lost 19 points had you chosen option H.
+You press <<G>> and gain 3 points. You would have lost 19 points had you chosen option H.
+You press <<H>> and gain 59 points. You would have gained 96 points had you chosen option G.
+You press <<H>> and gain 59 points. You would have gained 3 points had you chosen option G.
+You press <<H>> and lose 19 points. You would have gained 3 points had you chosen option G.
+
+Option G delivers 5 points with 1.0% chance, 6 points with 49.5% chance, 8 points with 24.75% chance, 12 points with 24.75% chance.
+Option H delivers 6 points with 6.25% chance, 7 points with 25.0% chance, 8 points with 37.5% chance, 9 points with 25.0% chance, 10 points with 6.25% chance.
+You press <<G>>.
+You press <<G>>.
+You press <<G>>.
+You press <<G>>.
+You press <<G>>.
+You press <<G>> and gain 6 points. You would have gained 8 points had you chosen option H.
+You press <<G>> and gain 6 points. You would have gained 7 points had you chosen option H.
+You press <<G>> and gain 6 points. You would have gained 8 points had you chosen option H.
+You press <<H>> and gain 9 points. You would have gained 8 points had you chosen option G.
+You press <<H>> and gain 10 points. You would have gained 6 points had you chosen option G.
+You press <<H>> and gain 9 points. You would have gained 6 points had you chosen option G.
+You press <<H>> and gain 8 points. You would have gained 12 points had you chosen option G.
+You press <<G>> and gain 12 points. You would have gained 10 points had you chosen option H.
+You press <<G>> and gain 6 points. You would have gained 8 points had you chosen option H.
+You press <<H>> and gain 6 points. You would have gained 6 points had you chosen option G.
+You press <<H>> and gain 9 points. You would have gained 8 points had you chosen option G.
+You press <<G>> and gain 8 points. You would have gained 10 points had you chosen option H.
+You press <<H>> and gain 9 points. You would have gained 6 points had you chosen option G.
+You press <<G>> and gain 6 points. You would have gained 9 points had you chosen option H.
+You press <<H>> and gain 7 points. You would have gained 12 points had you chosen option G.
+You press <<H>> and gain 8 points. You would have gained 6 points had you chosen option G.
+You press <<H>> and gain 7 points. You would have gained 8 points had you chosen option G.
+You press <<H>> and gain 7 points. You would have gained 6 points had you chosen option G.
+You press <<G>> and gain 6 points. You would have gained 9 points had you chosen option H.
+You press <<G>> and gain 12 points. You would have gained 7 points had you chosen option H.
+
+Option G delivers 15 points with 100.0% chance.
+Option H delivers 7 points with 99.0% chance, 42 points with 0.25% chance, 43 points with 0.5% chance, 44 points with 0.25% chance.
+You press <<H>>.
+You press <<H>>.
+You press <<H>>.
+You press <<H>>.
+You press <<H>>.
+You press <<H>> and gain 7 points. You would have gained 15 points had you chosen option G.
+You press <<H>> and gain 7 points. You would have gained 15 points had you chosen option G.
+You press <<G>> and gain 15 points. You would have gained 7 points had you chosen option H.
+You press <<G>> and gain 15 points. You would have gained 7 points had you chosen option H.
+You press <<G>> and gain 15 points. You would have gained 7 points had you chosen option H.
+You press <<G>> and gain 15 points. You would have gained 7 points had you chosen option H.
+You press <<G>> and gain 15 points. You would have gained 7 points had you chosen option H.
+You press <<G>> and gain 15 points. You would have gained 7 points had you chosen option H.
+You press <<G>> and gain 15 points. You would have gained 7 points had you chosen option H.
+You press <<G>> and gain 15 points. You would have gained 7 points had you chosen option H.
+You press <<G>> and gain 15 points. You would have gained 7 points had you chosen option H.
+You press <<G>> and gain 15 points. You would have gained 7 points had you chosen option H.
+You press <<G>> and gain 15 points. You would have gained 7 points had you chosen option H.
+You press <<G>> and gain 15 points. You would have gained 7 points had you chosen option H.
+You press <<G>> and gain 15 points. You would have gained 7 points had you chosen option H.
+You press <<G>> and gain 15 points. You would have gained 7 points had you chosen option H.
+You press <<G>> and gain 15 points. You would have gained 7 points had you chosen option H.
+You press <<G>> and gain 15 points. You would have gained 7 points had you chosen option H.
+You press <<G>> and gain 15 points. You would have gained 7 points had you chosen option H.
+You press <<G>> and gain 15 points. You would have gained 7 points had you chosen option H.
+
+Option G delivers -9 points with 100.0% chance.
+Option H delivers -36 points with 1.0% chance, -10 points with 0.38671880000000003% chance, -9 points with 3.09375% chance, -8 points with 10.828125% chance, -7 points with 21.65625% chance, -6 points with 27.0703125% chance, -5 points with 21.65625% chance, -4 points with 10.828125% chance, -3 points with 3.09375% chance, -2 points with 0.38671880000000003% chance.
+You press <<G>>.
+You press <<G>>.
+You press <<G>>.
+You press <<G>>.
+You press <<G>>.
+You press <<G>> and lose 9 points. You would have lost 7 points had you chosen option H.
+You press <<H>> and lose 6 points. You would have lost 9 points had you chosen option G.
+You press <<G>> and lose 9 points. You would have lost 5 points had you chosen option H.
+You press <<H>> and lose 6 points. You would have lost 9 points had you chosen option G.
+You press <<H>> and lose 4 points. You would have lost 9 points had you chosen option G.
+You press <<H>> and lose 6 points. You would have lost 9 points had you chosen option G.
+You press <<H>> and lose 5 points. You would have lost 9 points had you chosen option G.
+You press <<H>> and lose 8 points. You would have lost 9 points had you chosen option G.
+You press <<H>> and lose 5 points. You would have lost 9 points had you chosen option G.
+You press <<H>> and lose 7 points. You would have lost 9 points had you chosen option G.
+You press <<H>> and lose 7 points. You would have lost 9 points had you chosen option G.
+You press <<H>> and lose 6 points. You would have lost 9 points had you chosen option G.
+You press <<H>> and lose 6 points. You would have lost 9 points had you chosen option G.
+You press <<H>> and lose 6 points. You would have lost 9 points had you chosen option G.
+You press <<H>> and lose 8 points. You would have lost 9 points had you chosen option G.
+You press <<H>> and lose 5 points. You would have lost 9 points had you chosen option G.
+You press <<H>> and lose 10 points. You would have lost 9 points had you chosen option G.
+You press <<H>> and lose 6 points. You would have lost 9 points had you chosen option G.
+You press <<H>> and lose 6 points. You would have lost 9 points had you chosen option G.
+You press <<H>> and lose 7 points. You would have lost 9 points had you chosen option G.
+
+Option G delivers 5 points with 60.0% chance, 21 points with 0.15625% chance, 22 points with 1.25% chance, 23 points with 4.375% chance, 24 points with 8.75% chance, 25 points with 10.9375% chance, 26 points with 8.75% chance, 27 points with 4.375% chance, 28 points with 1.25% chance, 29 points with 0.15625% chance.
+Option H delivers 8 points with 99.0% chance, 43 points with 0.015625% chance, 44 points with 0.09375% chance, 45 points with 0.234375% chance, 46 points with 0.3125% chance, 47 points with 0.234375% chance, 48 points with 0.09375% chance, 49 points with 0.015625% chance.
+You press <<H>>.
+You press <<G>>.
+You press <<G>>.
+You press <<G>>.
+You press <<G>>.
+You press <<G>> and gain 23 points. You would have gained 8 points had you chosen option H.
+You press <<G>> and gain 5 points. You would have gained 8 points had you chosen option H.
+You press <<G>> and gain 27 points. You would have gained 8 points had you chosen option H.
+You press <<G>> and gain 5 points. You would have gained 8 points had you chosen option H.
+You press <<G>> and gain 25 points. You would have gained 8 points had you chosen option H.
+You press <<H>> and gain 8 points. You would have gained 5 points had you chosen option G.
+You press <<G>> and gain 5 points. You would have gained 8 points had you chosen option H.
+You press <<G>> and gain 5 points. You would have gained 8 points had you chosen option H.
+You press <<G>> and gain 26 points. You would have gained 8 points had you chosen option H.
+You press <<H>> and gain 8 points. You would have gained 25 points had you chosen option G.
+You press <<G>> and gain 5 points. You would have gained 8 points had you chosen option H.
+You press <<H>> and gain 8 points. You would have gained 5 points had you chosen option G.
+You press <<G>> and gain 5 points. You would have gained 8 points had you chosen option H.
+You press <<G>> and gain 5 points. You would have gained 8 points had you chosen option H.
+You press <<H>> and gain 8 points. You would have gained 26 points had you chosen option G.
+You press <<G>> and gain 23 points. You would have gained 8 points had you chosen option H.
+You press <<G>> and gain 23 points. You would have gained 8 points had you chosen option H.
+You press <<H>> and gain 8 points. You would have gained 5 points had you chosen option G.
+You press <<H>> and gain 8 points. You would have gained 26 points had you chosen option G.
+You press <<G>> and gain 5 points. You would have gained 8 points had you chosen option H.
+
+Option G delivers 0 points with 100.0% chance.
+Option H delivers -2 points with 95.0% chance, 4 points with 0.078125% chance, 5 points with 0.46875% chance, 6 points with 1.171875% chance, 7 points with 1.5625% chance, 8 points with 1.171875% chance, 9 points with 0.46875% chance, 10 points with 0.078125% chance.
+You press <<H>>.
+You press <<H>>.
+You press <<G>>.
+You press <<H>>.
+You press <<G>>.
+You press <<H>> and lose 2 points. You would have gained 0 points had you chosen option G.
+You press <<G>> and gain 0 points. You would have lost 2 points had you chosen option H.
+You press <<H>> and lose 2 points. You would have gained 0 points had you chosen option G.
+You press <<G>> and gain 0 points. You would have lost 2 points had you chosen option H.
+You press <<G>> and gain 0 points. You would have lost 2 points had you chosen option H.
+You press <<G>> and gain 0 points. You would have lost 2 points had you chosen option H.
+You press <<G>> and gain 0 points. You would have lost 2 points had you chosen option H.
+You press <<G>> and gain 0 points. You would have lost 2 points had you chosen option H.
+You press <<G>> and gain 0 points. You would have lost 2 points had you chosen option H.
+You press <<G>> and gain 0 points. You would have lost 2 points had you chosen option H.
+You press <<G>> and gain 0 points. You would have lost 2 points had you chosen option H.
+You press <<G>> and gain 0 points. You would have lost 2 points had you chosen option H.
+You press <<G>> and gain 0 points. You would have lost 2 points had you chosen option H.
+You press <<G>> and gain 0 points. You would have gained 7 points had you chosen option H.
+You press <<G>> and gain 0 points. You would have lost 2 points had you chosen option H.
+You press <<G>> and gain 0 points. You would have lost 2 points had you chosen option H.
+You press <<G>> and gain 0 points. You would have lost 2 points had you chosen option H.
+You press <<G>> and gain 0 points. You would have lost 2 points had you chosen option H.
+You press <<G>> and gain 0 points. You would have lost 2 points had you chosen option H.
+You press <<G>> and gain 0 points. You would have lost 2 points had you chosen option H.
+
+Option G delivers -11 points with 60.0% chance, 47 points with 40.0% chance.
+Option H delivers 1 points with 60.0% chance, 15 points with 20.0% chance, 17 points with 10.0% chance, 21 points with 5.0% chance, 29 points with 2.5% chance, 45 points with 1.25% chance, 77 points with 0.625% chance, 141 points with 0.625% chance.
+You press <<H>>.
+You press <<H>>.
+You press <<H>>.
+You press <<H>>.
+You press <<H>>.
+You press <<H>> and gain 17 points. You would have gained 47 points had you chosen option G.
+You press <<H>> and gain 77 points. You would have gained 47 points had you chosen option G.
+You press <<H>> and gain 15 points. You would have gained 47 points had you chosen option G.
+You press <<G>> and lose 11 points. You would have gained 1 points had you chosen option H.
+You press <<H>> and gain 77 points. You would have gained 47 points had you chosen option G.
+You press <<H>> and gain 29 points. You would have gained 47 points had you chosen option G.
+You press <<H>> and gain 17 points. You would have gained 47 points had you chosen option G.
+You press <<H>> and gain 17 points. You would have gained 47 points had you chosen option G.
+You press <<G>> and lose 11 points. You would have gained 1 points had you chosen option H.
+You press <<H>> and gain 1 points. You would have lost 11 points had you chosen option G.
+You press <<H>> and gain 21 points. You would have gained 47 points had you chosen option G.
+You press <<G>> and lose 11 points. You would have gained 1 points had you chosen option H.
+You press <<G>> and gain 47 points. You would have gained 45 points had you chosen option H.
+You press <<G>> and lose 11 points. You would have gained 1 points had you chosen option H.
+You press <<H>> and gain 1 points. You would have lost 11 points had you chosen option G.
+You press <<G>> and gain 47 points. You would have gained 141 points had you chosen option H.
+You press <<H>> and gain 15 points. You would have gained 47 points had you chosen option G.
+You press <<H>> and gain 17 points. You would have gained 47 points had you chosen option G.
+You press <<H>> and gain 1 points. You would have lost 11 points had you chosen option G.
+You press <<G>> and lose 11 points. You would have gained 1 points had you chosen option H.
+
+Option G delivers -8 points with 100.0% chance.
+Option H delivers -14 points with 50.0% chance, -12 points with 25.0% chance, -8 points with 12.5% chance, 0 points with 6.25% chance, 16 points with 3.125% chance, 48 points with 1.5625% chance, 112 points with 1.5625% chance.
+You press <<G>>.
+You press <<H>>.
+You press <<H>>.
+You press <<H>>.
+You press <<H>>.
+You press <<H>> and lose 14 points. You would have lost 8 points had you chosen option G.
+You press <<G>> and lose 8 points. You would have lost 14 points had you chosen option H.
+You press <<G>> and lose 8 points. You would have lost 12 points had you chosen option H.
+You press <<G>> and lose 8 points. You would have lost 14 points had you chosen option H.
+You press <<G>> and lose 8 points. You would have lost 8 points had you chosen option H.
+You press <<H>> and lose 14 points. You would have lost 8 points had you chosen option G.
+You press <<G>> and lose 8 points. You would have gained 0 points had you chosen option H.
+You press <<G>> and lose 8 points. You would have lost 14 points had you chosen option H.
+You press <<G>> and lose 8 points. You would have lost 12 points had you chosen option H.
+You press <<H>> and lose 14 points. You would have lost 8 points had you chosen option G.
+You press <<G>> and lose 8 points. You would have lost 14 points had you chosen option H.
+You press <<G>> and lose 8 points. You would have gained 16 points had you chosen option H.
+You press <<G>> and lose 8 points. You would have lost 14 points had you chosen option H.
+You press <<H>> and lose 14 points. You would have lost 8 points had you chosen option G.
+You press <<G>> and lose 8 points. You would have lost 14 points had you chosen option H.
+You press <<G>> and lose 8 points. You would have lost 12 points had you chosen option H.
+You press <<G>> and lose 8 points. You would have lost 14 points had you chosen option H.
+You press <<H>> and lose 14 points. You would have lost 8 points had you chosen option G.
+You press <<H>> and gain 0 points. You would have lost 8 points had you chosen option G.
+You press <<G>> and lose 8 points. You would have lost 12 points had you chosen option H.
+
+Option G delivers 14 points with 50.0% chance, 32 points with 50.0% chance.
+Option H delivers 15 points with 6.1875% chance, 16 points with 25.75% chance, 17 points with 37.125% chance, 18 points with 24.75% chance, 19 points with 6.1875% chance.
+You press <<H>>.
+You press <<H>>.
+You press <<G>>.
+You press <<H>>.
+You press <<H>>.
+You press <<G>> and gain 14 points. You would have gained 17 points had you chosen option H.
+You press <<H>> and gain 18 points. You would have gained 14 points had you chosen option G.
+You press <<G>> and gain 14 points. You would have gained 16 points had you chosen option H.
+You press <<G>> and gain 32 points. You would have gained 17 points had you chosen option H.
+You press <<H>> and gain 16 points. You would have gained 14 points had you chosen option G.
+You press <<H>> and gain 18 points. You would have gained 14 points had you chosen option G.
+You press <<G>> and gain 32 points. You would have gained 18 points had you chosen option H.
+You press <<H>> and gain 17 points. You would have gained 32 points had you chosen option G.
+You press <<H>> and gain 17 points. You would have gained 14 points had you chosen option G.
+You press <<H>> and gain 17 points. You would have gained 14 points had you chosen option G.
+You press <<G>> and gain 32 points. You would have gained 16 points had you chosen option H.
+You press <<H>> and gain 19 points. You would have gained 14 points had you chosen option G.
+You press <<H>> and gain 18 points. You would have gained 14 points had you chosen option G.
+You press <<H>> and gain 16 points. You would have gained 14 points had you chosen option G.
+You press <<G>> and gain 14 points. You would have gained 18 points had you chosen option H.
+You press <<G>> and gain 14 points. You would have gained 16 points had you chosen option H.
+You press <<H>> and gain 17 points. You would have gained 14 points had you chosen option G.
+You press <<H>> and gain 18 points. You would have gained 14 points had you chosen option G.
+You press <<G>> and gain 32 points. You would have gained 18 points had you chosen option H.
+You press <<G>> and gain 32 points. You would have gained 16 points had you chosen option H.
+
+Option G delivers -13 points with 80.0% chance, 50 points with 2.5% chance, 58 points with 2.5% chance, 62 points with 5.0% chance, 64 points with 10.0% chance.
+Option H delivers -43 points with 60.0% chance, 49 points with 10.0% chance, 53 points with 10.0% chance, 55 points with 20.0% chance.
+You press <<G>>.
+You press <<G>>.
+You press <<G>>.
+You press <<G>>.
+You press <<G>>.
+You press <<G>> and lose 13 points. You would have lost 43 points had you chosen option H.
+You press <<G>> and gain 64 points. You would have gained 53 points had you chosen option H.
+You press <<G>> and lose 13 points. You would have lost 43 points had you chosen option H.
+You press <<H>> and lose 43 points. You would have lost 13 points had you chosen option G.
+You press <<G>> and lose 13 points. You would have lost 43 points had you chosen option H.
+You press <<G>> and lose 13 points. You would have lost 43 points had you chosen option H.
+You press <<G>> and lose 13 points. You would have lost 43 points had you chosen option H.
+You press <<G>> and lose 13 points. You would have lost 43 points had you chosen option H.
+You press <<G>> and gain 64 points. You would have lost 43 points had you chosen option H.
+You press <<G>> and gain 62 points. You would have lost 43 points had you chosen option H.
+You press <<G>> and lose 13 points. You would have lost 43 points had you chosen option H.
+You press <<G>> and lose 13 points. You would have lost 43 points had you chosen option H.
+You press <<G>> and gain 64 points. You would have lost 43 points had you chosen option H.
+You press <<G>> and lose 13 points. You would have lost 43 points had you chosen option H.
+You press <<G>> and lose 13 points. You would have lost 43 points had you chosen option H.
+You press <<G>> and gain 62 points. You would have gained 53 points had you chosen option H.
+You press <<G>> and lose 13 points. You would have lost 43 points had you chosen option H.
+You press <<G>> and lose 13 points. You would have lost 43 points had you chosen option H.
+You press <<G>> and lose 13 points. You would have gained 53 points had you chosen option H.
+You press <<G>> and lose 13 points. You would have lost 43 points had you chosen option H.
+
+Option G delivers 10 points with 40.0% chance, 19 points with 30.0% chance, 21 points with 30.0% chance.
+Option H delivers -49 points with unknown chance, 75 points with unknown chance.
+You press <<G>>.
+You press <<G>>.
+You press <<G>>.
+You press <<G>>.
+You press <<G>>.
+You press <<G>> and gain 19 points. You would have gained 75 points had you chosen option H.
+You press <<G>> and gain 19 points. You would have lost 49 points had you chosen option H.
+You press <<G>> and gain 19 points. You would have gained 75 points had you chosen option H.
+You press <<G>> and gain 21 points. You would have lost 49 points had you chosen option H.
+You press <<H>> and gain 75 points. You would have gained 21 points had you chosen option G.
+You press <<G>> and gain 10 points. You would have gained 75 points had you chosen option H.
+You press <<G>> and gain 19 points. You would have lost 49 points had you chosen option H.
+You press <<G>> and gain 10 points. You would have gained 75 points had you chosen option H.
+You press <<H>> and gain 75 points. You would have gained 21 points had you chosen option G.
+You press <<G>> and gain 21 points. You would have gained 75 points had you chosen option H.
+You press <<G>> and gain 21 points. You would have gained 75 points had you chosen option H.
+You press <<H>> and lose 49 points. You would have gained 21 points had you chosen option G.
+You press <<G>> and gain 21 points. You would have gained 75 points had you chosen option H.
+You press <<H>> and gain 75 points. You would have gained 10 points had you chosen option G.
+You press <<G>> and gain 19 points. You would have gained 75 points had you chosen option H.
+You press <<H>> and lose 49 points. You would have gained 10 points had you chosen option G.
+You press <<G>> and gain 10 points. You would have gained 75 points had you chosen option H.
+You press <<H>> and lose 49 points. You would have gained 19 points had you chosen option G.
+You press <<G>> and gain 21 points. You would have gained 75 points had you chosen option H.
+You press <<H>> and lose 49 points. You would have gained 10 points had you chosen option G.
+
+Option G delivers -8 points with 100.0% chance.
+Option H delivers -17 points with unknown chance, 47 points with unknown chance.
+You press <<G>>.
+You press <<H>>.
+You press <<H>>.
+You press <<H>>.
+You press <<H>>.
+You press <<H>> and gain 47 points. You would have lost 8 points had you chosen option G.
+You press <<H>> and gain 47 points. You would have lost 8 points had you chosen option G.
+You press <<G>> and lose 8 points. You would have lost 17 points had you chosen option H.
+You press <<H>> and lose 17 points. You would have lost 8 points had you chosen option G.
+You press <<H>> and lose 17 points. You would have lost 8 points had you chosen option G.
+You press <<H>> and lose 17 points. You would have lost 8 points had you chosen option G.
+You press <<G>> and lose 8 points. You would have lost 17 points had you chosen option H.
+You press <<G>> and lose 8 points. You would have lost 17 points had you chosen option H.
+You press <<H>> and lose 17 points. You would have lost 8 points had you chosen option G.
+You press <<G>> and lose 8 points. You would have lost 17 points had you chosen option H.
+You press <<G>> and lose 8 points. You would have lost 17 points had you chosen option H.
+You press <<G>> and lose 8 points. You would have gained 47 points had you chosen option H.
+You press <<H>> and lose 17 points. You would have lost 8 points had you chosen option G.
+You press <<G>> and lose 8 points. You would have lost 17 points had you chosen option H.
+You press <<G>> and lose 8 points. You would have lost 17 points had you chosen option H.
+You press <<H>> and lose 17 points. You would have lost 8 points had you chosen option G.
+You press <<G>> and lose 8 points. You would have lost 17 points had you chosen option H.
+You press <<H>> and lose 17 points. You would have lost 8 points had you chosen option G.
+You press <<G>> and lose 8 points. You would have lost 17 points had you chosen option H.
+You press <<G>> and lose 8 points. You would have gained 47 points had you chosen option H.
+
+Option G delivers 1 points with 100.0% chance.
+Option H delivers 1 points with unknown chance, 27 points with unknown chance.
+You press <<H>>.
+You press <<H>>.
+You press <<H>>.
+You press <<H>>.
+You press <<H>>.
+You press <<H>> and gain 1 points. You would have gained 1 points had you chosen option G.
+You press <<H>> and gain 1 points. You would have gained 1 points had you chosen option G.
+You press <<H>> and gain 27 points. You would have gained 1 points had you chosen option G.
+You press <<H>> and gain 1 points. You would have gained 1 points had you chosen option G.
+You press <<H>> and gain 1 points. You would have gained 1 points had you chosen option G.
+You press <<H>> and gain 27 points. You would have gained 1 points had you chosen option G.
+You press <<H>> and gain 1 points. You would have gained 1 points had you chosen option G.
+You press <<H>> and gain 1 points. You would have gained 1 points had you chosen option G.
+You press <<H>> and gain 1 points. You would have gained 1 points had you chosen option G.
+You press <<H>> and gain 1 points. You would have gained 1 points had you chosen option G.
+You press <<H>> and gain 1 points. You would have gained 1 points had you chosen option G.
+You press <<H>> and gain 1 points. You would have gained 1 points had you chosen option G.
+You press <<H>> and gain 1 points. You would have gained 1 points had you chosen option G.
+You press <<H>> and gain 1 points. You would have gained 1 points had you chosen option G.
+You press <<H>> and gain 1 points. You would have gained 1 points had you chosen option G.
+You press <<H>> and gain 1 points. You would have gained 1 points had you chosen option G.
+You press <<H>> and gain 1 points. You would have gained 1 points had you chosen option G.
+You press <<H>> and gain 1 points. You would have gained 1 points had you chosen option G.
+You press <<H>> and gain 1 points. You would have gained 1 points had you chosen option G.
+You press <<H>> and gain 1 points. You would have gained 1 points had you chosen option G.
+
+Option G delivers 19 points with 100.0% chance.
+Option H delivers 16 points with 99.0% chance, 57 points with 0.5% chance, 59 points with 0.5% chance.
+You press <<H>>.
+You press <<H>>.
+You press <<H>>.
+You press <<H>>.
+You press <<H>>.
+You press <<H>> and gain 16 points. You would have gained 19 points had you chosen option G.
+You press <<H>> and gain 16 points. You would have gained 19 points had you chosen option G.
+You press <<H>> and gain 16 points. You would have gained 19 points had you chosen option G.
+You press <<H>> and gain 16 points. You would have gained 19 points had you chosen option G.
+You press <<H>> and gain 16 points. You would have gained 19 points had you chosen option G.
+You press <<H>> and gain 16 points. You would have gained 19 points had you chosen option G.
+You press <<H>> and gain 16 points. You would have gained 19 points had you chosen option G.
+You press <<H>> and gain 16 points. You would have gained 19 points had you chosen option G.
+You press <<H>> and gain 16 points. You would have gained 19 points had you chosen option G.
+You press <<H>> and gain 57 points. You would have gained 19 points had you chosen option G.
+You press <<H>> and gain 16 points. You would have gained 19 points had you chosen option G.
+You press <<H>> and gain 16 points. You would have gained 19 points had you chosen option G.
+You press <<H>> and gain 16 points. You would have gained 19 points had you chosen option G.
+You press <<H>> and gain 16 points. You would have gained 19 points had you chosen option G.
+You press <<H>> and gain 16 points. You would have gained 19 points had you chosen option G.
+You press <<H>> and gain 16 points. You would have gained 19 points had you chosen option G.
+You press <<H>> and gain 16 points. You would have gained 19 points had you chosen option G.
+You press <<H>> and gain 16 points. You would have gained 19 points had you chosen option G.
+You press <<H>> and gain 16 points. You would have gained 19 points had you chosen option G.
+You press <<H>> and gain 16 points. You would have gained 19 points had you chosen option G.
+
+Option G delivers 18 points with 100.0% chance.
+Option H delivers 19 points with 90.0% chance, 34 points with 10.0% chance.
+You press <<H>>.
+You press <<H>>.
+You press <<H>>.
+You press <<H>>.
+You press <<H>>.
+You press <<H>> and gain 34 points. You would have gained 18 points had you chosen option G.
+You press <<H>> and gain 19 points. You would have gained 18 points had you chosen option G.
+You press <<H>> and gain 34 points. You would have gained 18 points had you chosen option G.
+You press <<H>> and gain 19 points. You would have gained 18 points had you chosen option G.
+You press <<H>> and gain 19 points. You would have gained 18 points had you chosen option G.
+You press <<H>> and gain 19 points. You would have gained 18 points had you chosen option G.
+You press <<H>> and gain 19 points. You would have gained 18 points had you chosen option G.
+You press <<H>> and gain 19 points. You would have gained 18 points had you chosen option G.
+You press <<H>> and gain 19 points. You would have gained 18 points had you chosen option G.
+You press <<H>> and gain 19 points. You would have gained 18 points had you chosen option G.
+You press <<H>> and gain 19 points. You would have gained 18 points had you chosen option G.
+You press <<H>> and gain 19 points. You would have gained 18 points had you chosen option G.
+You press <<H>> and gain 19 points. You would have gained 18 points had you chosen option G.
+You press <<H>> and gain 19 points. You would have gained 18 points had you chosen option G.
+You press <<H>> and gain 19 points. You would have gained 18 points had you chosen option G.
+You press <<H>> and gain 34 points. You would have gained 18 points had you chosen option G.
+You press <<H>> and gain 19 points. You would have gained 18 points had you chosen option G.
+You press <<H>> and gain 19 points. You would have gained 18 points had you chosen option G.
+You press <<H>> and gain 19 points. You would have gained 18 points had you chosen option G.
+You press <<H>> and gain 19 points. You would have gained 18 points had you chosen option G.
+
+Option G delivers 12 points with 100.0% chance.
+Option H delivers -13 points with 80.0% chance, 83 points with 20.0% chance.
+You press <<H>>.
+You press <<H>>.
+You press <<G>>.
+You press <<H>>.
+You press <<H>>.
+You press <<H>> and lose 13 points. You would have gained 12 points had you chosen option G.
+You press <<H>> and lose 13 points. You would have gained 12 points had you chosen option G.
+You press <<G>> and gain 12 points. You would have lost 13 points had you chosen option H.
+You press <<G>> and gain 12 points. You would have gained 83 points had you chosen option H.
+You press <<G>> and gain 12 points. You would have lost 13 points had you chosen option H.
+You press <<G>> and gain 12 points. You would have gained 83 points had you chosen option H.
+You press <<G>> and gain 12 points. You would have lost 13 points had you chosen option H.
+You press <<H>> and lose 13 points. You would have gained 12 points had you chosen option G.
+You press <<H>> and lose 13 points. You would have gained 12 points had you chosen option G.
+You press <<H>> and lose 13 points. You would have gained 12 points had you chosen option G.
+You press <<G>> and gain 12 points. You would have lost 13 points had you chosen option H.
+You press <<G>> and gain 12 points. You would have gained 83 points had you chosen option H.
+You press <<G>> and gain 12 points. You would have lost 13 points had you chosen option H.
+You press <<G>> and gain 12 points. You would have lost 13 points had you chosen option H.
+You press <<G>> and gain 12 points. You would have lost 13 points had you chosen option H.
+You press <<H>> and lose 13 points. You would have gained 12 points had you chosen option G.
+You press <<G>> and gain 12 points. You would have lost 13 points had you chosen option H.
+You press <<H>> and lose 13 points. You would have gained 12 points had you chosen option G.
+You press <<G>> and gain 12 points. You would have gained 83 points had you chosen option H.
+You press <<G>> and gain 12 points. You would have lost 13 points had you chosen option H.
+
+Option G delivers 8 points with 0.625% chance, 24 points with 0.625% chance, 30 points with 90.0% chance, 32 points with 1.25% chance, 36 points with 2.5% chance, 38 points with 5.0% chance.
+Option H delivers -1 points with unknown chance, 31 points with unknown chance, 32 points with unknown chance, 33 points with unknown chance, 34 points with unknown chance, 35 points with unknown chance, 36 points with unknown chance, 37 points with unknown chance, 38 points with unknown chance, 39 points with unknown chance.
+You press <<G>>.
+You press <<G>>.
+You press <<G>>.
+You press <<G>>.
+You press <<G>>.
+You press <<G>> and gain 30 points. You would have gained 36 points had you chosen option H.
+You press <<G>> and gain 30 points. You would have gained 34 points had you chosen option H.
+You press <<H>> and gain 36 points. You would have gained 30 points had you chosen option G.
+You press <<H>> and gain 36 points. You would have gained 38 points had you chosen option G.
+You press <<G>> and gain 24 points. You would have gained 35 points had you chosen option H.
+You press <<H>> and gain 38 points. You would have gained 30 points had you chosen option G.
+You press <<G>> and gain 36 points. You would have gained 32 points had you chosen option H.
+You press <<H>> and gain 35 points. You would have gained 30 points had you chosen option G.
+You press <<G>> and gain 30 points. You would have gained 35 points had you chosen option H.
+You press <<H>> and gain 34 points. You would have gained 30 points had you chosen option G.
+You press <<H>> and gain 36 points. You would have gained 30 points had you chosen option G.
+You press <<G>> and gain 30 points. You would have gained 34 points had you chosen option H.
+You press <<H>> and lose 1 points. You would have gained 30 points had you chosen option G.
+You press <<H>> and lose 1 points. You would have gained 30 points had you chosen option G.
+You press <<G>> and gain 30 points. You would have gained 34 points had you chosen option H.
+You press <<H>> and gain 37 points. You would have gained 30 points had you chosen option G.
+You press <<H>> and gain 35 points. You would have gained 30 points had you chosen option G.
+You press <<H>> and gain 33 points. You would have gained 30 points had you chosen option G.
+You press <<H>> and gain 34 points. You would have gained 30 points had you chosen option G.
+You press <<H>> and gain 34 points. You would have gained 30 points had you chosen option G.
+
+Option G delivers 3 points with 100.0% chance.
+Option H delivers -1 points with 99.0% chance, 68 points with 1.0% chance.
+You press <<G>>.
+You press <<G>>.
+You press <<G>>.
+You press <<H>>.
+You press <<G>>.
+You press <<G>> and gain 3 points. You would have lost 1 points had you chosen option H.
+You press <<G>> and gain 3 points. You would have lost 1 points had you chosen option H.
+You press <<G>> and gain 3 points. You would have lost 1 points had you chosen option H.
+You press <<G>> and gain 3 points. You would have lost 1 points had you chosen option H.
+You press <<H>> and lose 1 points. You would have gained 3 points had you chosen option G.
+You press <<G>> and gain 3 points. You would have lost 1 points had you chosen option H.
+You press <<G>> and gain 3 points. You would have lost 1 points had you chosen option H.
+You press <<G>> and gain 3 points. You would have lost 1 points had you chosen option H.
+You press <<G>> and gain 3 points. You would have lost 1 points had you chosen option H.
+You press <<H>> and lose 1 points. You would have gained 3 points had you chosen option G.
+You press <<G>> and gain 3 points. You would have lost 1 points had you chosen option H.
+You press <<G>> and gain 3 points. You would have lost 1 points had you chosen option H.
+You press <<G>> and gain 3 points. You would have lost 1 points had you chosen option H.
+You press <<G>> and gain 3 points. You would have lost 1 points had you chosen option H.
+You press <<G>> and gain 3 points. You would have lost 1 points had you chosen option H.
+You press <<G>> and gain 3 points. You would have lost 1 points had you chosen option H.
+You press <<G>> and gain 3 points. You would have lost 1 points had you chosen option H.
+You press <<G>> and gain 3 points. You would have lost 1 points had you chosen option H.
+You press <<G>> and gain 3 points. You would have lost 1 points had you chosen option H.
+You press <<G>> and gain 3 points. You would have lost 1 points had you chosen option H.
+
+Option G delivers -12 points with 95.0% chance, 47 points with 2.5% chance, 49 points with 1.25% chance, 53 points with 0.625% chance, 61 points with 0.3125% chance, 77 points with 0.15625% chance, 109 points with 0.078125% chance, 173 points with 0.078125% chance.
+Option H delivers -9 points with 100.0% chance.
+You press <<G>>.
+You press <<G>>.
+You press <<G>>.
+You press <<G>>.
+You press <<G>>.
+You press <<G>> and lose 12 points. You would have lost 9 points had you chosen option H.
+You press <<H>> and lose 9 points. You would have lost 12 points had you chosen option G.
+You press <<H>> and lose 9 points. You would have lost 12 points had you chosen option G.
+You press <<H>> and lose 9 points. You would have lost 12 points had you chosen option G.
+You press <<H>> and lose 9 points. You would have lost 12 points had you chosen option G.
+You press <<H>> and lose 9 points. You would have lost 12 points had you chosen option G.
+You press <<H>> and lose 9 points. You would have lost 12 points had you chosen option G.
+You press <<H>> and lose 9 points. You would have gained 53 points had you chosen option G.
+You press <<H>> and lose 9 points. You would have lost 12 points had you chosen option G.
+You press <<H>> and lose 9 points. You would have lost 12 points had you chosen option G.
+You press <<H>> and lose 9 points. You would have lost 12 points had you chosen option G.
+You press <<H>> and lose 9 points. You would have lost 12 points had you chosen option G.
+You press <<H>> and lose 9 points. You would have lost 12 points had you chosen option G.
+You press <<H>> and lose 9 points. You would have lost 12 points had you chosen option G.
+You press <<H>> and lose 9 points. You would have lost 12 points had you chosen option G.
+You press <<H>> and lose 9 points. You would have lost 12 points had you chosen option G.
+You press <<H>> and lose 9 points. You would have lost 12 points had you chosen option G.
+You press <<G>> and lose 12 points. You would have lost 9 points had you chosen option H.
+You press <<G>> and gain 53 points. You would have lost 9 points had you chosen option H.
+You press <<H>> and lose 9 points. You would have lost 12 points had you chosen option G.
+
+Option G delivers 20 points with 25.0% chance, 24 points with 75.0% chance.
+Option H delivers 7 points with 5.0% chance, 17 points with 95.0% chance.
+You press <<G>>.
+You press <<G>>.
+You press <<G>>.
+You press <<G>>.
+You press <<G>>.
+You press <<G>> and gain 24 points. You would have gained 17 points had you chosen option H.
+You press <<G>> and gain 24 points. You would have gained 17 points had you chosen option H.
+You press <<G>> and gain 24 points. You would have gained 17 points had you chosen option H.
+You press <<G>> and gain 20 points. You would have gained 17 points had you chosen option H.
+You press <<G>> and gain 20 points. You would have gained 17 points had you chosen option H.
+You press <<G>> and gain 24 points. You would have gained 17 points had you chosen option H.
+You press <<G>> and gain 24 points. You would have gained 17 points had you chosen option H.
+You press <<G>> and gain 24 points. You would have gained 17 points had you chosen option H.
+You press <<G>> and gain 24 points. You would have gained 7 points had you chosen option H.
+You press <<G>> and gain 20 points. You would have gained 17 points had you chosen option H.
+You press <<G>> and gain 20 points. You would have gained 17 points had you chosen option H.
+You press <<G>> and gain 24 points. You would have gained 17 points had you chosen option H.
+You press <<G>> and gain 20 points. You would have gained 17 points had you chosen option H.
+You press <<G>> and gain 24 points. You would have gained 17 points had you chosen option H.
+You press <<G>> and gain 24 points. You would have gained 17 points had you chosen option H.
+You press <<G>> and gain 24 points. You would have gained 17 points had you chosen option H.
+You press <<G>> and gain 20 points. You would have gained 17 points had you chosen option H.
+You press <<G>> and gain 24 points. You would have gained 7 points had you chosen option H.
+You press <<G>> and gain 24 points. You would have gained 17 points had you chosen option H.
+You press <<G>> and gain 24 points. You would have gained 7 points had you chosen option H.
+
+Option G delivers 13 points with 20.0% chance, 14 points with 80.0% chance.
+Option H delivers 12 points with 95.0% chance, 29 points with 0.078125% chance, 30 points with 0.46875% chance, 31 points with 1.171875% chance, 32 points with 1.5625% chance, 33 points with 1.171875% chance, 34 points with 0.46875% chance, 35 points with 0.078125% chance.
+You press <<H>>.
+You press <<H>>.
+You press <<H>>.
+You press <<H>>.
+You press <<H>>.
+You press <<H>> and gain 12 points. You would have gained 13 points had you chosen option G.
+You press <<H>> and gain 29 points. You would have gained 13 points had you chosen option G.
+You press <<H>> and gain 12 points. You would have gained 13 points had you chosen option G.
+You press <<H>> and gain 12 points. You would have gained 14 points had you chosen option G.
+You press <<H>> and gain 12 points. You would have gained 14 points had you chosen option G.
+You press <<H>> and gain 12 points. You would have gained 14 points had you chosen option G.
+You press <<H>> and gain 12 points. You would have gained 14 points had you chosen option G.
+You press <<H>> and gain 12 points. You would have gained 14 points had you chosen option G.
+You press <<H>> and gain 12 points. You would have gained 14 points had you chosen option G.
+You press <<G>> and gain 14 points. You would have gained 12 points had you chosen option H.
+You press <<H>> and gain 12 points. You would have gained 14 points had you chosen option G.
+You press <<G>> and gain 13 points. You would have gained 12 points had you chosen option H.
+You press <<H>> and gain 12 points. You would have gained 14 points had you chosen option G.
+You press <<G>> and gain 14 points. You would have gained 12 points had you chosen option H.
+You press <<H>> and gain 12 points. You would have gained 14 points had you chosen option G.
+You press <<G>> and gain 14 points. You would have gained 12 points had you chosen option H.
+You press <<H>> and gain 12 points. You would have gained 14 points had you chosen option G.
+You press <<G>> and gain 14 points. You would have gained 12 points had you chosen option H.
+You press <<G>> and gain 13 points. You would have gained 12 points had you chosen option H.
+You press <<G>> and gain 14 points. You would have gained 12 points had you chosen option H.
+
+Option G delivers 2 points with 100.0% chance.
+Option H delivers -3 points with unknown chance, -1 points with unknown chance, 3 points with unknown chance, 11 points with unknown chance.
+You press <<H>>.
+You press <<H>>.
+You press <<H>>.
+You press <<H>>.
+You press <<H>>.
+You press <<H>> and gain 3 points. You would have gained 2 points had you chosen option G.
+You press <<H>> and gain 3 points. You would have gained 2 points had you chosen option G.
+You press <<H>> and lose 3 points. You would have gained 2 points had you chosen option G.
+You press <<G>> and gain 2 points. You would have lost 3 points had you chosen option H.
+You press <<G>> and gain 2 points. You would have lost 3 points had you chosen option H.
+You press <<G>> and gain 2 points. You would have lost 1 points had you chosen option H.
+You press <<H>> and lose 1 points. You would have gained 2 points had you chosen option G.
+You press <<G>> and gain 2 points. You would have lost 1 points had you chosen option H.
+You press <<H>> and lose 3 points. You would have gained 2 points had you chosen option G.
+You press <<G>> and gain 2 points. You would have lost 3 points had you chosen option H.
+You press <<G>> and gain 2 points. You would have lost 3 points had you chosen option H.
+You press <<G>> and gain 2 points. You would have lost 3 points had you chosen option H.
+You press <<G>> and gain 2 points. You would have gained 11 points had you chosen option H.
+You press <<G>> and gain 2 points. You would have lost 3 points had you chosen option H.
+You press <<G>> and gain 2 points. You would have gained 11 points had you chosen option H.
+You press <<H>> and gain 11 points. You would have gained 2 points had you chosen option G.
+You press <<G>> and gain 2 points. You would have gained 11 points had you chosen option H.
+You press <<H>> and lose 1 points. You would have gained 2 points had you chosen option G.
+You press <<G>> and gain 2 points. You would have lost 3 points had you chosen option H.
+You press <<G>> and gain 2 points. You would have lost 3 points had you chosen option H.
+
+Option G delivers 3 points with 100.0% chance.
+Option H delivers -20 points with 80.0% chance, 74 points with 20.0% chance.
+You press <<H>>.
+You press <<H>>.
+You press <<H>>.
+You press <<H>>.
+You press <<H>>.
+You press <<H>> and lose 20 points. You would have gained 3 points had you chosen option G.
+You press <<G>> and gain 3 points. You would have lost 20 points had you chosen option H.
+You press <<H>> and lose 20 points. You would have gained 3 points had you chosen option G.
+You press <<G>> and gain 3 points. You would have gained 74 points had you chosen option H.
+You press <<G>> and gain 3 points. You would have lost 20 points had you chosen option H.
+You press <<G>> and gain 3 points. You would have gained 74 points had you chosen option H.
+You press <<G>> and gain 3 points. You would have lost 20 points had you chosen option H.
+You press <<H>> and lose 20 points. You would have gained 3 points had you chosen option G.
+You press <<H>> and lose 20 points. You would have gained 3 points had you chosen option G.
+You press <<G>> and gain 3 points. You would have lost 20 points had you chosen option H.
+You press <<H>> and gain 74 points. You would have gained 3 points had you chosen option G.
+You press <<G>> and gain 3 points. You would have lost 20 points had you chosen option H.
+You press <<G>> and gain 3 points. You would have gained 74 points had you chosen option H.
+You press <<G>> and gain 3 points. You would have lost 20 points had you chosen option H.
+You press <<G>> and gain 3 points. You would have gained 74 points had you chosen option H.
+You press <<H>> and gain 74 points. You would have gained 3 points had you chosen option G.
+You press <<G>> and gain 3 points. You would have lost 20 points had you chosen option H.
+You press <<G>> and gain 3 points. You would have lost 20 points had you chosen option H.
+You press <<G>> and gain 3 points. You would have lost 20 points had you chosen option H.
+You press <<H>> and lose 20 points. You would have gained 3 points had you chosen option G.
+
+Option G delivers 10 points with 25.0% chance, 22 points with 75.0% chance.
+Option H delivers -3 points with 25.0% chance, 29 points with 75.0% chance.
+You press <<G>>.
+You press <<G>>.
+You press <<G>>.
+You press <<G>>.
+You press <<H>>.
+You press <<H>> and lose 3 points. You would have gained 22 points had you chosen option G.
+You press <<H>> and lose 3 points. You would have gained 22 points had you chosen option G.
+You press <<H>> and gain 29 points. You would have gained 22 points had you chosen option G.
+You press <<G>> and gain 22 points. You would have gained 29 points had you chosen option H.
+You press <<G>> and gain 22 points. You would have gained 29 points had you chosen option H.
+You press <<H>> and lose 3 points. You would have gained 22 points had you chosen option G.
+You press <<G>> and gain 22 points. You would have gained 29 points had you chosen option H.
+You press <<H>> and gain 29 points. You would have gained 22 points had you chosen option G.
+You press <<G>> and gain 22 points. You would have gained 29 points had you chosen option H.
+You press <<H>> and gain 29 points. You would have gained 10 points had you chosen option G.
+You press <<H>> and lose 3 points. You would have gained 22 points had you chosen option G.
+You press <<G>> and gain 10 points. You would have gained 29 points had you chosen option H.
+You press <<H>> and gain 29 points. You would have gained 22 points had you chosen option G.
+You press <<H>> and gain 29 points. You would have gained 22 points had you chosen option G.
+You press <<G>> and gain 22 points. You would have gained 29 points had you chosen option H.
+You press <<G>> and gain 22 points. You would have gained 29 points had you chosen option H.
+You press <<H>> and gain 29 points. You would have gained 10 points had you chosen option G.
+You press <<H>> and gain 29 points. You would have gained 22 points had you chosen option G.
+You press <<H>> and gain 29 points. You would have gained 22 points had you chosen option G.
+You press <<H>> and gain 29 points. You would have gained 22 points had you chosen option G.

@@ -1,0 +1,580 @@
+You will have to repeatedly feed animals with fruits.
+Each fruit contains two vitamins.
+Every animal has a different preference for the vitamins.
+The vitamin contents and the preferences are both given as vectors with two entries.
+Your points are calculated as the dot product of the vitamin content with the preference of the current animal.
+For example, let us assume that you have to feed the elephant who has a preference [-1  1].
+Then, if you feed the elephant a fruit with vitamin content [-1  1], this would yield 2 points.
+If you feed it a fruit with vitamins [1 0], this would yield -1 points.
+You have to buy the fruits in a market, in which you can go left or right for two steps.
+You can press W to go left, and H to go right.
+Per round, you always collect two fruits.
+There are eight animals in total and you have to feed one, two, or three of them in each block.
+In each block, there are twelve trials with different animals in random order.
+After these twelve trials, there are three more in which you have to feed new animals.
+The fruits in the market are rearranged after each block, meaning that you have to relearn the positions.
+Your goal is to maximize the points obtained.
+
+A new block starts. The locations of the fruits in the market got scrambled.
+You have to feed the chicken. It has the preference [ 1 -1].
+You press <<W>> and find the blueberry which has the vitamins [-1  1]. You get -2 points.
+You press <<W>> and find the strawberry which has the vitamins [1 1]. You get 0 points.
+You have to feed the kangaroo. It has the preference [-1  0].
+You press <<W>> and find the blueberry which has the vitamins [-1  1]. You get 1 points.
+You press <<H>> and find the banana which has the vitamins [-1  0]. You get 1 points.
+You have to feed the kangaroo. It has the preference [-1  0].
+You press <<W>> and find the blueberry which has the vitamins [-1  1]. You get 1 points.
+You press <<H>> and find the banana which has the vitamins [-1  0]. You get 1 points.
+You have to feed the chicken. It has the preference [ 1 -1].
+You press <<H>> and find the orange which has the vitamins [0 1]. You get -1 points.
+You press <<W>> and find the apple which has the vitamins [-1 -1]. You get 0 points.
+You have to feed the chicken. It has the preference [ 1 -1].
+You press <<H>> and find the orange which has the vitamins [0 1]. You get -1 points.
+You press <<H>> and find the cherry which has the vitamins [ 0 -1]. You get 1 points.
+You have to feed the kangaroo. It has the preference [-1  0].
+You press <<W>> and find the blueberry which has the vitamins [-1  1]. You get 1 points.
+You press <<H>> and find the banana which has the vitamins [-1  0]. You get 1 points.
+You have to feed the chicken. It has the preference [ 1 -1].
+You press <<H>> and find the orange which has the vitamins [0 1]. You get -1 points.
+You press <<H>> and find the cherry which has the vitamins [ 0 -1]. You get 1 points.
+You have to feed the kangaroo. It has the preference [-1  0].
+You press <<W>> and find the blueberry which has the vitamins [-1  1]. You get 1 points.
+You press <<H>> and find the banana which has the vitamins [-1  0]. You get 1 points.
+You have to feed the chicken. It has the preference [ 1 -1].
+You press <<H>> and find the orange which has the vitamins [0 1]. You get -1 points.
+You press <<H>> and find the cherry which has the vitamins [ 0 -1]. You get 1 points.
+You have to feed the kangaroo. It has the preference [-1  0].
+You press <<W>> and find the blueberry which has the vitamins [-1  1]. You get 1 points.
+You press <<H>> and find the banana which has the vitamins [-1  0]. You get 1 points.
+You have to feed the kangaroo. It has the preference [-1  0].
+You press <<W>> and find the blueberry which has the vitamins [-1  1]. You get 1 points.
+You press <<H>> and find the banana which has the vitamins [-1  0]. You get 1 points.
+You have to feed the chicken. It has the preference [ 1 -1].
+You press <<H>> and find the orange which has the vitamins [0 1]. You get -1 points.
+You press <<H>> and find the cherry which has the vitamins [ 0 -1]. You get 1 points.
+You have to feed the zebra. It has the preference [1 0].
+You press <<W>> and find the blueberry which has the vitamins [-1  1]. You get -1 points.
+You press <<W>> and find the strawberry which has the vitamins [1 1]. You get 1 points.
+You have to feed the crocodile. It has the preference [1 1].
+You press <<W>> and find the blueberry which has the vitamins [-1  1]. You get 0 points.
+You press <<W>> and find the strawberry which has the vitamins [1 1]. You get 2 points.
+You have to feed the giraffe. It has the preference [0 1].
+You press <<W>> and find the blueberry which has the vitamins [-1  1]. You get 1 points.
+You press <<W>> and find the strawberry which has the vitamins [1 1]. You get 1 points.
+
+A new block starts. The locations of the fruits in the market got scrambled.
+You have to feed the giraffe. It has the preference [0 1].
+You press <<W>> and find the grapes which has the vitamins [ 1 -1]. You get -1 points.
+You press <<W>> and find the blueberry which has the vitamins [-1  1]. You get 1 points.
+You have to feed the giraffe. It has the preference [0 1].
+You press <<H>> and find the orange which has the vitamins [0 1]. You get 1 points.
+You press <<H>> and find the cherry which has the vitamins [ 0 -1]. You get -1 points.
+You have to feed the giraffe. It has the preference [0 1].
+You press <<H>> and find the orange which has the vitamins [0 1]. You get 1 points.
+You press <<W>> and find the banana which has the vitamins [-1  0]. You get 0 points.
+You have to feed the giraffe. It has the preference [0 1].
+You press <<W>> and find the grapes which has the vitamins [ 1 -1]. You get -1 points.
+You press <<H>> and find the strawberry which has the vitamins [1 1]. You get 1 points.
+You have to feed the giraffe. It has the preference [0 1].
+You press <<H>> and find the orange which has the vitamins [0 1]. You get 1 points.
+You press <<W>> and find the banana which has the vitamins [-1  0]. You get 0 points.
+You have to feed the giraffe. It has the preference [0 1].
+You press <<H>> and find the orange which has the vitamins [0 1]. You get 1 points.
+You press <<H>> and find the cherry which has the vitamins [ 0 -1]. You get -1 points.
+You have to feed the giraffe. It has the preference [0 1].
+You press <<W>> and find the grapes which has the vitamins [ 1 -1]. You get -1 points.
+You press <<W>> and find the blueberry which has the vitamins [-1  1]. You get 1 points.
+You have to feed the giraffe. It has the preference [0 1].
+You press <<H>> and find the orange which has the vitamins [0 1]. You get 1 points.
+You press <<W>> and find the banana which has the vitamins [-1  0]. You get 0 points.
+You have to feed the giraffe. It has the preference [0 1].
+You press <<H>> and find the orange which has the vitamins [0 1]. You get 1 points.
+You press <<W>> and find the banana which has the vitamins [-1  0]. You get 0 points.
+You have to feed the giraffe. It has the preference [0 1].
+You press <<H>> and find the orange which has the vitamins [0 1]. You get 1 points.
+You press <<W>> and find the banana which has the vitamins [-1  0]. You get 0 points.
+You have to feed the giraffe. It has the preference [0 1].
+You press <<H>> and find the orange which has the vitamins [0 1]. You get 1 points.
+You press <<W>> and find the banana which has the vitamins [-1  0]. You get 0 points.
+You have to feed the giraffe. It has the preference [0 1].
+You press <<H>> and find the orange which has the vitamins [0 1]. You get 1 points.
+You press <<W>> and find the banana which has the vitamins [-1  0]. You get 0 points.
+You have to feed the chicken. It has the preference [ 1 -1].
+You press <<W>> and find the grapes which has the vitamins [ 1 -1]. You get 2 points.
+You press <<W>> and find the blueberry which has the vitamins [-1  1]. You get -2 points.
+You have to feed the kangaroo. It has the preference [-1  0].
+You press <<W>> and find the grapes which has the vitamins [ 1 -1]. You get -1 points.
+You press <<W>> and find the blueberry which has the vitamins [-1  1]. You get 1 points.
+You have to feed the elephant. It has the preference [-1  1].
+You press <<H>> and find the orange which has the vitamins [0 1]. You get 1 points.
+You press <<W>> and find the banana which has the vitamins [-1  0]. You get 1 points.
+
+A new block starts. The locations of the fruits in the market got scrambled.
+You have to feed the penguin. It has the preference [-1 -1].
+You press <<W>> and find the banana which has the vitamins [-1  0]. You get 1 points.
+You press <<W>> and find the orange which has the vitamins [0 1]. You get -1 points.
+You have to feed the turtle. It has the preference [ 0 -1].
+You press <<H>> and find the cherry which has the vitamins [ 0 -1]. You get 1 points.
+You press <<H>> and find the blueberry which has the vitamins [-1  1]. You get -1 points.
+You have to feed the chicken. It has the preference [ 1 -1].
+You press <<H>> and find the cherry which has the vitamins [ 0 -1]. You get 1 points.
+You press <<W>> and find the grapes which has the vitamins [ 1 -1]. You get 2 points.
+You have to feed the chicken. It has the preference [ 1 -1].
+You press <<H>> and find the cherry which has the vitamins [ 0 -1]. You get 1 points.
+You press <<W>> and find the grapes which has the vitamins [ 1 -1]. You get 2 points.
+You have to feed the chicken. It has the preference [ 1 -1].
+You press <<H>> and find the cherry which has the vitamins [ 0 -1]. You get 1 points.
+You press <<W>> and find the grapes which has the vitamins [ 1 -1]. You get 2 points.
+You have to feed the turtle. It has the preference [ 0 -1].
+You press <<W>> and find the banana which has the vitamins [-1  0]. You get 0 points.
+You press <<H>> and find the apple which has the vitamins [-1 -1]. You get 1 points.
+You have to feed the chicken. It has the preference [ 1 -1].
+You press <<H>> and find the cherry which has the vitamins [ 0 -1]. You get 1 points.
+You press <<W>> and find the grapes which has the vitamins [ 1 -1]. You get 2 points.
+You have to feed the penguin. It has the preference [-1 -1].
+You press <<H>> and find the cherry which has the vitamins [ 0 -1]. You get 1 points.
+You press <<H>> and find the blueberry which has the vitamins [-1  1]. You get 0 points.
+You have to feed the turtle. It has the preference [ 0 -1].
+You press <<H>> and find the cherry which has the vitamins [ 0 -1]. You get 1 points.
+You press <<W>> and find the grapes which has the vitamins [ 1 -1]. You get 1 points.
+You have to feed the penguin. It has the preference [-1 -1].
+You press <<W>> and find the banana which has the vitamins [-1  0]. You get 1 points.
+You press <<H>> and find the apple which has the vitamins [-1 -1]. You get 2 points.
+You have to feed the penguin. It has the preference [-1 -1].
+You press <<W>> and find the banana which has the vitamins [-1  0]. You get 1 points.
+You press <<H>> and find the apple which has the vitamins [-1 -1]. You get 2 points.
+You have to feed the turtle. It has the preference [ 0 -1].
+You press <<H>> and find the cherry which has the vitamins [ 0 -1]. You get 1 points.
+You press <<W>> and find the grapes which has the vitamins [ 1 -1]. You get 1 points.
+You have to feed the crocodile. It has the preference [1 1].
+You press <<H>> and find the cherry which has the vitamins [ 0 -1]. You get -1 points.
+You press <<H>> and find the blueberry which has the vitamins [-1  1]. You get 0 points.
+You have to feed the kangaroo. It has the preference [-1  0].
+You press <<W>> and find the banana which has the vitamins [-1  0]. You get 1 points.
+You press <<H>> and find the apple which has the vitamins [-1 -1]. You get 1 points.
+You have to feed the giraffe. It has the preference [0 1].
+You press <<H>> and find the cherry which has the vitamins [ 0 -1]. You get -1 points.
+You press <<H>> and find the blueberry which has the vitamins [-1  1]. You get 1 points.
+
+A new block starts. The locations of the fruits in the market got scrambled.
+You have to feed the turtle. It has the preference [ 0 -1].
+You press <<W>> and find the orange which has the vitamins [0 1]. You get -1 points.
+You press <<H>> and find the apple which has the vitamins [-1 -1]. You get 1 points.
+You have to feed the giraffe. It has the preference [0 1].
+You press <<W>> and find the orange which has the vitamins [0 1]. You get 1 points.
+You press <<W>> and find the banana which has the vitamins [-1  0]. You get 0 points.
+You have to feed the giraffe. It has the preference [0 1].
+You press <<H>> and find the grapes which has the vitamins [ 1 -1]. You get -1 points.
+You press <<H>> and find the kiwi which has the vitamins [1 0]. You get 0 points.
+You have to feed the giraffe. It has the preference [0 1].
+You press <<W>> and find the orange which has the vitamins [0 1]. You get 1 points.
+You press <<H>> and find the apple which has the vitamins [-1 -1]. You get -1 points.
+You have to feed the giraffe. It has the preference [0 1].
+You press <<W>> and find the orange which has the vitamins [0 1]. You get 1 points.
+You press <<W>> and find the banana which has the vitamins [-1  0]. You get 0 points.
+You have to feed the turtle. It has the preference [ 0 -1].
+You press <<H>> and find the grapes which has the vitamins [ 1 -1]. You get 1 points.
+You press <<H>> and find the kiwi which has the vitamins [1 0]. You get 0 points.
+You have to feed the giraffe. It has the preference [0 1].
+You press <<W>> and find the orange which has the vitamins [0 1]. You get 1 points.
+You press <<W>> and find the banana which has the vitamins [-1  0]. You get 0 points.
+You have to feed the turtle. It has the preference [ 0 -1].
+You press <<W>> and find the orange which has the vitamins [0 1]. You get -1 points.
+You press <<H>> and find the apple which has the vitamins [-1 -1]. You get 1 points.
+You have to feed the giraffe. It has the preference [0 1].
+You press <<W>> and find the orange which has the vitamins [0 1]. You get 1 points.
+You press <<W>> and find the banana which has the vitamins [-1  0]. You get 0 points.
+You have to feed the turtle. It has the preference [ 0 -1].
+You press <<W>> and find the orange which has the vitamins [0 1]. You get -1 points.
+You press <<W>> and find the banana which has the vitamins [-1  0]. You get 0 points.
+You have to feed the turtle. It has the preference [ 0 -1].
+You press <<H>> and find the grapes which has the vitamins [ 1 -1]. You get 1 points.
+You press <<H>> and find the kiwi which has the vitamins [1 0]. You get 0 points.
+You have to feed the turtle. It has the preference [ 0 -1].
+You press <<H>> and find the grapes which has the vitamins [ 1 -1]. You get 1 points.
+You press <<W>> and find the blueberry which has the vitamins [-1  1]. You get -1 points.
+You have to feed the chicken. It has the preference [ 1 -1].
+You press <<H>> and find the grapes which has the vitamins [ 1 -1]. You get 2 points.
+You press <<H>> and find the kiwi which has the vitamins [1 0]. You get 1 points.
+You have to feed the crocodile. It has the preference [1 1].
+You press <<H>> and find the grapes which has the vitamins [ 1 -1]. You get 0 points.
+You press <<H>> and find the kiwi which has the vitamins [1 0]. You get 1 points.
+You have to feed the zebra. It has the preference [1 0].
+You press <<H>> and find the grapes which has the vitamins [ 1 -1]. You get 1 points.
+You press <<H>> and find the kiwi which has the vitamins [1 0]. You get 1 points.
+
+A new block starts. The locations of the fruits in the market got scrambled.
+You have to feed the turtle. It has the preference [ 0 -1].
+You press <<W>> and find the grapes which has the vitamins [ 1 -1]. You get 1 points.
+You press <<W>> and find the kiwi which has the vitamins [1 0]. You get 0 points.
+You have to feed the turtle. It has the preference [ 0 -1].
+You press <<W>> and find the grapes which has the vitamins [ 1 -1]. You get 1 points.
+You press <<W>> and find the kiwi which has the vitamins [1 0]. You get 0 points.
+You have to feed the giraffe. It has the preference [0 1].
+You press <<H>> and find the cherry which has the vitamins [ 0 -1]. You get -1 points.
+You press <<H>> and find the banana which has the vitamins [-1  0]. You get 0 points.
+You have to feed the penguin. It has the preference [-1 -1].
+You press <<H>> and find the cherry which has the vitamins [ 0 -1]. You get 1 points.
+You press <<W>> and find the apple which has the vitamins [-1 -1]. You get 2 points.
+You have to feed the turtle. It has the preference [ 0 -1].
+You press <<H>> and find the cherry which has the vitamins [ 0 -1]. You get 1 points.
+You press <<W>> and find the apple which has the vitamins [-1 -1]. You get 1 points.
+You have to feed the turtle. It has the preference [ 0 -1].
+You press <<H>> and find the cherry which has the vitamins [ 0 -1]. You get 1 points.
+You press <<W>> and find the apple which has the vitamins [-1 -1]. You get 1 points.
+You have to feed the penguin. It has the preference [-1 -1].
+You press <<H>> and find the cherry which has the vitamins [ 0 -1]. You get 1 points.
+You press <<W>> and find the apple which has the vitamins [-1 -1]. You get 2 points.
+You have to feed the penguin. It has the preference [-1 -1].
+You press <<H>> and find the cherry which has the vitamins [ 0 -1]. You get 1 points.
+You press <<W>> and find the apple which has the vitamins [-1 -1]. You get 2 points.
+You have to feed the giraffe. It has the preference [0 1].
+You press <<W>> and find the grapes which has the vitamins [ 1 -1]. You get -1 points.
+You press <<H>> and find the orange which has the vitamins [0 1]. You get 1 points.
+You have to feed the giraffe. It has the preference [0 1].
+You press <<W>> and find the grapes which has the vitamins [ 1 -1]. You get -1 points.
+You press <<W>> and find the kiwi which has the vitamins [1 0]. You get 0 points.
+You have to feed the giraffe. It has the preference [0 1].
+You press <<H>> and find the cherry which has the vitamins [ 0 -1]. You get -1 points.
+You press <<H>> and find the banana which has the vitamins [-1  0]. You get 0 points.
+You have to feed the penguin. It has the preference [-1 -1].
+You press <<H>> and find the cherry which has the vitamins [ 0 -1]. You get 1 points.
+You press <<W>> and find the apple which has the vitamins [-1 -1]. You get 2 points.
+You have to feed the kangaroo. It has the preference [-1  0].
+You press <<H>> and find the cherry which has the vitamins [ 0 -1]. You get 0 points.
+You press <<W>> and find the apple which has the vitamins [-1 -1]. You get 1 points.
+You have to feed the chicken. It has the preference [ 1 -1].
+You press <<W>> and find the grapes which has the vitamins [ 1 -1]. You get 2 points.
+You press <<W>> and find the kiwi which has the vitamins [1 0]. You get 1 points.
+You have to feed the crocodile. It has the preference [1 1].
+You press <<H>> and find the cherry which has the vitamins [ 0 -1]. You get -1 points.
+You press <<H>> and find the banana which has the vitamins [-1  0]. You get -1 points.
+
+A new block starts. The locations of the fruits in the market got scrambled.
+You have to feed the kangaroo. It has the preference [-1  0].
+You press <<W>> and find the grapes which has the vitamins [ 1 -1]. You get -1 points.
+You press <<W>> and find the apple which has the vitamins [-1 -1]. You get 1 points.
+You have to feed the kangaroo. It has the preference [-1  0].
+You press <<H>> and find the banana which has the vitamins [-1  0]. You get 1 points.
+You press <<H>> and find the strawberry which has the vitamins [1 1]. You get -1 points.
+You have to feed the kangaroo. It has the preference [-1  0].
+You press <<H>> and find the banana which has the vitamins [-1  0]. You get 1 points.
+You press <<W>> and find the cherry which has the vitamins [ 0 -1]. You get 0 points.
+You have to feed the kangaroo. It has the preference [-1  0].
+You press <<W>> and find the grapes which has the vitamins [ 1 -1]. You get -1 points.
+You press <<H>> and find the orange which has the vitamins [0 1]. You get 0 points.
+You have to feed the kangaroo. It has the preference [-1  0].
+You press <<H>> and find the banana which has the vitamins [-1  0]. You get 1 points.
+You press <<W>> and find the cherry which has the vitamins [ 0 -1]. You get 0 points.
+You have to feed the kangaroo. It has the preference [-1  0].
+You press <<H>> and find the banana which has the vitamins [-1  0]. You get 1 points.
+You press <<W>> and find the cherry which has the vitamins [ 0 -1]. You get 0 points.
+You have to feed the kangaroo. It has the preference [-1  0].
+You press <<H>> and find the banana which has the vitamins [-1  0]. You get 1 points.
+You press <<W>> and find the cherry which has the vitamins [ 0 -1]. You get 0 points.
+You have to feed the kangaroo. It has the preference [-1  0].
+You press <<H>> and find the banana which has the vitamins [-1  0]. You get 1 points.
+You press <<W>> and find the cherry which has the vitamins [ 0 -1]. You get 0 points.
+You have to feed the kangaroo. It has the preference [-1  0].
+You press <<H>> and find the banana which has the vitamins [-1  0]. You get 1 points.
+You press <<W>> and find the cherry which has the vitamins [ 0 -1]. You get 0 points.
+You have to feed the kangaroo. It has the preference [-1  0].
+You press <<H>> and find the banana which has the vitamins [-1  0]. You get 1 points.
+You press <<W>> and find the cherry which has the vitamins [ 0 -1]. You get 0 points.
+You have to feed the kangaroo. It has the preference [-1  0].
+You press <<H>> and find the banana which has the vitamins [-1  0]. You get 1 points.
+You press <<W>> and find the cherry which has the vitamins [ 0 -1]. You get 0 points.
+You have to feed the kangaroo. It has the preference [-1  0].
+You press <<H>> and find the banana which has the vitamins [-1  0]. You get 1 points.
+You press <<W>> and find the cherry which has the vitamins [ 0 -1]. You get 0 points.
+You have to feed the elephant. It has the preference [-1  1].
+You press <<W>> and find the grapes which has the vitamins [ 1 -1]. You get -2 points.
+You press <<W>> and find the apple which has the vitamins [-1 -1]. You get 0 points.
+You have to feed the chicken. It has the preference [ 1 -1].
+You press <<W>> and find the grapes which has the vitamins [ 1 -1]. You get 2 points.
+You press <<W>> and find the apple which has the vitamins [-1 -1]. You get 0 points.
+You have to feed the giraffe. It has the preference [0 1].
+You press <<W>> and find the grapes which has the vitamins [ 1 -1]. You get -1 points.
+You press <<H>> and find the orange which has the vitamins [0 1]. You get 1 points.
+
+A new block starts. The locations of the fruits in the market got scrambled.
+You have to feed the chicken. It has the preference [ 1 -1].
+You press <<H>> and find the banana which has the vitamins [-1  0]. You get -1 points.
+You press <<H>> and find the apple which has the vitamins [-1 -1]. You get 0 points.
+You have to feed the chicken. It has the preference [ 1 -1].
+You press <<W>> and find the grapes which has the vitamins [ 1 -1]. You get 2 points.
+You press <<W>> and find the kiwi which has the vitamins [1 0]. You get 1 points.
+You have to feed the chicken. It has the preference [ 1 -1].
+You press <<W>> and find the grapes which has the vitamins [ 1 -1]. You get 2 points.
+You press <<W>> and find the kiwi which has the vitamins [1 0]. You get 1 points.
+You have to feed the chicken. It has the preference [ 1 -1].
+You press <<W>> and find the grapes which has the vitamins [ 1 -1]. You get 2 points.
+You press <<W>> and find the kiwi which has the vitamins [1 0]. You get 1 points.
+You have to feed the chicken. It has the preference [ 1 -1].
+You press <<W>> and find the grapes which has the vitamins [ 1 -1]. You get 2 points.
+You press <<W>> and find the kiwi which has the vitamins [1 0]. You get 1 points.
+You have to feed the chicken. It has the preference [ 1 -1].
+You press <<W>> and find the grapes which has the vitamins [ 1 -1]. You get 2 points.
+You press <<W>> and find the kiwi which has the vitamins [1 0]. You get 1 points.
+You have to feed the chicken. It has the preference [ 1 -1].
+You press <<W>> and find the grapes which has the vitamins [ 1 -1]. You get 2 points.
+You press <<W>> and find the kiwi which has the vitamins [1 0]. You get 1 points.
+You have to feed the chicken. It has the preference [ 1 -1].
+You press <<W>> and find the grapes which has the vitamins [ 1 -1]. You get 2 points.
+You press <<W>> and find the kiwi which has the vitamins [1 0]. You get 1 points.
+You have to feed the chicken. It has the preference [ 1 -1].
+You press <<W>> and find the grapes which has the vitamins [ 1 -1]. You get 2 points.
+You press <<W>> and find the kiwi which has the vitamins [1 0]. You get 1 points.
+You have to feed the chicken. It has the preference [ 1 -1].
+You press <<W>> and find the grapes which has the vitamins [ 1 -1]. You get 2 points.
+You press <<W>> and find the kiwi which has the vitamins [1 0]. You get 1 points.
+You have to feed the chicken. It has the preference [ 1 -1].
+You press <<W>> and find the grapes which has the vitamins [ 1 -1]. You get 2 points.
+You press <<W>> and find the kiwi which has the vitamins [1 0]. You get 1 points.
+You have to feed the chicken. It has the preference [ 1 -1].
+You press <<W>> and find the grapes which has the vitamins [ 1 -1]. You get 2 points.
+You press <<W>> and find the kiwi which has the vitamins [1 0]. You get 1 points.
+You have to feed the penguin. It has the preference [-1 -1].
+You press <<H>> and find the banana which has the vitamins [-1  0]. You get 1 points.
+You press <<H>> and find the apple which has the vitamins [-1 -1]. You get 2 points.
+You have to feed the turtle. It has the preference [ 0 -1].
+You press <<H>> and find the banana which has the vitamins [-1  0]. You get 0 points.
+You press <<H>> and find the apple which has the vitamins [-1 -1]. You get 1 points.
+You have to feed the kangaroo. It has the preference [-1  0].
+You press <<H>> and find the banana which has the vitamins [-1  0]. You get 1 points.
+You press <<H>> and find the apple which has the vitamins [-1 -1]. You get 1 points.
+
+A new block starts. The locations of the fruits in the market got scrambled.
+You have to feed the elephant. It has the preference [-1  1].
+You press <<W>> and find the strawberry which has the vitamins [1 1]. You get 0 points.
+You press <<W>> and find the banana which has the vitamins [-1  0]. You get 1 points.
+You have to feed the zebra. It has the preference [1 0].
+You press <<W>> and find the strawberry which has the vitamins [1 1]. You get 1 points.
+You press <<H>> and find the kiwi which has the vitamins [1 0]. You get 1 points.
+You have to feed the elephant. It has the preference [-1  1].
+You press <<H>> and find the blueberry which has the vitamins [-1  1]. You get 2 points.
+You press <<H>> and find the cherry which has the vitamins [ 0 -1]. You get -1 points.
+You have to feed the zebra. It has the preference [1 0].
+You press <<W>> and find the strawberry which has the vitamins [1 1]. You get 1 points.
+You press <<H>> and find the kiwi which has the vitamins [1 0]. You get 1 points.
+You have to feed the zebra. It has the preference [1 0].
+You press <<W>> and find the strawberry which has the vitamins [1 1]. You get 1 points.
+You press <<H>> and find the kiwi which has the vitamins [1 0]. You get 1 points.
+You have to feed the elephant. It has the preference [-1  1].
+You press <<H>> and find the blueberry which has the vitamins [-1  1]. You get 2 points.
+You press <<W>> and find the orange which has the vitamins [0 1]. You get 1 points.
+You have to feed the zebra. It has the preference [1 0].
+You press <<W>> and find the strawberry which has the vitamins [1 1]. You get 1 points.
+You press <<H>> and find the kiwi which has the vitamins [1 0]. You get 1 points.
+You have to feed the elephant. It has the preference [-1  1].
+You press <<H>> and find the blueberry which has the vitamins [-1  1]. You get 2 points.
+You press <<W>> and find the orange which has the vitamins [0 1]. You get 1 points.
+You have to feed the elephant. It has the preference [-1  1].
+You press <<H>> and find the blueberry which has the vitamins [-1  1]. You get 2 points.
+You press <<W>> and find the orange which has the vitamins [0 1]. You get 1 points.
+You have to feed the zebra. It has the preference [1 0].
+You press <<W>> and find the strawberry which has the vitamins [1 1]. You get 1 points.
+You press <<H>> and find the kiwi which has the vitamins [1 0]. You get 1 points.
+You have to feed the zebra. It has the preference [1 0].
+You press <<W>> and find the strawberry which has the vitamins [1 1]. You get 1 points.
+You press <<H>> and find the kiwi which has the vitamins [1 0]. You get 1 points.
+You have to feed the elephant. It has the preference [-1  1].
+You press <<H>> and find the blueberry which has the vitamins [-1  1]. You get 2 points.
+You press <<W>> and find the orange which has the vitamins [0 1]. You get 1 points.
+You have to feed the giraffe. It has the preference [0 1].
+You press <<W>> and find the strawberry which has the vitamins [1 1]. You get 1 points.
+You press <<H>> and find the kiwi which has the vitamins [1 0]. You get 0 points.
+You have to feed the penguin. It has the preference [-1 -1].
+You press <<H>> and find the blueberry which has the vitamins [-1  1]. You get 0 points.
+You press <<H>> and find the cherry which has the vitamins [ 0 -1]. You get 1 points.
+You have to feed the kangaroo. It has the preference [-1  0].
+You press <<H>> and find the blueberry which has the vitamins [-1  1]. You get 1 points.
+You press <<H>> and find the cherry which has the vitamins [ 0 -1]. You get 0 points.
+
+A new block starts. The locations of the fruits in the market got scrambled.
+You have to feed the kangaroo. It has the preference [-1  0].
+You press <<H>> and find the blueberry which has the vitamins [-1  1]. You get 1 points.
+You press <<H>> and find the cherry which has the vitamins [ 0 -1]. You get 0 points.
+You have to feed the penguin. It has the preference [-1 -1].
+You press <<H>> and find the blueberry which has the vitamins [-1  1]. You get 0 points.
+You press <<W>> and find the strawberry which has the vitamins [1 1]. You get -2 points.
+You have to feed the elephant. It has the preference [-1  1].
+You press <<H>> and find the blueberry which has the vitamins [-1  1]. You get 2 points.
+You press <<H>> and find the cherry which has the vitamins [ 0 -1]. You get -1 points.
+You have to feed the kangaroo. It has the preference [-1  0].
+You press <<W>> and find the kiwi which has the vitamins [1 0]. You get -1 points.
+You press <<W>> and find the banana which has the vitamins [-1  0]. You get 1 points.
+You have to feed the elephant. It has the preference [-1  1].
+You press <<H>> and find the blueberry which has the vitamins [-1  1]. You get 2 points.
+You press <<W>> and find the strawberry which has the vitamins [1 1]. You get 0 points.
+You have to feed the elephant. It has the preference [-1  1].
+You press <<H>> and find the blueberry which has the vitamins [-1  1]. You get 2 points.
+You press <<W>> and find the strawberry which has the vitamins [1 1]. You get 0 points.
+You have to feed the kangaroo. It has the preference [-1  0].
+You press <<H>> and find the blueberry which has the vitamins [-1  1]. You get 1 points.
+You press <<H>> and find the cherry which has the vitamins [ 0 -1]. You get 0 points.
+You have to feed the penguin. It has the preference [-1 -1].
+You press <<W>> and find the kiwi which has the vitamins [1 0]. You get -1 points.
+You press <<H>> and find the orange which has the vitamins [0 1]. You get -1 points.
+You have to feed the penguin. It has the preference [-1 -1].
+You press <<H>> and find the blueberry which has the vitamins [-1  1]. You get 0 points.
+You press <<W>> and find the strawberry which has the vitamins [1 1]. You get -2 points.
+You have to feed the penguin. It has the preference [-1 -1].
+You press <<W>> and find the kiwi which has the vitamins [1 0]. You get -1 points.
+You press <<W>> and find the banana which has the vitamins [-1  0]. You get 1 points.
+You have to feed the elephant. It has the preference [-1  1].
+You press <<H>> and find the blueberry which has the vitamins [-1  1]. You get 2 points.
+You press <<W>> and find the strawberry which has the vitamins [1 1]. You get 0 points.
+You have to feed the kangaroo. It has the preference [-1  0].
+You press <<H>> and find the blueberry which has the vitamins [-1  1]. You get 1 points.
+You press <<H>> and find the cherry which has the vitamins [ 0 -1]. You get 0 points.
+You have to feed the turtle. It has the preference [ 0 -1].
+You press <<H>> and find the blueberry which has the vitamins [-1  1]. You get -1 points.
+You press <<H>> and find the cherry which has the vitamins [ 0 -1]. You get 1 points.
+You have to feed the chicken. It has the preference [ 1 -1].
+You press <<W>> and find the kiwi which has the vitamins [1 0]. You get 1 points.
+You press <<W>> and find the banana which has the vitamins [-1  0]. You get -1 points.
+You have to feed the zebra. It has the preference [1 0].
+You press <<W>> and find the kiwi which has the vitamins [1 0]. You get 1 points.
+You press <<H>> and find the orange which has the vitamins [0 1]. You get 0 points.
+
+A new block starts. The locations of the fruits in the market got scrambled.
+You have to feed the zebra. It has the preference [1 0].
+You press <<W>> and find the orange which has the vitamins [0 1]. You get 0 points.
+You press <<W>> and find the kiwi which has the vitamins [1 0]. You get 1 points.
+You have to feed the turtle. It has the preference [ 0 -1].
+You press <<H>> and find the grapes which has the vitamins [ 1 -1]. You get 1 points.
+You press <<H>> and find the banana which has the vitamins [-1  0]. You get 0 points.
+You have to feed the zebra. It has the preference [1 0].
+You press <<H>> and find the grapes which has the vitamins [ 1 -1]. You get 1 points.
+You press <<W>> and find the strawberry which has the vitamins [1 1]. You get 1 points.
+You have to feed the turtle. It has the preference [ 0 -1].
+You press <<W>> and find the orange which has the vitamins [0 1]. You get -1 points.
+You press <<H>> and find the cherry which has the vitamins [ 0 -1]. You get 1 points.
+You have to feed the turtle. It has the preference [ 0 -1].
+You press <<H>> and find the grapes which has the vitamins [ 1 -1]. You get 1 points.
+You press <<H>> and find the banana which has the vitamins [-1  0]. You get 0 points.
+You have to feed the turtle. It has the preference [ 0 -1].
+You press <<H>> and find the grapes which has the vitamins [ 1 -1]. You get 1 points.
+You press <<H>> and find the banana which has the vitamins [-1  0]. You get 0 points.
+You have to feed the zebra. It has the preference [1 0].
+You press <<H>> and find the grapes which has the vitamins [ 1 -1]. You get 1 points.
+You press <<W>> and find the strawberry which has the vitamins [1 1]. You get 1 points.
+You have to feed the zebra. It has the preference [1 0].
+You press <<H>> and find the grapes which has the vitamins [ 1 -1]. You get 1 points.
+You press <<W>> and find the strawberry which has the vitamins [1 1]. You get 1 points.
+You have to feed the turtle. It has the preference [ 0 -1].
+You press <<H>> and find the grapes which has the vitamins [ 1 -1]. You get 1 points.
+You press <<H>> and find the banana which has the vitamins [-1  0]. You get 0 points.
+You have to feed the turtle. It has the preference [ 0 -1].
+You press <<H>> and find the grapes which has the vitamins [ 1 -1]. You get 1 points.
+You press <<H>> and find the banana which has the vitamins [-1  0]. You get 0 points.
+You have to feed the zebra. It has the preference [1 0].
+You press <<H>> and find the grapes which has the vitamins [ 1 -1]. You get 1 points.
+You press <<W>> and find the strawberry which has the vitamins [1 1]. You get 1 points.
+You have to feed the zebra. It has the preference [1 0].
+You press <<H>> and find the grapes which has the vitamins [ 1 -1]. You get 1 points.
+You press <<W>> and find the strawberry which has the vitamins [1 1]. You get 1 points.
+You have to feed the giraffe. It has the preference [0 1].
+You press <<W>> and find the orange which has the vitamins [0 1]. You get 1 points.
+You press <<H>> and find the cherry which has the vitamins [ 0 -1]. You get -1 points.
+You have to feed the elephant. It has the preference [-1  1].
+You press <<W>> and find the orange which has the vitamins [0 1]. You get 1 points.
+You press <<W>> and find the kiwi which has the vitamins [1 0]. You get -1 points.
+You have to feed the chicken. It has the preference [ 1 -1].
+You press <<H>> and find the grapes which has the vitamins [ 1 -1]. You get 2 points.
+You press <<H>> and find the banana which has the vitamins [-1  0]. You get -1 points.
+
+A new block starts. The locations of the fruits in the market got scrambled.
+You have to feed the penguin. It has the preference [-1 -1].
+You press <<W>> and find the apple which has the vitamins [-1 -1]. You get 2 points.
+You press <<W>> and find the strawberry which has the vitamins [1 1]. You get -2 points.
+You have to feed the penguin. It has the preference [-1 -1].
+You press <<W>> and find the apple which has the vitamins [-1 -1]. You get 2 points.
+You press <<H>> and find the blueberry which has the vitamins [-1  1]. You get 0 points.
+You have to feed the penguin. It has the preference [-1 -1].
+You press <<W>> and find the apple which has the vitamins [-1 -1]. You get 2 points.
+You press <<H>> and find the blueberry which has the vitamins [-1  1]. You get 0 points.
+You have to feed the penguin. It has the preference [-1 -1].
+You press <<W>> and find the apple which has the vitamins [-1 -1]. You get 2 points.
+You press <<H>> and find the blueberry which has the vitamins [-1  1]. You get 0 points.
+You have to feed the penguin. It has the preference [-1 -1].
+You press <<W>> and find the apple which has the vitamins [-1 -1]. You get 2 points.
+You press <<H>> and find the blueberry which has the vitamins [-1  1]. You get 0 points.
+You have to feed the penguin. It has the preference [-1 -1].
+You press <<W>> and find the apple which has the vitamins [-1 -1]. You get 2 points.
+You press <<H>> and find the blueberry which has the vitamins [-1  1]. You get 0 points.
+You have to feed the penguin. It has the preference [-1 -1].
+You press <<W>> and find the apple which has the vitamins [-1 -1]. You get 2 points.
+You press <<H>> and find the blueberry which has the vitamins [-1  1]. You get 0 points.
+You have to feed the penguin. It has the preference [-1 -1].
+You press <<W>> and find the apple which has the vitamins [-1 -1]. You get 2 points.
+You press <<H>> and find the blueberry which has the vitamins [-1  1]. You get 0 points.
+You have to feed the penguin. It has the preference [-1 -1].
+You press <<H>> and find the kiwi which has the vitamins [1 0]. You get -1 points.
+You press <<W>> and find the grapes which has the vitamins [ 1 -1]. You get 0 points.
+You have to feed the penguin. It has the preference [-1 -1].
+You press <<H>> and find the kiwi which has the vitamins [1 0]. You get -1 points.
+You press <<H>> and find the banana which has the vitamins [-1  0]. You get 1 points.
+You have to feed the penguin. It has the preference [-1 -1].
+You press <<W>> and find the apple which has the vitamins [-1 -1]. You get 2 points.
+You press <<H>> and find the blueberry which has the vitamins [-1  1]. You get 0 points.
+You have to feed the penguin. It has the preference [-1 -1].
+You press <<W>> and find the apple which has the vitamins [-1 -1]. You get 2 points.
+You press <<H>> and find the blueberry which has the vitamins [-1  1]. You get 0 points.
+You have to feed the crocodile. It has the preference [1 1].
+You press <<H>> and find the kiwi which has the vitamins [1 0]. You get 1 points.
+You press <<W>> and find the grapes which has the vitamins [ 1 -1]. You get 0 points.
+You have to feed the kangaroo. It has the preference [-1  0].
+You press <<W>> and find the apple which has the vitamins [-1 -1]. You get 1 points.
+You press <<H>> and find the blueberry which has the vitamins [-1  1]. You get 1 points.
+You have to feed the zebra. It has the preference [1 0].
+You press <<H>> and find the kiwi which has the vitamins [1 0]. You get 1 points.
+You press <<W>> and find the grapes which has the vitamins [ 1 -1]. You get 1 points.
+
+A new block starts. The locations of the fruits in the market got scrambled.
+You have to feed the crocodile. It has the preference [1 1].
+You press <<W>> and find the orange which has the vitamins [0 1]. You get 1 points.
+You press <<W>> and find the banana which has the vitamins [-1  0]. You get -1 points.
+You have to feed the zebra. It has the preference [1 0].
+You press <<H>> and find the grapes which has the vitamins [ 1 -1]. You get 1 points.
+You press <<H>> and find the kiwi which has the vitamins [1 0]. You get 1 points.
+You have to feed the giraffe. It has the preference [0 1].
+You press <<W>> and find the orange which has the vitamins [0 1]. You get 1 points.
+You press <<W>> and find the banana which has the vitamins [-1  0]. You get 0 points.
+You have to feed the zebra. It has the preference [1 0].
+You press <<H>> and find the grapes which has the vitamins [ 1 -1]. You get 1 points.
+You press <<H>> and find the kiwi which has the vitamins [1 0]. You get 1 points.
+You have to feed the crocodile. It has the preference [1 1].
+You press <<H>> and find the grapes which has the vitamins [ 1 -1]. You get 0 points.
+You press <<W>> and find the cherry which has the vitamins [ 0 -1]. You get -1 points.
+You have to feed the zebra. It has the preference [1 0].
+You press <<H>> and find the grapes which has the vitamins [ 1 -1]. You get 1 points.
+You press <<H>> and find the kiwi which has the vitamins [1 0]. You get 1 points.
+You have to feed the giraffe. It has the preference [0 1].
+You press <<W>> and find the orange which has the vitamins [0 1]. You get 1 points.
+You press <<W>> and find the banana which has the vitamins [-1  0]. You get 0 points.
+You have to feed the zebra. It has the preference [1 0].
+You press <<H>> and find the grapes which has the vitamins [ 1 -1]. You get 1 points.
+You press <<H>> and find the kiwi which has the vitamins [1 0]. You get 1 points.
+You have to feed the giraffe. It has the preference [0 1].
+You press <<W>> and find the orange which has the vitamins [0 1]. You get 1 points.
+You press <<H>> and find the apple which has the vitamins [-1 -1]. You get -1 points.
+You have to feed the crocodile. It has the preference [1 1].
+You press <<H>> and find the grapes which has the vitamins [ 1 -1]. You get 0 points.
+You press <<H>> and find the kiwi which has the vitamins [1 0]. You get 1 points.
+You have to feed the crocodile. It has the preference [1 1].
+You press <<H>> and find the grapes which has the vitamins [ 1 -1]. You get 0 points.
+You press <<H>> and find the kiwi which has the vitamins [1 0]. You get 1 points.
+You have to feed the giraffe. It has the preference [0 1].
+You press <<W>> and find the orange which has the vitamins [0 1]. You get 1 points.
+You press <<W>> and find the banana which has the vitamins [-1  0]. You get 0 points.
+You have to feed the elephant. It has the preference [-1  1].
+You press <<W>> and find the orange which has the vitamins [0 1]. You get 1 points.
+You press <<W>> and find the banana which has the vitamins [-1  0]. You get 1 points.
+You have to feed the turtle. It has the preference [ 0 -1].
+You press <<H>> and find the grapes which has the vitamins [ 1 -1]. You get 1 points.
+You press <<H>> and find the kiwi which has the vitamins [1 0]. You get 0 points.
+You have to feed the penguin. It has the preference [-1 -1].
+You press <<W>> and find the orange which has the vitamins [0 1]. You get -1 points.
+You press <<H>> and find the apple which has the vitamins [-1 -1]. You get 2 points.

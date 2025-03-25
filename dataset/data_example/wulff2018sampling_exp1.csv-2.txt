@@ -1,0 +1,41 @@
+You can sample from two monetary lotteries by pressing J or T.
+The lotteries offer different points with different probabilities.
+Initially, you will not know the outcomes and probabilities of the lotteries, but you can learn about them through sampling.
+Whenever you sample, a random draw from the selected lottery will be generated, which does not affect your bonus.
+You can sample from the lotteries in whatever order and for as long as you like.
+Whenever you feel ready, you can stop sampling by pressing U and then choose one lottery for real by pressing the corresponding key.
+This choice will then trigger a random draw from the chosen lottery that will be added to your bonus.
+Your goal is to maximize your bonus.
+You will be presented with multiple choice problems consisting of different lotteries varying in outcomes and probabilities.
+
+You encounter a new choice problem:
+You press <<J>> and observe 0.0 points.
+You press <<T>> and observe 3.0 points.
+You press <<U>> to stop sampling and then press <<J>>.
+
+You encounter a new choice problem:
+You press <<J>> and observe 0.0 points.
+You press <<T>> and observe 3.0 points.
+You press <<U>> to stop sampling and then press <<T>>.
+
+You encounter a new choice problem:
+You press <<T>> and observe 0.0 points.
+You press <<J>> and observe -3.0 points.
+You press <<T>> and observe 0.0 points.
+You press <<J>> and observe -3.0 points.
+You press <<T>> and observe -32.0 points.
+You press <<J>> and observe -3.0 points.
+You press <<T>> and observe 0.0 points.
+You press <<J>> and observe -3.0 points.
+You press <<T>> and observe 0.0 points.
+You press <<T>> and observe 0.0 points.
+You press <<T>> and observe 0.0 points.
+You press <<T>> and observe 0.0 points.
+You press <<J>> and observe -3.0 points.
+You press <<J>> and observe -3.0 points.
+You press <<J>> and observe -3.0 points.
+You press <<T>> and observe 0.0 points.
+You press <<T>> and observe 0.0 points.
+You press <<T>> and observe -32.0 points.
+You press <<T>> and observe 0.0 points.
+You press <<U>> to stop sampling and then press <<T>>.

@@ -1,0 +1,204 @@
+You will be playing a game in which you pretend to be a weather forecaster.
+In each trial, you will see between one and three tarot cards.
+Your task is to decide if the combination of cards presented predicts rainy weather (by pressing W) or fine weather (by pressing J).
+
+You are seeing the following: card 2, card 3, card 4. You press <<J>>. You are correct, the weather is indeed fine.
+You are seeing the following: card 2, card 3, card 4. You press <<J>>. You are wrong, the weather is rainy.
+You are seeing the following: card 1, card 4. You press <<J>>. You are wrong, the weather is rainy.
+You are seeing the following: card 2. You press <<W>>. You are wrong, the weather is fine.
+You are seeing the following: card 2, card 3. You press <<W>>. You are wrong, the weather is fine.
+You are seeing the following: card 2, card 4. You press <<W>>. You are wrong, the weather is fine.
+You are seeing the following: card 1, card 2. You press <<J>>. You are correct, the weather is indeed fine.
+You are seeing the following: card 2, card 3. You press <<W>>. You are wrong, the weather is fine.
+You are seeing the following: card 1, card 2. You press <<J>>. You are correct, the weather is indeed fine.
+You are seeing the following: card 2, card 3, card 4. You press <<W>>. You are correct, the weather is indeed rainy.
+You are seeing the following: card 1, card 2, card 3. You press <<J>>. You are correct, the weather is indeed fine.
+You are seeing the following: card 3, card 4. You press <<W>>. You are correct, the weather is indeed rainy.
+You are seeing the following: card 1, card 2, card 4. You press <<J>>. You are wrong, the weather is rainy.
+You are seeing the following: card 3, card 4. You press <<W>>. You are correct, the weather is indeed rainy.
+You are seeing the following: card 4. You press <<W>>. You are correct, the weather is indeed rainy.
+You are seeing the following: card 3. You press <<W>>. You are correct, the weather is indeed rainy.
+You are seeing the following: card 1, card 2. You press <<W>>. You are wrong, the weather is fine.
+You are seeing the following: card 1. You press <<J>>. You are correct, the weather is indeed fine.
+You are seeing the following: card 2, card 4. You press <<W>>. You are correct, the weather is indeed rainy.
+You are seeing the following: card 3, card 4. You press <<W>>. You are correct, the weather is indeed rainy.
+You are seeing the following: card 1, card 2, card 3. You press <<J>>. You are correct, the weather is indeed fine.
+You are seeing the following: card 1. You press <<J>>. You are correct, the weather is indeed fine.
+You are seeing the following: card 3. You press <<W>>. You are wrong, the weather is fine.
+You are seeing the following: card 3, card 4. You press <<J>>. You are wrong, the weather is rainy.
+You are seeing the following: card 1. You press <<J>>. You are correct, the weather is indeed fine.
+You are seeing the following: card 1, card 3, card 4. You press <<J>>. You are wrong, the weather is rainy.
+You are seeing the following: card 1, card 4. You press <<J>>. You are correct, the weather is indeed fine.
+You are seeing the following: card 3, card 4. You press <<W>>. You are correct, the weather is indeed rainy.
+You are seeing the following: card 1. You press <<J>>. You are correct, the weather is indeed fine.
+You are seeing the following: card 4. You press <<W>>. You are correct, the weather is indeed rainy.
+You are seeing the following: card 2. You press <<W>>. You are wrong, the weather is fine.
+You are seeing the following: card 1, card 4. You press <<W>>. You are wrong, the weather is fine.
+You are seeing the following: card 3, card 4. You press <<W>>. You are correct, the weather is indeed rainy.
+You are seeing the following: card 4. You press <<W>>. You are correct, the weather is indeed rainy.
+You are seeing the following: card 1, card 2. You press <<W>>. You are wrong, the weather is fine.
+You are seeing the following: card 3, card 4. You press <<W>>. You are correct, the weather is indeed rainy.
+You are seeing the following: card 3, card 4. You press <<W>>. You are correct, the weather is indeed rainy.
+You are seeing the following: card 4. You press <<W>>. You are correct, the weather is indeed rainy.
+You are seeing the following: card 1, card 2. You press <<J>>. You are correct, the weather is indeed fine.
+You are seeing the following: card 3, card 4. You press <<W>>. You are correct, the weather is indeed rainy.
+You are seeing the following: card 3, card 4. You press <<W>>. You are correct, the weather is indeed rainy.
+You are seeing the following: card 3, card 4. You press <<W>>. You are wrong, the weather is fine.
+You are seeing the following: card 4. You press <<W>>. You are correct, the weather is indeed rainy.
+You are seeing the following: card 1, card 2, card 3. You press <<J>>. You are wrong, the weather is rainy.
+You are seeing the following: card 2, card 4. You press <<W>>. You are correct, the weather is indeed rainy.
+You are seeing the following: card 2, card 3, card 4. You press <<W>>. You are correct, the weather is indeed rainy.
+You are seeing the following: card 2. You press <<W>>. You are wrong, the weather is fine.
+You are seeing the following: card 2, card 4. You press <<W>>. You are wrong, the weather is fine.
+You are seeing the following: card 3, card 4. You press <<W>>. You are correct, the weather is indeed rainy.
+You are seeing the following: card 1, card 2. You press <<J>>. You are correct, the weather is indeed fine.
+You are seeing the following: card 3, card 4. You press <<W>>. You are correct, the weather is indeed rainy.
+You are seeing the following: card 1, card 2. You press <<J>>. You are correct, the weather is indeed fine.
+You are seeing the following: card 4. You press <<W>>. You are correct, the weather is indeed rainy.
+You are seeing the following: card 1, card 2, card 3. You press <<J>>. You are correct, the weather is indeed fine.
+You are seeing the following: card 2, card 3, card 4. You press <<W>>. You are correct, the weather is indeed rainy.
+You are seeing the following: card 2, card 3, card 4. You press <<W>>. You are correct, the weather is indeed rainy.
+You are seeing the following: card 1, card 3. You press <<J>>. You are correct, the weather is indeed fine.
+You are seeing the following: card 1, card 2, card 4. You press <<J>>. You are correct, the weather is indeed fine.
+You are seeing the following: card 2, card 3, card 4. You press <<W>>. You are correct, the weather is indeed rainy.
+You are seeing the following: card 1, card 2. You press <<J>>. You are correct, the weather is indeed fine.
+You are seeing the following: card 2, card 3, card 4. You press <<W>>. You are correct, the weather is indeed rainy.
+You are seeing the following: card 2, card 3, card 4. You press <<W>>. You are wrong, the weather is fine.
+You are seeing the following: card 1, card 3. You press <<J>>. You are wrong, the weather is rainy.
+You are seeing the following: card 2, card 3, card 4. You press <<W>>. You are wrong, the weather is fine.
+You are seeing the following: card 2. You press <<J>>. You are correct, the weather is indeed fine.
+You are seeing the following: card 2, card 3. You press <<J>>. You are wrong, the weather is rainy.
+You are seeing the following: card 1, card 2, card 4. You press <<J>>. You are wrong, the weather is rainy.
+You are seeing the following: card 4. You press <<W>>. You are correct, the weather is indeed rainy.
+You are seeing the following: card 1, card 3. You press <<J>>. You are wrong, the weather is rainy.
+You are seeing the following: card 1, card 2, card 4. You press <<J>>. You are wrong, the weather is rainy.
+You are seeing the following: card 1, card 2, card 4. You press <<W>>. You are wrong, the weather is fine.
+You are seeing the following: card 1, card 2. You press <<J>>. You are wrong, the weather is rainy.
+You are seeing the following: card 3. You press <<W>>. You are correct, the weather is indeed rainy.
+You are seeing the following: card 1, card 2, card 3. You press <<J>>. You are correct, the weather is indeed fine.
+You are seeing the following: card 3, card 4. You press <<W>>. You are correct, the weather is indeed rainy.
+You are seeing the following: card 2, card 3, card 4. You press <<W>>. You are correct, the weather is indeed rainy.
+You are seeing the following: card 4. You press <<W>>. You are correct, the weather is indeed rainy.
+You are seeing the following: card 1, card 3. You press <<J>>. You are correct, the weather is indeed fine.
+You are seeing the following: card 1. You press <<J>>. You are correct, the weather is indeed fine.
+You are seeing the following: card 3, card 4. You press <<J>>. You are wrong, the weather is rainy.
+You are seeing the following: card 3. You press <<J>>. You are wrong, the weather is rainy.
+You are seeing the following: card 2. You press <<J>>. You are correct, the weather is indeed fine.
+You are seeing the following: card 1, card 2. You press <<W>>. You are wrong, the weather is fine.
+You are seeing the following: card 4. You press <<W>>. You are correct, the weather is indeed rainy.
+You are seeing the following: card 1, card 2. You press <<J>>. You are correct, the weather is indeed fine.
+You are seeing the following: card 1, card 2. You press <<J>>. You are correct, the weather is indeed fine.
+You are seeing the following: card 1, card 3. You press <<J>>. You are correct, the weather is indeed fine.
+You are seeing the following: card 2, card 3. You press <<J>>. You are wrong, the weather is rainy.
+You are seeing the following: card 3, card 4. You press <<J>>. You are wrong, the weather is rainy.
+You are seeing the following: card 2, card 3, card 4. You press <<J>>. You are wrong, the weather is rainy.
+You are seeing the following: card 1, card 2. You press <<J>>. You are correct, the weather is indeed fine.
+You are seeing the following: card 3, card 4. You press <<W>>. You are wrong, the weather is fine.
+You are seeing the following: card 1, card 3. You press <<J>>. You are correct, the weather is indeed fine.
+You are seeing the following: card 1, card 2, card 3. You press <<J>>. You are correct, the weather is indeed fine.
+You are seeing the following: card 1, card 2, card 3. You press <<J>>. You are wrong, the weather is rainy.
+You are seeing the following: card 1, card 2. You press <<J>>. You are correct, the weather is indeed fine.
+You are seeing the following: card 3, card 4. You press <<J>>. You are wrong, the weather is rainy.
+You are seeing the following: card 4. You press <<W>>. You are correct, the weather is indeed rainy.
+You are seeing the following: card 3, card 4. You press <<W>>. You are correct, the weather is indeed rainy.
+You are seeing the following: card 1. You press <<J>>. You are correct, the weather is indeed fine.
+You are seeing the following: card 3, card 4. You press <<W>>. You are correct, the weather is indeed rainy.
+You are seeing the following: card 4. You press <<W>>. You are correct, the weather is indeed rainy.
+You are seeing the following: card 1. You press <<J>>. You are correct, the weather is indeed fine.
+You are seeing the following: card 1, card 2, card 4. You press <<W>>. You are wrong, the weather is fine.
+You are seeing the following: card 2, card 3, card 4. You press <<W>>. You are correct, the weather is indeed rainy.
+You are seeing the following: card 1, card 2. You press <<J>>. You are wrong, the weather is rainy.
+You are seeing the following: card 3, card 4. You press <<W>>. You are correct, the weather is indeed rainy.
+You are seeing the following: card 1, card 3, card 4. You press <<J>>. You are wrong, the weather is rainy.
+You are seeing the following: card 1, card 3. You press <<W>>. You are correct, the weather is indeed rainy.
+You are seeing the following: card 1. You press <<J>>. You are correct, the weather is indeed fine.
+You are seeing the following: card 3, card 4. You press <<W>>. You are correct, the weather is indeed rainy.
+You are seeing the following: card 1, card 4. You press <<W>>. You are correct, the weather is indeed rainy.
+You are seeing the following: card 2. You press <<W>>. You are correct, the weather is indeed rainy.
+You are seeing the following: card 1, card 2, card 3. You press <<J>>. You are correct, the weather is indeed fine.
+You are seeing the following: card 2, card 3. You press <<W>>. You are correct, the weather is indeed rainy.
+You are seeing the following: card 1, card 2, card 3. You press <<J>>. You are correct, the weather is indeed fine.
+You are seeing the following: card 1, card 4. You press <<W>>. You are correct, the weather is indeed rainy.
+You are seeing the following: card 2, card 4. You press <<W>>. You are correct, the weather is indeed rainy.
+You are seeing the following: card 1, card 2, card 3. You press <<J>>. You are correct, the weather is indeed fine.
+You are seeing the following: card 1, card 2. You press <<W>>. You are wrong, the weather is fine.
+You are seeing the following: card 1, card 2. You press <<J>>. You are correct, the weather is indeed fine.
+You are seeing the following: card 1. You press <<J>>. You are correct, the weather is indeed fine.
+You are seeing the following: card 1. You press <<J>>. You are correct, the weather is indeed fine.
+You are seeing the following: card 2. You press <<W>>. You are wrong, the weather is fine.
+You are seeing the following: card 4. You press <<W>>. You are correct, the weather is indeed rainy.
+You are seeing the following: card 1, card 3. You press <<W>>. You are correct, the weather is indeed rainy.
+You are seeing the following: card 2, card 3. You press <<W>>. You are wrong, the weather is fine.
+You are seeing the following: card 2. You press <<J>>. You are wrong, the weather is rainy.
+You are seeing the following: card 1, card 2, card 3. You press <<J>>. You are correct, the weather is indeed fine.
+You are seeing the following: card 1, card 2, card 3. You press <<J>>. You are correct, the weather is indeed fine.
+You are seeing the following: card 1, card 2, card 4. You press <<W>>. You are correct, the weather is indeed rainy.
+You are seeing the following: card 2, card 4. You press <<W>>. You are correct, the weather is indeed rainy.
+You are seeing the following: card 4. You press <<W>>. You are wrong, the weather is fine.
+You are seeing the following: card 1, card 3, card 4. You press <<J>>. You are wrong, the weather is rainy.
+You are seeing the following: card 1, card 2, card 4. You press <<J>>. You are correct, the weather is indeed fine.
+You are seeing the following: card 1, card 2, card 3. You press <<J>>. You are correct, the weather is indeed fine.
+You are seeing the following: card 1. You press <<J>>. You are correct, the weather is indeed fine.
+You are seeing the following: card 1, card 3. You press <<W>>. You are wrong, the weather is fine.
+You are seeing the following: card 1, card 2, card 3. You press <<J>>. You are correct, the weather is indeed fine.
+You are seeing the following: card 4. You press <<W>>. You are correct, the weather is indeed rainy.
+You are seeing the following: card 3, card 4. You press <<W>>. You are correct, the weather is indeed rainy.
+You are seeing the following: card 1, card 3, card 4. You press <<W>>. You are correct, the weather is indeed rainy.
+You are seeing the following: card 1, card 3. You press <<W>>. You are wrong, the weather is fine.
+You are seeing the following: card 3. You press <<J>>. You are wrong, the weather is rainy.
+You are seeing the following: card 3. You press <<W>>. You are correct, the weather is indeed rainy.
+You are seeing the following: card 2, card 3, card 4. You press <<W>>. You are correct, the weather is indeed rainy.
+You are seeing the following: card 4. You press <<J>>. You are wrong, the weather is rainy.
+You are seeing the following: card 2, card 4. You press <<W>>. You are correct, the weather is indeed rainy.
+You are seeing the following: card 1, card 3, card 4. You press <<J>>. You are wrong, the weather is rainy.
+You are seeing the following: card 4. You press <<W>>. You are correct, the weather is indeed rainy.
+You are seeing the following: card 1, card 3, card 4. You press <<J>>. You are wrong, the weather is rainy.
+You are seeing the following: card 3. You press <<J>>. You are correct, the weather is indeed fine.
+You are seeing the following: card 1, card 4. You press <<W>>. You are wrong, the weather is fine.
+You are seeing the following: card 1. You press <<J>>. You are correct, the weather is indeed fine.
+You are seeing the following: card 1, card 3. You press <<J>>. You are wrong, the weather is rainy.
+You are seeing the following: card 1, card 2, card 3. You press <<J>>. You are correct, the weather is indeed fine.
+You are seeing the following: card 2, card 4. You press <<W>>. You are correct, the weather is indeed rainy.
+You are seeing the following: card 3. You press <<J>>. You are correct, the weather is indeed fine.
+You are seeing the following: card 1. You press <<J>>. You are correct, the weather is indeed fine.
+You are seeing the following: card 1. You press <<J>>. You are correct, the weather is indeed fine.
+You are seeing the following: card 3, card 4. You press <<W>>. You are correct, the weather is indeed rainy.
+You are seeing the following: card 1, card 3. You press <<W>>. You are wrong, the weather is fine.
+You are seeing the following: card 1, card 2, card 3. You press <<J>>. You are correct, the weather is indeed fine.
+You are seeing the following: card 1, card 2. You press <<W>>. You are wrong, the weather is fine.
+You are seeing the following: card 1. You press <<J>>. You are wrong, the weather is rainy.
+You are seeing the following: card 1. You press <<W>>. You are wrong, the weather is fine.
+You are seeing the following: card 1, card 2, card 3. You press <<J>>. You are correct, the weather is indeed fine.
+You are seeing the following: card 3. You press <<J>>. You are wrong, the weather is rainy.
+You are seeing the following: card 2, card 3, card 4. You press <<W>>. You are correct, the weather is indeed rainy.
+You are seeing the following: card 2, card 4. You press <<W>>. You are correct, the weather is indeed rainy.
+You are seeing the following: card 1, card 3, card 4. You press <<W>>. You are correct, the weather is indeed rainy.
+You are seeing the following: card 2. You press <<W>>. You are wrong, the weather is fine.
+You are seeing the following: card 1, card 2. You press <<J>>. You are wrong, the weather is rainy.
+You are seeing the following: card 1, card 2. You press <<W>>. You are wrong, the weather is fine.
+You are seeing the following: card 4. You press <<W>>. You are correct, the weather is indeed rainy.
+You are seeing the following: card 1, card 2, card 3. You press <<J>>. You are correct, the weather is indeed fine.
+You are seeing the following: card 1. You press <<J>>. You are correct, the weather is indeed fine.
+You are seeing the following: card 1, card 2, card 4. You press <<J>>. You are wrong, the weather is rainy.
+You are seeing the following: card 1, card 2, card 3. You press <<J>>. You are correct, the weather is indeed fine.
+You are seeing the following: card 3, card 4. You press <<W>>. You are correct, the weather is indeed rainy.
+You are seeing the following: card 2, card 3, card 4. You press <<W>>. You are correct, the weather is indeed rainy.
+You are seeing the following: card 2, card 3, card 4. You press <<W>>. You are correct, the weather is indeed rainy.
+You are seeing the following: card 1, card 2. You press <<J>>. You are correct, the weather is indeed fine.
+You are seeing the following: card 3, card 4. You press <<W>>. You are correct, the weather is indeed rainy.
+You are seeing the following: card 1, card 3, card 4. You press <<J>>. You are wrong, the weather is rainy.
+You are seeing the following: card 1. You press <<J>>. You are correct, the weather is indeed fine.
+You are seeing the following: card 2, card 4. You press <<W>>. You are correct, the weather is indeed rainy.
+You are seeing the following: card 1, card 2. You press <<J>>. You are correct, the weather is indeed fine.
+You are seeing the following: card 2, card 4. You press <<J>>. You are wrong, the weather is rainy.
+You are seeing the following: card 4. You press <<W>>. You are correct, the weather is indeed rainy.
+You are seeing the following: card 2, card 4. You press <<W>>. You are correct, the weather is indeed rainy.
+You are seeing the following: card 1, card 2. You press <<J>>. You are correct, the weather is indeed fine.
+You are seeing the following: card 2, card 3, card 4. You press <<W>>. You are correct, the weather is indeed rainy.
+You are seeing the following: card 1, card 2. You press <<J>>. You are correct, the weather is indeed fine.
+You are seeing the following: card 1, card 2. You press <<J>>. You are correct, the weather is indeed fine.
+You are seeing the following: card 1, card 3, card 4. You press <<J>>. You are wrong, the weather is rainy.
+You are seeing the following: card 4. You press <<W>>. You are correct, the weather is indeed rainy.
+You are seeing the following: card 1. You press <<J>>. You are correct, the weather is indeed fine.
+You are seeing the following: card 2, card 3, card 4. You press <<W>>. You are correct, the weather is indeed rainy.
+You are seeing the following: card 1, card 2. You press <<J>>. You are correct, the weather is indeed fine.
