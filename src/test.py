@@ -82,9 +82,7 @@ if __name__ == '__main__':
     tokenizer = AutoTokenizer.from_pretrained(model_name_or_path)
     tokenizer.pad_token_id = 0
     tokenizer.padding_side = "right"
-    l_id = tokenizer(" <<").input_ids[1:]
-    r_id = tokenizer(">>").input_ids[1:]
-    collator = DataCollatorForCompletionOnlyLM(response_template=l_id, instruction_template=r_id, tokenizer=tokenizer)
+    collator = DataCollatorForCompletionOnlyLM(response_template=" <<", instruction_template=">>", tokenizer=tokenizer)
     # 加载数据集
     dataset = load_dataset(eval_dataset_name)
 
