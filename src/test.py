@@ -23,15 +23,15 @@ if __name__ == '__main__':
         config = json.load(f)
 
     model_name_or_path = config.get("model_name_or_path")
-    eval_dataset_name = config.get("eval_dataset")
+    dataset_name = config.get("dataset")
     max_seq_length = config.get("max_seq_length", 32768)  # 默认值为 32768
     output_dir = config.get("output_dir", "results")
     run_tag = config.get("run_tag", "")
-    if not model_name_or_path or not eval_dataset_name:
+    if not model_name_or_path or not dataset_name:
         raise ValueError("Model and eval_dataset must be specified in the config file.")
 
     # 初始化 wandb
-    init_wandb(get_model_name(model_name_or_path), run_tag)
+    # init_wandb(get_model_name(model_name_or_path), run_tag)
 
     task_names = [
         "badham2017deficits",
@@ -84,7 +84,7 @@ if __name__ == '__main__':
     tokenizer.padding_side = "right"
     collator = DataCollatorForCompletionOnlyLM(response_template=" <<", instruction_template=">>", tokenizer=tokenizer)
     # 加载数据集
-    dataset = load_dataset(eval_dataset_name)
+    dataset = load_dataset(dataset_name)
 
     data = []
     total_steps = len(task_names)

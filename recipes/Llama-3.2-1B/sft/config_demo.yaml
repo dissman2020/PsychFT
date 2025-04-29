@@ -1,5 +1,5 @@
 # Model arguments
-model_name_or_path: /data/kankan.lan/modelscope_models/deepseek-ai/DeepSeek-R1-Distill-Qwen-7B
+model_name_or_path: /data/kankan.lan/modelscope_models/LLM-Research/Llama-3.2-1B
 model_revision: main
 torch_dtype: bfloat16
 attn_implementation: flash_attention_2
@@ -29,7 +29,7 @@ packing: false
 max_seq_length: 256
 max_steps: -1
 num_train_epochs: 1
-output_dir: data/Qwen7B-Distill-4096-dc
+output_dir: data/Llama-3.2-1B-256-wd
 overwrite_output_dir: true
 per_device_eval_batch_size: 4
 per_device_train_batch_size: 2
