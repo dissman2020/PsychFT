@@ -64,7 +64,7 @@ def main():
     parser.add_argument("--batch_size", type=int, default=2)
     parser.add_argument("--max_sequence_length", type=int, default=1024)
     parser.add_argument("--top_k", type=int, default=10)
-    parser.add_argument("--output_dir", type=str, default="/data/kankan.lan/repos/psy101/teacher_logits3")
+    parser.add_argument("--output_dir", type=str, default="/data/kankan.lan/repos/psy101/teacher_logits_Centaur-8B")
     args = parser.parse_args()
 
     accelerator = Accelerator()
