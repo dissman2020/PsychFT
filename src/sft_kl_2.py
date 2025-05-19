@@ -3,11 +3,14 @@ import logging
 import sys
 import time
 import numpy as np
+from typing import Optional
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
+from accelerate import Accelerator
 from datasets import load_dataset
 from transformers import AutoTokenizer, set_seed
+from transformers.loss.loss_utils import fixed_cross_entropy
 from transformers.trainer_utils import get_last_checkpoint
 from trl import (
     ModelConfig,
@@ -19,14 +22,18 @@ from trl import (
     DataCollatorForCompletionOnlyLM,
 )
 import wandb
+from utils import get_model_name
 
 LOGITS_DIR = "/data/kankan.lan/repos/psy101/teacher_logits"
-VOCAB_SIZE = 128256 # llama vocab size
+VOCAB_SIZE = 128256  # llama vocab size
 TOP_K = 10
+
+accelerator = Accelerator()
 
 def init_wandb(model_name, method_name):
     current_time = time.strftime('%Y-%m-%d-%H_%M', time.localtime())
     wandb.init(project="Psych", name=f"{method_name}[{model_name}]({current_time})")
+
 
 class CrossEntropyKLDLoss(nn.Module):
     def __init__(self, alpha=0.9, ignore_index=-100, kl_reduction='batchmean'):
@@ -37,25 +44,28 @@ class CrossEntropyKLDLoss(nn.Module):
         self.ignore_index = ignore_index
 
     def forward(self, logits: torch.Tensor,
-                      labels: torch.Tensor,
-                      teacher_logits: torch.Tensor) -> torch.Tensor:
+                labels: torch.Tensor,
+                teacher_logits: torch.Tensor,
+                step: int,
+                num_items_in_batch: Optional[int] = None) -> torch.Tensor:
 
         B, S, V = logits.size()
 
         # 1) Shift logits/labels：在 t-1 时刻预测 x_t
-        shifted_logits = logits[:, :-1, :].contiguous()   # (B, S-1, V)
-        shifted_labels = labels[:, 1:].contiguous()       # (B, S-1)
+        shifted_logits = logits[:, :-1, :].contiguous()  # (B, S-1, V)
+        shifted_labels = labels[:, 1:].contiguous()  # (B, S-1)
 
         # 2) 交叉熵损失：在正确对齐的预测/目标上计算
-        flat_logits = shifted_logits.view(-1, V)          # (B*(S-1), V)
-        flat_labels = shifted_labels.view(-1)             # (B*(S-1))
-        ce_loss = self.ce(flat_logits, flat_labels)
+        flat_logits = shifted_logits.view(-1, V)  # (B*(S-1), V)
+        flat_labels = shifted_labels.view(-1)  # (B*(S-1))
+
+        ce_loss = self._compute_ce_loss(flat_logits, flat_labels, num_items_in_batch)
 
         # 3) KL 散度：只针对那些 labels != ignore_index 的位置
-        mask = flat_labels != self.ignore_index           # (B*(S-1))
+        mask = flat_labels != self.ignore_index  # (B*(S-1))
         if mask.sum() > 0:
             student_log_probs = F.log_softmax(flat_logits[mask], dim=-1)  # (N, V)
-            teacher_probs    = F.softmax(teacher_logits, dim=-1)         # (N, V)
+            teacher_probs = F.softmax(teacher_logits, dim=-1)  # (N, V)
 
             # 若两者行数不一致，则截断到最小行数
             n1 = student_log_probs.size(0)
@@ -63,7 +73,7 @@ class CrossEntropyKLDLoss(nn.Module):
             if n1 != n2:
                 n_min = min(n1, n2)
                 student_log_probs = student_log_probs[:n_min]
-                teacher_probs     = teacher_probs[:n_min]
+                teacher_probs = teacher_probs[:n_min]
 
             kld_loss = self.kld(student_log_probs, teacher_probs)
         else:
@@ -72,9 +82,21 @@ class CrossEntropyKLDLoss(nn.Module):
         total_loss = self.alpha * ce_loss + (1.0 - self.alpha) * kld_loss
         # total_loss = 1 / (self.alpha / ce_loss + (1 - self.alpha) / kld_loss) if kld_loss != 0 else ce_loss
 
-        print(f"[LOSS] CE = {ce_loss.item():.4f}, KL = {kld_loss.item():.4f}, total = {total_loss.item():.4f}")
-
+        self._log_losses(ce_loss, kld_loss, total_loss, step)
         return total_loss
+
+    def _compute_ce_loss(self, logits, labels, num_items_in_batch):
+        return fixed_cross_entropy(logits, labels, num_items_in_batch, self.ignore_index)
+
+    def _log_losses(self, ce_loss, kld_loss, total_loss, step):
+        if accelerator.is_main_process:
+            print(f"[LOSS] CE = {ce_loss.item():.4f}, KL = {kld_loss.item():.4f}, total = {total_loss.item():.4f}")
+            wandb.log({
+                "Step CE Loss": ce_loss.item(),
+                "Step KLD Loss": kld_loss.item(),
+                "Step total Loss": total_loss.item()
+            }, step=step)
+
 
 # 将保存的 logits 恢复为全量 logits
 def restore_full_logits(npz_path, vocab_size, device):
@@ -85,6 +107,7 @@ def restore_full_logits(npz_path, vocab_size, device):
     full = torch.full((N, vocab_size), fill_value=-1e4, dtype=values.dtype, device=device)
     full.scatter_(1, indices, values)
     return full
+
 
 class KLDataCollator:
     def __init__(self, tokenizer, top_k, response_template=" <<", instruction_template=">>"):
@@ -115,25 +138,41 @@ class KLDataCollator:
         batch["teacher_logits"] = torch.cat(teacher_list, dim=0)
         return batch
 
+
 class CustomSFTTrainer(SFTTrainer):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
-        self.loss_fn = CrossEntropyKLDLoss(alpha=0.9)
+        self.loss_fn = CrossEntropyKLDLoss(alpha=0.5)
 
     def compute_loss(self, model, inputs, return_outputs=False, num_items_in_batch=None):
         labels = inputs.pop("labels")
         teacher_logits = inputs.pop("teacher_logits")
         outputs = model(**inputs)
         logits = outputs.logits
-        loss = self.loss_fn.forward(logits, labels, teacher_logits)
+
+        # 计算 num_items_in_batch（有效 token 数）
+        with torch.no_grad():
+            shifted_labels = labels[:, 1:].contiguous().view(-1)
+            mask = shifted_labels != self.loss_fn.ignore_index
+            num_items_in_batch = mask.sum().item()
+
+        loss = self.loss_fn.forward(
+            logits,
+            labels,
+            teacher_logits,
+            self.state.global_step,
+            num_items_in_batch)
 
         return (loss, outputs) if return_outputs else loss
+
 
 def main(script_args, training_args, model_args):
     set_seed(training_args.seed)
     training_args.remove_unused_columns = False  # 阻止Trainer自动剔除idx索引编号
     training_args.max_grad_norm = 1.0
-    init_wandb(os.path.basename(model_args.model_name_or_path), "SFT_KL")
+
+    if accelerator.is_main_process:
+        init_wandb(get_model_name(training_args.output_dir), "")
 
     logging.basicConfig(
         format="%(asctime)s - %(levelname)s - %(name)s - %(message)s",
@@ -154,9 +193,9 @@ def main(script_args, training_args, model_args):
     eval_ds = ds[script_args.dataset_test_split] if training_args.eval_strategy != "no" else None
 
     train_ds = train_ds.map(
-        remove_columns=[c for c in train_ds.column_names if c != "text"])                          # 手动去掉无用信息
-    train_ds = train_ds.map(lambda ex, idx: {**ex, "idx": idx}, with_indices=True)                 # 添加索引
-    train_ds = train_ds.shard(num_shards=training_args.world_size, index=training_args.local_rank) # 切分数据
+        remove_columns=[c for c in train_ds.column_names if c != "text"])  # 手动去掉无用信息
+    train_ds = train_ds.map(lambda ex, idx: {**ex, "idx": idx}, with_indices=True)  # 添加索引
+    # train_ds = train_ds.shard(num_shards=training_args.world_size, index=training_args.local_rank) # 切分数据
 
     if eval_ds:
         eval_ds = eval_ds.map(lambda ex, idx: {**ex, "idx": idx}, with_indices=True)
@@ -166,7 +205,7 @@ def main(script_args, training_args, model_args):
         trust_remote_code=model_args.trust_remote_code,
         use_fast=True,
     )
-    tokenizer.pad_token_id = 128004 #llama pad_id
+    tokenizer.pad_token_id = 128004  # llama pad_id
     tokenizer.padding_side = "right"
 
     collator = KLDataCollator(tokenizer=tokenizer, top_k=TOP_K)
@@ -184,6 +223,7 @@ def main(script_args, training_args, model_args):
 
     trainer.train(resume_from_checkpoint=training_args.resume_from_checkpoint or last_ckpt)
     trainer.save_model(training_args.output_dir)
+
 
 if __name__ == "__main__":
     parser = TrlParser((ScriptArguments, SFTConfig, ModelConfig))

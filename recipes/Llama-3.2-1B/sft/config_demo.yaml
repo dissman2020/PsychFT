@@ -1,0 +1,44 @@
+# Model arguments
+model_name_or_path: /nas_data/kankan.lan/modelscope_models/LLM-Research/Llama-3.2-1B
+model_revision: main
+torch_dtype: bfloat16
+attn_implementation: flash_attention_2
+
+# Data training arguments
+dataset_name: /data/kankan.lan/datasets/marcelbinz/Psych-101-all
+#dataset_config:
+#- all
+#preprocessing_num_workers: 8
+
+# SFT trainer config
+bf16: true
+do_eval: false
+eval_strategy: "no"
+eval_steps: 1000
+gradient_accumulation_steps: 8
+gradient_checkpointing: true
+gradient_checkpointing_kwargs:
+  use_reentrant: false
+dataset_text_field: text
+learning_rate: 2.0e-05
+log_level: info
+logging_steps: 5
+logging_strategy: steps
+lr_scheduler_type: cosine
+packing: false
+max_seq_length: 2048
+max_steps: -1
+num_train_epochs: 1
+output_dir: data/Llama-3.2-1B-CE_KL_2048_05
+overwrite_output_dir: true
+per_device_eval_batch_size: 4
+per_device_train_batch_size: 2
+push_to_hub: false
+report_to:
+- wandb
+save_strategy: steps
+save_steps: 0.05
+save_total_limit: 1
+
+seed: 42
+warmup_ratio: 0.1
