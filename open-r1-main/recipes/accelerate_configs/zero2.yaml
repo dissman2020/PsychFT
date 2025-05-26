@@ -1,0 +1,58 @@
+# compute_environment: LOCAL_MACHINE
+# debug: false
+# deepspeed_config:
+#   deepspeed_multinode_launcher: standard
+#   offload_optimizer_device: none
+#   offload_param_device: none
+#   zero3_init_flag: false
+#   zero_stage: 2
+# distributed_type: DEEPSPEED
+# downcast_bf16: 'no'
+# machine_rank: 0
+# main_training_function: main
+# mixed_precision: bf16
+# num_machines: 1
+# num_processes: 8
+# rdzv_backend: static
+# same_network: true
+# tpu_env: []
+# tpu_use_cluster: false
+# tpu_use_sudo: false
+# use_cpu: false
+
+
+compute_environment: LOCAL_MACHINE
+debug: false
+distributed_type: DEEPSPEED   #启用deepspeed    
+deepspeed_config:
+  zero_stage: 3
+  offload_optimizer_device: cpu
+  offload_param_device: cpu
+  stage3_max_live_parameters: 1e9
+  stage3_prefetch_bucket_size: 1e7
+  stage3_param_persistence_threshold: 1e5
+  zero3_save_16bit_model: true
+downcast_bf16: 'no'
+machine_rank: 0
+main_training_function: main
+mixed_precision: bf16
+num_machines: 1
+
+num_processes: 2                       # 匹配gpu数量=使用的gpu数量-1
+
+rdzv_backend: static
+same_network: true
+tpu_env: []
+tpu_use_cluster: false
+tpu_use_sudo: false
+use_cpu: false
+
+
+
+
+
+
+
+
+
+
