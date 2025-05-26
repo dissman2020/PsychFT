@@ -1,0 +1,81 @@
+# Model arguments
+model_name_or_path: /data/kankan.lan/wx/model/base/Qwen2.5-1.5B-Instruct
+model_revision: main
+torch_dtype: bfloat16
+attn_implementation: flash_attention_2
+
+# # 模型优化参数
+# model_config:
+#   low_cpu_mem_usage: true
+#   use_memory_efficient_attention: true
+
+# Data training arguments
+dataset_name: /data/kankan.lan/wx/dataset/Psych-101-processed
+dataset_configs:
+- default
+system_prompt: "You are a helpful AI Assistant that provides well-reasoned and detailed responses.In the following text, <<*​**>> represents the content that you need to fill in. Carefully observe the entire text and predict what needs to be filled in. Your answer should include all your predictions and follow the format: [answer1, answer2, answer3 ...]"
+
+# GRPO trainer config
+beta: 0.01
+bf16: true
+use_vllm: true
+
+# vLLM配置修正
+use_vllm: true
+vllm_device: auto
+vllm_config:
+  tensor_parallel_size: 3      # 必须等于GPU数量
+  block_size: 8                # 更细粒度内存管理
+  max_parallel_loading_workers: 2
+  enforce_eager: false         # 需要启用图优化
+  max_model_len: 2048          # 硬限制最大长度
+  gpu_memory_utilization: 0.6  # 进一步降低到0.6
+
+do_eval: false
+gradient_accumulation_steps: 4
+gradient_checkpointing: true
+gradient_checkpointing_kwargs:
+  use_reentrant: false
+
+learning_rate: 5.0e-06
+log_completions: true
+log_level: info
+logging_first_step: true
+logging_steps: 1
+logging_strategy: steps
+lr_scheduler_type: cosine_with_min_lr
+lr_scheduler_kwargs:
+  min_lr_rate: 0.1
+max_prompt_length: 1024
+max_completion_length: 2048
+max_steps: 500
+num_generations: 4
+num_train_epochs: 1
+
+output_dir: /data/kankan.lan/wx/model/trained/Qwen2.5-1.5B-Instruct
+overwrite_output_dir: true
+
+per_device_train_batch_size: 4
+
+push_to_hub: false
+
+# WandB 配置
+report_to:
+- wandb
+wandb_project: "Qwen-Finetuning"  # 请修改为你的项目名称
+wandb_run_name: "qwen1.5b-psych101"  # 自定义运行名称
+wandb_log_model: all  # 可选记录模型检查点
+
+# 剩余保持原有配置...
+reward_funcs:
+- hierarchical
+
+reward_weights:
+- 1.0
+
+save_strategy: "steps"
+save_steps: 50
+save_total_limit: 1
+seed: 42
+temperature: 1.0
+warmup_ratio: 0.03
