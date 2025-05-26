@@ -24,11 +24,8 @@ from datasets import load_dataset
 from transformers import set_seed
 from transformers.trainer_utils import get_last_checkpoint
 
-
-
 from open_r1.configs import GRPOConfig
 from open_r1.rewards import (
-    hierarchical_reward,
     accuracy_reward,
     code_reward,
     format_reward,
@@ -37,11 +34,11 @@ from open_r1.rewards import (
     get_repetition_penalty_reward,
     len_reward,
     reasoning_steps_reward,
+    tag_count_reward,
 )
 from open_r1.utils import get_tokenizer
 from open_r1.utils.callbacks import get_callbacks
 from open_r1.utils.wandb_logging import init_wandb_training
-
 from trl import GRPOTrainer, ModelConfig, ScriptArguments, TrlParser, get_peft_config
 
 
@@ -55,7 +52,7 @@ class GRPOScriptArguments(ScriptArguments):
 
     Args:
         reward_funcs (`list[str]`):
-            List of reward functions. Possible values: 'accuracy', 'format', 'format_deepseek', 'reasoning_steps', 'cosine', 'repetition_penalty', 'length'.
+            List of reward functions. Possible values: 'accuracy', 'format', 'reasoning_steps', 'cosine', 'repetition_penalty', 'length', 'tag_count', 'code', 'code_format'.
         cosine_min_value_wrong (`float`):
             Minimum reward for cosine scaling for wrong answers.
         cosine_max_value_wrong (`float`):
@@ -71,9 +68,9 @@ class GRPOScriptArguments(ScriptArguments):
     """
 
     reward_funcs: list[str] = field(
-        default_factory=lambda: ["accuracy", "format"],
+        default_factory=lambda: ["accuracy", "format", "tag_count"],
         metadata={
-            "help": "List of reward functions. Possible values:'hierarchical' 'accuracy', 'format', 'format_deepseek', 'reasoning_steps', 'cosine', 'repetition_penalty', 'length', 'code', 'code_format'"
+            "help": "List of reward functions. Possible values: 'accuracy', 'format', 'reasoning_steps', 'cosine', 'repetition_penalty', 'length', tag_count', 'code', 'code_format'"
         },
     )
     cosine_min_value_wrong: float = field(
@@ -111,9 +108,6 @@ class GRPOScriptArguments(ScriptArguments):
             "choices": ["python", "javascript", "r", "java", "bash"],
         },
     )
-
-
-
 
 
 def main(script_args, training_args, model_args):
@@ -156,8 +150,6 @@ def main(script_args, training_args, model_args):
 
     # Load the dataset
     dataset = load_dataset(script_args.dataset_name, name=script_args.dataset_config)
-    
-
 
     ################
     # Load tokenizer
@@ -166,7 +158,6 @@ def main(script_args, training_args, model_args):
 
     # Get reward functions
     REWARD_FUNCS_REGISTRY = {
-        "hierarchical": hierarchical_reward,
         "accuracy": accuracy_reward,
         "format": format_reward,
         "reasoning_steps": reasoning_steps_reward,
@@ -184,6 +175,7 @@ def main(script_args, training_args, model_args):
         "length": len_reward,
         "code": code_reward,
         "code_format": get_code_format_reward(language=script_args.code_language),
+        "tag_count": tag_count_reward,
     }
     reward_funcs = [REWARD_FUNCS_REGISTRY[func] for func in script_args.reward_funcs]
 
@@ -194,7 +186,7 @@ def main(script_args, training_args, model_args):
         if training_args.system_prompt is not None:
             prompt.append({"role": "system", "content": training_args.system_prompt})
 
-        prompt.append({"role": "user", "content": example["problem_statement"]})  
+        prompt.append({"role": "user", "content": example["problem"]})
         return {"prompt": prompt}
 
     dataset = dataset.map(make_conversation)
@@ -219,20 +211,16 @@ def main(script_args, training_args, model_args):
     #############################
     # Initialize the GRPO trainer
     #############################
-    
-
     trainer = GRPOTrainer(
         model=model_args.model_name_or_path,
         reward_funcs=reward_funcs,
         args=training_args,
         train_dataset=dataset[script_args.dataset_train_split],
-        eval_dataset=dataset[script_args.dataset_test_split] if training_args.eval_strategy != "no" else None, 
+        eval_dataset=dataset[script_args.dataset_test_split] if training_args.eval_strategy != "no" else None,
         peft_config=get_peft_config(model_args),
         callbacks=get_callbacks(training_args, model_args),
         processing_class=tokenizer,
     )
-
-
 
     ###############
     # Training loop
@@ -286,31 +274,7 @@ def main(script_args, training_args, model_args):
         trainer.push_to_hub(**kwargs)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 if __name__ == "__main__":
     parser = TrlParser((GRPOScriptArguments, GRPOConfig, ModelConfig))
     script_args, training_args, model_args = parser.parse_args_and_config()
-    # print(script_args)
-    # print("##########################################################################################################################")
-    # print(training_args)
-    # print("##########################################################################################################################")
-    # print(model_args)
-    main(script_args, training_args, model_args)                                 ##########################################################################################################################
-
-
+    main(script_args, training_args, model_args)
