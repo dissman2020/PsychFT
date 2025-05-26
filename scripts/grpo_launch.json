@@ -1,0 +1,28 @@
+//grpo launch.json
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Launch with Accelerate (Fixed)",
+            "type": "python",  // 必须使用 Python 调试器类型
+            "request": "launch",
+            "program": "/data/kankan.lan/anaconda3/envs/openr1/bin/accelerate",  // 核心修复点：通过 accelerate 因为是anaconda所创建的虚拟环境因此需要accelerate的绝对路径
+            
+            "args": [
+                "launch",  // accelerate 的子命令
+                "--config_file", 
+                "/data/kankan.lan/wx/train/deepseek/open-r1-main/open-r1-main/recipes/accelerate_configs/zero2.yaml",  // 使用变量
+                "--gpu_ids", "0,6,7",        // 指定 GPU 索引（如 0,1,2...）
+                "/data/kankan.lan/wx/train/deepseek/open-r1-main/open-r1-main/src/open_r1/grpo.py",  // 主脚本路径
+                "--config", 
+                "/data/kankan.lan/wx/train/deepseek/open-r1-main/open-r1-main/recipes/Qwen2.5-1.5B-Instruct/grpo/config_demo_code.yaml"  // 主脚本参数
+            ],
+            "env": {
+                "ACCELERATE_LOG_LEVEL": "info"
+            },
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}",  // 标准化工作目录
+            "justMyCode": true  // 调试多进程必须关闭
+        }
+    ]
+}
