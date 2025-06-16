@@ -1,0 +1,31 @@
+compute_environment: LOCAL_MACHINE
+debug: false
+distributed_type: DEEPSPEED   #启用deepspeed    
+deepspeed_config:
+  zero_stage: 3
+  offload_optimizer_device: "cpu"
+  offload_param_device: "cpu"
+  stage3_max_live_parameters: 1e9
+  stage3_prefetch_bucket_size: 5e6  # 降低预取桶大小
+  stage3_param_persistence_threshold: 1e4
+  zero3_save_16bit_model: true
+  zero_quantized_weights: true  # 启用量化权重
+  tensor_parallel_size: 3  # 必须与vLLM并行度一致
+downcast_bf16: 'no'
+machine_rank: 0
+main_training_function: main
+mixed_precision: bf16
+num_machines: 1
+
+num_processes: 2                       # 匹配gpu数量=使用的gpu数量-1
+
+rdzv_backend: static
+same_network: true
+tpu_env: []
+tpu_use_cluster: false
+tpu_use_sudo: false
+use_cpu: false
+
+
+
+
